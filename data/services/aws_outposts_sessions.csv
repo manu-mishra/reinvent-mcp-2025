@@ -1,0 +1,17 @@
+code,title,type
+HMC316,Address digital sovereignty with hybrid and cloud solutions,Chalk talk
+HMC202,AWS wherever you need it: From the cloud to the edge,Breakout session
+HMC301,Build and operate resilient and performant distributed applications,Workshop
+HMC308,Build generative and agentic AI applications on-premises and at the edge,Breakout session
+HMC315,Deep dive on AWS hybrid and edge networking architectures,Chalk talk
+HMC314,Deploying for resilience: HA/DR strategies for AWS Outposts and AWS Local Zones,Chalk talk
+HMC311,Developing end-to-end SLM pipelines from the cloud to the edge,Chalk talk
+HMC310,Digital sovereignty and data residency with AWS,Breakout session
+HMC313,Extend Amazon EKS clusters for on-premises and edge use cases,Chalk talk
+HMC317,Implement Agentic AI at the edge for industrial automation,Code talk
+HMC302,Implementing agentic AI solutions on-premises and at the edge,Workshop
+HMC312,Implement RAG while meeting data residency requirements,Chalk talk
+HMC305,Low-latency SLM deployment: Optimizing inference on AWS Hybrid and Edge services,Workshop
+HMC402,Meet ultra-low latency and high throughput needs with AWS Outposts,Chalk talk
+HMC303,Migrate and modernize VMware and Java workloads with on-premises dependencies,Workshop
+HMC309,Migrating your VMware workloads with on-premises dependencies,Breakout session

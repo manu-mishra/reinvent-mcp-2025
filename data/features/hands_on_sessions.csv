@@ -1,0 +1,406 @@
+code,title,type
+AIM401,Accelerate AI model fine-tuning and deployment with SageMaker HyperPod,Workshop
+API301,Accelerate API Creation with Amazon Q Developer CLI,Builders' session
+OPN301,Accelerate app authorization with the latest Cedar tools ,Builders' session
+SPS308,Accelerate Cloud Modernization & Migration with AWS Countdown Premium,Workshop
+DVT308,Accelerate enterprise development with Amazon Q Developer,Workshop
+CNS301,Accelerate platform engineering on Amazon EKS,Workshop
+NET310,Accelerate your hybrid network with AWS Direct Connect SiteLink,Workshop
+MAM302,Accelerate your migration & modernization journey with EBA Cloud Party,Workshop
+PEX307,Accelerating Cloud Migration with Agentic AI: Hands-on AWS Transform,Builders' session
+COP320,Accelerating Incident Resolution: AI-Driven Root Cause Analysis,Builders' session
+MAM303,Accelerating .NET and SQL Server modernization using agentic AI,Workshop
+SEC401,Active defense strategies using AWS Al/ML services,Workshop
+SEC303,Advanced AWS Network Security : Building Scalable Production Defenses,Workshop
+STG301,Advanced data resiliency: Recovery strategies for AWS storage,Workshop
+AIM402,Advanced model customization with Amazon Nova,Builders' session
+STG401,Advanced S3 performance engineering: From multipart to resilience,Workshop
+NET312,Agent based Network Ops : Amazon Bedrock Agents & Agent Core,Workshop
+IND401,Agentic AI for Vehicle Diagnostics and Root Cause Analysis,Builders' session
+AIM403,Agentic AI: Powering the future of social good ,Workshop
+AIM248-S,Agentic Smart City Showdown: EKS Edge to Cloud Playtime  (sponsored by Intel),Workshop
+IND334,Agent in an hour: Build an agentic app with Strands Agents and MCP,Builders' session
+IND412,Agents for Energy : Accelerate renewable asset planning with agentic workflows,Workshop
+SAS414,Agents meet SaaS operations: A natural fit,Builders' session
+IND407,AI Agents for deploying telco network workloads on AWS: MCP-powered Framework,Builders' session
+IND335,AI-Driven Research: Automating Workflows with AWS HealthOmics,Builders' session
+DAT301,AI powered PostgreSQL: Incident detection & MCP integration,Workshop
+ARC301,AI-powered troubleshooting: From chaos to Well-Architected,Builders' session
+ARC302,AI-powered Well-Architected reviews: Building automated governance,Builders' session
+PEX405,AI That Remembers: Building Memory Systems for AI Agents,Workshop
+AIM404,AI vs AI: Detecting fake content with AI agents,Builders' session
+IND336,Amazon Bedrock AgentCore & MCP for Automated Telecom Service Assurance,Builders' session
+CMP202,Amazon Braket: Get hands-on with quantum computing,Workshop
+STG402,Amazon EKS advanced storage best practices with Amazon FSx for OpenZFS,Builders' session
+IND323,"Amazon Q Apps: Power RCM, Member Engagement, & Drug Safety Management ",Builders' session
+STG302,"Amazon S3 security: Implementing controls, policies & audit systems",Workshop
+WPS302,Amazon SageMaker Unified Studio for Public Sector,Workshop
+DAT316,Analyze blockchain data with Amazon Bedrock AgentCore,Builders' session
+API302,API Gateway Authorization Strategies,Builders' session
+API303,API Gateway Unleashed: A Hands-on Journey to API Excellence,Workshop
+MAM306,Application modernization challenge,Workshop
+NET202,Application networking simplified: From basics to best practices,Workshop
+DAT402,Applied data modeling with Amazon DynamoDB,Builders' session
+NET204,Approaches to layered security on Amazon VPC,Workshop
+CNS302,Architecting for data protection and compliance with Amazon ECS,Builders' session
+STG303,Architecting vector-driven AI applications with Amazon S3 Vectors,Builders' session
+ARC306,Architecture diagrams with generative AI: Leveraging AI agents,Builders' session
+OPN302,AutoGluon: Build Production ML Apps from Zero to Hero,Workshop
+IND338,Automate analysis and extract intelligence from financial datasets,Workshop
+COP403,Automate cloud operations with AI agents,Workshop
+COP303,Automate disaster recovery playbooks using generative AI,Builders' session
+DEV322,Automated Security Remediation with AWS Step Functions,Builders' session
+IND339,Automate Inventory Rebalancing on AWS with Agentic AI,Builders' session
+DVT401,Automate Java application upgrade with generative AI,Workshop
+NTA301,Automate Review Analysis with Nova Act and Generative AI,Builders' session
+MAM330,Automate SAP supply chain exceptions with generative AI,Workshop
+DVT324, Automate your code transformations at scale,Builders' session
+DVT302, Automate your software tasks with agent hooks,Builders' session
+CMP306,Automating and optimizing EC2 Mac instances for Apple development,Workshop
+COP310,Automating compliance and auditing at scale,Workshop
+AIM405,Automating LLM evaluation at scale: MLOps for continuous improvement,Workshop
+IND337,Auto ML Pipeline for Custom Telco Language Models in Amazon Connect,Workshop
+DAT302,Autonomous DBOps: Agentic AI for maintaining databases,Builders' session
+IND340,Autonomous Live-Ops: AI Agents for Dynamic Gaming Experiences,Workshop
+NTA321,AWS Agent for SAP Invoice Automation,Workshop
+COP302,AWS disaster recovery strategies,Builders' session
+SEC403,AWS GameDay - Winning the DDos Game,Workshop
+PEX314,"AWS Marketplace seller workshop: Publish, update, and manage products",Workshop
+CNS402,AWS Serverless developer experience workshop,Workshop
+ARC303,AWS Solutions Library: Accelerating innovation with proven patterns,Workshop
+STG304,Best practices for deploying critical applications with Amazon EBS,Workshop
+API401,Beyond Batch: Modernize with Event-Driven Architecture & Serverless,Builders' session
+CNS305,Bring the power of Amazon EKS to your on-premises applications,Builders' session
+DAT403,Build a collaborative agentic AI solution with Aurora & Bedrock Agents,Workshop
+MAM406,Build agentic AI features for monolithic applications,Builders' session
+DAT406,Build agentic AI–powered search with Amazon Aurora and Amazon RDS,Workshop
+IND310,Build Agentic AI Solutions for Industrial Predictive Maintenance,Workshop
+AIM304,Build agentic observability workflows with models from AWS Marketplace,Builders' session
+AIM302,"Build Agentic Voice Chat with Nova Sonic, AgentCore, MCP, and more",Workshop
+AIM406,Build agentic workflows with Small Language Models and SageMaker AI,Workshop
+PEX316,Build agents & tools for Bedrock AgentCore and sell in AWS Marketplace,Builders' session
+AIM341,Build agents with Amazon Bedrock AgentCore & Strands Agents,Workshop
+IND411,Build AI Commerce Media Agents: Audience Discovery & Campaign Performance,Builders' session
+BIZ322,Build AI-powered Embedded Analytics with Amazon QuickSight,Workshop
+IND342,Build a multi-agent financial research assistant with Amazon Bedrock,Workshop
+DAT404,"Build a multi-Region, active-active rewards app with Aurora DSQL",Workshop
+MAM352,Build an agentic SAP order management solution,Workshop
+ANT401,Build an AI-powered enterprise search with Amazon OpenSearch service,Workshop
+COP406,Build and automate policy as code,Builders' session
+AIM215-S,Build and Deploy AI Agents with Cloudera Agent Studio (sponsored by Cloudera),Workshop
+HMC301,Build and operate resilient and performant distributed applications,Workshop
+ANT402,Build an end-to-end fraud detection system with Amazon SageMaker Unified Studio,Workshop
+STG309,Build an S3 time machine: Implementing advanced point-in-time recovery,Workshop
+MAM353,Build an SAP ABAP application and generate unit test cases with generative AI,Builders' session
+DAT448,Build a stablecoin payment processor using AWS serverless services,Workshop
+DAT405,Build a web-scale application with purpose-built databases & analytics,Workshop
+BIZ204,Build Business Intelligence Solutions Using Amazon QuickSight,Workshop
+SMB401,Build Fast Multi-Agent AI Systems Using Amplify and Bedrock Together,Workshop
+STG305,"Build fast, scalable infrastructure for AI/ML with AWS storage",Workshop
+NTA401,Build First Retail AI Agent: Customer Service Excellence with Amazon Bedrock,Builders' session
+COP404,Build full-stack observability from applications to databases,Workshop
+API304,Build GenAI-Powered Workflows with Step Functions and AWS AI Services,Builders' session
+ANT405,Build high performance Apache Iceberg data lakes with Amazon S3 Tables,Builders' session
+ARC403,Building adaptive AI agents: Enterprise patterns that scale,Workshop
+WPS303,Building a GenAI-Powered Compliance Bot to Secure Networks on AWS,Builders' session
+MAM404,Building agentic AI applications on Amazon Bedrock using C# and .NET,Builders' session
+CNS206,Building Agentic AI architectures with AWS Serverless,Builders' session
+AIM357-S,Building Agentic AI Systems with AWS and Agent Mesh (sponsored by Solace),Workshop
+IND409,Building Agentic Smart home with Generative AI,Workshop
+COP322,Building AI-Powered operational insights and automated remediation,Builders' session
+ARC304,Building and testing resilient multi-AZ applications,Workshop
+SEC407,Building a robust container security  pipeline,Builders' session
+ISV402, Building Customizable AI Agents: A Fast-Track Guide for ISVs,Builders' session
+SEC305,Building enhanced container threat protection for improved security posture,Builders' session
+ANT407,Building event-driven applications with AWS Streaming and Messaging,Builders' session
+API306,Building event-driven architectures,Workshop
+CNS308,"Building GenAI applications with AI Agents that reason, decide and act",Workshop
+ARC201, Building generative AI-powered full-stack applications,Workshop
+AIM308,Building intelligent agentic workflows with Amazon Nova,Builders' session
+IND313,"Building Intelligent Healthcare Systems: FHIR, AI, and AWS HealthLake",Workshop
+CNS202,Building interactive web based applications on Serverless,Builders' session
+AIM309,Building LLMs with Amazon SageMaker HyperPod and AWS Trainium,Workshop
+IND344,Building multi-Region financial transaction systems with Aurora DSQL,Builders' session
+CNS309,Building multi-tenant SaaS applications with Amazon ECS,Workshop
+SPS311,Building operational resilience in workloads using generative AI,Workshop
+ANT403,Building Production-Ready Data Systems for AI Applications,Workshop
+SEC404,Building Quantum-Safe Systems with Post-Quantum Cryptography on AWS,Workshop
+COP408,Building resilient architectures with observability,Workshop
+STG406,Building resilient data protection with Amazon EBS Snapshots,Builders' session
+CNS321,Building resilient deployment pipelines with Amazon ECS,Workshop
+SEC325,"Building Scalable, Secure Secrets Management on AWS",Builders' session
+CNS310,Building secure serverless applications,Workshop
+SMB302,Building Self-Healing IT Systems with Agentic AI,Builders' session
+CNS311,Building serverless AI Agents in Java with Spring AI,Builders' session
+CNS312,Building Serverless applications with Terraform workshop,Workshop
+CNS404,Building Serverless distributed data processing workloads,Workshop
+ARC305,Building Well-Architected solutions: A generative AI approach,Builders' session
+CNS203,Building your first event driven application,Builders' session
+IND319,Build Intelligent Media Workflows with Agentic AI,Workshop
+IND311,Build Media Workflows with Natural Language Using Strands Agents SDK,Builders' session
+ANT404,Build modern data applications with the lakehouse architecture on AWS,Workshop
+AIM324,Build production-ready AI solutions with Claude in Amazon Bedrock,Workshop
+TNC317,Build production-ready Generative AI Applications on AWS,Interactive training
+STG306,Build protection and optimize costs using Amazon EBS Snapshots,Workshop
+STG403,Build ransomware data recovery with AWS Backup logically air-gapped vaults,Workshop
+DVT307,Build real-time applications AWS Amplify,Workshop
+AIM306,Build reliable agents: Real-time insights with AgentCore Observability,Builders' session
+CMP403,"Build, Scale, and Optimize Agentic AI on CPUs with AWS Graviton",Workshop
+IND312,Build Streaming Analytics Dashboards in Minutes with Amazon Q Developer,Builders' session
+ANT406,Build trust in your data with Amazon SageMaker Catalog,Builders' session
+AIM303, Build trustworthy AI applications with Amazon Bedrock Guardrails,Workshop
+IND366,Build ultra-low latency ad workloads with unmatched cost-performance,Workshop
+IND408,Build Virtual Engineering Workbenches for SDV with AWS Marketplace,Workshop
+IND343,Build your own AI-Driven Industrial Automation System with Agentic AI,Builders' session
+STG307,Build your own GenAI app on Amazon EKS with Amazon FSx and accelerated compute,Workshop
+OPN402,"Cache me if you can, Valkey edition",Workshop
+BIZ401,Call the Amazon Q Business ChatSync API from a custom web application,Builders' session
+COP304,Chaos engineering workshop,Workshop
+MAM311,Choose your own modernization adventure: From legacy to cloud-native,Workshop
+CNS405,Cloud-native Java on Amazon EKS,Builders' session
+MAM312,COBOL to cloud: Accelerated refactoring with AWS Transform agentic AI,Workshop
+IND347,Combat financial document fraud with a multi-agent system,Workshop
+AIM312,Compact yet powerful: Exploring model distillation with AWS Trainium,Builders' session
+AIM407,Cost-efficient AI model scaling with Amazon EKS on SageMaker HyperPod,Workshop
+BIZ302,Create advanced self-service experiences with Amazon Connect,Workshop
+TNC316,Create an AWS DevOps AI Agent with the Strands Agents SDK,Interactive training
+DAT407,Create an intelligent banking agent using Aurora DSQL & MCP,Builders' session
+DVT309," Create secure, production-ready code with Amazon Q Developer",Workshop
+DVT403,Create your own AI sidekick: a hands-on agent building workshop,Workshop
+SAS402,Creating multi-tenant data lakehouses for agentic SaaS environments,Workshop
+PEX313,Customize Amazon Nova models for Agentic AI with SageMaker & Bedrock ,Workshop
+ANT408,Data analytics for financial organizations with Amazon SageMaker ,Builders' session
+SEC306,Data perimeter challenge,Builders' session
+AIM315,Debug LLM bottlenecks with NVIDIA Nsight,Workshop
+API201,Decoupling your data-driven applications with Amazon EventBridge Pipes,Builders' session
+TNC318,Deploy Agentic AI Application with Strands and MCP on Amazon EKS,Interactive training
+API324-S,Deploy and Fine-Tune Nemotron Models on AWS SageMaker and Bedrock: Hands-On Lab (sponsored by NVIDIA),Workshop
+CMP318,Deploy and use an open source Digital Asset Management platform,Builders' session
+DVT304,Deploy infrastructure with speed and safety using AWS CloudFormation,Workshop
+PEX401,Deploying Intelligent Agent Systems with MCP,Builders' session
+CNS314,Deploy multi-agent AI on Amazon EKS,Builders' session
+SEC307,"Design authentication, authorization, and logging logic in Agentic AI apps",Workshop
+AIM408,Detect and mitigating hallucinations: A hands-on responsible AI workshop,Workshop
+TNC315,Develop AI Agents and Flow Apps on Amazon SageMaker Unified Studio,Interactive training
+DVT305, Develop AWS CDK resources to deploy your applications on AWS,Workshop
+COP306,Developing Unit Cost Metrics with Cloud Intelligence Dashboards,Builders' session
+IND314,DevOps Meets Broadcast: Build Your Own Multi-Camera Broadcast Solution,Workshop
+AIM409,Distributed training at scale with Slurm on Amazon SageMaker HyperPod,Workshop
+NET207,DNS unleashed: Unlocking the full potential of Amazon Route 53,Builders' session
+IND353, Documents to decisions: AI-powered underwriting with Amazon Bedrock,Builders' session
+MAM405,Easily port .NET applications to Linux with AWS Transform for .NET,Workshop
+AIM410,Efficient AI model customization for agentic workflows,Builders' session
+ISV401,Elevate Multi-Tenant SaaS Operations: DevOps Strategy with Kubernetes,Builders' session
+IND406,Embedded Software Development in the Agentic AI Era,Builders' session
+DVT303, Empower development teams with AI-driven automation,Builders' session
+TNC313,Enhance and Scale Agents with Amazon Bedrock AgentCore,Interactive training
+MAM407,Enhance legacy applications with modern gen AI features,Workshop
+CNS317,Enhance your Amazon EKS development workflow with MCP,Builders' session
+WPS401,Enhancing public sector efficiency with Agentic AI,Workshop
+AIM317,Enterprise AI applications with Amazon Nova understanding models,Workshop
+COP308,Establish a secure AWS foundation with AWS Control Tower,Workshop
+AIM329,Evaluating the right model for video intelligence,Workshop
+AIM301,Expand Agent Capabilities with AgentCore Gateway and Tools,Workshop
+EUC201,Expand Amazon WorkSpaces monitoring capabilities with Amazon Bedrock,Workshop
+TNC312,Explore Advanced features of Amazon Aurora PostgreSQL,Interactive training
+CMP408,Exploring hybrid quantum-classical computing with Amazon Braket,Workshop
+COP410,Exploring Multi-tenant Cost Allocation for Container Workloads,Workshop
+MAM316,Fast-track your VMware to AWS migration with AWS Transform,Workshop
+AIM318,Fine-tune Hugging Face LLMs on AWS Trainium with Amazon Sagemaker,Builders' session
+IND306,From Bytes to Bench: Best practices for life science research agents,Workshop
+SEC324,From code to cloud: enhancing visibility across the SDLC with AWS,Workshop
+ARC307,From downtime to uptime: Mastering application recovery on AWS,Workshop
+CNS406,From serverful to serverless Java,Workshop
+MAM318,From vibe coding to vibe modernizing with AWS AI services,Builders' session
+MAM322,From VSAM to DynamoDB: Reimagining mainframe data for the cloud,Builders' session
+SAS401,From Zero to SaaS: When Vibe Coding Meets Production,Builders' session
+MAM319,Full-stack SQL Server modernization on AWS,Builders' session
+CNS201,Fundamentals to scale Kubernetes across your organization,Workshop
+STG308,Gaining insights from your data lake with Amazon S3 Metadata,Builders' session
+DVT402, Game on: build a retro adventure game in 120 minutes,Workshop
+DAT408,Geo-fencing & real-time geospatial alerts with ElastiCache Valkey,Builders' session
+ANT409,Getting hands on with zero-ETL and data federation,Builders' session
+CNS318,Getting started with Serverless using AI assistance,Workshop
+BIZ306,Governance and administrative controls with Amazon Q Business,Workshop
+CNS319,Handle scaling with AWS Lambda,Builders' session
+NET301,Hands-on AWS WAF: Troubleshooting attack scenarios,Builders' session
+SAS403,Hands-on multi-tenant agents: Inside tenant-aware agentic systems,Workshop
+CMP406,HPC infrastructure for Financial Services using AWS Batch and AWS CDK,Builders' session
+CMP206,HPC Made Easy: AWS PCS for AI & Scientific Computing,Workshop
+CMP323,HPC Sustainability by Design: Optimizing for Planet and Performance,Workshop
+NET329,Human Meets Microservice: Zero Trust with AWS Networking Services,Builders' session
+NTA302,IAM Analytics: Automate & Visualize,Workshop
+CNS320,I didn't know AWS SAM could do that,Builders' session
+DAT409,Implement hybrid search with Aurora PostgreSQL for MCP retrieval,Builders' session
+SEC405,Implementing Advanced Data Protection Controls,Workshop
+HMC302,Implementing agentic AI solutions on-premises and at the edge,Workshop
+MAM351,Implement Low-code Agentic Finance Analytics for SAP,Workshop
+TNC206,Implement Modern Data Architectures with Amazon SageMaker Lakehouse,Interactive training
+IND404,Improve Manufacturing Production Planning with Amazon SageMaker,Workshop
+AIM313,Improving multimedia analytics with customized Amazon Nova models,Builders' session
+STG310,Increase your database agility with Amazon FSx,Workshop
+AIM320,Inference on AWS Trainium and Amazon EKS using vLLM,Workshop
+CMP328,Infrastructure Automation with Amazon Q CLI and EC2 Image Builder,Builders' session
+ANT410,Integrate and orchestrate data workflows with AWS Glue & managed Apache Airflow,Builders' session
+STG311,Integrate serverless applications with AWS storage services,Workshop
+COP411,Intelligent automation for managing cloud governance and compliance,Builders' session
+SPS304,Intelligently automating cloud operations,Workshop
+SPS303,Intelligent Operations: AI driven Modernization and Incident Response,Workshop
+PEX315,Intelligent Security Operations with AWS: AI-Powered Incident Response,Workshop
+OPN306,"Inter-Agent Systems with Strands Agents, Amazon Bedrock, MCP, and A2A",Builders' session
+CMP326,Java Modernization and Performance Optimization GameDay,Workshop
+CNS204,Kubernetes simplified: Get hands-on with Amazon EKS Auto Mode,Workshop
+NTA303,Landing Zone: Deploy Smarter with AI,Builders' session
+CNS323,Learn multi-tier application architectures on Amazon ECS,Workshop
+DVT201, Learn new development skills with Kiro,Builders' session
+IND355,Level Up Your Asset Pipeline: AI-Powered 3D Model Generation at Scale,Builders' session
+OPN404,Level Up Your Serverless: The Powertools for AWS Lambda Workshop,Workshop
+CMP330,Leverage Auto Scaling to proactively scale and optimize EC2 workloads,Workshop
+AIM319,LLMOps with Amazon SageMaker AI: Fine-tune and deploy an LLM for ESG,Builders' session
+ANT411,Low-cost logging and observability with Amazon OpenSearch Service,Workshop
+HMC305,Low-latency SLM deployment: Optimizing inference on AWS Hybrid and Edge services,Workshop
+CNS325,Master distributed transactions: Orchestration with AWS Step Functions,Builders' session
+AIM321,Mastering agent authentication: Hands-on with AgentCore Identity,Builders' session
+CMP332,Mastering EC2 Image Builder: From Basics to Advanced Techniques,Builders' session
+OPN405,Mastering Fluent-bit: Performance at Scale,Workshop
+AIM412,Mastering foundation model customization with Amazon SageMaker AI,Workshop
+NTA402,Mastering VMware to EC2 Migration,Workshop
+CNS407,Master KRMOps: Declarative resource management with Amazon EKS and kro,Builders' session
+AIM245-S,Memory Design for AI Agents (sponsored by MongoDB),Workshop
+HMC303,Migrate and modernize VMware and Java workloads with on-premises dependencies,Workshop
+AIM322,Model governance at scale with SageMaker AI,Workshop
+STG404,Modern batch analytics: Building advanced pipelines with S3 Tables,Workshop
+MAM324,Modernize AD integrations with AWS Managed Microsoft AD Hybrid Edition,Workshop
+DVT306, Modernize CI/CD with GitHub and AWS CodePipeline,Workshop
+CNS326,Modernize .NET Framework workloads with containers and AWS Transform,Workshop
+BIZ308,Modernize your contact center agent workspace with Amazon Connect,Workshop
+CNS408,Modernizing monoliths: The path to architectural freedom,Builders' session
+MAM328,Monolith to microservices with AWS Modernization pathways,Workshop
+MAM408,Move and improve at scale using AWS Transform,Workshop
+STG312,Moving data to Amazon S3 to enable Amazon Bedrock gen AI workflows,Workshop
+SMB308,Multi-Agent Data Pipelines: Shaping the Future of Analytics,Builders' session
+AIM413,Multi-agent financial fraud detection with Amazon Nova Models,Workshop
+SMB402,"Multi-Agent Systems: Build, Evaluate, Observe with Strands Agents",Builders' session
+NTA305,Multilingual Contact Center with Amazon Connect,Workshop
+PEX311,Multimodal Video Understanding AI at Scale with Amazon Bedrock,Workshop
+STG408,Multi-protocol data access in FSx for NetApp ONTAP scale-out file systems,Workshop
+ISV305,Multi-Tenant AI Cost Control,Workshop
+NTA304,Multi-Tenant ETL: Consolidate SaaS Data,Builders' session
+SAS404,Next-gen agentic SaaS: Transforming to an agent-powered experience,Workshop
+AIM323,Next-gen AI: Scaling distributed GPU inference with NVIDIA on AWS,Builders' session
+NTA306,Next-Gen Logistics with GenAI,Workshop
+WPS314,Next-Gen SOC: Agentic SOC analyst with Amazon Bedrock,Workshop
+NTA307,NLP to SQL: Data Access with Amazon Nova,Builders' session
+COP412,Observability: The open source way,Workshop
+STG405,Onboarding and optimizing AI/ML workloads with Amazon S3 & Amazon EKS,Workshop
+CNS410,Optimize analytics workloads on Amazon EKS for performance and cost,Workshop
+STG313,Optimize AWS Backup using AI evaluation and Well-Architected best practices,Builders' session
+BIZ403,Optimize contact center deployment with change management strategies,Builders' session
+BIZ310,Optimize contact center staffing using AI-powered assistants,Workshop
+BIZ311,Optimize customer conversations in your IVR with Amazon Connect,Workshop
+SPS305,Optimize mission critical workloads with CloudWatch MCP & Amazon Q CLI,Workshop
+CMP335,Optimize .NET Price-Performance with Graviton using AWS Transform,Workshop
+AIM311,"Optimize open weight models for low-latency, cost-effective AI apps",Builders' session
+EUC302,Optimize user productivity with Amazon Bedrock and Amazon WorkSpaces ,Builders' session
+CNS306,Optimizing compute for performance and scale with Amazon ECS,Builders' session
+CMP337,Optimizing EC2: Hands-On Strategies for Cost-Effective Performance,Workshop
+COP413,Optimizing GenAI performance with Amazon CloudWatch,Builders' session
+ARC401,Orchestration meets choreography: Building event-driven architectures,Builders' session
+CNS328,Paper to production: Hosting LLMs on Amazon EKS using NVIDIA GPUs,Workshop
+OPN407,Performance tuning for streaming Ingestion into Apache Iceberg,Builders' session
+DAT415,Perform vector search on your Amazon DynamoDB data using zero-ETL,Workshop
+EUC301,Plan a flawless migration to Amazon WorkSpaces using Amazon Q,Builders' session
+MAM331,Platform engineering: How to build a developer platform on Amazon EKS,Workshop
+ANT412,Power streaming analytics on AWS with AI-driven insights,Workshop
+IND3309,Privacy-enhanced multi-party analytics with AWS Clean Rooms: Setup to insights,Workshop
+CMP338,Protect privacy in GenAI applications using AWS Confidential computing,Workshop
+AIM316,Rapidly build and scale real-world AI agents with AgentCore & Strands,Workshop
+ARC308,Rapid prototyping: Leveraging Kiro and Amazon Q Developer CLI,Workshop
+API308,Real-time for the real world with AWS AppSync Events,Builders' session
+SEC406,Red teaming your generative AI and MCP applications at scale,Workshop
+DVT301, Reduce development cycles with Amazon Q Developer and GitHub,Builders' session
+MAM341,Reimagine your mainframe applications using AWS Transform's AI agent,Workshop
+EUC202,Remove bottlenecks with an intelligent Amazon WorkSpaces dashboard,Workshop
+DAT411,Revolutionize customer care with data-driven generative AI,Builders' session
+BIZ402,Revolutionizing multimodal data search with Amazon Q Business,Workshop
+SPS301,Robo-Reviewer: Building AI Video Evaluators with Bedrock,Workshop
+CNS322,Running compute efficient workloads on Amazon EKS Auto Mode,Workshop
+SAS302,SaaS Anywhere meets GenAI: Building distributed AI multi-tenant environments,Workshop
+NTA309,Sandbox Magic: No Spells Required,Workshop
+MAM333,SAP analytics modernization: Zero ETL to AI-driven insights with AWS,Workshop
+COP314,Scale & automate patching with AI-powered visualization,Workshop
+ANT414,Scale intelligent analytics with Amazon Redshift multi-cluster architectures,Workshop
+MAM335,Scale VMware migrations with Cloud Migration Factory & AWS Transform,Workshop
+ARC402,Scaling multi-tenant SaaS: Cell-based architecture patterns,Workshop
+ARC311,Scaling observability with generative AI: Building automated patterns,Builders' session
+NTA308,Seamlessly Connect On-Premises to AWS,Builders' session
+SEC312,Secure and build apps in minutes with Amazon Verified Permissions,Builders' session
+CMP410,Secure Generative AI using trusted execution environments,Builders' session
+ANT415,Securely monetize your data with Amazon Redshift,Builders' session
+NET206,Secure your cloud networks with Amazon VPC Block Public Access,Builders' session
+CNS330,Securing Amazon ECS workloads with application-aware networking,Workshop
+BIZ315,Securing Amazon Q Business applications with APIs,Workshop
+CNS331,Securing and observing Amazon EKS clusters,Builders' session
+SEC314,Securing Data Lakes: From Ingestion to AI Analysis,Builders' session
+COP315,Securing your network perimeter through observability,Workshop
+SEC315,Security posture and exposure management using AWS security services,Workshop
+CNS333,Serverless data processing with AWS Lambda and Apache Kafka,Builders' session
+API309,Serverlesspresso: Build an event-driven application from the ground up,Workshop
+EUC203,Simplify Amazon WorkSpaces management through automation,Builders' session
+ANT417,Simplifying data interoperability with the lakehouse architecture on AWS,Workshop
+NET305,Simplifying Multi-Tenant SaaS Delivery with CloudFront,Workshop
+COP316,Simplifying security and operations through smart resource tracking,Builders' session
+DEV321,Simplify serverless testing using Amazon Q Developer,Builders' session
+ISV301,Simplify Tenant Authorization with Cedar and Amazon Verified Permissions,Builders' session
+AIM415,Smart agents meet documents: Building next-gen IDP architectures,Workshop
+WPS309,"Smart Alerts, Smarter Workflows: The Amazon Connect Edge",Builders' session
+IND325,Smart Clinical Documentation: Kiro & AWS HealthScribe,Builders' session
+AIM314,"Smarter Agents, Better Insights: Contextual Memory in Action",Workshop
+SMB306,"Smart Security for SMBs: Combining AWS Tools, MCP, and AI",Builders' session
+ANT416,Solve complex data and AI governance challenges with Amazon SageMaker Catalog,Workshop
+DAT416,SQL Server migration & modernization powered by generative AI,Workshop
+IND363,Stream 3D applications globally with Amazon GameLift Streams,Workshop
+AIM411,Streamline agent development using Amazon SageMaker AI with MLflow 3.0,Workshop
+BIZ316,Streamline Amazon Connect management with agentic AI-powered controls,Workshop
+BIZ404,Streamline secure customer authentication with Amazon Connect,Builders' session
+MAM336,Streamline web app deployment with gen AI and AWS Elastic Beanstalk,Workshop
+SEC318,Strengthen your network security with generative AI,Builders' session
+TNC314,Structured Approach to AI coding with Spec-Driven Development on Kiro,Interactive training
+CNS334,Supercharge Lambda functions for security and performance,Builders' session
+CNS335,Supercharge Serverless APIs with Powertools for AWS Lambda,Workshop
+SAS303,Supercharge your SaaS with agentic insights,Builders' session
+AIM326,Talk with your data: Approaches to natural language query for nonprofits,Builders' session
+CNS336,Telemetry forensics: Debugging event systems with metrics & traces,Builders' session
+DVT318, Test your web and mobile applications with AWS Device Farm,Workshop
+SEC320,The AWS Security Incident Response Challenge: Defend the Cake!,Workshop
+ARC309,The Frugal Architect GameDay: Building cost-aware architectures,Workshop
+DVT317,The Kiro coding challenge,Workshop
+API310,The Step Functions Workshop,Workshop
+COP319,Transform cloud monitoring into natural conversations,Builders' session
+BIZ318,Transform data into insights with AI-powered Amazon Connect,Workshop
+IND364,Transforming Service Operations with IoT and Gen AI,Builders' session
+AIM327,Transform multimodal data with Amazon Bedrock Data automation,Builders' session
+SPS307,Troubleshooting in the cloud with Amazon Q,Workshop
+PEX312,Trust and Transparency: Implementing Scalable Data Lineage for AI/ML,Workshop
+WPS310,"Unifying Educational Content Analysis with Bedrock, Agents & Nova",Builders' session
+ANT418,Unleash Apache Kafka's elasticity and cost-efficiency with Amazon MSK,Workshop
+AIM3320,Unlock carbon & cost insights: Optimize spend and drive sustainability,Workshop
+DAT417,Unlock intelligent AI with MCP powered agentic Neptune graph reasoning,Workshop
+BIZ320,Unlock intelligent generative AI-powered email with Amazon Connect,Workshop
+DVT404,Unlock interoperability: Build your first MCP server,Workshop
+CNS338,Unlock productivity: tools and techniques for developers,Builders' session
+DAT418,Use Amazon DynamoDB to enhance agentic AI workflows,Builders' session
+DAT419,Use GraphRAG with Amazon Neptune to improve generative AI applications,Builders' session
+STG315,Use your FSx file data to build custom gen AI apps,Builders' session
+CMP348,Using Amazon Q to Cost Optimize Your Containerized Workloads,Workshop
+ANT419,Vector search with Amazon OpenSearch Service,Builders' session
+CNS339,Vibe coding production-ready containerized applications,Builders' session
+DAT421,Vibe data modeling with Amazon DynamoDB,Builders' session
+AIM202,Vibin' with Claude,Builders' session
+EUC204,Visualize and optimize spend using Amazon WorkSpaces dashboards,Builders' session
+MAM338,"VMware to AWS modernization blueprint: Migrate, containerize, scale",Workshop
+NET306,Winning the DDoS Battle with AWS WAF,Workshop
+NET308,Write Deploy and Monitor CloudFront Functions & Key Value Store,Builders' session
+CNS340,Write less code: Building applications with a serverless mindset,Builders' session
+AIM325,Zero to launch: Deploy AI agents with AgentCore Runtime and Identity,Workshop
+IND332,Zero-Training Visual Defect Detection Using Amazon Nova,Workshop

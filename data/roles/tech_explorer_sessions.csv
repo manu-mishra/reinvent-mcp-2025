@@ -1,0 +1,43 @@
+code,title,type
+IND304,Agentic video summarization for autonomous content creation at scale,Chalk talk
+DEV335,AgentVision: Multi-Agent Frameworks for Esports Video Understanding,Chalk talk
+DEV301,"AI agents at the edge: Build for offline, scale in cloud",Breakout session
+DEV305,Architecting Real-time Sign Language Systems with AI Agents,Chalk talk
+IND339,Automate Inventory Rebalancing on AWS with Agentic AI,Builders' session
+CMP309,Beyond the Console: Building Powerful AWS Operational Dashboards,Chalk talk
+DEV306,Build AI Agents in Java with Spring AI,Chalk talk
+DEV330,Build a multi-agent role-playing Game Master with Strands Agents,Code talk
+DEV331,Build and deploy AI agents using Kiro and Amazon Bedrock AgentCore,Code talk
+DAT448,Build a stablecoin payment processor using AWS serverless services,Workshop
+SMB401,Build Fast Multi-Agent AI Systems Using Amplify and Bedrock Together,Workshop
+DEV327,Building Agentic AI: Amazon Nova Act and Strands Agents in Practice,Breakout session
+DEV302,Building .NET AI Applications with Semantic Kernel and Amazon Bedrock,Code talk
+CNS424,Building resilient Serverless applications with chaos engineering,Chalk talk
+DEV415,"Building Scalable, Self-Orchestrating AI Workflows with A2A and MCP",Breakout session
+DEV332,Build multi-modal AI agents with Strands Agents and Amazon S3 Vectors,Code talk
+DEV310,Build real-time full-stack Generative AI applications,Code talk
+DEV405,Compile blazing-fast MCP servers in Rust,Code talk
+SAS402,Creating multi-tenant data lakehouses for agentic SaaS environments,Workshop
+SPS302,Democratize Data: Bundesliga Real-time Insights Without Writing any SQL,Chalk talk
+DEV316,Designing local Generative AI inference with AWS IoT Greengrass,Breakout session
+DEV334,From Hours to Minutes: Crafting Bite-Sized Video Stories with AWS,Chalk talk
+WPS402,From manual to AI: Transforming Brazil's national exam at scale,Chalk talk
+AIM294-S,From Punch Cards to Pair Programming and Beyond: The Future of Copilot (sponsored by GitHub),Breakout session
+SAS401,From Zero to SaaS: When Vibe Coding Meets Production,Builders' session
+CMP321,GenAI Storyboarding: From Sketch to 3D Scene with GenAI on AWS,Chalk talk
+SAS403,Hands-on multi-tenant agents: Inside tenant-aware agentic systems,Workshop
+AIM241-S,Healthcare Transformed: Reimagining the Future with Generative AI (sponsored by PwC),Breakout session
+SAS405,Integration patterns for multi-tenant systems,Breakout session
+DEV404,I Put an Agent in a Biscuit,Breakout session
+SAS404,Next-gen agentic SaaS: Transforming to an agent-powered experience,Workshop
+CMP411,Quantum Computing with Amazon Braket: From Exploration to Enterprise,Breakout session
+DEV321,Simplify serverless testing using Amazon Q Developer,Builders' session
+IND326,Smart Machines: Maximizing Business Value with Generative AI,Chalk talk
+DEV309,Start building with Q Developer CLI: Serverless full-stack in action,Code talk
+IND363,Stream 3D applications globally with Amazon GameLift Streams,Workshop
+DEV416,Swift for AI: Developing Agents and MCP-Compatible Tools,Chalk talk
+AIM228-S,The Future of Software Craft in the Age of AI (sponsored by Snyk),Breakout session
+IND328,Transforming Additive Manufacturing with Agentic AI,Chalk talk
+SAS304,Transforming from SaaS to multi-tenant agentic SaaS,Breakout session
+DEV307,Unleash Rust's potential on AWS,Breakout session
+SPS313,Volkswagen Group's custom GenAI models for global brand consistency,Breakout session

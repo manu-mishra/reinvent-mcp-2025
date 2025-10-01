@@ -1,0 +1,37 @@
+code,title,type
+NET317,A day in the life of an AWS WAF administrator ,Breakout session
+IND304,Agentic video summarization for autonomous content creation at scale,Chalk talk
+IND397,AI-Powered Content Compliance: Media Rating Automation with Nova,Chalk talk
+AMZ308,Amazon's finops: Cloud cost lessons from a global e-commerce giant,Lightning talk
+AIM296-S,A practical guide to modern web architecture  (sponsored by Contentful),Lightning talk
+NTA301,Automate Review Analysis with Nova Act and Generative AI,Builders' session
+IND411,Build AI Commerce Media Agents: Audience Discovery & Campaign Performance,Builders' session
+IND312,Build Streaming Analytics Dashboards in Minutes with Amazon Q Developer,Builders' session
+IND366,Build ultra-low latency ad workloads with unmatched cost-performance,Workshop
+AIM386,Customize foundation models using Amazon SageMaker AI,Chalk talk
+AIM329,Evaluating the right model for video intelligence,Workshop
+IND399,From Print to AI: The Economist's Digital Evolution with AWS Architecture,Lightning talk
+AIM373,From prompt to production: On-brand marketing images with Amazon Nova,Breakout session
+NET318,From threat to threat intel: 360 degrees of DDOS,Breakout session
+IND381,How Amazon Ads uses AWS to democratize ad creation,Lightning talk
+DAT201-S,How SAS and Freshworks Power Real-Time Personalization at Extreme Scale  (sponsored by ScyllaDB),Breakout session
+AIM313,Improving multimedia analytics with customized Amazon Nova models,Builders' session
+IND355,Level Up Your Asset Pipeline: AI-Powered 3D Model Generation at Scale,Builders' session
+NET322,Level Up Your Bot Defense for Mobile Apps with AWS WAF SDK,Chalk talk
+AIM378,Leverage your own IP to enhance creative control,Chalk talk
+NET324,Managing Bots vs Humans with CloudFront and AWS WAF,Code talk
+NET321,Measure what matters: Web & API optimization with Amazon CloudFront,Chalk talk
+IND357,Multi-agent collaboration for optimized advertising performance,Chalk talk
+PEX311,Multimodal Video Understanding AI at Scale with Amazon Bedrock,Workshop
+NET320,Origin management for multi-region applications with Amazon CloudFront,Chalk talk
+IND360,Privacy-enhanced ML and GenAI for AdTechs with AWS Clean Rooms,Chalk talk
+IND3309,Privacy-enhanced multi-party analytics with AWS Clean Rooms: Setup to insights,Workshop
+AIM204-S,Reimagining software with Bedrock agent powered middlewares (sponsored by Cybage Software),Lightning talk
+IND379,Run real-time advertising workloads with unmatched cost-performance on AWS,Breakout session
+NET316,Scaling Multi-Tenant SaaS Delivery with Amazon CloudFront,Breakout session
+AIM389,Seamless and scalable creative and product visual generation,Chalk talk
+NTA308,Seamlessly Connect On-Premises to AWS,Builders' session
+NET211,"State of the Edge:  Delivery of the web with CloudFront, WAF, and Shield",Breakout session
+IND380,The Trade Desk optimizes media buying and ad experiences with AI on AWS,Breakout session
+SPS313,Volkswagen Group's custom GenAI models for global brand consistency,Breakout session
+DAT203-S,What Database Would Your AI Agents Choose -  Escape the Frankenstack (sponsored by SingleStore),Lightning talk

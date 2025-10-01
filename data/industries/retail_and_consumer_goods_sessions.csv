@@ -1,0 +1,60 @@
+code,title,type
+NTA403,Advanced RAG Architectures: From Basic Retrieval to Agentic RAG,Code talk
+AIM274-S,AI-First Contact Centers: Reinventing Scale with AWS and Partners (sponsored by PwC),Breakout session
+AMZ308,Amazon's finops: Cloud cost lessons from a global e-commerce giant,Lightning talk
+AIM335,Architecting circular systems with generative AI on AWS,Chalk talk
+IND307,Architecting Intelligent Supply Chains with Multi-Agent Orchestration,Chalk talk
+IND384,Automate insights and drive innovation with cloud and AI solutions,Breakout session
+PEX305,Automotive Supply Chain Optimization using AI,Breakout session
+COP209-S,"Best Practices for moving, innovating & extending SAP Cloud ERP (sponsored by SAP)",Breakout session
+IND385,Build AI agents: A scalable framework using Strands and Amazon Bedrock AgentCore,Chalk talk
+IND411,Build AI Commerce Media Agents: Audience Discovery & Campaign Performance,Builders' session
+AIM371,"Build, fine-tune & deploy AI models with SageMaker HyperPod CLI & SDK",Code talk
+NTA317,Build GenAI Apps with Anywhere Data,Chalk talk
+NTA405,"Building AI Agents with Serverless, Strands, and MCP",Code talk
+AIM256,Building an AI-powered waste classification using Amazon Nova & IoT,Lightning talk
+AMZ305,Building and managing conversational AI at scale: lessons from Alexa+,Breakout session
+AIM280-S,Building Enterprise-Ready Agentic Speech AI Pipelines on AWS (sponsored by NVIDIA),Breakout session
+AIM259-S,Closing the gap between speed and safety: shipping faster at scale (sponsored by LaunchDarkly),Breakout session
+NTA201,Cloud Foundations Accelerator,Chalk talk
+IND331,Democratizing Whirlpool's Virtual Product Development with AWS,Breakout session
+IND3307,Drive Supply Chain Innovation Using AWS Cloud and AI Solutions,Breakout session
+AMZ402,Evaluating AI agents: real-world lessons from Amazon's agent systems,Chalk talk
+AIM114-S,Exploring dual pathways to agentic commerce with AWS and Stripe (sponsored by Stripe),Lightning talk
+BIZ209-S,From Data Chaos to AI Magic: Supercharging Customer Experience (sponsored by Treasure Data),Lightning talk
+ANT202-S,From Kitchen to Cloud: How Brinker Dishes Out Data-Driven Success (sponsored by Teradata),Lightning talk
+IND386,From UX to AX: MCP Servers for AI Shopping Agents,Lightning talk
+COP207-S,How AI is rewriting the contact center play book (sponsored by Zendesk),Lightning talk
+IND381,How Amazon Ads uses AWS to democratize ad creation,Lightning talk
+AMZ403,How Amazon is migrating 1000’s of applications to new AWS regions,Chalk talk
+AIM238-S,How Samsung Uses AI Agents to Optimize Infrastructure at Scale  (sponsored by Cast AI),Lightning talk
+NTA302,IAM Analytics: Automate & Visualize,Workshop
+NTA318,Iceland.co.uk: Boosting sales with hyper-personalized recommendations ,Breakout session
+AIM379,Integrating virtual try-on into your ecommerce platforms,Chalk talk
+AIM358-S,Intelligent vs. Knowledgeable Models through the Lens of Data (sponsored by Bright Data),Lightning talk
+NTA303,Landing Zone: Deploy Smarter with AI,Builders' session
+SPS401,Manchester Airports Group: Scaling operations with Agentic AI & MCP,Breakout session
+NTA402,Mastering VMware to EC2 Migration,Workshop
+NET321,Measure what matters: Web & API optimization with Amazon CloudFront,Chalk talk
+NTA311,Modernizing Document Processing,Chalk talk
+IND357,Multi-agent collaboration for optimized advertising performance,Chalk talk
+NTA305,Multilingual Contact Center with Amazon Connect,Workshop
+NTA306,Next-Gen Logistics with GenAI,Workshop
+NTA307,NLP to SQL: Data Access with Amazon Nova,Builders' session
+NTA406,Observability for Reliable Agentic AI with Strands SDK & OpenTelemetry,Code talk
+NET320,Origin management for multi-region applications with Amazon CloudFront,Chalk talk
+BIZ213,Petco unlocks agentic AI-powered customer service with Amazon Connect,Breakout session
+IND383,Rapidly accelerate product development and launches with AI,Breakout session
+HMC204-S,"Reinventing the Retail Edge with YUM! Brands, AWS & Spectro Cloud (sponsored by Spectro Cloud)",Lightning talk
+AMZ404,Revolutionize shopping: Inside Amazon's AI-powered 'Buy for Me' experience,Chalk talk
+NTA309,Sandbox Magic: No Spells Required,Workshop
+SPS306,Scaling AI Supply Chains: Search to Consumer-Driven Demand,Chalk talk
+SMB206,Slickdeals' AI-powered deal discovery with Amazon Sagemaker,Lightning talk
+NTA319,Spreetail's AI Value Journey ,Breakout session
+AIM333,Sustainable and cost-efficient generative AI with agentic workflows,Breakout session
+IND327,Sysco's Digital Transformation: Platform Engineering with Amazon Q,Chalk talk
+BIZ214,Traeger accelerates contact center agent productivity with agentic AI,Breakout session
+NTA316,Transitioning VMware workloads: VMC-A to AWS EVS,Chalk talk
+NTA101,Unlock Innovation: A Guide to AWS Partner Products in AWS Marketplace,Breakout session
+AIM334,Unlock sustainability insights: How AI enables AWS carbon management,Chalk talk
+IND330,Voice AI restaurant ordering platform powered by Amazon Nova Sonic,Chalk talk

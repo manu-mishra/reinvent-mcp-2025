@@ -1,0 +1,1029 @@
+code,title,type
+AIM401,Accelerate AI model fine-tuning and deployment with SageMaker HyperPod,Workshop
+API301,Accelerate API Creation with Amazon Q Developer CLI,Builders' session
+OPN301,Accelerate app authorization with the latest Cedar tools ,Builders' session
+STG347,Accelerate application performance with Amazon S3 Express One Zone,Chalk talk
+CNS373,Accelerate building Serverless apps with Amazon Q and MCP servers,Code talk
+SPS308,Accelerate Cloud Modernization & Migration with AWS Countdown Premium,Workshop
+SPS324,Accelerate code delivery: Amazon Q developer and dev containers,Code talk
+CNS207,Accelerate container migrations with Amazon EKS Auto Mode,Chalk talk
+STG356,Accelerate data migrations to AWS,Chalk talk
+CMP345,Accelerate Drug Discovery R&D at Scale with AWS,Chalk talk
+DVT308,Accelerate enterprise development with Amazon Q Developer,Workshop
+STG327,Accelerate enterprise workloads with enhanced Amazon EBS capabilities,Chalk talk
+IND333,Accelerate financial products from idea to market with AI agents,Chalk talk
+IND395,Accelerate Game Design Reviews with Generative AI and LLM Agents,Code talk
+ANT302,Accelerate GenAI-powered data discovery and sharing with SageMaker Catalog,Chalk talk
+BIZ321,Accelerate global contact center modernization with Amazon Connect,Chalk talk
+DVT321,Accelerate multi-step SLDC with Amazon Q Developer,Code talk
+CNS301,Accelerate platform engineering on Amazon EKS,Workshop
+IND413,Accelerate SDV Development: Amazon Q for Automotive Code Refactoring,Chalk talk
+AIM361,Accelerate trusted AI development with AWS responsible AI practices,Chalk talk
+CMP301,Accelerate Your Cloud Adoption with the AWS Management Console,Chalk talk
+NET310,Accelerate your hybrid network with AWS Direct Connect SiteLink,Workshop
+MAM302,Accelerate your migration & modernization journey with EBA Cloud Party,Workshop
+PEX307,Accelerating Cloud Migration with Agentic AI: Hands-on AWS Transform,Builders' session
+COP320,Accelerating Incident Resolution: AI-Driven Root Cause Analysis,Builders' session
+IND414,Accelerating Life Sciences Regulatory Intelligence with Amazon Bedrock Agents,Chalk talk
+MAM303,Accelerating .NET and SQL Server modernization using agentic AI,Workshop
+ISV308,Accelerating SaaS Implementations with Amazon Bedrock and Amazon Nova,Chalk talk
+CMP401,"Accelerating semiconductor design, simulation, and verification on AWS",Chalk talk
+IND303,Accelerating Smart Product SDLC with Amazon Q Developer,Chalk talk
+MAM304,Accelerating SQL Server modernization on AWS with agentic AI,Chalk talk
+ANT301,Accelerating the shift from batch to real-time streaming,Chalk talk
+CMP350,Accelerating Vehicle Innovation: ML & HPC Best Practices,Chalk talk
+HMC319,Achieve multicloud FinOps visibility,Chalk talk
+SEC401,Active defense strategies using AWS Al/ML services,Workshop
+MAM345,Adding  agentic AI to legacy apps with Amazon Bedrock AgentCore,Code talk
+HMC316,Address digital sovereignty with hybrid and cloud solutions,Chalk talk
+ANT325,A deep dive into AI/ML development in SageMaker Unified Studio,Chalk talk
+SEC402,A deep dive on IAM policy evaluation,Chalk talk
+AIM425,Advanced agentic RAG Systems: Deep dive with Amazon Bedrock,Code talk
+COP401,Advanced analytics with AWS Cost and Usage Reports,Code talk
+CNS365,Advanced authorization patterns for secure serverless applications,Chalk talk
+SEC303,Advanced AWS Network Security : Building Scalable Production Defenses,Workshop
+STG301,Advanced data resiliency: Recovery strategies for AWS storage,Workshop
+WPS306,Advanced DDoS protection and DNS capabilities in AWS GovCloud (US),Chalk talk
+AIM376,Advanced document processing with increased accuracy and compliance,Chalk talk
+AIM402,Advanced model customization with Amazon Nova,Builders' session
+COP419,Advanced multicloud cost reporting with FOCUS,Code talk
+ISV403,Advanced Network Connectivity Patterns for ISVs,Chalk talk
+NTA403,Advanced RAG Architectures: From Basic Retrieval to Agentic RAG,Code talk
+STG401,Advanced S3 performance engineering: From multipart to resilience,Workshop
+STG414,Advanced security patterns on Amazon S3,Chalk talk
+ANT421,Advanced Stream Processing with Apache Flink,Chalk talk
+NET312,Agent based Network Ops : Amazon Bedrock Agents & Agent Core,Workshop
+COP321,Agent down! Building unbreakable AI workflows,Chalk talk
+WPS301,Agentic AI beyond the cloud: Building autonomy at the edge,Chalk talk
+IND302,Agentic AI for Autonomous Networks: AgentCore Design Patterns in Action,Chalk talk
+AIM337,Agentic AI for member-owned financials: Systems that serve,Code talk
+IND401,Agentic AI for Vehicle Diagnostics and Root Cause Analysis,Builders' session
+AIM403,Agentic AI: Powering the future of social good ,Workshop
+ARC330,Agentic architecting: From prototype to production-ready systems,Chalk talk
+PEX320,Agentic Code Generation for Industrial Analytics and Predictive Maintenance,Code talk
+IND373,Agentic KYC: Autonomous customer screening for financial institutions,Chalk talk
+AIM248-S,Agentic Smart City Showdown: EKS Edge to Cloud Playtime  (sponsored by Intel),Workshop
+IND304,Agentic video summarization for autonomous content creation at scale,Chalk talk
+IND334,Agent in an hour: Build an agentic app with Strands Agents and MCP,Builders' session
+IND412,Agents for Energy : Accelerate renewable asset planning with agentic workflows,Workshop
+SAS414,Agents meet SaaS operations: A natural fit,Builders' session
+DEV335,AgentVision: Multi-Agent Frameworks for Esports Video Understanding,Chalk talk
+COP354,Agile governance: Deploy AWS Control Tower in your current environment,Chalk talk
+AIM340,AI agents for cloud ops: Automating infrastructure management,Code talk
+IND407,AI Agents for deploying telco network workloads on AWS: MCP-powered Framework,Builders' session
+IND3310,AI Agents framework for 5G RAN network operations powered by AWS,Chalk talk
+IND305,AI Agents in Manufacturing: Building Intelligent Data Workflows,Chalk talk
+IND203,AI and HCP Engagement: Powering Smarter Life Sciences Field Operations,Chalk talk
+CMP402,AI-assisted quantum software development using Amazon Braket and Amazon Bedrock,Chalk talk
+NTA404,AI Code to Production: Context Matters,Code talk
+ARC338,AI-driven architecture: Designing distributed systems at scale,Chalk talk
+IND335,AI-Driven Research: Automating Workflows with AWS HealthOmics,Builders' session
+ANT420,AI-driven scaling in Amazon Redshift Serverless,Chalk talk
+ARC334,"AI model benchmarking with Amazon SageMaker, Amazon Bedrock & AWS IoT Greengrass",Chalk talk
+IND397,AI-Powered Content Compliance: Media Rating Automation with Nova,Chalk talk
+ARC318,AI-powered FinOps: Agent-based cloud cost management,Chalk talk
+DAT301,AI powered PostgreSQL: Incident detection & MCP integration,Workshop
+ISV313,AI-powered SaaS Observability using OpenSearch,Code talk
+ARC301,AI-powered troubleshooting: From chaos to Well-Architected,Builders' session
+ARC302,AI-powered Well-Architected reviews: Building automated governance,Builders' session
+PEX405,AI That Remembers: Building Memory Systems for AI Agents,Workshop
+AIM404,AI vs AI: Detecting fake content with AI agents,Builders' session
+AMZ301,Amazon AI Shopping Assistant: Key Learnings from Customer Interactions,Chalk talk
+DAT401,Amazon Aurora DSQL: A developer's perspective,Code talk
+IND336,Amazon Bedrock AgentCore & MCP for Automated Telecom Service Assurance,Builders' session
+CMP202,Amazon Braket: Get hands-on with quantum computing,Workshop
+CMP209,Amazon Braket Hubs - Accelerating R&D in national quantum initiatives,Chalk talk
+DAT427,Amazon DocumentDB for expert practitioners,Chalk talk
+CNS351,Amazon ECS observability patterns and design decisions,Chalk talk
+STG349,Amazon EFS data resiliency: From strategy to implementation,Chalk talk
+STG402,Amazon EKS advanced storage best practices with Amazon FSx for OpenZFS,Builders' session
+CNS401,"Amazon EKS: Infrastructure as code, GitOps, or CI/CD",Chalk talk
+MAM401,Amazon EVS deep dive: Advanced networking and storage architecture,Chalk talk
+MAM305,Amazon EVS deep dive: Strategic migration planning,Chalk talk
+STG350,Amazon FSx Intelligent-Tiering: Technical deep dive and best practices,Chalk talk
+DAT450,Amazon Keyspaces live migration best practices with HBO Max,Chalk talk
+IND323,"Amazon Q Apps: Power RCM, Member Engagement, & Drug Safety Management ",Builders' session
+DVT330,"Amazon Q Developer CLI, a lightning-fast coding experience",Chalk talk
+STG302,"Amazon S3 security: Implementing controls, policies & audit systems",Workshop
+WPS302,Amazon SageMaker Unified Studio for Public Sector,Workshop
+DAT316,Analyze blockchain data with Amazon Bedrock AgentCore,Builders' session
+API302,API Gateway Authorization Strategies,Builders' session
+API303,API Gateway Unleashed: A Hands-on Journey to API Excellence,Workshop
+MAM306,Application modernization challenge,Workshop
+NET202,Application networking simplified: From basics to best practices,Workshop
+NET212,Application network monitoring: Troubleshooting with VPC Lattice,Chalk talk
+COP329,Application performance monitoring: From design to implementation,Chalk talk
+DAT402,Applied data modeling with Amazon DynamoDB,Builders' session
+DVT311, Apply Amazon’s DevOps culture to your team,Chalk talk
+COP301,Applying AI for FinOps and FinOps for AI,Chalk talk
+NET204,Approaches to layered security on Amazon VPC,Workshop
+COP210,A practical guide for meeting regulatory resilience requirements,Chalk talk
+STG344,A practical guide to Amazon S3 data protection and recovery,Chalk talk
+COP355,A practical guide to implement cost-effective governance controls,Chalk talk
+ARC329,Architect for Zero Trust in AWS,Chalk talk
+PEX308,Architecting Agentic AI for Supply Chain: Data-to-Decision Patterns,Chalk talk
+ARC324,Architecting agentic systems: Self-evolving patterns with AWS AI,Chalk talk
+BIZ326,Architecting application flows and automations in Amazon Q Apps,Chalk talk
+AIM335,Architecting circular systems with generative AI on AWS,Chalk talk
+PEX319,Architecting Compliant GenAI Systems for Healthcare Workflows ,Code talk
+DEV303,Architecting Distributed Micro-frontends with Serverless,Chalk talk
+ARC323,Architecting enterprise-scale governance beyond AWS Control Tower,Chalk talk
+SEC330,Architecting Firewalls on AWS: A Layered Defense Strategy,Chalk talk
+CNS302,Architecting for data protection and compliance with Amazon ECS,Builders' session
+SEC336,Architecting for data protection and compliance with AWS Backup,Chalk talk
+SEC301,Architecting for Digital Sovereignty: From Foundation to Practice,Chalk talk
+IND307,Architecting Intelligent Supply Chains with Multi-Agent Orchestration,Chalk talk
+IND374,Architecting multi-agent systems: Patterns in financial services,Chalk talk
+ARC322,Architecting multi-Region expansion for mission-critical workloads,Chalk talk
+NET404,Architecting networks for AI workloads on AWS,Chalk talk
+MAM307,Architecting real-time data pipeline modernization with Generative AI,Chalk talk
+DEV305,Architecting Real-time Sign Language Systems with AI Agents,Chalk talk
+ARC336,Architecting reliable deployments: Amazon.com's blue/green patterns,Chalk talk
+COP312,Architecting Security at Scale with AWS Cloud Governance,Chalk talk
+CMP201,Architecting Solution Patterns for GPU-Accelerated HPC and AI/ML,Chalk talk
+STG303,Architecting vector-driven AI applications with Amazon S3 Vectors,Builders' session
+COP402,Architect open source observability for distributed environments,Chalk talk
+IND301,Architect petabyte-scale observability with OpenSearch and Amazon Q,Chalk talk
+ANT346,Architectural blueprints for your lakehouse in Amazon SageMaker,Chalk talk
+BIZ329,Architectural patterns for Embedded Analytics in Amazon QuickSight,Chalk talk
+ANT322,Architectural patterns for real-time data analytics on AWS,Chalk talk
+ARC306,Architecture diagrams with generative AI: Leveraging AI agents,Builders' session
+CNS303,Architecture patterns for MLOps on Amazon EKS,Chalk talk
+CMP304,Architectures for Hybrid Quantum-Classical Workflows at Scale,Chalk talk
+SEC302,Ask AWS: Your ransomware questions answered,Chalk talk
+NET203,Ask Me Anything About AWS Networking,Chalk talk
+CMP305,Assembling the Complete AI Stack: Optimizing Your AI Hardware on AWS,Chalk talk
+AIM367,A strategic guide to AWS compute options for your AI/ML workload,Chalk talk
+OPN302,AutoGluon: Build Production ML Apps from Zero to Hero,Workshop
+IND338,Automate analysis and extract intelligence from financial datasets,Workshop
+COP403,Automate cloud operations with AI agents,Workshop
+BIZ317,Automate customer experiences with Amazon Connect,Chalk talk
+STG333,Automate data protection at scale with AWS Backup and AWS Control Tower,Code talk
+COP303,Automate disaster recovery playbooks using generative AI,Builders' session
+DEV322,Automated Security Remediation with AWS Step Functions,Builders' session
+IND339,Automate Inventory Rebalancing on AWS with Agentic AI,Builders' session
+DVT401,Automate Java application upgrade with generative AI,Workshop
+DVT326,Automate Java app upgrades & accelerate innovation with generative AI,Chalk talk
+NTA301,Automate Review Analysis with Nova Act and Generative AI,Builders' session
+MAM330,Automate SAP supply chain exceptions with generative AI,Workshop
+SEC332,Automate vulnerability remediation for containers running in AWS,Chalk talk
+DVT324, Automate your code transformations at scale,Builders' session
+DVT302, Automate your software tasks with agent hooks,Builders' session
+CMP306,Automating and optimizing EC2 Mac instances for Apple development,Workshop
+SEC322,Automating Certificate Management with Exportable Public Certificates,Code talk
+COP310,Automating compliance and auditing at scale,Workshop
+SEC341,Automating IAM policy validation and analysis using GitHub Actions,Code talk
+AIM405,Automating LLM evaluation at scale: MLOps for continuous improvement,Workshop
+AIM420,Automating LLM fine-tuning with multi-agentic orchestration,Chalk talk
+IND337,Auto ML Pipeline for Custom Telco Language Models in Amazon Connect,Workshop
+DAT302,Autonomous DBOps: Agentic AI for maintaining databases,Builders' session
+IND340,Autonomous Live-Ops: AI Agents for Dynamic Gaming Experiences,Workshop
+DAT457,Autonomous Web3 agents on AWS,Code talk
+TNC201,Autoscale EC2 Instances with Amazon EventBridge,Interactive training
+NTA321,AWS Agent for SAP Invoice Automation,Workshop
+STG418,AWS Backup clean room recovery: Comprehensive resilience framework,Chalk talk
+STG410,AWS Backup unlocked: strategies for at-scale data protection,Chalk talk
+NET331,AWS Cloud WAN MCP Server: Transform network operations with GenAI,Code talk
+COP302,AWS disaster recovery strategies,Builders' session
+IND378,AWS for healthcare analytics: accelerating time to insights,Chalk talk
+MAM308,AWS fundamentals for the accidental SQL Server database administrator,Chalk talk
+GHJ305,AWS GameDay: Agentic AI ft. Dynatrace,Gamified learning
+GHJ306,AWS GameDay: AI-Assisted Developer Experience ft. New Relic,Gamified learning
+GHJ307,AWS GameDay: Cloud Architecture ft. Datadog,Gamified learning
+GHJ308,AWS GameDay: Security ft. SentinelOne,Gamified learning
+SEC403,AWS GameDay - Winning the DDos Game,Workshop
+GHJ303,AWS Jam: DevOps & Modernization - Sponsored by LaunchDarkly,Gamified learning
+GHJ301,AWS Jam: Generative AI - Sponsored by Nvidia,Gamified learning
+GHJ302,AWS Jam: Security- Sponsored by PaloAlto Networks and Fortinet,Gamified learning
+CNS304,AWS Lambda performance tuning: Best practices and guidance,Chalk talk
+PEX314,"AWS Marketplace seller workshop: Publish, update, and manage products",Workshop
+MAM310,AWS migration planning: From discovery to delivery,Chalk talk
+DVT315,AWS SAM Beyond the Basics - Powered by Amazon Q Developer,Chalk talk
+CNS402,AWS Serverless developer experience workshop,Workshop
+ARC303,AWS Solutions Library: Accelerating innovation with proven patterns,Workshop
+CMP308,AWS Tools: Automate Simulation jobs Recovery & maximize Cost Savings,Chalk talk
+IND377,Balancing AI Innovation and Security: Novo Nordisk Agentic AI Framework,Chalk talk
+IND341,Behind the curtain: Generative AI observability in financial services,Chalk talk
+BIZ406,Best Practices for CI/CD & Deployment Automation in Amazon QuickSight,Chalk talk
+STG328,Best practices for cost optimization with AWS Backup,Chalk talk
+STG304,Best practices for deploying critical applications with Amazon EBS,Workshop
+STG411,Best practices for maximizing S3 File Gateway performance,Chalk talk
+DAT303,Best practices for migrating and operating Db2 databases on Amazon RDS,Chalk talk
+IND375,Best practices for optimizing financial services application latency ,Chalk talk
+MAM344,Best practices for performing custom code transformation with agentic AI,Code talk
+API401,Beyond Batch: Modernize with Event-Driven Architecture & Serverless,Builders' session
+ARC319,Beyond microservices: Event-driven patterns for modern applications,Chalk talk
+AIM3303,Beyond short interactions: Building long running agents with AgentCore,Chalk talk
+CMP309,Beyond the Console: Building Powerful AWS Operational Dashboards,Chalk talk
+AIM330,Beyond vibe testing: Productionalizing mission-driven genAI workloads,Chalk talk
+DVT329,Blueprint to code: Mastering spec-driven development,Chalk talk
+CMP310,"Boost Amazon EKS Efficiency: EKS Auto Mode, Graviton, and EC2 Spot",Chalk talk
+STG417,Boost database performance & availability with Amazon FSx for OpenZFS,Chalk talk
+EUC206,Break down AI barriers with AWS Wickr and Amazon Bedrock,Chalk talk
+CNS346,"Break down monoliths, modernizing applications on Amazon ECS",Chalk talk
+PEX309,Breakdown to Breakthrough: Crafting AI-Powered Smart Machine Support,Chalk talk
+ANT337,Breaking data silos with the lakehouse architecture,Chalk talk
+IND309,Breaking Down Silos: Multi-Agent Architecture for Media Operations,Chalk talk
+CNS305,Bring the power of Amazon EKS to your on-premises applications,Builders' session
+ANT338,Bring unified analytics to your data warehouse with the lakehouse architecture,Chalk talk
+DAT403,Build a collaborative agentic AI solution with Aurora & Bedrock Agents,Workshop
+DAT428,Build a cost-effective RAG-based gen AI application with Amazon Aurora,Chalk talk
+ANT329,Build Advanced AI-powered Search with OpenSearch MCP and Vectors,Chalk talk
+MAM406,Build agentic AI features for monolithic applications,Builders' session
+DAT406,Build agentic AI–powered search with Amazon Aurora and Amazon RDS,Workshop
+IND310,Build Agentic AI Solutions for Industrial Predictive Maintenance,Workshop
+AIM304,Build agentic observability workflows with models from AWS Marketplace,Builders' session
+AIM302,"Build Agentic Voice Chat with Nova Sonic, AgentCore, MCP, and more",Workshop
+AIM328,Build agentic workflows using third-party AI agents & tools,Chalk talk
+DAT309,Build agentic workflows with Aurora and MCP,Chalk talk
+AIM406,Build agentic workflows with Small Language Models and SageMaker AI,Workshop
+PEX316,Build agents & tools for Bedrock AgentCore and sell in AWS Marketplace,Builders' session
+AIM341,Build agents with Amazon Bedrock AgentCore & Strands Agents,Workshop
+IND385,Build AI agents: A scalable framework using Strands and Amazon Bedrock AgentCore,Chalk talk
+DEV306,Build AI Agents in Java with Spring AI,Chalk talk
+AIM392,Build AI apps faster and at scale using Amazon Bedrock APIs,Chalk talk
+TNC306,Build AI Assistants Using Amazon Bedrock Knowledge Bases,Interactive training
+IND411,Build AI Commerce Media Agents: Audience Discovery & Campaign Performance,Builders' session
+BIZ322,Build AI-powered Embedded Analytics with Amazon QuickSight,Workshop
+IND342,Build a multi-agent financial research assistant with Amazon Bedrock,Workshop
+DEV330,Build a multi-agent role-playing Game Master with Strands Agents,Code talk
+DAT404,"Build a multi-Region, active-active rewards app with Aurora DSQL",Workshop
+CNS352,Build an adaptive compute grid with Amazon ECS and AWS Lambda,Chalk talk
+SMB309,Build an Agent Factory: An Agent that can Create any Agent On-Demand,Code talk
+MAM352,Build an agentic SAP order management solution,Workshop
+ANT401,Build an AI-powered enterprise search with Amazon OpenSearch service,Workshop
+COP406,Build and automate policy as code,Builders' session
+DEV331,Build and deploy AI agents using Kiro and Amazon Bedrock AgentCore,Code talk
+AIM215-S,Build and Deploy AI Agents with Cloudera Agent Studio (sponsored by Cloudera),Workshop
+DEV325,Build and Deploy Highly Available Event Processing with Containers,Chalk talk
+HMC301,Build and operate resilient and performant distributed applications,Workshop
+HMC403,Build and optimize edge architecture for resiliency with AI,Code talk
+ANT402,Build an end-to-end fraud detection system with Amazon SageMaker Unified Studio,Workshop
+STG309,Build an S3 time machine: Implementing advanced point-in-time recovery,Workshop
+MAM353,Build an SAP ABAP application and generate unit test cases with generative AI,Builders' session
+ANT347,Build a secure and regulated data foundation for AI,Chalk talk
+DAT448,Build a stablecoin payment processor using AWS serverless services,Workshop
+DAT405,Build a web-scale application with purpose-built databases & analytics,Workshop
+BIZ204,Build Business Intelligence Solutions Using Amazon QuickSight,Workshop
+ANT311,Build data pipelines in minutes with the SageMaker Visual experience,Chalk talk
+STG329,Build data resilient application architectures using AWS Storage,Chalk talk
+COP323,Build effective logging strategies for operational insights,Chalk talk
+SMB401,Build Fast Multi-Agent AI Systems Using Amplify and Bedrock Together,Workshop
+STG305,"Build fast, scalable infrastructure for AI/ML with AWS storage",Workshop
+AIM371,"Build, fine-tune & deploy AI models with SageMaker HyperPod CLI & SDK",Code talk
+NTA401,Build First Retail AI Agent: Customer Service Excellence with Amazon Bedrock,Builders' session
+COP404,Build full-stack observability from applications to databases,Workshop
+NTA317,Build GenAI Apps with Anywhere Data,Chalk talk
+API304,Build GenAI-Powered Workflows with Step Functions and AWS AI Services,Builders' session
+ANT405,Build high performance Apache Iceberg data lakes with Amazon S3 Tables,Builders' session
+CNS368,Build high-performance inference APIs with Lambda SnapStart,Chalk talk
+IND403,Build Humanoid Intelligence: Advancing Physical AI with AWS and NVIDIA,Chalk talk
+API316,Build Hybrid Serverless Architectures with AWS and On-premises Systems,Chalk talk
+AIM399,Building A2A-enabled applications with Strands Agents,Chalk talk
+ARC403,Building adaptive AI agents: Enterprise patterns that scale,Workshop
+WPS303,Building a GenAI-Powered Compliance Bot to Secure Networks on AWS,Builders' session
+MAM404,Building agentic AI applications on Amazon Bedrock using C# and .NET,Builders' session
+CNS206,Building Agentic AI architectures with AWS Serverless,Builders' session
+AIM357-S,Building Agentic AI Systems with AWS and Agent Mesh (sponsored by Solace),Workshop
+IND409,Building Agentic Smart home with Generative AI,Workshop
+AIM307,Building agentic systems with Hugging Face and AWS AI chips,Chalk talk
+COP405,Building agentic workflows for augmented observability,Code talk
+NTA405,"Building AI Agents with Serverless, Strands, and MCP",Code talk
+COP322,Building AI-Powered operational insights and automated remediation,Builders' session
+IND402,Building an Agentic AI-powered Knowledge Assistant for Engineering R&D,Chalk talk
+SEC304,Building an AI-Powered security guardian for your Cognito applications,Chalk talk
+ARC206,Building and operating an effective architecture review board,Chalk talk
+ARC304,Building and testing resilient multi-AZ applications,Workshop
+AIM370,Building and tracing AI agents with Amazon SageMaker and Strands,Chalk talk
+STG413,Building an operational data lake using S3 Tables and SageMaker,Chalk talk
+SEC407,Building a robust container security  pipeline,Builders' session
+ISV312,Building Context-Rich Data Agents for SaaS with Amazon Bedrock,Chalk talk
+STG415,Building cost-effective data lakes with Apache Iceberg and Amazon S3,Chalk talk
+STG355,"Building cost-optimized, resilient apps with Amazon EKS and EFS",Chalk talk
+COP407,Building custom agents for intelligent AWS patch automation,Code talk
+PEX318,Building Customer Trust with AI Agents: Transform Your MSP Operations,Code talk
+ISV402, Building Customizable AI Agents: A Fast-Track Guide for ISVs,Builders' session
+IND391,Building Data Products and AI for Electric Vehicles,Chalk talk
+API305,Building EDAs with Apache Kafka and Amazon EventBridge,Chalk talk
+SEC305,Building enhanced container threat protection for improved security posture,Builders' session
+ANT407,Building event-driven applications with AWS Streaming and Messaging,Builders' session
+API306,Building event-driven architectures,Workshop
+INV504,Building fast with automated reasoning at Amazon S3 scale,Chalk talk
+API322,Building Fault-Tolerant Systems with AWS Messaging Services ,Code talk
+DAT426,Building for high availability using Amazon ElastiCache,Chalk talk
+CNS308,"Building GenAI applications with AI Agents that reason, decide and act",Workshop
+ARC201, Building generative AI-powered full-stack applications,Workshop
+AIM397,Building governed agents: Human-in-the-loop with AgentCore and Strands,Chalk talk
+ANT332,Building high-quality data products for AI Agents,Chalk talk
+AIM308,Building intelligent agentic workflows with Amazon Nova,Builders' session
+IND313,"Building Intelligent Healthcare Systems: FHIR, AI, and AWS HealthLake",Workshop
+CNS202,Building interactive web based applications on Serverless,Builders' session
+AIM309,Building LLMs with Amazon SageMaker HyperPod and AWS Trainium,Workshop
+IND344,Building multi-Region financial transaction systems with Aurora DSQL,Builders' session
+ISV303,Building Multi-tenant Data Pipelines for Agentic SaaS experiences,Chalk talk
+CNS309,Building multi-tenant SaaS applications with Amazon ECS,Workshop
+DEV302,Building .NET AI Applications with Semantic Kernel and Amazon Bedrock,Code talk
+SPS311,Building operational resilience in workloads using generative AI,Workshop
+ANT324,"Building Pipelines for Analytics, ML and AI in Amazon Sagemaker Unified Studio",Chalk talk
+IND345,Building privacy-aware generative AI applications in financial services,Chalk talk
+DEV329,Building Production Agent Swarms: Mastering Industrial AI,Chalk talk
+CNS425,Building production-ready Agentic AI architectures with AWS Serverless,Chalk talk
+PEX404,Building Production-Ready AI Applications with Amazon Bedrock,Chalk talk
+ANT403,Building Production-Ready Data Systems for AI Applications,Workshop
+SEC404,Building Quantum-Safe Systems with Post-Quantum Cryptography on AWS,Workshop
+API307,Building rate-limited solutions on AWS,Chalk talk
+DEV324,Building Real-Time Container Security with AWS Native Tools,Chalk talk
+COP408,Building resilient architectures with observability,Workshop
+STG324,Building resilient block storage through chaos engineering and observability,Chalk talk
+ARC331,Building resilient clients: Architecture patterns from Amazon.com,Chalk talk
+STG406,Building resilient data protection with Amazon EBS Snapshots,Builders' session
+CNS321,Building resilient deployment pipelines with Amazon ECS,Workshop
+ANT422,Building Resilient Multi-Tenant Messaging with Amazon SQS,Chalk talk
+CNS424,Building resilient Serverless applications with chaos engineering,Chalk talk
+SEC325,"Building Scalable, Secure Secrets Management on AWS",Builders' session
+TNC307,Building Secure and Responsible Gen AI with GuardRails for Amazon Bedrock,Interactive training
+ANT345,Building secure and scalable lakehouses for the future,Chalk talk
+CNS310,Building secure serverless applications,Workshop
+SMB302,Building Self-Healing IT Systems with Agentic AI,Builders' session
+CNS311,Building serverless AI Agents in Java with Spring AI,Builders' session
+CNS312,Building Serverless applications with Terraform workshop,Workshop
+CNS404,Building Serverless distributed data processing workloads,Workshop
+STG321,Building serverless vector applications with Amazon S3 Vectors,Chalk talk
+SPS322,Building smarter AI coding assistants: real-world implementation guide,Code talk
+COP409,Building Sovereign Cloud Environments,Code talk
+WPS307,Building sovereign LLMs: Best practice from national-scale deployments,Chalk talk
+NTA312,Building The Enterprise Data Success Framework,Chalk talk
+OPN304,Building Trust in AI Agents: Automated Evaluation at Scale,Chalk talk
+IND346,Building vertical AI agent blueprints in financial services,Chalk talk
+ARC317,Building Well-Architected agentic AI applications,Chalk talk
+ARC305,Building Well-Architected solutions: A generative AI approach,Builders' session
+COP353,Building your data protection strategy with governance controls,Chalk talk
+CNS203,Building your first event driven application,Builders' session
+IND319,Build Intelligent Media Workflows with Agentic AI,Workshop
+IND311,Build Media Workflows with Natural Language Using Strands Agents SDK,Builders' session
+ANT404,Build modern data applications with the lakehouse architecture on AWS,Workshop
+TNC308,Build Multi-Agent Collaboration using Amazon Bedrock,Interactive training
+DEV332,Build multi-modal AI agents with Strands Agents and Amazon S3 Vectors,Code talk
+CMP311,"Build Once, Run Everywhere: Multi-Architecture in Your CI/CD Pipelines",Chalk talk
+AIM324,Build production-ready AI solutions with Claude in Amazon Bedrock,Workshop
+TNC317,Build production-ready Generative AI Applications on AWS,Interactive training
+STG306,Build protection and optimize costs using Amazon EBS Snapshots,Workshop
+STG403,Build ransomware data recovery with AWS Backup logically air-gapped vaults,Workshop
+DVT307,Build real-time applications AWS Amplify,Workshop
+DEV310,Build real-time full-stack Generative AI applications,Code talk
+AIM306,Build reliable agents: Real-time insights with AgentCore Observability,Builders' session
+DEV406,Build resilient distributed systems through comprehensive testing,Chalk talk
+ISV404,Build Resilient SaaS: Multi-Account Resilience Testing Patterns,Code talk
+CMP403,"Build, Scale, and Optimize Agentic AI on CPUs with AWS Graviton",Workshop
+CNS347,Build secure and scalable agentic AI workflows on Amazon ECS,Chalk talk
+BIZ205,Build self-healing supply chains with agentic AI,Chalk talk
+IND312,Build Streaming Analytics Dashboards in Minutes with Amazon Q Developer,Builders' session
+ANT341,Build trust in AI with end-to-end data lineage in Amazon SageMaker Catalog,Chalk talk
+ANT406,Build trust in your data with Amazon SageMaker Catalog,Builders' session
+AIM303, Build trustworthy AI applications with Amazon Bedrock Guardrails,Workshop
+IND366,Build ultra-low latency ad workloads with unmatched cost-performance,Workshop
+IND408,Build Virtual Engineering Workbenches for SDV with AWS Marketplace,Workshop
+IND343,Build your own AI-Driven Industrial Automation System with Agentic AI,Builders' session
+STG307,Build your own GenAI app on Amazon EKS with Amazon FSx and accelerated compute,Workshop
+AIM419,Build your own high performance kernel on AWS Trainium with NKI,Chalk talk
+ISV405,BYOK: The Key to Meeting Enterprise SaaS Security Demands,Code talk
+COP330,Byte to insight: Maximize value from your logs with Amazon CloudWatch,Chalk talk
+OPN402,"Cache me if you can, Valkey edition",Workshop
+BIZ401,Call the Amazon Q Business ChatSync API from a custom web application,Builders' session
+INV516,Can your model keep a secret? How to measure the privacy of your model,Chalk talk
+ARC327,Cell-based architectures: From connected vehicles to enterprise systems,Chalk talk
+IND350,Chaos detective: Deploy generative AI-powered troubleshooting agents,Chalk talk
+COP304,Chaos engineering workshop,Workshop
+MAM311,Choose your own modernization adventure: From legacy to cloud-native,Workshop
+NET214,Choosing the right AWS network connectivity option for your use case,Chalk talk
+STG209,Choosing the right AWS storage service,Chalk talk
+NTA201,Cloud Foundations Accelerator,Chalk talk
+CNS405,Cloud-native Java on Amazon EKS,Builders' session
+MAM312,COBOL to cloud: Accelerated refactoring with AWS Transform agentic AI,Workshop
+DAT429,Coding an MCP server for Amazon Aurora,Code talk
+AIM3300,Collaborate at scale: Architecting multi-agent systems with AgentCore,Chalk talk
+IND347,Combat financial document fraud with a multi-agent system,Workshop
+AIM312,Compact yet powerful: Exploring model distillation with AWS Trainium,Builders' session
+DEV405,Compile blazing-fast MCP servers in Rust,Code talk
+CMP312,Compute innovation with the AWS Nitro System,Chalk talk
+NTA314,Connecting Infor CloudSuite to AWS Services,Chalk talk
+NET327,Connect to VPC resources with PrivateLink and VPC Lattice,Chalk talk
+COP337,Correlating compliance signals across AWS,Chalk talk
+AIM407,Cost-efficient AI model scaling with Amazon EKS on SageMaker HyperPod,Workshop
+DAT308,Cost optimization for Amazon DynamoDB,Chalk talk
+CMP313,Cost Optimize your .NET workloads on AWS,Chalk talk
+BIZ302,Create advanced self-service experiences with Amazon Connect,Workshop
+TNC316,Create an AWS DevOps AI Agent with the Strands Agents SDK,Interactive training
+DAT407,Create an intelligent banking agent using Aurora DSQL & MCP,Builders' session
+IND348,Create a secure card management platform with AWS Payment Cryptography,Chalk talk
+DVT309," Create secure, production-ready code with Amazon Q Developer",Workshop
+AIM377,Create voice-first applications with Amazon Nova Sonic,Chalk talk
+DVT403,Create your own AI sidekick: a hands-on agent building workshop,Workshop
+SAS402,Creating multi-tenant data lakehouses for agentic SaaS environments,Workshop
+AIM385,Customize Amazon Nova in Amazon SageMaker AI for your business needs,Chalk talk
+PEX313,Customize Amazon Nova models for Agentic AI with SageMaker & Bedrock ,Workshop
+AIM380,Customize Amazon Nova models for enhanced tool calling,Code talk
+AIM386,Customize foundation models using Amazon SageMaker AI,Chalk talk
+AIM3315,Customize GPT-OSS models on Amazon SageMaker AI for improved accuracy,Chalk talk
+NTA313,Cut Costs with Aurora PostgreSQL & Babelfish,Chalk talk
+ANT408,Data analytics for financial organizations with Amazon SageMaker ,Builders' session
+HMC325,Data architecture for multicloud environments,Chalk talk
+BIZ303,Data-driven contact centers: Maximizing Amazon Connect analytics,Chalk talk
+CMP314,"Data-Driven EC2 Optimization: Efficiency, Metrics, and Sustainability",Chalk talk
+IND349,Data Harmony: AWS AI Agents for Clinical Integration,Chalk talk
+SEC306,Data perimeter challenge,Builders' session
+STG409,Data protection & application recovery strategies for ransomware,Chalk talk
+AIM339,Data protection strategies for AI data foundation,Code talk
+AIM315,Debug LLM bottlenecks with NVIDIA Nsight,Workshop
+AIM3314,"Debug, trace, improve: Observability for agentic applications",Chalk talk
+MAM313,Decomposing monolithic databases with generative AI,Chalk talk
+API201,Decoupling your data-driven applications with Amazon EventBridge Pipes,Builders' session
+COP416,Deep dive into advanced database performance monitoring,Chalk talk
+ANT340,Deep dive into data processing in SageMaker Unified Studio,Chalk talk
+NET330,Deep dive into private DNS with Route 53: From basics to scale,Chalk talk
+HMC315,Deep dive on AWS hybrid and edge networking architectures,Chalk talk
+COP305,Defend against downtime using fault isolation boundaries,Chalk talk
+DVT323,Deliver GenAI Mobile Apps and Models at scale: A Testing Architecture,Chalk talk
+SPS302,Democratize Data: Bundesliga Real-time Insights Without Writing any SQL,Chalk talk
+CMP317,Demystify attestation: Cryptographically verify execution environment,Code talk
+DAT452,Demystifying Aurora DSQL transactions and concurrency control,Chalk talk
+CNS313,Demystifying the shared security model on Amazon ECS,Chalk talk
+TNC318,Deploy Agentic AI Application with Strands and MCP on Amazon EKS,Interactive training
+API324-S,Deploy and Fine-Tune Nemotron Models on AWS SageMaker and Bedrock: Hands-On Lab (sponsored by NVIDIA),Workshop
+DAT454,Deploy and manage blockchain nodes on AWS,Chalk talk
+CMP318,Deploy and use an open source Digital Asset Management platform,Builders' session
+WPS304,Deploy artificial intelligence architectures in regulated industries ,Chalk talk
+DVT304,Deploy infrastructure with speed and safety using AWS CloudFormation,Workshop
+HMC314,Deploying for resilience: HA/DR strategies for AWS Outposts and AWS Local Zones,Chalk talk
+PEX401,Deploying Intelligent Agent Systems with MCP,Builders' session
+AIM355,Deploying LLMs at scale with vLLM on AWS AI chips,Chalk talk
+AIM3319,Deploy LLMs at scale with vLLM Deep Learning Containers and AI agents,Chalk talk
+CNS314,Deploy multi-agent AI on Amazon EKS,Builders' session
+IND351,Design a multi-expert system for fraud investigation with AI agents,Chalk talk
+AIM421,Design and deploy custom guardrails for AI applications,Chalk talk
+ANT330,Design and Implement Agentic AI Observability with OpenSearch,Chalk talk
+SEC307,"Design authentication, authorization, and logging logic in Agentic AI apps",Workshop
+COP421,Design effective Amazon CloudWatch dashboards and alarms,Chalk talk
+CNS366,Designing web architectures on AWS at scale,Chalk talk
+BIZ304,Design multi-modal customer journeys with Amazon Connect,Chalk talk
+CNS418,Design multi-region resilience strategies on Amazon EKS,Chalk talk
+HMC320,Design patterns for multicloud observability,Chalk talk
+AIM408,Detect and mitigating hallucinations: A hands-on responsible AI workshop,Workshop
+TNC315,Develop AI Agents and Flow Apps on Amazon SageMaker Unified Studio,Interactive training
+DVT305, Develop AWS CDK resources to deploy your applications on AWS,Workshop
+COP339,Developing a cost allocation strategy with AWS tooling,Chalk talk
+HMC311,Developing end-to-end SLM pipelines from the cloud to the edge,Chalk talk
+COP306,Developing Unit Cost Metrics with Cloud Intelligence Dashboards,Builders' session
+DVT331,"Develop richer, contextual workflows with Model Context Protocol (MCP)",Chalk talk
+ANT207,Develop with natural language and agentic AI in Amazon SageMaker Unified Studio,Chalk talk
+IND314,DevOps Meets Broadcast: Build Your Own Multi-Camera Broadcast Solution,Workshop
+AIM353,Distributed inference on AWS: Deep dive into inference optimizations,Chalk talk
+AIM409,Distributed training at scale with Slurm on Amazon SageMaker HyperPod,Workshop
+SEC338,Distributed vs. Centralized inspection: The ultimate debate,Chalk talk
+DAT430,Dive deep into Amazon DynamoDB using design puzzles,Chalk talk
+NET207,DNS unleashed: Unlocking the full potential of Amazon Route 53,Builders' session
+IND353, Documents to decisions: AI-powered underwriting with Amazon Bedrock,Builders' session
+MAM314,Domain driven microservices design with Amazon Bedrock and Amazon Q,Chalk talk
+IND315,Do's and don'ts for mission-critical workloads in financial services,Chalk talk
+COP357,Downtime prevention with the Resilience Lifecycle Framework,Chalk talk
+IND316,Driving Autonomous Operations with Data Sharing and Agentic AI,Chalk talk
+MAM405,Easily port .NET applications to Linux with AWS Transform for .NET,Workshop
+CMP404,EC2 Fleet: Your Swiss Army Knife for Large-Scale Compute Orchestration,Chalk talk
+CMP412,EC2 Flex instances: Get latest generation performance at lower costs,Chalk talk
+CNS316,Effective strategies for testing serverless event-driven applications,Chalk talk
+AIM410,Efficient AI model customization for agentic workflows,Builders' session
+NET319,Elastic Load Balancing cookbook: Advanced recipes for ALB and NLB,Chalk talk
+ISV401,Elevate Multi-Tenant SaaS Operations: DevOps Strategy with Kubernetes,Builders' session
+IND406,Embedded Software Development in the Agentic AI Era,Builders' session
+DVT303, Empower development teams with AI-driven automation,Builders' session
+SMB303,Empowering SMBs: Streamlined Security & Resilience Automation on AWS,Chalk talk
+IND390,Energy HPC Orchestrator: A Cloud Native HPC Workflows Management Application,Chalk talk
+AIM423,Engineering for 90% accuracy in real-world agentic AI applications,Chalk talk
+PEX402,Engineering Intelligence: Multi-Agent AI Systems for Industrials,Chalk talk
+TNC313,Enhance and Scale Agents with Amazon Bedrock AgentCore,Interactive training
+BIZ305,Enhance customer service efficiency with AI-powered email workflows,Chalk talk
+IND410,Enhance GenAI Outcomes in Telecom with Domain Specific Fine-Tuning,Chalk talk
+MAM407,Enhance legacy applications with modern gen AI features,Workshop
+CNS317,Enhance your Amazon EKS development workflow with MCP,Builders' session
+WPS401,Enhancing public sector efficiency with Agentic AI,Workshop
+COP307,Enhancing security visibility: building scalable log analytics,Chalk talk
+AIM317,Enterprise AI applications with Amazon Nova understanding models,Workshop
+DEV346,Enterprise CI/CD: Advanced patterns for resilient deployments,Code talk
+DAT431,Essentials for migrating from Oracle to Amazon Aurora PostgreSQL,Chalk talk
+COP308,Establish a secure AWS foundation with AWS Control Tower,Workshop
+COP309,Establishing effective cost governance,Chalk talk
+COP201,Estimating workload costs using AWS Pricing Calculator,Chalk talk
+AMZ402,Evaluating AI agents: real-world lessons from Amazon's agent systems,Chalk talk
+AIM329,Evaluating the right model for video intelligence,Workshop
+CMP405,Everything you've wanted to know about performance on EC2 instances,Code talk
+DAT449,Evolve Amazon DynamoDB data models with no application impact,Chalk talk
+AIM301,Expand Agent Capabilities with AgentCore Gateway and Tools,Workshop
+EUC201,Expand Amazon WorkSpaces monitoring capabilities with Amazon Bedrock,Workshop
+OPN403,Expedite model loading times in Kubernetes using kro & ACK,Chalk talk
+TNC312,Explore Advanced features of Amazon Aurora PostgreSQL,Interactive training
+AIM393,Explore AI customization techniques with Amazon Bedrock,Chalk talk
+AIM3306,Explore zero-downtime deployment strategies for production LLMs,Chalk talk
+CMP408,Exploring hybrid quantum-classical computing with Amazon Braket,Workshop
+COP410,Exploring Multi-tenant Cost Allocation for Container Workloads,Workshop
+CMP319,Exploring the Spectrum of Architecture Patterns for 3D Rendering,Chalk talk
+HMC313,Extend Amazon EKS clusters for on-premises and edge use cases,Chalk talk
+NTA315,Extending governance across clouds,Chalk talk
+DAT423,Fast and easy bulk operations with Amazon DynamoDB,Chalk talk
+MAM316,Fast-track your VMware to AWS migration with AWS Transform,Workshop
+ARC405,Feature flags at scale: Advanced deployment patterns on AWS,Chalk talk
+STG416,File storage for high-performance workloads,Chalk talk
+IND376,Financial services LLMOps: Scaling pilots to production ,Chalk talk
+IND317,Financial services multi-Region design patterns and best practices,Chalk talk
+AIM318,Fine-tune Hugging Face LLMs on AWS Trainium with Amazon Sagemaker,Builders' session
+SEC343,Fostering a Resilient Incident Response Culture,Chalk talk
+DVT333,From AI tools to AI teammates: Building an AI strategy for your SDLC,Chalk talk
+IND306,From Bytes to Bench: Best practices for life science research agents,Workshop
+SEC324,From code to cloud: enhancing visibility across the SDLC with AWS,Workshop
+ISV314,From Code to Market: Build and Launch AI Agents on AWS Marketplace,Code talk
+DVT320,From concept to production: Build with spec-driven development and Kiro,Code talk
+NET209,From data center to the cloud: Translating network architecture to AWS,Chalk talk
+ARC307,From downtime to uptime: Mastering application recovery on AWS,Workshop
+MAM301,From fragile to agile: Transforming monoliths with cell architecture,Chalk talk
+DEV334,From Hours to Minutes: Crafting Bite-Sized Video Stories with AWS,Chalk talk
+BIZ206,From KPIs to action: close the business objectives loop with AI agents,Chalk talk
+DEV328,From Laptop to Scale: A UnicornVibe AI Agent Journey,Chalk talk
+WPS402,From manual to AI: Transforming Brazil's national exam at scale,Chalk talk
+PEX310,From Motion to Meaning: AI-Powered Human Movement Analysis on AWS,Chalk talk
+NET213,From Pods to Gateway API: Container Networking Mysteries Solved! ,Chalk talk
+COP352,From Reactive to Proactive: Infrastructure governance by design,Code talk
+AIM331,From reflection to action: Agentic AI for mission impact,Chalk talk
+CNS406,From serverful to serverless Java,Workshop
+SEC333,From Static to Dynamic: Modernizing AWS Access Management,Chalk talk
+MAM318,From vibe coding to vibe modernizing with AWS AI services,Builders' session
+MAM322,From VSAM to DynamoDB: Reimagining mainframe data for the cloud,Builders' session
+DVT327,From Windows to Linux: .NET application modernization,Chalk talk
+SAS401,From Zero to SaaS: When Vibe Coding Meets Production,Builders' session
+INV501,Frontier Model Safety in Practice: Amazon Nova Risk Evaluation,Chalk talk
+MAM319,Full-stack SQL Server modernization on AWS,Builders' session
+CMP320,Full stack web apps on EC2: Using Elastic Beanstalk with Amazon Q,Chalk talk
+CNS201,Fundamentals to scale Kubernetes across your organization,Workshop
+STG308,Gaining insights from your data lake with Amazon S3 Metadata,Builders' session
+IND354,Game Dev on AWS: Your Studio Architecture Questions Answered,Chalk talk
+DVT402, Game on: build a retro adventure game in 120 minutes,Workshop
+WPS305,Gen AI economics: Maximizing value while protecting the purse,Chalk talk
+SEC221,Gen AI in Security Assurance and Compliance: From Strategy to Daily Operations,Chalk talk
+ISV315,GenAI-Powered Contextual Security Analysis & Remediation,Code talk
+CMP321,GenAI Storyboarding: From Sketch to 3D Scene with GenAI on AWS,Chalk talk
+GHJ201, Generative AI Architecture Rodeo,Gamified learning
+DAT408,Geo-fencing & real-time geospatial alerts with ElastiCache Valkey,Builders' session
+ANT409,Getting hands on with zero-ETL and data federation,Builders' session
+CNS318,Getting started with Serverless using AI assistance,Workshop
+ISV310,Global Growth: A Framework for Expanding into New Regions,Chalk talk
+BIZ306,Governance and administrative controls with Amazon Q Business,Workshop
+AIM354,"GPU resource optimization on AWS: MIG, KAI, and Run:AI scheduling strategies",Chalk talk
+INV502,Graph Computations - Can we have best of two worlds: OLAP and OLTP?,Chalk talk
+SMB304,Growing Pains to Growing Gains: AI for Every Data Stage,Chalk talk
+DAT321,HA and DR design patterns for Amazon RDS for SQL Server and Oracle,Chalk talk
+CNS319,Handle scaling with AWS Lambda,Builders' session
+NET301,Hands-on AWS WAF: Troubleshooting attack scenarios,Builders' session
+SAS403,Hands-on multi-tenant agents: Inside tenant-aware agentic systems,Workshop
+DVT334,How AI is impacting the software development lifecycle,Chalk talk
+CMP322,How Amazon EC2 improves the customer experience with Live Migration,Chalk talk
+IND3311,How Amazon Game Studios builds a data foundation for AI/ML on AWS,Chalk talk
+AMZ403,How Amazon is migrating 1000’s of applications to new AWS regions,Chalk talk
+DEV403,How Amazon Teams Use AI Assistants to Accelerate Development,Code talk
+INV503,How Amazon uses AI and Automated Reasoning to detect hallucinations,Chalk talk
+NET302,How CloudFront Handles Black Friday-Scale Retail at the Edge,Chalk talk
+API202,How Event Driven Architectures Go Wrong  and How to Fix them,Chalk talk
+IND318,How Prime Video balanced innovation and reliability for live sports,Chalk talk
+SEC331,How Security Maturity Enables Your Cryptographic Agility Playbook,Chalk talk
+STG348,How to optimize AWS storage for generative AI and ML workloads,Chalk talk
+CMP406,HPC infrastructure for Financial Services using AWS Batch and AWS CDK,Builders' session
+CMP206,HPC Made Easy: AWS PCS for AI & Scientific Computing,Workshop
+CMP323,HPC Sustainability by Design: Optimizing for Planet and Performance,Workshop
+NET329,Human Meets Microservice: Zero Trust with AWS Networking Services,Builders' session
+CMP211,Hybrid Science: AI + Physics Simulations for Climate & Automotive Engineering,Chalk talk
+SEC340,IAM Access Analyzer Deep Dive: From Configuration to Remediation,Code talk
+INV505,IAM Access Analyzer from Research Paper to Reality,Chalk talk
+NTA302,IAM Analytics: Automate & Visualize,Workshop
+CNS320,I didn't know AWS SAM could do that,Builders' session
+NET303,I didn't know AWS WAF did this,Chalk talk
+HMC317,Implement Agentic AI at the edge for industrial automation,Code talk
+ANT303, Implement data pipelines for analytics using SageMaker Unified Studio,Chalk talk
+CNS348,Implement distributed inference with Amazon ECS,Chalk talk
+DAT409,Implement hybrid search with Aurora PostgreSQL for MCP retrieval,Builders' session
+SEC405,Implementing Advanced Data Protection Controls,Workshop
+CNS409,Implementing advanced Serverless resilience: A practitioner's guide,Chalk talk
+HMC302,Implementing agentic AI solutions on-premises and at the edge,Workshop
+COP344,Implementing Automated Security Controls for Zero-Day Defense,Chalk talk
+HMC304,Implementing generative and agentic AI in multicloud environments,Chalk talk
+MAM351,Implement Low-code Agentic Finance Analytics for SAP,Workshop
+TNC206,Implement Modern Data Architectures with Amazon SageMaker Lakehouse,Interactive training
+HMC312,Implement RAG while meeting data residency requirements,Chalk talk
+COP341,Implement secure automated workflows with AWS Systems Manager,Chalk talk
+BIZ328,Implement Secure & Scalable Admin Controls in Amazon QuickSight,Chalk talk
+IND404,Improve Manufacturing Production Planning with Amazon SageMaker,Workshop
+CMP325,Improving Availability with EC2 Best Practices for Application Monitoring,Chalk talk
+WPS403,Improving citizens customer experience ,Chalk talk
+AIM313,Improving multimedia analytics with customized Amazon Nova models,Builders' session
+DVT322,Incorporating generative AI in the CI/CD pipeline,Chalk talk
+STG310,Increase your database agility with Amazon FSx,Workshop
+AIM320,Inference on AWS Trainium and Amazon EKS using vLLM,Workshop
+CMP328,Infrastructure Automation with Amazon Q CLI and EC2 Image Builder,Builders' session
+SEC309,Inside the Attack Chain: Emerging Threat Actor Tactics and Techniques,Chalk talk
+ANT410,Integrate and orchestrate data workflows with AWS Glue & managed Apache Airflow,Builders' session
+OPN305,Integrated AI Agents & Code Assistants with MCP & AWS,Chalk talk
+STG311,Integrate serverless applications with AWS storage services,Workshop
+AIM379,Integrating virtual try-on into your ecommerce platforms,Chalk talk
+COP411,Intelligent automation for managing cloud governance and compliance,Builders' session
+ISV304,Intelligent Document Processing at Scale Using Bedrock,Chalk talk
+TNC202,Intelligent Document Processing with Amazon Bedrock,Interactive training
+SPS304,Intelligently automating cloud operations,Workshop
+SPS303,Intelligent Operations: AI driven Modernization and Incident Response,Workshop
+PEX315,Intelligent Security Operations with AWS: AI-Powered Incident Response,Workshop
+OPN306,"Inter-Agent Systems with Strands Agents, Amazon Bedrock, MCP, and A2A",Builders' session
+CMP326,Java Modernization and Performance Optimization GameDay,Workshop
+INV506,Known Unknowns: Bayesian Multi-Path Framework for Uncertainty in LLMs,Chalk talk
+CNS204,Kubernetes simplified: Get hands-on with Amazon EKS Auto Mode,Workshop
+NTA303,Landing Zone: Deploy Smarter with AI,Builders' session
+CMP329,Learnings from developers adopting AWS Graviton at scale,Chalk talk
+CNS323,Learn multi-tier application architectures on Amazon ECS,Workshop
+DVT201, Learn new development skills with Kiro,Builders' session
+COP311,Leaving no operational issues behind,Chalk talk
+IND355,Level Up Your Asset Pipeline: AI-Powered 3D Model Generation at Scale,Builders' session
+NET322,Level Up Your Bot Defense for Mobile Apps with AWS WAF SDK,Chalk talk
+OPN404,Level Up Your Serverless: The Powertools for AWS Lambda Workshop,Workshop
+CMP330,Leverage Auto Scaling to proactively scale and optimize EC2 workloads,Workshop
+AIM378,Leverage your own IP to enhance creative control,Chalk talk
+MAM409,"Leveraging MCP Servers for SAP Observability, Security & Integration",Chalk talk
+MAM321,Licensing management and optimization on AWS with generative AI,Chalk talk
+INV507,Light qubits in the AWS network,Chalk talk
+AIM319,LLMOps with Amazon SageMaker AI: Fine-tune and deploy an LLM for ESG,Builders' session
+INV508,LLMs Reflecting on Reasoning: A Probabilistic VC-Theory Approach,Chalk talk
+ANT411,Low-cost logging and observability with Amazon OpenSearch Service,Workshop
+HMC305,Low-latency SLM deployment: Optimizing inference on AWS Hybrid and Edge services,Workshop
+DAT424,Making your Amazon Aurora cluster more resilient,Chalk talk
+CNS324,Managing AWS Lambda runtime upgrades at scale,Chalk talk
+NET324,Managing Bots vs Humans with CloudFront and AWS WAF,Code talk
+MAM323,Map your VMware workloads migration and modernization journey to AWS,Chalk talk
+CNS325,Master distributed transactions: Orchestration with AWS Step Functions,Builders' session
+CNS356,Master identity-first security with Amazon EKS Auto Mode,Chalk talk
+AIM321,Mastering agent authentication: Hands-on with AgentCore Identity,Builders' session
+DVT335,Mastering agentic prompt engineering ,Chalk talk
+DVT310," Mastering automated, zero-downtime software deployments",Chalk talk
+IND356,Mastering data chaos: Enterprise-scale catalogs for financial services,Chalk talk
+ANT326,Mastering data transformations with Amazon Athena,Chalk talk
+CMP332,Mastering EC2 Image Builder: From Basics to Advanced Techniques,Builders' session
+DEV320,Mastering feature flags: Faster releases and rapid recovery,Code talk
+OPN405,Mastering Fluent-bit: Performance at Scale,Workshop
+AIM412,Mastering foundation model customization with Amazon SageMaker AI,Workshop
+AIM3321,Mastering LLM inference on Amazon  SageMaker AI,Chalk talk
+ANT323,"Mastering materialized views: tips for fast, low-latency queries in Redshift",Chalk talk
+NTA402,Mastering VMware to EC2 Migration,Workshop
+CNS407,Master KRMOps: Declarative resource management with Amazon EKS and kro,Builders' session
+AIM356,Master post-training workflows for foundation models on AWS Trainium,Chalk talk
+BIZ307,Maximize AI-powered customer outreach with Amazon Connect,Chalk talk
+CMP315,Maximizing EC2 Local NVMe Storage: Enhanced NVMe Metrics and K8s Integration,Chalk talk
+CMP333,Maximizing EC2 Performance: A Hands-on Guide to Instance Optimization,Code talk
+STG322,MCP Server for Amazon S3 Tables: AI-powered data operations,Chalk talk
+NET321,Measure what matters: Web & API optimization with Amazon CloudFront,Chalk talk
+HMC402,Meet ultra-low latency and high throughput needs with AWS Outposts,Chalk talk
+AIM245-S,Memory Design for AI Agents (sponsored by MongoDB),Workshop
+PEX403,Metadata Intelligence: The Key to Trusted and Smart Agentic AI Systems,Chalk talk
+DAT317,Microseconds matter: Architect ultra-low latency trading platforms,Chalk talk
+HMC303,Migrate and modernize VMware and Java workloads with on-premises dependencies,Workshop
+COP325,Migrate from VMWare to AWS: Cloud Operations Best Practices,Chalk talk
+API317,Migrating to Amazon API Gateway,Chalk talk
+AIM322,Model governance at scale with SageMaker AI,Workshop
+STG404,Modern batch analytics: Building advanced pipelines with S3 Tables,Workshop
+MAM324,Modernize AD integrations with AWS Managed Microsoft AD Hybrid Edition,Workshop
+DVT306, Modernize CI/CD with GitHub and AWS CodePipeline,Workshop
+CNS422,Modernize containers for AI agents using AgentCore Gateway,Code talk
+MAM348,Modernize legacy ABAP code with Q Developer,Code talk
+CNS326,Modernize .NET Framework workloads with containers and AWS Transform,Workshop
+MAM326,Modernize your analytics and AI for SAP with AWS,Chalk talk
+BIZ308,Modernize your contact center agent workspace with Amazon Connect,Workshop
+NTA311,Modernizing Document Processing,Chalk talk
+CNS408,Modernizing monoliths: The path to architectural freedom,Builders' session
+API320,Modernizing Serverless Applications with Event-Driven Architectures,Chalk talk
+EUC209,Modernizing Your Desktop Infrastructure: A Guide to WorkSpaces Migration,Chalk talk
+STG419,"Modern SFTP: Deploy AWS Transfer Family, Identity, and Automation",Code talk
+SEC339,Modern workload identity management strategies,Chalk talk
+COP418,Monitor the quality and accuracy of your generative AI workloads,Code talk
+MAM328,Monolith to microservices with AWS Modernization pathways,Workshop
+MAM408,Move and improve at scale using AWS Transform,Workshop
+COP324,Moving AWS Accounts seamlessly at scale,Chalk talk
+STG312,Moving data to Amazon S3 to enable Amazon Bedrock gen AI workflows,Workshop
+OPN406,Moving to Valkey without downtime,Chalk talk
+DVT312, Multi-account and multi-region deployments at scale,Chalk talk
+IND357,Multi-agent collaboration for optimized advertising performance,Chalk talk
+NTA407, Multi-Agent Collaboration with Amazon Bedrock Agentcore for Advanced SecOps,Code talk
+SMB308,Multi-Agent Data Pipelines: Shaping the Future of Analytics,Builders' session
+AIM413,Multi-agent financial fraud detection with Amazon Nova Models,Workshop
+SMB402,"Multi-Agent Systems: Build, Evaluate, Observe with Strands Agents",Builders' session
+ARC205,Multicloud architectures: Solutions and design patterns,Chalk talk
+NTA310,Multi-Cloud Container Migrations: Amazon CodeCatalyst for Balanced Workloads.,Chalk talk
+STG331,Multicloud data movement best practices with AWS DataSync,Chalk talk
+COP313,Multicloud & hybrid node operation at scale is easier than you think,Chalk talk
+HMC321,Multicloud networking best practices,Chalk talk
+NTA305,Multilingual Contact Center with Amazon Connect,Workshop
+PEX311,Multimodal Video Understanding AI at Scale with Amazon Bedrock,Workshop
+STG408,Multi-protocol data access in FSx for NetApp ONTAP scale-out file systems,Workshop
+ISV305,Multi-Tenant AI Cost Control,Workshop
+NTA304,Multi-Tenant ETL: Consolidate SaaS Data,Builders' session
+MAM329,Navigating API modernization on AWS,Chalk talk
+IND359,Navigating multi-Region AWS database choices for financial services,Chalk talk
+MAM317,.NET cloud journey: Migration & modernization strategies,Chalk talk
+NET210,Network observability in AWS: Picking the right tool for the job,Chalk talk
+NET323,Networks at scale and how to automate operations,Code talk
+NET325,Network security architecture: Deployment patterns for firewalls in AWS,Chalk talk
+INV517,Neurosymbolic AI integration in LLMs to enhance reasoning,Chalk talk
+INV509,Neurosymbolic AI: Logic-Enhanced Neural Networks at Amazon Scale,Chalk talk
+SAS404,Next-gen agentic SaaS: Transforming to an agent-powered experience,Workshop
+AIM323,Next-gen AI: Scaling distributed GPU inference with NVIDIA on AWS,Builders' session
+INV510,Next generation etcd for Amazon EKS,Chalk talk
+NTA306,Next-Gen Logistics with GenAI,Workshop
+MAM355,Next-gen SAP security analytics powered by AWS,Chalk talk
+WPS314,Next-Gen SOC: Agentic SOC analyst with Amazon Bedrock,Workshop
+NTA307,NLP to SQL: Data Access with Amazon Nova,Builders' session
+NTA406,Observability for Reliable Agentic AI with Strands SDK & OpenTelemetry,Code talk
+COP412,Observability: The open source way,Workshop
+STG405,Onboarding and optimizing AI/ML workloads with Amazon S3 & Amazon EKS,Workshop
+CNS371,Operating AWS Lambda functions at scale,Chalk talk
+STG326,Operating large-scale enterprise workloads with Amazon EBS and EBS Snapshots,Chalk talk
+ARC316,Operational excellence: Building resilient systems,Chalk talk
+IND389,Operationalizing MCP for Agentic AI in Utilities with Bedrock AgentCore,Chalk talk
+AIM366,Optimize AI infrastructure performance with SageMaker HyperPod,Chalk talk
+CNS410,Optimize analytics workloads on Amazon EKS for performance and cost,Workshop
+STG313,Optimize AWS Backup using AI evaluation and Well-Architected best practices,Builders' session
+BIZ309,Optimize back-office operations with gen AI-powered Amazon Connect,Chalk talk
+BIZ403,Optimize contact center deployment with change management strategies,Builders' session
+BIZ310,Optimize contact center staffing using AI-powered assistants,Workshop
+ANT331,Optimize Cost and Performance in Amazon OpenSearch Service,Chalk talk
+DAT304,Optimize cost & performance in Amazon RDS for SQL Server,Chalk talk
+BIZ311,Optimize customer conversations in your IVR with Amazon Connect,Workshop
+API203,Optimize data processing with built-in AWS Step Functions features,Chalk talk
+CNS419,Optimize GenAI inference and model performance on Amazon EKS,Chalk talk
+SPS305,Optimize mission critical workloads with CloudWatch MCP & Amazon Q CLI,Workshop
+CMP335,Optimize .NET Price-Performance with Graviton using AWS Transform,Workshop
+CMP336,Optimize Network and EBS intensive workloads on Amazon EC2 instances,Chalk talk
+AIM311,"Optimize open weight models for low-latency, cost-effective AI apps",Builders' session
+STG345,Optimize performance and cost for archival data in Amazon S3,Chalk talk
+EUC302,Optimize user productivity with Amazon Bedrock and Amazon WorkSpaces ,Builders' session
+DAT306,Optimize your Amazon Aurora resources to reduce costs,Chalk talk
+CNS349,Optimize your Amazon ECS workloads for performance and cost,Chalk talk
+CNS377,Optimizing Amazon EKS costs through workload analysis and observability,Chalk talk
+ANT319,Optimizing Apache Spark workloads with AWS  Data Processing,Chalk talk
+CNS306,Optimizing compute for performance and scale with Amazon ECS,Builders' session
+CMP337,Optimizing EC2: Hands-On Strategies for Cost-Effective Performance,Workshop
+COP413,Optimizing GenAI performance with Amazon CloudWatch,Builders' session
+CNS411,Optimizing Kafka workloads with AWS Lambda,Chalk talk
+COP338,Optimizing resources at scale with AWS Compute Optimizer,Chalk talk
+STG314,Optimizing storage for your containers and Amazon EKS applications,Chalk talk
+STG343,Optimizing throughput performance using Mountpoint for Amazon S3,Chalk talk
+CNS327,Optimizing your Amazon ECS application networking strategy,Chalk talk
+ANT316,"Orchestrating with Apache Airflow, MWAA, and SageMaker Unified Studio",Chalk talk
+ARC401,Orchestration meets choreography: Building event-driven architectures,Builders' session
+NET320,Origin management for multi-region applications with Amazon CloudFront,Chalk talk
+CNS328,Paper to production: Hosting LLMs on Amazon EKS using NVIDIA GPUs,Workshop
+SEC214,Patterns for multiple AWS organizations for mergers and divestitures,Chalk talk
+CNS363,Patterns for session state management in Serverless applications,Chalk talk
+AIM414,Performance engineering on Neuron: How to optimize your LLM with NKI,Code talk
+AIM3301,Performance meets pragmatism: Cost-optimized agents with AgentCore,Chalk talk
+OPN407,Performance tuning for streaming Ingestion into Apache Iceberg,Builders' session
+DAT425,Perform live migrations to Amazon DocumentDB,Chalk talk
+DAT415,Perform vector search on your Amazon DynamoDB data using zero-ETL,Workshop
+BIZ312,Personalize customer interactions with AI agents in Amazon Connect,Chalk talk
+ARC333,Pipeline architectures: Balancing centralization and team autonomy,Chalk talk
+EUC301,Plan a flawless migration to Amazon WorkSpaces using Amazon Q,Builders' session
+DAT310,Plan and execute PostgreSQL version upgrades for Aurora & Amazon RDS,Chalk talk
+MAM332,Platform engineering: From developer success to business value,Chalk talk
+MAM331,Platform engineering: How to build a developer platform on Amazon EKS,Workshop
+DAT410,PostgreSQL performance: Real-world workload tuning,Code talk
+ANT412,Power streaming analytics on AWS with AI-driven insights,Workshop
+NET304,Practical Applications of Edge Compute in Amazon CloudFront,Chalk talk
+IND360,Privacy-enhanced ML and GenAI for AdTechs with AWS Clean Rooms,Chalk talk
+IND3309,Privacy-enhanced multi-party analytics with AWS Clean Rooms: Setup to insights,Workshop
+API319,Processing payments with real-time serverless architectures,Chalk talk
+OPN408,Production-ready Serverless: mastering Powertools for AWS Lambda,Chalk talk
+OPN307,Production Trino: Robust Interactive Workloads at Scale,Chalk talk
+STG325,Protecting block storage at scale with native encryption and EBS Snapshots,Chalk talk
+STG353,Protecting FSx for NetApp ONTAP data from ransomware,Chalk talk
+CMP338,Protect privacy in GenAI applications using AWS Confidential computing,Workshop
+CMP204,Quantum Computing: Accelerating Pharma Innovation,Chalk talk
+CMP205,Quantum Solutions Driving Enterprise Value: From Security to Finance,Chalk talk
+AIM316,Rapidly build and scale real-world AI agents with AgentCore & Strands,Workshop
+ARC308,Rapid prototyping: Leveraging Kiro and Amazon Q Developer CLI,Workshop
+IND3316,Real-time AI inference patterns: Lessons from production game workloads,Chalk talk
+API308,Real-time for the real world with AWS AppSync Events,Builders' session
+GHJ202,re:Architecture Rodeo - Migration Showdown,Gamified learning
+GHJ311,re:Architecture Rodeo - Real-Time Data and Analytics Showdown,Gamified learning
+GHJ310,re:Architecture Rodeo - Resilience Challenge,Gamified learning
+AIM360,Red teaming LLMs: Defence techniques for generative AI applications,Chalk talk
+SEC406,Red teaming your generative AI and MCP applications at scale,Workshop
+DVT301, Reduce development cycles with Amazon Q Developer and GitHub,Builders' session
+CNS329,Reducing downtime: Build resilient architectures with Amazon ECS,Chalk talk
+CNS412,Refactoring Java applications to serverless,Chalk talk
+ARC325,Refactoring post-migration: API-first and event-driven architectures,Chalk talk
+BIZ313,Refine customer journeys with predictive routing in Amazon Connect,Chalk talk
+MAM341,Reimagine your mainframe applications using AWS Transform's AI agent,Workshop
+IND211,Reimagining Healthcare Access with Amazon One's Biometric Innovation,Chalk talk
+OPN409,Reinforce large policy based authorization systems with Cedar Analysis,Chalk talk
+DVT332,Reinvent your DevOps workflows using Kiro,Chalk talk
+NET328,Remote Access Patterns: AWS Verified Access and Client VPN ,Chalk talk
+EUC202,Remove bottlenecks with an intelligent Amazon WorkSpaces dashboard,Workshop
+COP414,Resilience testing and AWS Lambda actions under the hood,Code talk
+CMP339,Resilient and resourceful: Balance compute resiliency and costs,Chalk talk
+SEC204,Rethinking DevSecOps with Platform Engineering That Actually Works,Chalk talk
+DAT411,Revolutionize customer care with data-driven generative AI,Builders' session
+WPS308,Revolutionize public sector data governance with unified analytics,Chalk talk
+AMZ404,Revolutionize shopping: Inside Amazon's AI-powered 'Buy for Me' experience,Chalk talk
+BIZ327,Revolutionizing multimodal data search with Amazon Q Business,Chalk talk
+BIZ402,Revolutionizing multimodal data search with Amazon Q Business,Workshop
+SPS301,Robo-Reviewer: Building AI Video Evaluators with Bedrock,Workshop
+CNS322,Running compute efficient workloads on Amazon EKS Auto Mode,Workshop
+SAS302,SaaS Anywhere meets GenAI: Building distributed AI multi-tenant environments,Workshop
+AIM3308,Safeguard your generative AI applications with Amazon Bedrock Guardrails,Chalk talk
+DAT307,"Safer, simpler, faster upgrades with managed blue/green deployments",Chalk talk
+NTA309,Sandbox Magic: No Spells Required,Workshop
+MAM333,SAP analytics modernization: Zero ETL to AI-driven insights with AWS,Workshop
+CMP341,SAP workloads on memory optimized EC2 instances,Chalk talk
+AIM369,Scalable and resilient distributed AI with Ray on SageMaker HyperPod,Chalk talk
+COP314,Scale & automate patching with AI-powered visualization,Workshop
+ANT414,Scale intelligent analytics with Amazon Redshift multi-cluster architectures,Workshop
+CNS414,"Scale, optimize, and upgrade your Kubernetes cluster with Karpenter",Chalk talk
+COP417,Scale security monitoring using AWS CloudTrail with generative AI,Chalk talk
+MAM335,Scale VMware migrations with Cloud Migration Factory & AWS Transform,Workshop
+BIZ314,Scale your contact center with Amazon Connect global telephony,Chalk talk
+ISV309,Scaling Agentic AI in Multi-Tenant SaaS Environments,Chalk talk
+SPS306,Scaling AI Supply Chains: Search to Consumer-Driven Demand,Chalk talk
+COP348,Scaling Compliance Controls and Risk Assessment,Chalk talk
+IND361,Scaling document intelligence: Advanced patterns with Amazon Bedrock,Chalk talk
+IND362,Scaling enterprise data operations with Amazon SageMaker Unified Studio,Chalk talk
+ARC326,Scaling multi-agent architectures: Patterns for mission-critical AI,Chalk talk
+ARC402,Scaling multi-tenant SaaS: Cell-based architecture patterns,Workshop
+ARC311,Scaling observability with generative AI: Building automated patterns,Builders' session
+ISV302,Scaling SaaS applications with cell-based architectures,Chalk talk
+CNS350,Scaling to 1000s of containers in minutes with Amazon ECS,Chalk talk
+AIM389,Seamless and scalable creative and product visual generation,Chalk talk
+STG354,Seamless file storage migration from on-premises to AWS,Chalk talk
+NTA308,Seamlessly Connect On-Premises to AWS,Builders' session
+SEC312,Secure and build apps in minutes with Amazon Verified Permissions,Builders' session
+CMP410,Secure Generative AI using trusted execution environments,Builders' session
+BIZ405,Securely extend Amazon Q Business applications using APIs.,Chalk talk
+ANT415,Securely monetize your data with Amazon Redshift,Builders' session
+CNS370,Secure user code execution with AWS Lambda for SaaS platforms,Chalk talk
+NET206,Secure your cloud networks with Amazon VPC Block Public Access,Builders' session
+EUC208,Secure your data in a BYOD world with WorkSpaces secure browser and AppStream,Chalk talk
+SEC408,"Securing Agentic AI: OWASP, MAESTRO, and Real-World Defense Strategies",Chalk talk
+ISV311,Securing AI Agents: SailPoint's Journey with Amazon Bedrock AgentCore,Chalk talk
+AIM398,Securing AI agent workflows: Identity patterns in AgentCore,Chalk talk
+CNS330,Securing Amazon ECS workloads with application-aware networking,Workshop
+BIZ315,Securing Amazon Q Business applications with APIs,Workshop
+CNS331,Securing and observing Amazon EKS clusters,Builders' session
+CNS332,Securing and optimizing your software supply chain with Amazon ECR,Chalk talk
+SEC314,Securing Data Lakes: From Ingestion to AI Analysis,Builders' session
+SPS323,Securing event-driven architectures: from sync to async security,Code talk
+TNC309,Securing Generative AI agents using AWS Well-Architected Framework,Interactive training
+SEC337,Securing IoT Workloads with AWS IoT Lens and AWS Security Reference Architecture,Chalk talk
+COP315,Securing your network perimeter through observability,Workshop
+CMP342,Security Compliance & Hardening with EC2 Image Builder,Chalk talk
+SEC315,Security posture and exposure management using AWS security services,Workshop
+CMP343,Select and launch the right instance for your workload and budget,Chalk talk
+CNS364,Serverless cost optimization: More from every invoke,Chalk talk
+CNS333,Serverless data processing with AWS Lambda and Apache Kafka,Builders' session
+CNS369,Serverless Observability: Best Practices for AWS Distributed Systems,Chalk talk
+API318,"Serverless Optimization: Balancing Cost, Throughput & Latency",Chalk talk
+CNS372,Serverless patterns for large-scale applications with AWS Lambda,Code talk
+API309,Serverlesspresso: Build an event-driven application from the ground up,Workshop
+SEC317,Shared responsibility: leadership lessons from active defense of the cloud,Chalk talk
+CNS420,"Shuffle, Scale, Succeed: Optimizing Spark Performance on Amazon EKS",Chalk talk
+EUC203,Simplify Amazon WorkSpaces management through automation,Builders' session
+DVT313, Simplify cloud infrastructure creation with the AWS CDK,Chalk talk
+IND324,Simplify fraud investigation with Strands Agents and Amazon Nova Sonic,Chalk talk
+ANT417,Simplifying data interoperability with the lakehouse architecture on AWS,Workshop
+NET305,Simplifying Multi-Tenant SaaS Delivery with CloudFront,Workshop
+COP316,Simplifying security and operations through smart resource tracking,Builders' session
+STG332,Simplify secure file sharing with Transfer Family no-code web apps,Chalk talk
+DEV321,Simplify serverless testing using Amazon Q Developer,Builders' session
+ISV301,Simplify Tenant Authorization with Cedar and Amazon Verified Permissions,Builders' session
+AIM415,Smart agents meet documents: Building next-gen IDP architectures,Workshop
+WPS309,"Smart Alerts, Smarter Workflows: The Amazon Connect Edge",Builders' session
+IND325,Smart Clinical Documentation: Kiro & AWS HealthScribe,Builders' session
+AIM314,"Smarter Agents, Better Insights: Contextual Memory in Action",Workshop
+IND326,Smart Machines: Maximizing Business Value with Generative AI,Chalk talk
+SMB306,"Smart Security for SMBs: Combining AWS Tools, MCP, and AI",Builders' session
+ANT416,Solve complex data and AI governance challenges with Amazon SageMaker Catalog,Workshop
+NET314,Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice,Chalk talk
+API321,Solving the Observability Mystery with AWS Step Functions,Code talk
+DEV314,Spec-driven development with Kiro,Code talk
+CMP344,Speed up Apple application builds with CI/CD pipelines using EC2 Mac,Chalk talk
+DAT416,SQL Server migration & modernization powered by generative AI,Workshop
+DEV309,Start building with Q Developer CLI: Serverless full-stack in action,Code talk
+CMP207,Startup to Scale: Powering Business Growth with Amazon Lightsail,Chalk talk
+OPN411,Storage optimization by Apache Iceberg V3's Deletion Vectors,Chalk talk
+OPN412,"Strands Agents: Building Fully Autonomous, Self-Improving AI Agents",Chalk talk
+STG330,Strategies to accelerate petabyte-scale migrations with AWS DataSync,Chalk talk
+IND363,Stream 3D applications globally with Amazon GameLift Streams,Workshop
+AIM411,Streamline agent development using Amazon SageMaker AI with MLflow 3.0,Workshop
+BIZ316,Streamline Amazon Connect management with agentic AI-powered controls,Workshop
+CNS421,Streamline Amazon EKS operations with Agentic AI,Code talk
+COP343,Streamline operations with automated health monitoring and response,Chalk talk
+BIZ404,Streamline secure customer authentication with Amazon Connect,Builders' session
+MAM336,Streamline web app deployment with gen AI and AWS Elastic Beanstalk,Workshop
+AIM352,Streamlining vLLM deployment for production with AWS DLCs on EKS,Chalk talk
+ANT320,Strengthening security for Apache Spark workloads,Chalk talk
+SEC318,Strengthen your network security with generative AI,Builders' session
+TNC314,Structured Approach to AI coding with Spec-Driven Development on Kiro,Interactive training
+CNS334,Supercharge Lambda functions for security and performance,Builders' session
+CMP346,Supercharge ML and Inference on Apple Silicon with EC2 Mac,Code talk
+CNS335,Supercharge Serverless APIs with Powertools for AWS Lambda,Workshop
+CNS427,Supercharge Serverless testing: Accelerate development with Amazon Q,Code talk
+SAS303,Supercharge your SaaS with agentic insights,Builders' session
+SPS320,Supercharge your well-architected reviews with AWS Generative AI,Chalk talk
+DEV416,Swift for AI: Developing Agents and MCP-Compatible Tools,Chalk talk
+INV511,Symbolic Execution for Better Cloud Governance,Chalk talk
+IND327,Sysco's Digital Transformation: Platform Engineering with Amazon Q,Chalk talk
+DEV319,Tackling Anti-patterns with AI-Driven Development Lifecycle (AI-DLC),Chalk talk
+COP318,Tag like a pro: Optimize multi-account resource tracking,Chalk talk
+AIM326,Talk with your data: Approaches to natural language query for nonprofits,Builders' session
+CNS336,Telemetry forensics: Debugging event systems with metrics & traces,Builders' session
+DVT318, Test your web and mobile applications with AWS Device Farm,Workshop
+NET315,The Art of Managing Trade-Offs for your AWS Network Design,Chalk talk
+SEC320,The AWS Security Incident Response Challenge: Defend the Cake!,Workshop
+ARC309,The Frugal Architect GameDay: Building cost-aware architectures,Workshop
+CMP347,The Frugal Architect in a Chaotic World,Chalk talk
+INV512,The hidden engineering behind foundation model building,Chalk talk
+DVT317,The Kiro coding challenge,Workshop
+SEC321,The magic behind Amazon GuardDuty Extended Threat Detection,Chalk talk
+INV513,The Mirage of Benchmarks: Foundations of LLM Evaluation Reliability,Chalk talk
+CNS426,The Shapeshifting Application: Architecture That Transforms Across AWS,Code talk
+API310,The Step Functions Workshop,Workshop
+CNS337,Thinking Serverless,Chalk talk
+SEC342,Threat-Modeling-as-Code: Automating From Threat Statements to Attack Steps,Code talk
+SEC335,Threat modeling for AWS identity: From federation to resource access,Chalk talk
+MAM343,Tips and tricks for successful transformation of your legacy .NET applications,Code talk
+ANT321,Top 10 tips to improve query performance in Amazon Redshift,Chalk talk
+DVT314, Top Tips for Getting the Most Out of AWS CloudFormation,Chalk talk
+COP319,Transform cloud monitoring into natural conversations,Builders' session
+BIZ318,Transform data into insights with AI-powered Amazon Connect,Workshop
+IND328,Transforming Additive Manufacturing with Agentic AI,Chalk talk
+IND405,Transforming Manufacturing Operations with Agentic Edge Gateways,Chalk talk
+IND364,Transforming Service Operations with IoT and Gen AI,Builders' session
+AIM327,Transform multimodal data with Amazon Bedrock Data automation,Builders' session
+NTA316,Transitioning VMware workloads: VMC-A to AWS EVS,Chalk talk
+SEC227,Translating Security Metrics into Business Outcomes,Chalk talk
+SPS307,Troubleshooting in the cloud with Amazon Q,Workshop
+PEX312,Trust and Transparency: Implementing Scalable Data Lineage for AI/ML,Workshop
+API402,Understanding AWS Lambda event source mapping,Chalk talk
+BIZ319,Understanding the deep security controls within Amazon Q Business,Chalk talk
+STG323,Under the hood with Amazon EBS: Achieving sub-millisecond latency at scale,Chalk talk
+AIM338,Unified knowledge access: Bridging data with generative AI agents,Code talk
+IND329,Unified Namespace: Simplifying Manufacturing Data Integration,Chalk talk
+AIM368,Unifying AI/ML operations with SageMaker HyperPod and Amazon EKS,Chalk talk
+IND365,Unifying data platforms for generative AI-ready financial systems,Chalk talk
+WPS310,"Unifying Educational Content Analysis with Bedrock, Agents & Nova",Builders' session
+ANT418,Unleash Apache Kafka's elasticity and cost-efficiency with Amazon MSK,Workshop
+DVT325,Unleashing AWS agility with Terraform ,Chalk talk
+AIM3320,Unlock carbon & cost insights: Optimize spend and drive sustainability,Workshop
+BIZ301,Unlock contact center insights with Amazon Connect,Chalk talk
+DVT328,Unlock development value in the age of AI-driven strategies ,Chalk talk
+CNS355,Unlock distributed GenAI inference with Amazon EKS Hybrid Nodes,Chalk talk
+BIZ325,Unlocking Q Business embedded capabilities for your business solutions,Chalk talk
+DAT417,Unlock intelligent AI with MCP powered agentic Neptune graph reasoning,Workshop
+BIZ320,Unlock intelligent generative AI-powered email with Amazon Connect,Workshop
+DVT404,Unlock interoperability: Build your first MCP server,Workshop
+ISV307,Unlock New Business by Removing Data Silos with Zero-Copy ,Chalk talk
+CNS338,Unlock productivity: tools and techniques for developers,Builders' session
+AIM334,Unlock sustainability insights: How AI enables AWS carbon management,Chalk talk
+CNS413,Unveiling Amazon ECS workloads with AWS observability and agentic AI,Chalk talk
+ANT413,Upgrade Amazon DataZone to Amazon SageMaker Catalog for analytics and AI,Chalk talk
+DAT418,Use Amazon DynamoDB to enhance agentic AI workflows,Builders' session
+DAT422,Use an AI agent to launch your Aurora DSQL project with Amazon Q & MCP,Chalk talk
+DAT419,Use GraphRAG with Amazon Neptune to improve generative AI applications,Builders' session
+DAT432,Use serverless knowledge graphs for hybrid search with Amazon Neptune,Chalk talk
+STG315,Use your FSx file data to build custom gen AI apps,Builders' session
+AIM336,Using AI to improve humanitarian workload resilience,Code talk
+CMP348,Using Amazon Q to Cost Optimize Your Containerized Workloads,Workshop
+STG360,Using Amazon S3 Batch Operations to operate on up to billions of objects,Chalk talk
+DAT420,Using generative AI to accelerate database modernization with AWS DMS,Code talk
+ARC315,Using generative AI to automate architectural guidance,Chalk talk
+AIM426,"Using Strands to build fully autonomous, self-improving AI agents",Code talk
+ANT419,Vector search with Amazon OpenSearch Service,Builders' session
+CNS339,Vibe coding production-ready containerized applications,Builders' session
+DAT421,Vibe data modeling with Amazon DynamoDB,Builders' session
+AIM202,Vibin' with Claude,Builders' session
+DAT433,Video sampling & search using in-memory DBs & multimodal embeddings,Code talk
+INV514,Virtualization Architecture Behind AgentCore's Runtime Security Model,Chalk talk
+EUC204,Visualize and optimize spend using Amazon WorkSpaces dashboards,Builders' session
+STG346,Visualize data lake insights with S3 Tables and AWS analytics,Chalk talk
+MAM338,"VMware to AWS modernization blueprint: Migrate, containerize, scale",Workshop
+MAM357,VMware to AWS Readiness: Foundational decisions before your migration,Chalk talk
+IND216,Vodafone Romania BSS Modernization on AWS,Chalk talk
+IND330,Voice AI restaurant ordering platform powered by Amazon Nova Sonic,Chalk talk
+WPS311,Weather emergency advisor with Amazon Bedrock and Location Service,Chalk talk
+SPS319,When security becomes fashionable: Gymshark's cloud security evolution,Chalk talk
+NET306,Winning the DDoS Battle with AWS WAF,Workshop
+STG342,Working with S3 Metadata: From basic queries to custom metadata,Chalk talk
+INV515,Wrangling chaos: Atoms of emergence,Chalk talk
+NET308,Write Deploy and Monitor CloudFront Functions & Key Value Store,Builders' session
+CNS340,Write less code: Building applications with a serverless mindset,Builders' session
+AIM3302,Your data is your moat: Integrating AWS-native tools into agents,Chalk talk
+AIM325,Zero to launch: Deploy AI agents with AgentCore Runtime and Identity,Workshop
+CNS357,Zero to production: Simplify AI deployments with Amazon EKS Auto Mode,Chalk talk
+IND332,Zero-Training Visual Defect Detection Using Amazon Nova,Workshop

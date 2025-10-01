@@ -1,0 +1,18 @@
+code,title,type
+AIM340,AI agents for cloud ops: Automating infrastructure management,Code talk
+COP420,AI-powered resilience testing and disaster recovery,Breakout session
+COP303,Automate disaster recovery playbooks using generative AI,Builders' session
+COP310,Automating compliance and auditing at scale,Workshop
+COP322,Building AI-Powered operational insights and automated remediation,Builders' session
+COP407,Building custom agents for intelligent AWS patch automation,Code talk
+COP340,"Building reliable operations, feat. Fannie Mae",Breakout session
+COP342,Centralize Multicloud Management using AWS,Breakout session
+COP336,Elevating application reliability,Breakout session
+COP344,Implementing Automated Security Controls for Zero-Day Defense,Chalk talk
+COP341,Implement secure automated workflows with AWS Systems Manager,Chalk talk
+HMC303,Migrate and modernize VMware and Java workloads with on-premises dependencies,Workshop
+ARC205,Multicloud architectures: Solutions and design patterns,Chalk talk
+COP313,Multicloud & hybrid node operation at scale is easier than you think,Chalk talk
+COP314,Scale & automate patching with AI-powered visualization,Workshop
+COP343,Streamline operations with automated health monitoring and response,Chalk talk
+COP345,Using AI to bridge the multicloud skills gap in IT operations,Lightning talk

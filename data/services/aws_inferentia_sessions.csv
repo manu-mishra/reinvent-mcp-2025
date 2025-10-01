@@ -1,0 +1,5 @@
+code,title,type
+CMP305,Assembling the Complete AI Stack: Optimizing Your AI Hardware on AWS,Chalk talk
+SPS201,Autodesk's ML Inference Optimization: Leveraging AWS AI Chips,Breakout session
+STG307,Build your own GenAI app on Amazon EKS with Amazon FSx and accelerated compute,Workshop
+CNS348,Implement distributed inference with Amazon ECS,Chalk talk

@@ -1,0 +1,8 @@
+code,title,type
+ISV403,Advanced Network Connectivity Patterns for ISVs,Chalk talk
+NET212,Application network monitoring: Troubleshooting with VPC Lattice,Chalk talk
+NET213,From Pods to Gateway API: Container Networking Mysteries Solved! ,Chalk talk
+CNS327,Optimizing your Amazon ECS application networking strategy,Chalk talk
+ISV302,Scaling SaaS applications with cell-based architectures,Chalk talk
+CNS330,Securing Amazon ECS workloads with application-aware networking,Workshop
+NET314,Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice,Chalk talk

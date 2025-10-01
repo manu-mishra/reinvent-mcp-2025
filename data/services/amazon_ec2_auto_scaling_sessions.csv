@@ -1,0 +1,5 @@
+code,title,type
+TNC201,Autoscale EC2 Instances with Amazon EventBridge,Interactive training
+CMP314,"Data-Driven EC2 Optimization: Efficiency, Metrics, and Sustainability",Chalk talk
+CMP330,Leverage Auto Scaling to proactively scale and optimize EC2 workloads,Workshop
+CMP339,Resilient and resourceful: Balance compute resiliency and costs,Chalk talk

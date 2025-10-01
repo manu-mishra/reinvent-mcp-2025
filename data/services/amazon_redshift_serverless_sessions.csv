@@ -1,0 +1,8 @@
+code,title,type
+ANT420,AI-driven scaling in Amazon Redshift Serverless,Chalk talk
+ANT206,Innovations in SQL Analytics: What's new in Amazon Redshift and Amazon Athena,Breakout session
+ANT323,"Mastering materialized views: tips for fast, low-latency queries in Redshift",Chalk talk
+ANT317,Modernize your data warehouse by moving to Amazon Redshift,Breakout session
+ANT414,Scale intelligent analytics with Amazon Redshift multi-cluster architectures,Workshop
+ANT318,Scaling Amazon Redshift with a multi-warehouse architecture,Breakout session
+ANT321,Top 10 tips to improve query performance in Amazon Redshift,Chalk talk

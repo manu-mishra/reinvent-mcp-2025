@@ -1,0 +1,101 @@
+code,title,type
+AIM362,Accelerate AI workloads with UltraServers on Amazon SageMaker HyperPod,Breakout session
+CMP345,Accelerate Drug Discovery R&D at Scale with AWS,Chalk talk
+IND414,Accelerating Life Sciences Regulatory Intelligence with Amazon Bedrock Agents,Chalk talk
+IND202,Accelerating Real-World Evidence Generation in Life Sciences,Breakout session
+AIM232-S,Agentic AIOps: How LogicMonitor & WWT See Enterprises Readying for Autonomous IT (sponsored by LogicMonitor),Breakout session
+PEX202,Agentic AI's new generation of Industry and Line of Business solutions,Breakout session
+AIM342-S,Agentic AI: The Next Frontier of Cloud Intelligence (sponsored by Atos),Lightning talk
+AIM3316-S,Agents & Tool Use at the Frontier: Building Autonomous Systems w/ Claude on AWS (sponsored by Anthropic),Breakout session
+AIM263-S,"AI Agents with Amazon Nova Sonic: Vonage for Financial Services (sponsored by Vonage, Part of Ericsson)",Lightning talk
+IND203,AI and HCP Engagement: Powering Smarter Life Sciences Field Operations,Chalk talk
+AIM115-S,"AI, Cloud & Public Sector Transformation: PwC & AWS Driving Change Now (sponsored by PwC)",Lightning talk
+NTA404,AI Code to Production: Context Matters,Code talk
+IND335,AI-Driven Research: Automating Workflows with AWS HealthOmics,Builders' session
+IND323,"Amazon Q Apps: Power RCM, Member Engagement, & Drug Safety Management ",Builders' session
+AIM203-S,An Alliance for Our Times: Building the Next Frontier of Cancer Research (sponsored by Deloitte),Breakout session
+COP210,A practical guide for meeting regulatory resilience requirements,Chalk talk
+MAM221-S,Architecting Trusted GenAI and Agentic Experiences in Financial Services (sponsored by Coveo),Lightning talk
+AIM367,A strategic guide to AWS compute options for your AI/ML workload,Chalk talk
+AIM113-S,AstraZeneca's AI-powered Drug Discovery with Snowflake & AWS (sponsored by Snowflake),Breakout session
+NTA321,AWS Agent for SAP Invoice Automation,Workshop
+HMC211-S,AWS and Oracle: Transforming Healthcare (sponsored by Oracle),Lightning talk
+DAT210-S,AWS and Oracle: Transforming Healthcare (sponsored by Oracle),Lightning talk
+IND378,AWS for healthcare analytics: accelerating time to insights,Chalk talk
+IND377,Balancing AI Innovation and Security: Novo Nordisk Agentic AI Framework,Chalk talk
+IND213,Beyond EHR: Leveraging AWS for Maximum Clinical and Operational Impact,Breakout session
+AIM231-S,Beyond the Hype: Delivering Measurable ROI with Generative AI on AWS (sponsored by CDW),Lightning talk
+EUC206,Break down AI barriers with AWS Wickr and Amazon Bedrock,Chalk talk
+PEX309,Breakdown to Breakthrough: Crafting AI-Powered Smart Machine Support,Chalk talk
+IND310,Build Agentic AI Solutions for Industrial Predictive Maintenance,Workshop
+AIM215-S,Build and Deploy AI Agents with Cloudera Agent Studio (sponsored by Cloudera),Workshop
+NTA401,Build First Retail AI Agent: Customer Service Excellence with Amazon Bedrock,Builders' session
+HMC308,Build generative and agentic AI applications on-premises and at the edge,Breakout session
+NTA405,"Building AI Agents with Serverless, Strands, and MCP",Code talk
+AIM370,Building and tracing AI agents with Amazon SageMaker and Strands,Chalk talk
+AIM280-S,Building Enterprise-Ready Agentic Speech AI Pipelines on AWS (sponsored by NVIDIA),Breakout session
+IND313,"Building Intelligent Healthcare Systems: FHIR, AI, and AWS HealthLake",Workshop
+NTA312,Building The Enterprise Data Success Framework,Chalk talk
+AIM277-S,Claude 4 on AWS: Architecting Enterprise AI at Scale (sponsored by Anthropic),Breakout session
+AIM118-S,Clinical Trials: AbbVie's Enterprise AI-Powered Document Creation Platform GAIA (sponsored by Accenture),Breakout session
+NTA314,Connecting Infor CloudSuite to AWS Services,Chalk talk
+AIM3315,Customize GPT-OSS models on Amazon SageMaker AI for improved accuracy,Chalk talk
+AIM363,Customize & scale foundation models using Amazon SageMaker AI,Breakout session
+NTA313,Cut Costs with Aurora PostgreSQL & Babelfish,Chalk talk
+IND349,Data Harmony: AWS AI Agents for Clinical Integration,Chalk talk
+AIM3319,Deploy LLMs at scale with vLLM Deep Learning Containers and AI agents,Chalk talk
+AIM388,Develop AI Agents faster with Amazon SageMaker Studio and AgentCore,Breakout session
+AIM381,Develop AI Agents faster with Amazon SageMaker AI & Bedrock AgentCore,Breakout session
+BIZ210-S,Driving Intelligent Project Portfolio Visibility with AWS + Smartsheet (sponsored by Smartsheet),Lightning talk
+MAM219-S,Driving modernization using Mphasis’ Agentic AI framework (sponsored by Mphasis),Lightning talk
+MAM106-S,Enterprise-scale App Modernization with Agentic AI through TSRI's JANUS Studio (sponsored by TSRI),Lightning talk
+NTA315,Extending governance across clouds,Chalk talk
+COP211-S,FinOps+: A New Era of Accelerating Value (sponsored by Kion),Lightning talk
+IND306,From Bytes to Bench: Best practices for life science research agents,Workshop
+AIM119-S,From idea to instant production readiness: building AI agents on Cloudflare (sponsored by Cloudflare),Lightning talk
+IND214,From Lab to Market - AstraZeneca's Enterprise-Wide AI Success Story,Breakout session
+PEX310,From Motion to Meaning: AI-Powered Human Movement Analysis on AWS,Chalk talk
+WPS305,Gen AI economics: Maximizing value while protecting the purse,Chalk talk
+AIM241-S,Healthcare Transformed: Reimagining the Future with Generative AI (sponsored by PwC),Breakout session
+NTA320,How Zydus implemented regulated DR on AWS,Breakout session
+CMP323,HPC Sustainability by Design: Optimizing for Planet and Performance,Workshop
+NTA302,IAM Analytics: Automate & Visualize,Workshop
+HMC312,Implement RAG while meeting data residency requirements,Chalk talk
+NTA303,Landing Zone: Deploy Smarter with AI,Builders' session
+AIM3321,Mastering LLM inference on Amazon  SageMaker AI,Chalk talk
+NTA402,Mastering VMware to EC2 Migration,Workshop
+NTA407, Multi-Agent Collaboration with Amazon Bedrock Agentcore for Advanced SecOps,Code talk
+NTA310,Multi-Cloud Container Migrations: Amazon CodeCatalyst for Balanced Workloads.,Chalk talk
+NTA305,Multilingual Contact Center with Amazon Connect,Workshop
+NTA304,Multi-Tenant ETL: Consolidate SaaS Data,Builders' session
+AIM298-S,Next-Generation Data Management — Insights at Scale with Agentic AI in Pharma (sponsored by ZS),Lightning talk
+NTA306,Next-Gen Logistics with GenAI,Workshop
+AIM105-S,Next level patient experiences with Amazon Connect powered by Kyndryl (sponsored by Kyndryl),Lightning talk
+SPS314,Novartis's next-gen clinical platform enables AI drug development,Breakout session
+NTA406,Observability for Reliable Agentic AI with Strands SDK & OpenTelemetry,Code talk
+AIM366,Optimize AI infrastructure performance with SageMaker HyperPod,Chalk talk
+IND360,Privacy-enhanced ML and GenAI for AdTechs with AWS Clean Rooms,Chalk talk
+IND3309,Privacy-enhanced multi-party analytics with AWS Clean Rooms: Setup to insights,Workshop
+SEC210-S,Protecting web apps & APIs with AI and an as-a-Service approach (sponsored by Check Point Software),Breakout session
+CMP204,Quantum Computing: Accelerating Pharma Innovation,Chalk talk
+IND212,Real-time Patient and Revenue Cycle Insights with Gen AI,Lightning talk
+IND208,Reclaiming Clinical Time: How Veradigm Uses AI to Transform Workflows,Breakout session
+IND211,Reimagining Healthcare Access with Amazon One's Biometric Innovation,Chalk talk
+HMC205-S,Reimagining life sciences supply chain with agentic-AI (sponsored by IBM),Lightning talk
+AIM299-S,Reinventing Pharma Document Workflows to Unlock Value at Scale with Agentic AI (sponsored by ZS),Lightning talk
+NTA309,Sandbox Magic: No Spells Required,Workshop
+AIM369,Scalable and resilient distributed AI with Ray on SageMaker HyperPod,Chalk talk
+AIM387,Scale AI and agentic workflows with Amazon SageMaker AI,Breakout session
+AIM424,Scaling foundation model inference on Amazon SageMaker AI,Breakout session
+SEC216-S,"Seamless Network-based Fraud Protection for FinTech & Digital Business (sponsored by Vonage, Part of Ericsson)",Lightning talk
+IND325,Smart Clinical Documentation: Kiro & AWS HealthScribe,Builders' session
+AIM364,Streamline AI model development lifecycle with Amazon SageMaker AI,Breakout session
+AIM270-S,The AI-Powered EHR: Elation Health on AWS & Snowflake (sponsored by Snowflake),Lightning talk
+AIM365,Train high-performing AI models at scale on AWS,Breakout session
+IND210,Transforming Healthcare Payor Operations: AWS-TriZetto Success Story,Lightning talk
+IND352,Transforming Integrated Diagnostics: Philips' AI Journey with AWS,Breakout session
+NTA316,Transitioning VMware workloads: VMC-A to AWS EVS,Chalk talk
+BIZ218,UC San Diego Health modernizes patient engagement with Amazon Connect,Breakout session
+AIM368,Unifying AI/ML operations with SageMaker HyperPod and Amazon EKS,Chalk talk
+ANT313-S,"Unlocking GenAI potential with automated modernization to AWS  (sponsored by Impetus Technologies, Inc.)",Lightning talk
+NTA101,Unlock Innovation: A Guide to AWS Partner Products in AWS Marketplace,Breakout session

@@ -1,0 +1,64 @@
+code,title,type
+AIM265-S,Adopting AI within Streaming Architectures (sponsored by Redpanda),Lightning talk
+ANT421,Advanced Stream Processing with Apache Flink,Chalk talk
+IND373,Agentic KYC: Autonomous customer screening for financial institutions,Chalk talk
+NTA404,AI Code to Production: Context Matters,Code talk
+ARC338,AI-driven architecture: Designing distributed systems at scale,Chalk talk
+API302,API Gateway Authorization Strategies,Builders' session
+DEV303,Architecting Distributed Micro-frontends with Serverless,Chalk talk
+ANT322,Architectural patterns for real-time data analytics on AWS,Chalk talk
+STG411,Best practices for maximizing S3 File Gateway performance,Chalk talk
+API401,Beyond Batch: Modernize with Event-Driven Architecture & Serverless,Builders' session
+ARC319,Beyond microservices: Event-driven patterns for modern applications,Chalk talk
+ANT327-S,Build a GenAI Race Tracker With Confluent & AWS Bedrock in <60 Min  (sponsored by Confluent),Breakout session
+DEV325,Build and Deploy Highly Available Event Processing with Containers,Chalk talk
+API304,Build GenAI-Powered Workflows with Step Functions and AWS AI Services,Builders' session
+API316,Build Hybrid Serverless Architectures with AWS and On-premises Systems,Chalk talk
+AIM357-S,Building Agentic AI Systems with AWS and Agent Mesh (sponsored by Solace),Workshop
+API305,Building EDAs with Apache Kafka and Amazon EventBridge,Chalk talk
+ANT407,Building event-driven applications with AWS Streaming and Messaging,Builders' session
+CNS307,Building event-driven architectures using Amazon ECS with AWS Fargate,Breakout session
+API306,Building event-driven architectures,Workshop
+CNS202,Building interactive web based applications on Serverless,Builders' session
+API313,Building Production-Grade Workflow Patterns with AWS Step Functions,Breakout session
+CNS425,Building production-ready Agentic AI architectures with AWS Serverless,Chalk talk
+ANT422,Building Resilient Multi-Tenant Messaging with Amazon SQS,Chalk talk
+CNS404,Building Serverless distributed data processing workloads,Workshop
+CNS203,Building your first event driven application,Builders' session
+PEX313,Customize Amazon Nova models for Agentic AI with SageMaker & Bedrock ,Workshop
+API201,Decoupling your data-driven applications with Amazon EventBridge Pipes,Builders' session
+CNS316,Effective strategies for testing serverless event-driven applications,Chalk talk
+PEX402,Engineering Intelligence: Multi-Agent AI Systems for Industrials,Chalk talk
+IND358,Experience T-Mobile's Digital Commerce in Action,Breakout session
+ANT208-S,From Agentic AI Demos to ROI: Path to Production With Confluent + AWS (sponsored by Confluent),Breakout session
+CNS423,From Trigger to Execution: The Journey of Events in AWS Lambda,Breakout session
+API312,From Zero to Millions: Building Real-Time Applications at Scale,Breakout session
+CNS319,Handle scaling with AWS Lambda,Builders' session
+API202,How Event Driven Architectures Go Wrong  and How to Fix them,Chalk talk
+DAT201-S,How SAS and Freshworks Power Real-Time Personalization at Extreme Scale  (sponsored by ScyllaDB),Breakout session
+API315,Integration patterns for distributed systems,Breakout session
+STG352,Large-scale software deployments: Inside Amazon S3’s release pipeline,Breakout session
+CNS325,Master distributed transactions: Orchestration with AWS Step Functions,Builders' session
+ANT323,"Mastering materialized views: tips for fast, low-latency queries in Redshift",Chalk talk
+CNS408,Modernizing monoliths: The path to architectural freedom,Builders' session
+API320,Modernizing Serverless Applications with Event-Driven Architectures,Chalk talk
+CNS411,Optimizing Kafka workloads with AWS Lambda,Chalk talk
+ANT316,"Orchestrating with Apache Airflow, MWAA, and SageMaker Unified Studio",Chalk talk
+ARC401,Orchestration meets choreography: Building event-driven architectures,Builders' session
+API319,Processing payments with real-time serverless architectures,Chalk talk
+API308,Real-time for the real world with AWS AppSync Events,Builders' session
+GHJ202,re:Architecture Rodeo - Migration Showdown,Gamified learning
+ARC325,Refactoring post-migration: API-first and event-driven architectures,Chalk talk
+IND361,Scaling document intelligence: Advanced patterns with Amazon Bedrock,Chalk talk
+SPS323,Securing event-driven architectures: from sync to async security,Code talk
+CNS333,Serverless data processing with AWS Lambda and Apache Kafka,Builders' session
+API309,Serverlesspresso: Build an event-driven application from the ground up,Workshop
+CNS336,Telemetry forensics: Debugging event systems with metrics & traces,Builders' session
+API310,The Step Functions Workshop,Workshop
+CNS337,Thinking Serverless,Chalk talk
+OPN413,Transforming Apache Kafka into a Scalable Message Queue,Breakout session
+API402,Understanding AWS Lambda event source mapping,Chalk talk
+IND329,Unified Namespace: Simplifying Manufacturing Data Integration,Chalk talk
+CNS338,Unlock productivity: tools and techniques for developers,Builders' session
+API207,Using event-driven architectures to modernize legacy applications at scale,Breakout session
+CNS340,Write less code: Building applications with a serverless mindset,Builders' session

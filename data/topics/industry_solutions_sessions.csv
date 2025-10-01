@@ -1,0 +1,142 @@
+code,title,type
+IND333,Accelerate financial products from idea to market with AI agents,Chalk talk
+IND395,Accelerate Game Design Reviews with Generative AI and LLM Agents,Code talk
+IND371,Accelerate product development lifecycle with a product digital twin,Lightning talk
+IND413,Accelerate SDV Development: Amazon Q for Automotive Code Refactoring,Chalk talk
+IND202,Accelerating Real-World Evidence Generation in Life Sciences,Breakout session
+IND303,Accelerating Smart Product SDLC with Amazon Q Developer,Chalk talk
+IND302,Agentic AI for Autonomous Networks: AgentCore Design Patterns in Action,Chalk talk
+IND401,Agentic AI for Vehicle Diagnostics and Root Cause Analysis,Builders' session
+PEX202,Agentic AI's new generation of Industry and Line of Business solutions,Breakout session
+PEX301,Agentic AI Solutions for Financial Services & Insurance with AWS,Breakout session
+IND304,Agentic video summarization for autonomous content creation at scale,Chalk talk
+IND334,Agent in an hour: Build an agentic app with Strands Agents and MCP,Builders' session
+IND412,Agents for Energy : Accelerate renewable asset planning with agentic workflows,Workshop
+IND407,AI Agents for deploying telco network workloads on AWS: MCP-powered Framework,Builders' session
+IND305,AI Agents in Manufacturing: Building Intelligent Data Workflows,Chalk talk
+IND203,AI and HCP Engagement: Powering Smarter Life Sciences Field Operations,Chalk talk
+IND335,AI-Driven Research: Automating Workflows with AWS HealthOmics,Builders' session
+AIM274-S,AI-First Contact Centers: Reinventing Scale with AWS and Partners (sponsored by PwC),Breakout session
+IND336,Amazon Bedrock AgentCore & MCP for Automated Telecom Service Assurance,Builders' session
+IND323,"Amazon Q Apps: Power RCM, Member Engagement, & Drug Safety Management ",Builders' session
+AIM203-S,An Alliance for Our Times: Building the Next Frontier of Cancer Research (sponsored by Deloitte),Breakout session
+IND368,Apollo Tyres Accelerates Engineering Workflows with HPC on AWS,Breakout session
+PEX308,Architecting Agentic AI for Supply Chain: Data-to-Decision Patterns,Chalk talk
+IND307,Architecting Intelligent Supply Chains with Multi-Agent Orchestration,Chalk talk
+MAM221-S,Architecting Trusted GenAI and Agentic Experiences in Financial Services (sponsored by Coveo),Lightning talk
+IND301,Architect petabyte-scale observability with OpenSearch and Amazon Q,Chalk talk
+AIM113-S,AstraZeneca's AI-powered Drug Discovery with Snowflake & AWS (sponsored by Snowflake),Breakout session
+IND338,Automate analysis and extract intelligence from financial datasets,Workshop
+IND384,Automate insights and drive innovation with cloud and AI solutions,Breakout session
+IND339,Automate Inventory Rebalancing on AWS with Agentic AI,Builders' session
+IND393,Automating Amazon Fulfillment Center Operations with Generative AI,Breakout session
+IND337,Auto ML Pipeline for Custom Telco Language Models in Amazon Connect,Workshop
+PEX305,Automotive Supply Chain Optimization using AI,Breakout session
+IND340,Autonomous Live-Ops: AI Agents for Dynamic Gaming Experiences,Workshop
+SMB202,AWS & GenAI Power CDG's Telecom Software Modernization Journey,Lightning talk
+IND341,Behind the curtain: Generative AI observability in financial services,Chalk talk
+PEX309,Breakdown to Breakthrough: Crafting AI-Powered Smart Machine Support,Chalk talk
+IND309,Breaking Down Silos: Multi-Agent Architecture for Media Operations,Chalk talk
+IND310,Build Agentic AI Solutions for Industrial Predictive Maintenance,Workshop
+IND342,Build a multi-agent financial research assistant with Amazon Bedrock,Workshop
+IND403,Build Humanoid Intelligence: Advancing Physical AI with AWS and NVIDIA,Chalk talk
+AIM273-S,Building a Cloud-Native Risk Decisioning Platform for Resilience (sponsored by PwC),Breakout session
+IND409,Building Agentic Smart home with Generative AI,Workshop
+IND402,Building an Agentic AI-powered Knowledge Assistant for Engineering R&D,Chalk talk
+IND313,"Building Intelligent Healthcare Systems: FHIR, AI, and AWS HealthLake",Workshop
+IND344,Building multi-Region financial transaction systems with Aurora DSQL,Builders' session
+IND345,Building privacy-aware generative AI applications in financial services,Chalk talk
+IND346,Building vertical AI agent blueprints in financial services,Chalk talk
+IND319,Build Intelligent Media Workflows with Agentic AI,Workshop
+IND311,Build Media Workflows with Natural Language Using Strands Agents SDK,Builders' session
+IND312,Build Streaming Analytics Dashboards in Minutes with Amazon Q Developer,Builders' session
+IND408,Build Virtual Engineering Workbenches for SDV with AWS Marketplace,Workshop
+IND343,Build your own AI-Driven Industrial Automation System with Agentic AI,Builders' session
+IND350,Chaos detective: Deploy generative AI-powered troubleshooting agents,Chalk talk
+IND347,Combat financial document fraud with a multi-agent system,Workshop
+AIM292-S,Cracking the SMB Code: AI Sales That Redefine Travel Growth (sponsored by ZS),Lightning talk
+IND348,Create a secure card management platform with AWS Payment Cryptography,Chalk talk
+IND349,Data Harmony: AWS AI Agents for Clinical Integration,Chalk talk
+IND331,Democratizing Whirlpool's Virtual Product Development with AWS,Breakout session
+IND351,Design a multi-expert system for fraud investigation with AI agents,Chalk talk
+IND314,DevOps Meets Broadcast: Build Your Own Multi-Camera Broadcast Solution,Workshop
+IND353, Documents to decisions: AI-powered underwriting with Amazon Bedrock,Builders' session
+IND315,Do's and don'ts for mission-critical workloads in financial services,Chalk talk
+IND316,Driving Autonomous Operations with Data Sharing and Agentic AI,Chalk talk
+BIZ210-S,Driving Intelligent Project Portfolio Visibility with AWS + Smartsheet (sponsored by Smartsheet),Lightning talk
+IND406,Embedded Software Development in the Agentic AI Era,Builders' session
+DEV344,Empowering communities - create fun events on AWS services,Lightning talk
+IND390,Energy HPC Orchestrator: A Cloud Native HPC Workflows Management Application,Chalk talk
+PEX402,Engineering Intelligence: Multi-Agent AI Systems for Industrials,Chalk talk
+IND410,Enhance GenAI Outcomes in Telecom with Domain Specific Fine-Tuning,Chalk talk
+IND358,Experience T-Mobile's Digital Commerce in Action,Breakout session
+IND217-S,Fast and compliant CI/CD pipelines in the financial industry (sponsored by Octopus Deploy),Lightning talk
+IND317,Financial services multi-Region design patterns and best practices,Chalk talk
+IND306,From Bytes to Bench: Best practices for life science research agents,Workshop
+AIM222-S,From Data to Action: Agentic-Powered Humanitarian Response (sponsored by Cloudera),Breakout session
+PEX310,From Motion to Meaning: AI-Powered Human Movement Analysis on AWS,Chalk talk
+IND399,From Print to AI: The Economist's Digital Evolution with AWS Architecture,Lightning talk
+IND386,From UX to AX: MCP Servers for AI Shopping Agents,Lightning talk
+IND354,Game Dev on AWS: Your Studio Architecture Questions Answered,Chalk talk
+AIM276-S,GenAI in Private Equity: Moving from Pilots to Performance (sponsored by PwC),Breakout session
+AIM241-S,Healthcare Transformed: Reimagining the Future with Generative AI (sponsored by PwC),Breakout session
+IND3311,How Amazon Game Studios builds a data foundation for AI/ML on AWS,Chalk talk
+AIM347-S,How Baker Hughes is Driving Energy Innovation with AWS AI (sponsored by Baker Hughes),Lightning talk
+SMB203,How Cires21 revolutionized advanced video workflows using AI on AWS,Lightning talk
+IND318,How Prime Video balanced innovation and reliability for live sports,Chalk talk
+IND369,How TE Connectivity Transforms Product Engineering with Agentic AI,Breakout session
+IND320,How Toyota Built an AI Platform that Revolutionizes the Dealer Experience,Breakout session
+IND404,Improve Manufacturing Production Planning with Amazon SageMaker,Workshop
+AIM275-S,Intelligent Outage Management Using Automated Reasoning and AI (sponsored by PwC),Lightning talk
+SMB205,Learn how Riskspan is transforming private credit market using GenAI,Lightning talk
+IND355,Level Up Your Asset Pipeline: AI-Powered 3D Model Generation at Scale,Builders' session
+IND209-S,Leverage Graph Insights to Turbocharge Amazon Q (sponsored by Securiti AI),Lightning talk
+IND356,Mastering data chaos: Enterprise-scale catalogs for financial services,Chalk talk
+NTA311,Modernizing Document Processing,Chalk talk
+AIM124-S,Modernizing KYC process using Agentic AI (sponsored by Capgemini),Breakout session
+IND321,Modernizing Legacy Systems: Boeing's PLM Cloud Transformation,Breakout session
+IND218-S,Modernizing Mercedes-Benz’s Global Ordering System with Gen AI (sponsored by Capgemini),Breakout session
+IND370,Modernizing Operational Technology for AI-power Manufacturing,Lightning talk
+IND357,Multi-agent collaboration for optimized advertising performance,Chalk talk
+PEX311,Multimodal Video Understanding AI at Scale with Amazon Bedrock,Workshop
+IND359,Navigating multi-Region AWS database choices for financial services,Chalk talk
+SMB201,Nextworld Revolutionizes ERP: Supply Chain powered by Sagemaker AutoML,Lightning talk
+IND389,Operationalizing MCP for Agentic AI in Utilities with Bedrock AgentCore,Chalk talk
+IND204,Powering the Future of Battle Royale — EA’s Apex Legends & Amazon GameLift,Breakout session
+DAT101-S,Presidio Resonate: AI Agents Orchestrating Multimodal Data at Scale (sponsored by Presidio),Lightning talk
+IND360,Privacy-enhanced ML and GenAI for AdTechs with AWS Clean Rooms,Chalk talk
+IND3309,Privacy-enhanced multi-party analytics with AWS Clean Rooms: Setup to insights,Workshop
+INV210,Prompting the future: How the public sector turns barriers into breakthroughs,Innovation talk
+IND383,Rapidly accelerate product development and launches with AI,Breakout session
+IND3316,Real-time AI inference patterns: Lessons from production game workloads,Chalk talk
+IND322,Redefining Operations: Caterpillar's Geospatial Intelligence Solution,Breakout session
+SEC346-S,Reimagining SIEM architecture using AWS S3 Buckets (sponsored by Vega),Lightning talk
+AIM204-S,Reimagining software with Bedrock agent powered middlewares (sponsored by Cybage Software),Lightning talk
+IND372-S,Reinventing credit origination process through AI (sponsored by Cloudera),Lightning talk
+IND101-S,Reliable AI at Scale: How Data + AI Observability Powers AI Products with AWS (sponsored by Monte Carlo),Lightning talk
+IND367,Revolutionizing Audi's Welding Inspection System through AI,Breakout session
+IND398,Rovio’s GenAI Journey: Game Asset Creation with AWS AI Stack,Breakout session
+IND379,Run real-time advertising workloads with unmatched cost-performance on AWS,Breakout session
+NTA309,Sandbox Magic: No Spells Required,Workshop
+IND215-S,Scaling Data Transformation w/ dbt & Nasdaq: Unlocking Ent Power Global Mkts (sponsored by dbt Labs),Lightning talk
+IND361,Scaling document intelligence: Advanced patterns with Amazon Bedrock,Chalk talk
+IND362,Scaling enterprise data operations with Amazon SageMaker Unified Studio,Chalk talk
+IND324,Simplify fraud investigation with Strands Agents and Amazon Nova Sonic,Chalk talk
+IND325,Smart Clinical Documentation: Kiro & AWS HealthScribe,Builders' session
+IND326,Smart Machines: Maximizing Business Value with Generative AI,Chalk talk
+NTA319,Spreetail's AI Value Journey ,Breakout session
+IND363,Stream 3D applications globally with Amazon GameLift Streams,Workshop
+IND327,Sysco's Digital Transformation: Platform Engineering with Amazon Q,Chalk talk
+AIM270-S,The AI-Powered EHR: Elation Health on AWS & Snowflake (sponsored by Snowflake),Lightning talk
+API101-S,The Federal Fast Lane: Deploying Mission Technology at Commercial Speed (sponsored by LMI),Lightning talk
+IND380,The Trade Desk optimizes media buying and ad experiences with AI on AWS,Breakout session
+IND328,Transforming Additive Manufacturing with Agentic AI,Chalk talk
+IND352,Transforming Integrated Diagnostics: Philips' AI Journey with AWS,Breakout session
+AIM213-S,Transforming Lincoln Financials' Gen-AI powered CX with AWS & Deloitte (sponsored by Deloitte),Breakout session
+IND405,Transforming Manufacturing Operations with Agentic Edge Gateways,Chalk talk
+IND364,Transforming Service Operations with IoT and Gen AI,Builders' session
+AIM349-S,UCLA’s AI Assistant: Reimagining Student Success with Kyndryl & AWS (sponsored by Kyndryl),Breakout session
+IND329,Unified Namespace: Simplifying Manufacturing Data Integration,Chalk talk
+IND365,Unifying data platforms for generative AI-ready financial systems,Chalk talk
+IND330,Voice AI restaurant ordering platform powered by Amazon Nova Sonic,Chalk talk
+IND332,Zero-Training Visual Defect Detection Using Amazon Nova,Workshop

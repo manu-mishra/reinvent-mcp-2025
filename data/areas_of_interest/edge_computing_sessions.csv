@@ -1,0 +1,29 @@
+code,title,type
+HMC316,Address digital sovereignty with hybrid and cloud solutions,Chalk talk
+AIM248-S,Agentic Smart City Showdown: EKS Edge to Cloud Playtime  (sponsored by Intel),Workshop
+DEV301,"AI agents at the edge: Build for offline, scale in cloud",Breakout session
+ARC334,"AI model benchmarking with Amazon SageMaker, Amazon Bedrock & AWS IoT Greengrass",Chalk talk
+ARC320,Architecting resilient global networks with Project Kuiper,Breakout session
+IND375,Best practices for optimizing financial services application latency ,Chalk talk
+HMC301,Build and operate resilient and performant distributed applications,Workshop
+HMC403,Build and optimize edge architecture for resiliency with AI,Code talk
+HMC308,Build generative and agentic AI applications on-premises and at the edge,Breakout session
+ANT407,Building event-driven applications with AWS Streaming and Messaging,Builders' session
+HMC315,Deep dive on AWS hybrid and edge networking architectures,Chalk talk
+HMC314,Deploying for resilience: HA/DR strategies for AWS Outposts and AWS Local Zones,Chalk talk
+DEV316,Designing local Generative AI inference with AWS IoT Greengrass,Breakout session
+HMC311,Developing end-to-end SLM pipelines from the cloud to the edge,Chalk talk
+HMC310,Digital sovereignty and data residency with AWS,Breakout session
+AIM2202-S,"Edge AI in Real-World Solutions using AWS SageMaker, Greengrass and Bedrock (sponsored by Qualcomm)",Breakout session
+HMC313,Extend Amazon EKS clusters for on-premises and edge use cases,Chalk talk
+AIM119-S,From idea to instant production readiness: building AI agents on Cloudflare (sponsored by Cloudflare),Lightning talk
+HMC317,Implement Agentic AI at the edge for industrial automation,Code talk
+HMC302,Implementing agentic AI solutions on-premises and at the edge,Workshop
+DEV404,I Put an Agent in a Biscuit,Breakout session
+HMC305,Low-latency SLM deployment: Optimizing inference on AWS Hybrid and Edge services,Workshop
+HMC402,Meet ultra-low latency and high throughput needs with AWS Outposts,Chalk talk
+NET320,Origin management for multi-region applications with Amazon CloudFront,Chalk talk
+HMC204-S,"Reinventing the Retail Edge with YUM! Brands, AWS & Spectro Cloud (sponsored by Spectro Cloud)",Lightning talk
+IND405,Transforming Manufacturing Operations with Agentic Edge Gateways,Chalk talk
+IND329,Unified Namespace: Simplifying Manufacturing Data Integration,Chalk talk
+CNS355,Unlock distributed GenAI inference with Amazon EKS Hybrid Nodes,Chalk talk

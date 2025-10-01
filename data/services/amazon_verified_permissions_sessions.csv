@@ -1,0 +1,8 @@
+code,title,type
+CNS365,Advanced authorization patterns for secure serverless applications,Chalk talk
+IND345,Building privacy-aware generative AI applications in financial services,Chalk talk
+SEC313,Enabling secure AI Agent access with Amazon Bedrock AgentCore Identity,Breakout session
+SEC339,Modern workload identity management strategies,Chalk talk
+SEC312,Secure and build apps in minutes with Amazon Verified Permissions,Builders' session
+SEC408,"Securing Agentic AI: OWASP, MAESTRO, and Real-World Defense Strategies",Chalk talk
+ISV301,Simplify Tenant Authorization with Cedar and Amazon Verified Permissions,Builders' session

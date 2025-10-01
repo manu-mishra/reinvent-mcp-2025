@@ -1,0 +1,48 @@
+code,title,type
+WPS313,Accelerating Research at Scale: MIT’s Self-Service Portal,Breakout session
+HMC316,Address digital sovereignty with hybrid and cloud solutions,Chalk talk
+WPS306,Advanced DDoS protection and DNS capabilities in AWS GovCloud (US),Chalk talk
+ARC208-S,Advancing Behavioral Health Analytics with Integrated Cloud Services (sponsored by Deloitte),Breakout session
+WPS301,Agentic AI beyond the cloud: Building autonomy at the edge,Chalk talk
+AIM248-S,Agentic Smart City Showdown: EKS Edge to Cloud Playtime  (sponsored by Intel),Workshop
+AIM3316-S,Agents & Tool Use at the Frontier: Building Autonomous Systems w/ Claude on AWS (sponsored by Anthropic),Breakout session
+AIM247-S,"All Power, No Pain: Scale Agentic AI Apps in an Open Lakehouse (sponsored by Qlik)",Lightning talk
+CMP209,Amazon Braket Hubs - Accelerating R&D in national quantum initiatives,Chalk talk
+WPS302,Amazon SageMaker Unified Studio for Public Sector,Workshop
+AIM203-S,An Alliance for Our Times: Building the Next Frontier of Cancer Research (sponsored by Deloitte),Breakout session
+WPS201,"Architecting large-scale migrations at the NSA, Fannie Mae, and DCSA",Breakout session
+WPS207,Autonomy in Defense: Scaling Innovation for Mission Outcomes,Breakout session
+COP349,Balancing Agility and Compliance feat. The Digital Agency of Japan,Breakout session
+HMC301,Build and operate resilient and performant distributed applications,Workshop
+WPS303,Building a GenAI-Powered Compliance Bot to Secure Networks on AWS,Builders' session
+WPS316,Building Cornell's AI Future: AWS Innovation at Enterprise Scale,Breakout session
+WPS307,Building sovereign LLMs: Best practice from national-scale deployments,Chalk talk
+WPS202,Chaos & Continuity: Using Gen AI to improve humanitarian workload resilience,Lightning talk
+WPS304,Deploy artificial intelligence architectures in regulated industries ,Chalk talk
+HMC310,Digital sovereignty and data residency with AWS,Breakout session
+AIM261-S,Dive into Poolside: AI Models for Today’s Enterprise Software Teams (sponsored by poolside),Breakout session
+BIZ210-S,Driving Intelligent Project Portfolio Visibility with AWS + Smartsheet (sponsored by Smartsheet),Lightning talk
+WPS312,Enabling government to streamline and ensure healthcare coverage with data,Breakout session
+WPS401,Enhancing public sector efficiency with Agentic AI,Workshop
+MAM106-S,Enterprise-scale App Modernization with Agentic AI through TSRI's JANUS Studio (sponsored by TSRI),Lightning talk
+CMP408,Exploring hybrid quantum-classical computing with Amazon Braket,Workshop
+WPS402,From manual to AI: Transforming Brazil's national exam at scale,Chalk talk
+WPS305,Gen AI economics: Maximizing value while protecting the purse,Chalk talk
+AIM246-S,Hesitate and You’re History: Why You Need Agentic AI Right Now (sponsored by Qlik),Breakout session
+WPS205,High Performance Computing for Mission-Ready Federal Workloads,Breakout session
+WPS403,Improving citizens customer experience ,Chalk talk
+AIM262-S,Inside Poolside’s Model Factory: Building Better Models Faster (sponsored by poolside),Breakout session
+HMC305,Low-latency SLM deployment: Optimizing inference on AWS Hybrid and Edge services,Workshop
+HMC303,Migrate and modernize VMware and Java workloads with on-premises dependencies,Workshop
+PEX311,Multimodal Video Understanding AI at Scale with Amazon Bedrock,Workshop
+WPS314,Next-Gen SOC: Agentic SOC analyst with Amazon Bedrock,Workshop
+HMC205-S,Reimagining life sciences supply chain with agentic-AI (sponsored by IBM),Lightning talk
+WPS203,Reimagining Public Sector with AWS Partner generative AI solutions,Lightning talk
+HMC204-S,"Reinventing the Retail Edge with YUM! Brands, AWS & Spectro Cloud (sponsored by Spectro Cloud)",Lightning talk
+WPS308,Revolutionize public sector data governance with unified analytics,Chalk talk
+WPS317,Secure AI Agents Delivering Efficiency in Regulated Industries,Breakout session
+WPS309,"Smart Alerts, Smarter Workflows: The Amazon Connect Edge",Builders' session
+ARC101-S,Supercharge your data insights with the Cisco Data Fabric (sponsored by Splunk),Breakout session
+API101-S,The Federal Fast Lane: Deploying Mission Technology at Commercial Speed (sponsored by LMI),Lightning talk
+WPS310,"Unifying Educational Content Analysis with Bedrock, Agents & Nova",Builders' session
+WPS311,Weather emergency advisor with Amazon Bedrock and Location Service,Chalk talk

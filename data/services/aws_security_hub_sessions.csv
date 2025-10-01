@@ -1,0 +1,21 @@
+code,title,type
+AIM340,AI agents for cloud ops: Automating infrastructure management,Code talk
+ARC329,Architect for Zero Trust in AWS,Chalk talk
+SEC302,Ask AWS: Your ransomware questions answered,Chalk talk
+DEV322,Automated Security Remediation with AWS Step Functions,Builders' session
+NTA321,AWS Agent for SAP Invoice Automation,Workshop
+SEC323,AWS detection and response innovations that drive security outcomes,Breakout session
+COP349,Balancing Agility and Compliance feat. The Digital Agency of Japan,Breakout session
+SEC305,Building enhanced container threat protection for improved security posture,Builders' session
+DEV324,Building Real-Time Container Security with AWS Native Tools,Chalk talk
+GBL204,"Cyber Resilience on AWS, designing security and recovery strategies",Breakout session
+SEC206-S,From collecting tools to an autonomous SOC (sponsored by SentinelOne),Breakout session
+ISV310,Global Growth: A Framework for Expanding into New Regions,Chalk talk
+COP344,Implementing Automated Security Controls for Zero-Day Defense,Chalk talk
+COP411,Intelligent automation for managing cloud governance and compliance,Builders' session
+PEX315,Intelligent Security Operations with AWS: AI-Powered Incident Response,Workshop
+SEC337,Securing IoT Workloads with AWS IoT Lens and AWS Security Reference Architecture,Chalk talk
+SEC315,Security posture and exposure management using AWS security services,Workshop
+SEC316,Staying  Ahead:Smart Strategies for Effective Vulnerability Management,Breakout session
+INV511,Symbolic Execution for Better Cloud Governance,Chalk talk
+SEC227,Translating Security Metrics into Business Outcomes,Chalk talk

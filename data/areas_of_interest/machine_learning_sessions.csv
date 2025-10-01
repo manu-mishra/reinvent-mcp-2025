@@ -1,0 +1,136 @@
+code,title,type
+AIM401,Accelerate AI model fine-tuning and deployment with SageMaker HyperPod,Workshop
+AIM362,Accelerate AI workloads with UltraServers on Amazon SageMaker HyperPod,Breakout session
+STG347,Accelerate application performance with Amazon S3 Express One Zone,Chalk talk
+STG356,Accelerate data migrations to AWS,Chalk talk
+ANT325,A deep dive into AI/ML development in SageMaker Unified Studio,Chalk talk
+AIM425,Advanced agentic RAG Systems: Deep dive with Amazon Bedrock,Code talk
+AIM402,Advanced model customization with Amazon Nova,Builders' session
+ANT421,Advanced Stream Processing with Apache Flink,Chalk talk
+AIM232-S,Agentic AIOps: How LogicMonitor & WWT See Enterprises Readying for Autonomous IT (sponsored by LogicMonitor),Breakout session
+AIM3312,Agents that remember: Implementing context with AgentCore Memory,Breakout session
+AIM3316-S,Agents & Tool Use at the Frontier: Building Autonomous Systems w/ Claude on AWS (sponsored by Anthropic),Breakout session
+DEV335,AgentVision: Multi-Agent Frameworks for Esports Video Understanding,Chalk talk
+ARC334,"AI model benchmarking with Amazon SageMaker, Amazon Bedrock & AWS IoT Greengrass",Chalk talk
+STG335,"Amazon S3 performance: Architecture, design, and optimization",Breakout session
+STG334,"Amazon S3 Tables architecture, use cases, and best practices",Breakout session
+ARC335,Architecting AI solutions for mission-critical systems with UK MetOffice,Breakout session
+CNS303,Architecture patterns for MLOps on Amazon EKS,Chalk talk
+CMP305,Assembling the Complete AI Stack: Optimizing Your AI Hardware on AWS,Chalk talk
+AIM367,A strategic guide to AWS compute options for your AI/ML workload,Chalk talk
+SPS201,Autodesk's ML Inference Optimization: Leveraging AWS AI Chips,Breakout session
+OPN302,AutoGluon: Build Production ML Apps from Zero to Hero,Workshop
+IND338,Automate analysis and extract intelligence from financial datasets,Workshop
+IND339,Automate Inventory Rebalancing on AWS with Agentic AI,Builders' session
+AIM405,Automating LLM evaluation at scale: MLOps for continuous improvement,Workshop
+HMC211-S,AWS and Oracle: Transforming Healthcare (sponsored by Oracle),Lightning talk
+GHJ305,AWS GameDay: Agentic AI ft. Dynatrace,Gamified learning
+AIM3304,"Balance cost, performance & reliability for AI at enterprise scale",Breakout session
+AIM3303,Beyond short interactions: Building long running agents with AgentCore,Chalk talk
+AIM394,Bridging the POC to production gap: An introduction to AgentCore,Breakout session
+AIM3311,Build agentic workflows on AWS with third-party agents and tools,Breakout session
+AIM406,Build agentic workflows with Small Language Models and SageMaker AI,Workshop
+AIM341,Build agents with Amazon Bedrock AgentCore & Strands Agents,Workshop
+AIM392,Build AI apps faster and at scale using Amazon Bedrock APIs,Chalk talk
+STG305,"Build fast, scalable infrastructure for AI/ML with AWS storage",Workshop
+AIM371,"Build, fine-tune & deploy AI models with SageMaker HyperPod CLI & SDK",Code talk
+AIM399,Building A2A-enabled applications with Strands Agents,Chalk talk
+STG413,Building an operational data lake using S3 Tables and SageMaker,Chalk talk
+AIM397,Building governed agents: Human-in-the-loop with AgentCore and Strands,Chalk talk
+ISV306,Building Multi-tenant global ML SaaS platform,Lightning talk
+ANT324,"Building Pipelines for Analytics, ML and AI in Amazon Sagemaker Unified Studio",Chalk talk
+AIM390,Building tomorrow's AI applications at scale with Amazon Bedrock,Breakout session
+AIM324,Build production-ready AI solutions with Claude in Amazon Bedrock,Workshop
+AIM306,Build reliable agents: Real-time insights with AgentCore Observability,Builders' session
+AIM303, Build trustworthy AI applications with Amazon Bedrock Guardrails,Workshop
+STG307,Build your own GenAI app on Amazon EKS with Amazon FSx and accelerated compute,Workshop
+AIM3300,Collaborate at scale: Architecting multi-agent systems with AgentCore,Chalk talk
+AIM407,Cost-efficient AI model scaling with Amazon EKS on SageMaker HyperPod,Workshop
+AIM386,Customize foundation models using Amazon SageMaker AI,Chalk talk
+AIM3315,Customize GPT-OSS models on Amazon SageMaker AI for improved accuracy,Chalk talk
+AIM363,Customize & scale foundation models using Amazon SageMaker AI,Breakout session
+HMC325,Data architecture for multicloud environments,Chalk talk
+AIM3314,"Debug, trace, improve: Observability for agentic applications",Chalk talk
+AIM3305,"Deliver a smarter, faster, and a more accurate agentic RAG system",Breakout session
+AIM3319,Deploy LLMs at scale with vLLM Deep Learning Containers and AI agents,Chalk talk
+AIM388,Develop AI Agents faster with Amazon SageMaker Studio and AgentCore,Breakout session
+AIM381,Develop AI Agents faster with Amazon SageMaker AI & Bedrock AgentCore,Breakout session
+ANT207,Develop with natural language and agentic AI in Amazon SageMaker Unified Studio,Chalk talk
+AIM409,Distributed training at scale with Slurm on Amazon SageMaker HyperPod,Workshop
+AIM2202-S,"Edge AI in Real-World Solutions using AWS SageMaker, Greengrass and Bedrock (sponsored by Qualcomm)",Breakout session
+AIM410,Efficient AI model customization for agentic workflows,Builders' session
+PEX402,Engineering Intelligence: Multi-Agent AI Systems for Industrials,Chalk talk
+AIM301,Expand Agent Capabilities with AgentCore Gateway and Tools,Workshop
+AIM393,Explore AI customization techniques with Amazon Bedrock,Chalk talk
+AIM3306,Explore zero-downtime deployment strategies for production LLMs,Chalk talk
+STG416,File storage for high-performance workloads,Chalk talk
+IND376,Financial services LLMOps: Scaling pilots to production ,Chalk talk
+STG205,Flawless AI: Visual dubbing at scale with Amazon S3,Lightning talk
+AIM395,From concept to campaign: Building marketing agents with AgentCore,Breakout session
+IND3306,From fragmented to unified platform: Rocket Companies data and AI journey ,Breakout session
+ANT202-S,From Kitchen to Cloud: How Brinker Dishes Out Data-Driven Success (sponsored by Teradata),Lightning talk
+PEX310,From Motion to Meaning: AI-Powered Human Movement Analysis on AWS,Chalk talk
+STG336,"High-performance storage for AI/ML, analytics, and HPC workloads",Breakout session
+IND3321,How Allianz designed AIOps at enterprise scale,Breakout session
+IND3300,How Stripe built a foundation model for fraud detection on AWS,Breakout session
+STG348,How to optimize AWS storage for generative AI and ML workloads,Chalk talk
+SPS321,How Yahoo! Finance built research multi-agent systems with Gen AI,Breakout session
+NTA318,Iceland.co.uk: Boosting sales with hyper-personalized recommendations ,Breakout session
+CNS348,Implement distributed inference with Amazon ECS,Chalk talk
+AIM262-S,Inside Poolside’s Model Factory: Building Better Models Faster (sponsored by poolside),Breakout session
+AIM396,Integrate any agent framework with Amazon Bedrock AgentCore,Breakout session
+AIM358-S,Intelligent vs. Knowledgeable Models through the Lens of Data (sponsored by Bright Data),Lightning talk
+AIM272,Master AI model development with Amazon SageMaker AI,Breakout session
+AIM321,Mastering agent authentication: Hands-on with AgentCore Identity,Builders' session
+AIM3310,Mastering AI agents in enterprises: Best practices with AgentCore,Breakout session
+AIM412,Mastering foundation model customization with Amazon SageMaker AI,Workshop
+AIM3321,Mastering LLM inference on Amazon  SageMaker AI,Chalk talk
+AIM391,Mastering model choice: The 3-step Amazon Bedrock advantage,Breakout session
+AIM322,Model governance at scale with SageMaker AI,Workshop
+STG404,Modern batch analytics: Building advanced pipelines with S3 Tables,Workshop
+NTA311,Modernizing Document Processing,Chalk talk
+IND370,Modernizing Operational Technology for AI-power Manufacturing,Lightning talk
+ANT102-S,Modernizing Wealth Management with Cloud + AI Use Cases (sponsored by Incedo Inc),Lightning talk
+IND3303,Moody’s: Architecting a multi-agent system on AWS,Breakout session
+INV517,Neurosymbolic AI integration in LLMs to enhance reasoning,Chalk talk
+INV510,Next generation etcd for Amazon EKS,Chalk talk
+STG405,Onboarding and optimizing AI/ML workloads with Amazon S3 & Amazon EKS,Workshop
+AIM366,Optimize AI infrastructure performance with SageMaker HyperPod,Chalk talk
+CNS410,Optimize analytics workloads on Amazon EKS for performance and cost,Workshop
+CNS419,Optimize GenAI inference and model performance on Amazon EKS,Chalk talk
+AIM311,"Optimize open weight models for low-latency, cost-effective AI apps",Builders' session
+COP413,Optimizing GenAI performance with Amazon CloudWatch,Builders' session
+STG314,Optimizing storage for your containers and Amazon EKS applications,Chalk talk
+STG343,Optimizing throughput performance using Mountpoint for Amazon S3,Chalk talk
+CNS328,Paper to production: Hosting LLMs on Amazon EKS using NVIDIA GPUs,Workshop
+AIM3301,Performance meets pragmatism: Cost-optimized agents with AgentCore,Chalk talk
+AIM316,Rapidly build and scale real-world AI agents with AgentCore & Strands,Workshop
+BIZ313,Refine customer journeys with predictive routing in Amazon Connect,Chalk talk
+AIM3308,Safeguard your generative AI applications with Amazon Bedrock Guardrails,Chalk talk
+AIM369,Scalable and resilient distributed AI with Ray on SageMaker HyperPod,Chalk talk
+AIM3313,Scaling agent tools with AgentCore Gateway for enterprises,Breakout session
+IND362,Scaling enterprise data operations with Amazon SageMaker Unified Studio,Chalk talk
+AIM424,Scaling foundation model inference on Amazon SageMaker AI,Breakout session
+AIM2201-S,Scaling instantly to 1000 GPUs for Serverless AI inference (sponsored by Modal),Lightning talk
+IND3313,Secure in milliseconds: Visa's AI-powered fraud defense on AWS,Breakout session
+AIM398,Securing AI agent workflows: Identity patterns in AgentCore,Chalk talk
+CNS420,"Shuffle, Scale, Succeed: Optimizing Spark Performance on Amazon EKS",Chalk talk
+AIM3309,Slack securely powers internal AI dev tools with Bedrock and Strands,Breakout session
+AIM314,"Smarter Agents, Better Insights: Contextual Memory in Action",Workshop
+NTA319,Spreetail's AI Value Journey ,Breakout session
+AIM411,Streamline agent development using Amazon SageMaker AI with MLflow 3.0,Workshop
+AIM364,Streamline AI model development lifecycle with Amazon SageMaker AI,Breakout session
+ARC101-S,Supercharge your data insights with the Cisco Data Fabric (sponsored by Splunk),Breakout session
+AIM333,Sustainable and cost-efficient generative AI with agentic workflows,Breakout session
+AIM417,Sustainable computing for climate solutions,Breakout session
+INV512,The hidden engineering behind foundation model building,Chalk talk
+INV513,The Mirage of Benchmarks: Foundations of LLM Evaluation Reliability,Chalk talk
+AIM365,Train high-performing AI models at scale on AWS,Breakout session
+AIM327,Transform multimodal data with Amazon Bedrock Data automation,Builders' session
+AIM368,Unifying AI/ML operations with SageMaker HyperPod and Amazon EKS,Chalk talk
+AIM216-S,"United Airlines, Deloitte & AWS GenAI-Powered Mainframe Emulator (sponsored by Deloitte)",Breakout session
+AIM426,"Using Strands to build fully autonomous, self-improving AI agents",Code talk
+OPN414,vLLM on AWS: testing to production and everything in between,Breakout session
+AIM3302,Your data is your moat: Integrating AWS-native tools into agents,Chalk talk
+AIM325,Zero to launch: Deploy AI agents with AgentCore Runtime and Identity,Workshop
+IND332,Zero-Training Visual Defect Detection Using Amazon Nova,Workshop

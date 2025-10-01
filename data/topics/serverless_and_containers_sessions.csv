@@ -1,0 +1,151 @@
+code,title,type
+API301,Accelerate API Creation with Amazon Q Developer CLI,Builders' session
+CNS373,Accelerate building Serverless apps with Amazon Q and MCP servers,Code talk
+CNS207,Accelerate container migrations with Amazon EKS Auto Mode,Chalk talk
+CNS301,Accelerate platform engineering on Amazon EKS,Workshop
+CNS315,Accelerate software delivery with Amazon,Breakout session
+AIM237,Accelerating sustainability compliance with AI-powered document review,Lightning talk
+CNS365,Advanced authorization patterns for secure serverless applications,Chalk talk
+NTA404,AI Code to Production: Context Matters,Code talk
+CNS351,Amazon ECS observability patterns and design decisions,Chalk talk
+CNS401,"Amazon EKS: Infrastructure as code, GitOps, or CI/CD",Chalk talk
+DEV303,Architecting Distributed Micro-frontends with Serverless,Chalk talk
+CNS302,Architecting for data protection and compliance with Amazon ECS,Builders' session
+CNS303,Architecture patterns for MLOps on Amazon EKS,Chalk talk
+MAM203,"AWS for VMware migrations: Successes, roadmaps, & strategies",Breakout session
+CNS304,AWS Lambda performance tuning: Best practices and guidance,Chalk talk
+DVT315,AWS SAM Beyond the Basics - Powered by Amazon Q Developer,Chalk talk
+CNS402,AWS Serverless developer experience workshop,Workshop
+CNS403,Best practices for serverless developers,Breakout session
+CNS346,"Break down monoliths, modernizing applications on Amazon ECS",Chalk talk
+CNS305,Bring the power of Amazon EKS to your on-premises applications,Builders' session
+CNS358,"Build AI-powered developer experiences with MCP on ECS, EKS and Lambda",Breakout session
+CNS352,Build an adaptive compute grid with Amazon ECS and AWS Lambda,Chalk talk
+DEV325,Build and Deploy Highly Available Event Processing with Containers,Chalk talk
+DAT448,Build a stablecoin payment processor using AWS serverless services,Workshop
+CNS359,"Build, deploy, and operate agentic architectures on AWS Serverless",Breakout session
+CNS368,Build high-performance inference APIs with Lambda SnapStart,Chalk talk
+CNS206,Building Agentic AI architectures with AWS Serverless,Builders' session
+NTA405,"Building AI Agents with Serverless, Strands, and MCP",Code talk
+CNS307,Building event-driven architectures using Amazon ECS with AWS Fargate,Breakout session
+CNS308,"Building GenAI applications with AI Agents that reason, decide and act",Workshop
+CNS202,Building interactive web based applications on Serverless,Builders' session
+CNS309,Building multi-tenant SaaS applications with Amazon ECS,Workshop
+CNS425,Building production-ready Agentic AI architectures with AWS Serverless,Chalk talk
+API307,Building rate-limited solutions on AWS,Chalk talk
+DEV324,Building Real-Time Container Security with AWS Native Tools,Chalk talk
+CNS321,Building resilient deployment pipelines with Amazon ECS,Workshop
+CNS424,Building resilient Serverless applications with chaos engineering,Chalk talk
+DEV415,"Building Scalable, Self-Orchestrating AI Workflows with A2A and MCP",Breakout session
+CNS310,Building secure serverless applications,Workshop
+CNS311,Building serverless AI Agents in Java with Spring AI,Builders' session
+CNS312,Building Serverless applications with Terraform workshop,Workshop
+CNS404,Building Serverless distributed data processing workloads,Workshop
+CNS203,Building your first event driven application,Builders' session
+DEV308,Build modern applications with Amazon Aurora DSQL,Breakout session
+DEV310,Build real-time full-stack Generative AI applications,Code talk
+CNS353,Build safe and resilient deployment pipelines for Amazon ECS,Lightning talk
+CNS347,Build secure and scalable agentic AI workflows on Amazon ECS,Chalk talk
+CNS405,Cloud-native Java on Amazon EKS,Builders' session
+CNS367,Debug Lambda functions deployed in cloud like never before,Breakout session
+CNS416,Deep dive into Amazon ECS resilience and availability,Breakout session
+CNS313,Demystifying the shared security model on Amazon ECS,Chalk talk
+TNC318,Deploy Agentic AI Application with Strands and MCP on Amazon EKS,Interactive training
+DEV209,Deploy Amazon EKS workloads with ArgoCD and GitOps,Lightning talk
+CNS314,Deploy multi-agent AI on Amazon EKS,Builders' session
+CNS362,Designing mission critical applications with serverless services,Breakout session
+CNS366,Designing web architectures on AWS at scale,Chalk talk
+CNS418,Design multi-region resilience strategies on Amazon EKS,Chalk talk
+DEV337,Detecting falls in aged care with a minimum lovable product,Lightning talk
+CNS415-S,Developing Serverless Applications Locally with AWS and LocalStack (sponsored by LocalStack),Lightning talk
+CNS316,Effective strategies for testing serverless event-driven applications,Chalk talk
+CNS317,Enhance your Amazon EKS development workflow with MCP,Builders' session
+CNS208,Enhancing container security with Amazon ECR,Lightning talk
+COP410,Exploring Multi-tenant Cost Allocation for Container Workloads,Workshop
+HMC313,Extend Amazon EKS clusters for on-premises and edge use cases,Chalk talk
+IND3318,FIS: High-performance instant payment processing at massive scale,Breakout session
+CNS341,From code to cloud: Accelerate application development with Amazon ECS,Breakout session
+CNS210,From monolith to microservices: Migrate and modernize with Amazon EKS,Breakout session
+CNS406,From serverful to serverless Java,Workshop
+CNS423,From Trigger to Execution: The Journey of Events in AWS Lambda,Breakout session
+CNS201,Fundamentals to scale Kubernetes across your organization,Workshop
+CNS344,Generative and Agentic AI on Amazon EKS,Breakout session
+CNS318,Getting started with Serverless using AI assistance,Workshop
+CNS319,Handle scaling with AWS Lambda,Builders' session
+CNS320,I didn't know AWS SAM could do that,Builders' session
+CNS348,Implement distributed inference with Amazon ECS,Chalk talk
+CNS409,Implementing advanced Serverless resilience: A practitioner's guide,Chalk talk
+CNS428,Implementing Human-in-the-Loop Controls for Multi-Agent AI Systems,Lightning talk
+CNS360,Implementing security best practices for serverless applications,Breakout session
+STG311,Integrate serverless applications with AWS storage services,Workshop
+ISV304,Intelligent Document Processing at Scale Using Bedrock,Chalk talk
+CNS204,Kubernetes simplified: Get hands-on with Amazon EKS Auto Mode,Workshop
+CNS323,Learn multi-tier application architectures on Amazon ECS,Workshop
+OPN404,Level Up Your Serverless: The Powertools for AWS Lambda Workshop,Workshop
+CNS324,Managing AWS Lambda runtime upgrades at scale,Chalk talk
+CNS325,Master distributed transactions: Orchestration with AWS Step Functions,Builders' session
+CNS356,Master identity-first security with Amazon EKS Auto Mode,Chalk talk
+CNS407,Master KRMOps: Declarative resource management with Amazon EKS and kro,Builders' session
+CNS422,Modernize containers for AI agents using AgentCore Gateway,Code talk
+CNS326,Modernize .NET Framework workloads with containers and AWS Transform,Workshop
+CNS408,Modernizing monoliths: The path to architectural freedom,Builders' session
+NTA310,Multi-Cloud Container Migrations: Amazon CodeCatalyst for Balanced Workloads.,Chalk talk
+CNS342,Navigate the cloud compute landscape with Amazon ECS,Breakout session
+CNS417,Networking and observability strategies for Kubernetes,Breakout session
+INV510,Next generation etcd for Amazon EKS,Chalk talk
+CNS371,Operating AWS Lambda functions at scale,Chalk talk
+CNS410,Optimize analytics workloads on Amazon EKS for performance and cost,Workshop
+CNS419,Optimize GenAI inference and model performance on Amazon EKS,Chalk talk
+CNS349,Optimize your Amazon ECS workloads for performance and cost,Chalk talk
+CNS377,Optimizing Amazon EKS costs through workload analysis and observability,Chalk talk
+CNS306,Optimizing compute for performance and scale with Amazon ECS,Builders' session
+CNS411,Optimizing Kafka workloads with AWS Lambda,Chalk talk
+CNS327,Optimizing your Amazon ECS application networking strategy,Chalk talk
+CNS328,Paper to production: Hosting LLMs on Amazon EKS using NVIDIA GPUs,Workshop
+CNS363,Patterns for session state management in Serverless applications,Chalk talk
+OPN408,Production-ready Serverless: mastering Powertools for AWS Lambda,Chalk talk
+API308,Real-time for the real world with AWS AppSync Events,Builders' session
+CNS375,Real-time insights for smart manufacturing with AWS Serverless,Lightning talk
+GHJ202,re:Architecture Rodeo - Migration Showdown,Gamified learning
+CNS329,Reducing downtime: Build resilient architectures with Amazon ECS,Chalk talk
+CNS412,Refactoring Java applications to serverless,Chalk talk
+CNS322,Running compute efficient workloads on Amazon EKS Auto Mode,Workshop
+CNS414,"Scale, optimize, and upgrade your Kubernetes cluster with Karpenter",Chalk talk
+CNS361,Scaling Serverless with platform engineering: A blueprint for success,Breakout session
+CNS350,Scaling to 1000s of containers in minutes with Amazon ECS,Chalk talk
+CNS370,Secure user code execution with AWS Lambda for SaaS platforms,Chalk talk
+CNS330,Securing Amazon ECS workloads with application-aware networking,Workshop
+CNS331,Securing and observing Amazon EKS clusters,Builders' session
+CNS332,Securing and optimizing your software supply chain with Amazon ECR,Chalk talk
+SPS323,Securing event-driven architectures: from sync to async security,Code talk
+CNS364,Serverless cost optimization: More from every invoke,Chalk talk
+CNS333,Serverless data processing with AWS Lambda and Apache Kafka,Builders' session
+CNS369,Serverless Observability: Best Practices for AWS Distributed Systems,Chalk talk
+CNS372,Serverless patterns for large-scale applications with AWS Lambda,Code talk
+API309,Serverlesspresso: Build an event-driven application from the ground up,Workshop
+CNS420,"Shuffle, Scale, Succeed: Optimizing Spark Performance on Amazon EKS",Chalk talk
+CNS209,Simplify backup for stateful Amazon EKS workloads,Lightning talk
+DEV321,Simplify serverless testing using Amazon Q Developer,Builders' session
+CNS354,Simplify your Kubernetes journey with Amazon EKS,Breakout session
+DEV309,Start building with Q Developer CLI: Serverless full-stack in action,Code talk
+CNS421,Streamline Amazon EKS operations with Agentic AI,Code talk
+CNS334,Supercharge Lambda functions for security and performance,Builders' session
+CNS374,Supercharge Lambda with Hono: The lightweight web framework,Lightning talk
+CNS335,Supercharge Serverless APIs with Powertools for AWS Lambda,Workshop
+CNS427,Supercharge Serverless testing: Accelerate development with Amazon Q,Code talk
+CNS336,Telemetry forensics: Debugging event systems with metrics & traces,Builders' session
+DEV208,The bill shock that taught me cost optimization,Lightning talk
+CNS211,The future of AWS Serverless in 2025 and beyond,Breakout session
+CNS205,The future of Kubernetes on AWS,Breakout session
+CNS426,The Shapeshifting Application: Architecture That Transforms Across AWS,Code talk
+API310,The Step Functions Workshop,Workshop
+CNS337,Thinking Serverless,Chalk talk
+CNS429,Under the hood: Architecting Amazon EKS for scale and performance,Breakout session
+CNS355,Unlock distributed GenAI inference with Amazon EKS Hybrid Nodes,Chalk talk
+CNS338,Unlock productivity: tools and techniques for developers,Builders' session
+CNS413,Unveiling Amazon ECS workloads with AWS observability and agentic AI,Chalk talk
+CNS339,Vibe coding production-ready containerized applications,Builders' session
+DVT204, What’s new in fullstack AWS app development,Breakout session
+CNS376,What's new with AWS Lambda,Lightning talk
+CNS340,Write less code: Building applications with a serverless mindset,Builders' session
+CNS357,Zero to production: Simplify AI deployments with Amazon EKS Auto Mode,Chalk talk

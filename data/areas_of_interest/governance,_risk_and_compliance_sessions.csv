@@ -1,0 +1,63 @@
+code,title,type
+ANT302,Accelerate GenAI-powered data discovery and sharing with SageMaker Catalog,Chalk talk
+AIM361,Accelerate trusted AI development with AWS responsible AI practices,Chalk talk
+IND414,Accelerating Life Sciences Regulatory Intelligence with Amazon Bedrock Agents,Chalk talk
+COP347,Actionable controls for improving governance and compliance,Breakout session
+COP354,Agile governance: Deploy AWS Control Tower in your current environment,Chalk talk
+DEV326,Anti-Money Laundering Multi-agent Orchestration with AWS Strands,Breakout session
+COP355,A practical guide to implement cost-effective governance controls,Chalk talk
+ARC329,Architect for Zero Trust in AWS,Chalk talk
+ARC323,Architecting enterprise-scale governance beyond AWS Control Tower,Chalk talk
+COP312,Architecting Security at Scale with AWS Cloud Governance,Chalk talk
+ANT204,Architecting the future: Amazon SageMaker as a data and AI platform,Breakout session
+IND301,Architect petabyte-scale observability with OpenSearch and Amazon Q,Chalk talk
+COP310,Automating compliance and auditing at scale,Workshop
+NTA321,AWS Agent for SAP Invoice Automation,Workshop
+MAM310,AWS migration planning: From discovery to delivery,Chalk talk
+COP349,Balancing Agility and Compliance feat. The Digital Agency of Japan,Breakout session
+ANT343,Best practices for building Apache Iceberg based lakehouse architectures on AWS,Breakout session
+SEC209-S,Beyond Posture Management: Stopping Data Breaches in AWS (sponsored by Varonis),Lightning talk
+COP406,Build and automate policy as code,Builders' session
+ANT344,"Build, govern, and share Amazon QuickSight dashboards with Amazon SageMaker",Breakout session
+AIM273-S,Building a Cloud-Native Risk Decisioning Platform for Resilience (sponsored by PwC),Breakout session
+ARC206,Building and operating an effective architecture review board,Chalk talk
+AIM370,Building and tracing AI agents with Amazon SageMaker and Strands,Chalk talk
+ANT332,Building high-quality data products for AI Agents,Chalk talk
+COP409,Building Sovereign Cloud Environments,Code talk
+COP353,Building your data protection strategy with governance controls,Chalk talk
+ANT341,Build trust in AI with end-to-end data lineage in Amazon SageMaker Catalog,Chalk talk
+AIM234-S,Drive trusted AI outcomes with governance and accurate data (sponsored by IBM),Lightning talk
+AIM350-S,"Empowering innovation with integrity—Responsible AI for a smarter, safer future (sponsored by Kyndryl)",Breakout session
+ANT203,Enabling AI innovation with Amazon SageMaker Unified Studio,Breakout session
+COP308,Establish a secure AWS foundation with AWS Control Tower,Workshop
+ANT308,Explore what’s new in data and AI governance with SageMaker Catalog,Breakout session
+IND217-S,Fast and compliant CI/CD pipelines in the financial industry (sponsored by Octopus Deploy),Lightning talk
+AIM279-S,FINRA: Accelerate Massive Data Processing with NVIDIA on AWS EMR (sponsored by NVIDIA),Lightning talk
+ARC204,From ideas to impact: Architecting with cloud best practices,Breakout session
+AIM3323,From principles to practice: Scaling AI responsibly with Indeed,Breakout session
+ISV310,Global Growth: A Framework for Expanding into New Regions,Chalk talk
+COP346,Governance that Enables Innovation at Scale feat. Eli Lilly,Breakout session
+IND3300,How Stripe built a foundation model for fraud detection on AWS,Breakout session
+COP351,Innovation Sandbox on AWS: Automating Temporary Cloud Environments,Lightning talk
+COP411,Intelligent automation for managing cloud governance and compliance,Builders' session
+AIM275-S,Intelligent Outage Management Using Automated Reasoning and AI (sponsored by PwC),Lightning talk
+ANT342,ITTI's Cross-Company Data Mesh Blueprint with Amazon SageMaker,Lightning talk
+IND209-S,Leverage Graph Insights to Turbocharge Amazon Q (sponsored by Securiti AI),Lightning talk
+SPS401,Manchester Airports Group: Scaling operations with Agentic AI & MCP,Breakout session
+STG419,"Modern SFTP: Deploy AWS Transfer Family, Identity, and Automation",Code talk
+COP324,Moving AWS Accounts seamlessly at scale,Chalk talk
+WPS314,Next-Gen SOC: Agentic SOC analyst with Amazon Bedrock,Workshop
+SPS314,Novartis's next-gen clinical platform enables AI drug development,Breakout session
+API102-S,Power multi-agent AI systems that truly transform enterprise workflows (sponsored by IBM),Breakout session
+SEC210-S,Protecting web apps & APIs with AI and an as-a-Service approach (sponsored by Check Point Software),Breakout session
+IND372-S,Reinventing credit origination process through AI (sponsored by Cloudera),Lightning talk
+IND101-S,Reliable AI at Scale: How Data + AI Observability Powers AI Products with AWS (sponsored by Monte Carlo),Lightning talk
+COP417,Scale security monitoring using AWS CloudTrail with generative AI,Chalk talk
+COP348,Scaling Compliance Controls and Risk Assessment,Chalk talk
+CNS361,Scaling Serverless with platform engineering: A blueprint for success,Breakout session
+IND3312,"Scaling support, compliance, & productivity with conversational AI at Coinbase",Breakout session
+COP213-S,Solving the Cloud Privilege Problem at Scale: A Fiserv Case Study (sponsored by Sonrai Security),Lightning talk
+AIM348-S,Strategy First: Empowering the Business to Lead in the AI Era (sponsored by Starburst),Lightning talk
+INV511,Symbolic Execution for Better Cloud Governance,Chalk talk
+COP318,Tag like a pro: Optimize multi-account resource tracking,Chalk talk
+ANT339,Turn unstructured data in Amazon S3 into AI-ready assets with SageMaker Catalog,Breakout session

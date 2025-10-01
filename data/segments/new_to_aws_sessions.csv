@@ -1,0 +1,43 @@
+code,title,type
+PEX101,Accelerate new customer engagement and revenue growth,Breakout session
+NTA403,Advanced RAG Architectures: From Basic Retrieval to Agentic RAG,Code talk
+NTA404,AI Code to Production: Context Matters,Code talk
+NTA301,Automate Review Analysis with Nova Act and Generative AI,Builders' session
+NTA321,AWS Agent for SAP Invoice Automation,Workshop
+TNC107,AWS Skill Builder: Product Launches and New Features,Breakout session
+IND375,Best practices for optimizing financial services application latency ,Chalk talk
+NTA401,Build First Retail AI Agent: Customer Service Excellence with Amazon Bedrock,Builders' session
+NTA317,Build GenAI Apps with Anywhere Data,Chalk talk
+NTA405,"Building AI Agents with Serverless, Strands, and MCP",Code talk
+NTA312,Building The Enterprise Data Success Framework,Chalk talk
+IND3308,Capital One: Building resilient systems by engineering for five nines,Breakout session
+NTA201,Cloud Foundations Accelerator,Chalk talk
+NTA314,Connecting Infor CloudSuite to AWS Services,Chalk talk
+NTA313,Cut Costs with Aurora PostgreSQL & Babelfish,Chalk talk
+HMC314,Deploying for resilience: HA/DR strategies for AWS Outposts and AWS Local Zones,Chalk talk
+NTA315,Extending governance across clouds,Chalk talk
+IND3300,How Stripe built a foundation model for fraud detection on AWS,Breakout session
+NTA320,How Zydus implemented regulated DR on AWS,Breakout session
+NTA302,IAM Analytics: Automate & Visualize,Workshop
+NTA318,Iceland.co.uk: Boosting sales with hyper-personalized recommendations ,Breakout session
+NTA303,Landing Zone: Deploy Smarter with AI,Builders' session
+NTA408,Logistics Agility: AWS Success Story ,Breakout session
+IND356,Mastering data chaos: Enterprise-scale catalogs for financial services,Chalk talk
+NTA402,Mastering VMware to EC2 Migration,Workshop
+IND3304, Maximizing uptime: Itaú’s mission-critical mainframe migration to AWS,Breakout session
+NTA311,Modernizing Document Processing,Chalk talk
+NTA407, Multi-Agent Collaboration with Amazon Bedrock Agentcore for Advanced SecOps,Code talk
+NTA310,Multi-Cloud Container Migrations: Amazon CodeCatalyst for Balanced Workloads.,Chalk talk
+NTA305,Multilingual Contact Center with Amazon Connect,Workshop
+NTA304,Multi-Tenant ETL: Consolidate SaaS Data,Builders' session
+NTA306,Next-Gen Logistics with GenAI,Workshop
+NTA307,NLP to SQL: Data Access with Amazon Nova,Builders' session
+NTA406,Observability for Reliable Agentic AI with Strands SDK & OpenTelemetry,Code talk
+COP212,Optimize software and AI Agent procurement with AWS Marketplace,Lightning talk
+NTA309,Sandbox Magic: No Spells Required,Workshop
+NTA308,Seamlessly Connect On-Premises to AWS,Builders' session
+NTA202,Siteimprove: Revolutionizing Brand Consistency with AI and Amazon Nova,Breakout session
+NTA319,Spreetail's AI Value Journey ,Breakout session
+TNC108,The Value of AWS Certifications in Your Enterprise Strategy,Breakout session
+NTA316,Transitioning VMware workloads: VMC-A to AWS EVS,Chalk talk
+NTA101,Unlock Innovation: A Guide to AWS Partner Products in AWS Marketplace,Breakout session

@@ -1,0 +1,16 @@
+code,title,type
+STG327,Accelerate enterprise workloads with enhanced Amazon EBS capabilities,Chalk talk
+STG304,Best practices for deploying critical applications with Amazon EBS,Workshop
+STG324,Building resilient block storage through chaos engineering and observability,Chalk talk
+STG406,Building resilient data protection with Amazon EBS Snapshots,Builders' session
+STG306,Build protection and optimize costs using Amazon EBS Snapshots,Workshop
+STG209,Choosing the right AWS storage service,Chalk talk
+STG338,Data protection and resilience with AWS Storage,Breakout session
+STG204-S,"GenAI, Hold the Waste: How H2O Fixed Its Storage Bottleneck (sponsored by Datafy)",Lightning talk
+STG319,Maximizing block storage performance for high-intensity workloads,Breakout session
+STG326,Operating large-scale enterprise workloads with Amazon EBS and EBS Snapshots,Chalk talk
+CNS419,Optimize GenAI inference and model performance on Amazon EKS,Chalk talk
+STG320,Optimizing price performance with enhanced Amazon EBS gp3 volumes,Breakout session
+STG325,Protecting block storage at scale with native encryption and EBS Snapshots,Chalk talk
+STG323,Under the hood with Amazon EBS: Achieving sub-millisecond latency at scale,Chalk talk
+STG202,What's new with Amazon EBS,Breakout session

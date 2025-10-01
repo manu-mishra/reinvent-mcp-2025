@@ -1,0 +1,40 @@
+code,title,type
+SEC401,Active defense strategies using AWS Al/ML services,Workshop
+ANT315,Agentic AI for Intelligent Observability with OpenSearch Service,Breakout session
+DAT301,AI powered PostgreSQL: Incident detection & MCP integration,Workshop
+STG316,Amazon S3 security and access control best practices,Breakout session
+HMC206-S,"Anatomy of a Ransomware Attack: A Live Simulation, Sponsored by Rubrik (sponsored by Rubrik)",Breakout session
+SEC302,Ask AWS: Your ransomware questions answered,Chalk talk
+SEC323,AWS detection and response innovations that drive security outcomes,Breakout session
+GHJ308,AWS GameDay: Security ft. SentinelOne,Gamified learning
+SEC205-S,Beyond Backup: Advancing Cloud Resiliency with Shared Responsibility (sponsored by Cohesity),Breakout session
+SEC305,Building enhanced container threat protection for improved security posture,Builders' session
+DEV324,Building Real-Time Container Security with AWS Native Tools,Chalk talk
+ISV404,Build Resilient SaaS: Multi-Account Resilience Testing Patterns,Code talk
+SEC327-S,Detection Engineering at Scale: Building High-Fidelity Security Operations (sponsored by Datadog),Breakout session
+AIM249-S,Discover and secure non-human identities (sponsored by Okta),Breakout session
+COP101-S,Driving Resilience with Assurance and Visibility from Edge to Cloud (sponsored by Cisco),Lightning talk
+AIM346-S,From Data to Decisions: Agentic AI for Security and Observability (sponsored by Elastic),Breakout session
+NET318,From threat to threat intel: 360 degrees of DDOS,Breakout session
+SEC212-S,Full Speed Ahead: Securing Innovation with Trend (sponsored by Trend Micro),Breakout session
+ISV315,GenAI-Powered Contextual Security Analysis & Remediation,Code talk
+SEC409-S,How Arrivia Stopped a Data Theft Ring with Teramind (sponsored by Teramind),Breakout session
+COP344,Implementing Automated Security Controls for Zero-Day Defense,Chalk talk
+SEC309,Inside the Attack Chain: Emerging Threat Actor Tactics and Techniques,Chalk talk
+NET322,Level Up Your Bot Defense for Mobile Apps with AWS WAF SDK,Chalk talk
+NET324,Managing Bots vs Humans with CloudFront and AWS WAF,Code talk
+DVT205-S,Move fast & don't break things: Maintaining software excellence as you adopt AI (sponsored by Cortex),Lightning talk
+HMC318,Multicloud security best practices,Breakout session
+HMC307-S,Preemptive Recovery: A New Playbook for Cloud Resilience (sponsored by Rubrik),Breakout session
+SEC346-S,Reimagining SIEM architecture using AWS S3 Buckets (sponsored by Vega),Lightning talk
+DAT456,Revealing the northern lights: Amazon Aurora security deep dive,Breakout session
+SEC329,Scale Security Operations with AWS Security Incident Response Service,Breakout session
+SEC216-S,"Seamless Network-based Fraud Protection for FinTech & Digital Business (sponsored by Vonage, Part of Ericsson)",Lightning talk
+CNS332,Securing and optimizing your software supply chain with Amazon ECR,Chalk talk
+SEC337,Securing IoT Workloads with AWS IoT Lens and AWS Security Reference Architecture,Chalk talk
+SEC315,Security posture and exposure management using AWS security services,Workshop
+AIM288-S,See The Future of Cloud Defense: Agentic Cloud Security (sponsored by Sysdig),Lightning talk
+SEC320,The AWS Security Incident Response Challenge: Defend the Cake!,Workshop
+SEC321,The magic behind Amazon GuardDuty Extended Threat Detection,Chalk talk
+SEC227,Translating Security Metrics into Business Outcomes,Chalk talk
+AIM101-S,Unlocking Enterprise Resilience: AI and Automation in Action (sponsored by PagerDuty),Breakout session

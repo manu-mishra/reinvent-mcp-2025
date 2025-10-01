@@ -1,0 +1,35 @@
+{
+  "name": "reinvent2025mcp",
+  "version": "1.0.3",
+  "description": "Model Context Protocol (MCP) server providing comprehensive access to re:Invent 2025 conference session catalog. Features 13 specialized tools for session discovery, speaker search, and content filtering across 1,843 technical sessions. Includes advanced search capabilities, pagination support, and detailed metadata access for conference planning and learning path discovery.",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "reinvent2025mcp": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manu-mishra/reinvent-mcp-2025"
+  },
+  "homepage": "https://github.com/manu-mishra/reinvent-mcp-2025",
+  "bugs": {
+    "url": "https://github.com/manu-mishra/reinvent-mcp-2025/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.18.2",
+    "@msgpack/msgpack": "^3.1.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "keywords": ["mcp", "model-context-protocol", "reinvent", "conference", "sessions", "search", "2025"],
+  "author": {
+    "name": "Manu Mishra",
+    "url": "https://www.linkedin.com/in/manu-mishra/"
+  },
+  "license": "MIT"
+}

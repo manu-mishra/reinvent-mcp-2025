@@ -1,0 +1,12 @@
+code,title,type
+COP321,Agent down! Building unbreakable AI workflows,Chalk talk
+COP420,AI-powered resilience testing and disaster recovery,Breakout session
+ARC304,Building and testing resilient multi-AZ applications,Workshop
+COP408,Building resilient architectures with observability,Workshop
+STG324,Building resilient block storage through chaos engineering and observability,Chalk talk
+CNS424,Building resilient Serverless applications with chaos engineering,Chalk talk
+ISV404,Build Resilient SaaS: Multi-Account Resilience Testing Patterns,Code talk
+COP304,Chaos engineering workshop,Workshop
+ARC204,From ideas to impact: Architecting with cloud best practices,Breakout session
+COP358,Multi-Region disaster recovery & resilience testing (feat. Fidelity),Breakout session
+COP414,Resilience testing and AWS Lambda actions under the hood,Code talk

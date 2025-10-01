@@ -1,0 +1,10 @@
+code,title,type
+MAM201,A complete guide to Amazon EVS: Unlock AWS scale for VMware workloads,Breakout session
+MAM401,Amazon EVS deep dive: Advanced networking and storage architecture,Chalk talk
+MAM305,Amazon EVS deep dive: Strategic migration planning,Chalk talk
+MAM203,"AWS for VMware migrations: Successes, roadmaps, & strategies",Breakout session
+MAM323,Map your VMware workloads migration and modernization journey to AWS,Chalk talk
+COP325,Migrate from VMWare to AWS: Cloud Operations Best Practices,Chalk talk
+MAM101-S,Optimizing storage costs for Amazon EVS with FSx for ONTAP (sponsored by NetApp),Breakout session
+NTA316,Transitioning VMware workloads: VMC-A to AWS EVS,Chalk talk
+CMP210-S,Unleashing Performance: How Intel Xeon 6 on AWS EC2 Is Redefining Compute & TCO (sponsored by Intel),Breakout session

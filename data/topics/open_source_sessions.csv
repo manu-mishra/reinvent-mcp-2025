@@ -1,0 +1,47 @@
+code,title,type
+OPN301,Accelerate app authorization with the latest Cedar tools ,Builders' session
+OPN410,Agentic Workflows: How Salesforce Manages 1000+ Clusters,Breakout session
+CMP303,Amazon Linux: latest features and AWS optimizations,Breakout session
+OPN401,An unexpected journey building AWS MCP Servers,Breakout session
+OPN302,AutoGluon: Build Production ML Apps from Zero to Hero,Workshop
+ANT343,Best practices for building Apache Iceberg based lakehouse architectures on AWS,Breakout session
+ANT337,Breaking data silos with the lakehouse architecture,Chalk talk
+OPN303,Building agentic AI platform engineering solutions with open source,Breakout session
+NTA405,"Building AI Agents with Serverless, Strands, and MCP",Code talk
+AIM370,Building and tracing AI agents with Amazon SageMaker and Strands,Chalk talk
+STG355,"Building cost-optimized, resilient apps with Amazon EKS and EFS",Chalk talk
+AIM290-S,"Building Fast, Cost-Efficient, Sovereign Inference Platforms on AWS w/Intel CPUs (sponsored by Intel)",Breakout session
+OPN304,Building Trust in AI Agents: Automated Evaluation at Scale,Chalk talk
+OPN402,"Cache me if you can, Valkey edition",Workshop
+PEX401,Deploying Intelligent Agent Systems with MCP,Builders' session
+AIM3319,Deploy LLMs at scale with vLLM Deep Learning Containers and AI agents,Chalk talk
+OPN309,Disagree in Commits: The Performance Improvements That Cut Costs by a Third,Breakout session
+ISV401,Elevate Multi-Tenant SaaS Operations: DevOps Strategy with Kubernetes,Builders' session
+OPN403,Expedite model loading times in Kubernetes using kro & ACK,Chalk talk
+DAT408,Geo-fencing & real-time geospatial alerts with ElastiCache Valkey,Builders' session
+OPN305,Integrated AI Agents & Code Assistants with MCP & AWS,Chalk talk
+OPN306,"Inter-Agent Systems with Strands Agents, Amazon Bedrock, MCP, and A2A",Builders' session
+OPN308,kro: Simplifying Kubernetes Resource Orchestration,Lightning talk
+OPN404,Level Up Your Serverless: The Powertools for AWS Lambda Workshop,Workshop
+OPN405,Mastering Fluent-bit: Performance at Scale,Workshop
+AIM3321,Mastering LLM inference on Amazon  SageMaker AI,Chalk talk
+OPN406,Moving to Valkey without downtime,Chalk talk
+COP412,Observability: The open source way,Workshop
+STG343,Optimizing throughput performance using Mountpoint for Amazon S3,Chalk talk
+ANT316,"Orchestrating with Apache Airflow, MWAA, and SageMaker Unified Studio",Chalk talk
+OPN407,Performance tuning for streaming Ingestion into Apache Iceberg,Builders' session
+DAT410,PostgreSQL performance: Real-world workload tuning,Code talk
+OPN408,Production-ready Serverless: mastering Powertools for AWS Lambda,Chalk talk
+OPN307,Production Trino: Robust Interactive Workloads at Scale,Chalk talk
+DAT204-S,Redefining database scale for agentic AI workloads with TiDB (sponsored by TiDB powered by PingCAP),Lightning talk
+OPN409,Reinforce large policy based authorization systems with Cedar Analysis,Chalk talk
+AIM369,Scalable and resilient distributed AI with Ray on SageMaker HyperPod,Chalk talk
+AIM121-S,Scaling Observability for the AI Era: From GPUs to LLMs (sponsored by Chronosphere),Lightning talk
+COP333,Scaling open source observability stack feat. Warner Bros Discovery,Breakout session
+ISV301,Simplify Tenant Authorization with Cedar and Amazon Verified Permissions,Builders' session
+CNS354,Simplify your Kubernetes journey with Amazon EKS,Breakout session
+OPN411,Storage optimization by Apache Iceberg V3's Deletion Vectors,Chalk talk
+OPN412,"Strands Agents: Building Fully Autonomous, Self-Improving AI Agents",Chalk talk
+OPN413,Transforming Apache Kafka into a Scalable Message Queue,Breakout session
+AIM368,Unifying AI/ML operations with SageMaker HyperPod and Amazon EKS,Chalk talk
+OPN414,vLLM on AWS: testing to production and everything in between,Breakout session

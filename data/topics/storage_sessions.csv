@@ -1,0 +1,101 @@
+code,title,type
+STG347,Accelerate application performance with Amazon S3 Express One Zone,Chalk talk
+STG340,Accelerate & automate secure data transfers at scale with AWS DataSync,Breakout session
+STG357,Accelerate data discovery with object metadata in Amazon S3,Breakout session
+STG356,Accelerate data migrations to AWS,Chalk talk
+STG327,Accelerate enterprise workloads with enhanced Amazon EBS capabilities,Chalk talk
+STG201,Accelerate gen AI and ML workloads with AWS storage,Breakout session
+STG301,Advanced data resiliency: Recovery strategies for AWS storage,Workshop
+STG401,Advanced S3 performance engineering: From multipart to resilience,Workshop
+STG414,Advanced security patterns on Amazon S3,Chalk talk
+STG349,Amazon EFS data resiliency: From strategy to implementation,Chalk talk
+STG402,Amazon EKS advanced storage best practices with Amazon FSx for OpenZFS,Builders' session
+STG350,Amazon FSx Intelligent-Tiering: Technical deep dive and best practices,Chalk talk
+STG335,"Amazon S3 performance: Architecture, design, and optimization",Breakout session
+STG316,Amazon S3 security and access control best practices,Breakout session
+STG302,"Amazon S3 security: Implementing controls, policies & audit systems",Workshop
+STG334,"Amazon S3 Tables architecture, use cases, and best practices",Breakout session
+STG344,A practical guide to Amazon S3 data protection and recovery,Chalk talk
+STG303,Architecting vector-driven AI applications with Amazon S3 Vectors,Builders' session
+STG333,Automate data protection at scale with AWS Backup and AWS Control Tower,Code talk
+STG418,AWS Backup clean room recovery: Comprehensive resilience framework,Chalk talk
+STG410,AWS Backup unlocked: strategies for at-scale data protection,Chalk talk
+INV215,AWS storage beyond data boundaries: Building the data foundation,Innovation talk
+STG328,Best practices for cost optimization with AWS Backup,Chalk talk
+STG304,Best practices for deploying critical applications with Amazon EBS,Workshop
+STG411,Best practices for maximizing S3 File Gateway performance,Chalk talk
+STG317-S,Best practices to simplify resilience at scale for Gen AI data & apps (sponsored by Commvault),Breakout session
+SEC205-S,Beyond Backup: Advancing Cloud Resiliency with Shared Responsibility (sponsored by Cohesity),Breakout session
+STG361,Beyond SFTP and NFS: Automate enterprise file transfers at scale,Breakout session
+STG417,Boost database performance & availability with Amazon FSx for OpenZFS,Chalk talk
+STG309,Build an S3 time machine: Implementing advanced point-in-time recovery,Workshop
+STG329,Build data resilient application architectures using AWS Storage,Chalk talk
+STG305,"Build fast, scalable infrastructure for AI/ML with AWS storage",Workshop
+STG413,Building an operational data lake using S3 Tables and SageMaker,Chalk talk
+STG415,Building cost-effective data lakes with Apache Iceberg and Amazon S3,Chalk talk
+STG355,"Building cost-optimized, resilient apps with Amazon EKS and EFS",Chalk talk
+INV504,Building fast with automated reasoning at Amazon S3 scale,Chalk talk
+STG412,Building resilience against ransomware using AWS Backup,Breakout session
+STG324,Building resilient block storage through chaos engineering and observability,Chalk talk
+STG406,Building resilient data protection with Amazon EBS Snapshots,Builders' session
+STG321,Building serverless vector applications with Amazon S3 Vectors,Chalk talk
+STG306,Build protection and optimize costs using Amazon EBS Snapshots,Workshop
+STG403,Build ransomware data recovery with AWS Backup logically air-gapped vaults,Workshop
+STG307,Build your own GenAI app on Amazon EKS with Amazon FSx and accelerated compute,Workshop
+STG209,Choosing the right AWS storage service,Chalk talk
+STG338,Data protection and resilience with AWS Storage,Breakout session
+STG409,Data protection & application recovery strategies for ransomware,Chalk talk
+STG407,Deep dive on Amazon S3,Breakout session
+CMP318,Deploy and use an open source Digital Asset Management platform,Builders' session
+COP356,Disaster Recovery (DR) with AWS Elastic Disaster Recovery Service,Lightning talk
+STG416,File storage for high-performance workloads,Chalk talk
+STG205,Flawless AI: Visual dubbing at scale with Amazon S3,Lightning talk
+STG308,Gaining insights from your data lake with Amazon S3 Metadata,Builders' session
+STG204-S,"GenAI, Hold the Waste: How H2O Fixed Its Storage Bottleneck (sponsored by Datafy)",Lightning talk
+STG336,"High-performance storage for AI/ML, analytics, and HPC workloads",Breakout session
+STG348,How to optimize AWS storage for generative AI and ML workloads,Chalk talk
+TNC206,Implement Modern Data Architectures with Amazon SageMaker Lakehouse,Interactive training
+STG337,Improve self-managed database performance and agility with Amazon FSx,Breakout session
+STG310,Increase your database agility with Amazon FSx,Workshop
+STG210,Indeed's migration to Amazon S3 Tables,Lightning talk
+STG351,Inside S3: Lessons from exabyte-scale data lake modernization,Breakout session
+STG311,Integrate serverless applications with AWS storage services,Workshop
+STG352,Large-scale software deployments: Inside Amazon S3’s release pipeline,Breakout session
+STG208,Maximize the value of cold data with Amazon S3 Glacier storage classes,Breakout session
+STG319,Maximizing block storage performance for high-intensity workloads,Breakout session
+CMP315,Maximizing EC2 Local NVMe Storage: Enhanced NVMe Metrics and K8s Integration,Chalk talk
+STG322,MCP Server for Amazon S3 Tables: AI-powered data operations,Chalk talk
+STG404,Modern batch analytics: Building advanced pipelines with S3 Tables,Workshop
+STG339,Modernize managed file transfer workflows with event-driven SFTP,Breakout session
+STG419,"Modern SFTP: Deploy AWS Transfer Family, Identity, and Automation",Code talk
+STG213,Motability Operations' unified backup strategy: From fragmented to fortified,Lightning talk
+STG312,Moving data to Amazon S3 to enable Amazon Bedrock gen AI workflows,Workshop
+STG331,Multicloud data movement best practices with AWS DataSync,Chalk talk
+STG408,Multi-protocol data access in FSx for NetApp ONTAP scale-out file systems,Workshop
+STG212,New York Times: Best practices for migration to Amazon FSx for ONTAP,Lightning talk
+STG405,Onboarding and optimizing AI/ML workloads with Amazon S3 & Amazon EKS,Workshop
+STG326,Operating large-scale enterprise workloads with Amazon EBS and EBS Snapshots,Chalk talk
+STG313,Optimize AWS Backup using AI evaluation and Well-Architected best practices,Builders' session
+STG345,Optimize performance and cost for archival data in Amazon S3,Chalk talk
+AIM253,Optimizing generative AI workloads for sustainability and cost,Lightning talk
+STG320,Optimizing price performance with enhanced Amazon EBS gp3 volumes,Breakout session
+STG314,Optimizing storage for your containers and Amazon EKS applications,Chalk talk
+STG343,Optimizing throughput performance using Mountpoint for Amazon S3,Chalk talk
+STG325,Protecting block storage at scale with native encryption and EBS Snapshots,Chalk talk
+STG353,Protecting FSx for NetApp ONTAP data from ransomware,Chalk talk
+STG207,"Protect your data with AWS Backup: overview, use cases and what's new",Breakout session
+STG218,Put your data to work for Agentic AI with AWS storage,Breakout session
+STG211,Scaling Pinterest: Iceberg solutions for petabyte-scale challenges,Lightning talk
+STG354,Seamless file storage migration from on-premises to AWS,Chalk talk
+STG332,Simplify secure file sharing with Transfer Family no-code web apps,Chalk talk
+OPN411,Storage optimization by Apache Iceberg V3's Deletion Vectors,Chalk talk
+STG330,Strategies to accelerate petabyte-scale migrations with AWS DataSync,Chalk talk
+STG318,Transforming AI storage economics with Amazon S3 Vectors,Breakout session
+STG323,Under the hood with Amazon EBS: Achieving sub-millisecond latency at scale,Chalk talk
+STG315,Use your FSx file data to build custom gen AI apps,Builders' session
+STG360,Using Amazon S3 Batch Operations to operate on up to billions of objects,Chalk talk
+STG346,Visualize data lake insights with S3 Tables and AWS analytics,Chalk talk
+STG202,What's new with Amazon EBS,Breakout session
+STG206,What's new with Amazon S3,Breakout session
+STG203,What's new with AWS File Storage,Breakout session
+STG342,Working with S3 Metadata: From basic queries to custom metadata,Chalk talk

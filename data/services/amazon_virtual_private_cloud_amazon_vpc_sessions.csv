@@ -1,0 +1,13 @@
+code,title,type
+MAM201,A complete guide to Amazon EVS: Unlock AWS scale for VMware workloads,Breakout session
+ISV403,Advanced Network Connectivity Patterns for ISVs,Chalk talk
+NET312,Agent based Network Ops : Amazon Bedrock Agents & Agent Core,Workshop
+MAM401,Amazon EVS deep dive: Advanced networking and storage architecture,Chalk talk
+MAM305,Amazon EVS deep dive: Strategic migration planning,Chalk talk
+NET207,DNS unleashed: Unlocking the full potential of Amazon Route 53,Builders' session
+HMC103-S,Fast-Track Modernization and Transformation with Nutanix and AWS (sponsored by Nutanix),Lightning talk
+SEC346-S,Reimagining SIEM architecture using AWS S3 Buckets (sponsored by Vega),Lightning talk
+ISV302,Scaling SaaS applications with cell-based architectures,Chalk talk
+NTA308,Seamlessly Connect On-Premises to AWS,Builders' session
+COP315,Securing your network perimeter through observability,Workshop
+SEC317,Shared responsibility: leadership lessons from active defense of the cloud,Chalk talk

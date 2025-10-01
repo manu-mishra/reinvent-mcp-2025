@@ -1,0 +1,628 @@
+code,title,type
+MAM349,4x faster workload modernization with agentic AI,Lightning talk
+STG340,Accelerate & automate secure data transfers at scale with AWS DataSync,Breakout session
+CNS207,Accelerate container migrations with Amazon EKS Auto Mode,Chalk talk
+STG357,Accelerate data discovery with object metadata in Amazon S3,Breakout session
+STG356,Accelerate data migrations to AWS,Chalk talk
+STG327,Accelerate enterprise workloads with enhanced Amazon EBS capabilities,Chalk talk
+STG201,Accelerate gen AI and ML workloads with AWS storage,Breakout session
+MAM216-S,Accelerate Legacy Modernization with Slalom & AWS (sponsored by Slalom),Lightning talk
+WPS204,Accelerate mission outcomes with recent AWS government regions innovations,Lightning talk
+DVT211,Accelerate .NET application modernization with generative AI ,Breakout session
+PEX101,Accelerate new customer engagement and revenue growth,Breakout session
+CNS315,Accelerate software delivery with Amazon,Breakout session
+MAM302,Accelerate your migration & modernization journey with EBA Cloud Party,Workshop
+PEX303,Accelerating Development and DevSecOps with Amazon Bedrock & Amazon Q,Breakout session
+COP320,Accelerating Incident Resolution: AI-Driven Root Cause Analysis,Builders' session
+IND414,Accelerating Life Sciences Regulatory Intelligence with Amazon Bedrock Agents,Chalk talk
+DAT205-S,Accelerating SAP Transformation with Amazon EC2 with the latest Intel Xeon CPUs (sponsored by Intel),Breakout session
+MAM304,Accelerating SQL Server modernization on AWS with agentic AI,Chalk talk
+PEX203,Accelerating workload modernization using next generation agentic AI,Breakout session
+MAM201,A complete guide to Amazon EVS: Unlock AWS scale for VMware workloads,Breakout session
+COP347,Actionable controls for improving governance and compliance,Breakout session
+MAM345,Adding  agentic AI to legacy apps with Amazon Bedrock AgentCore,Code talk
+HMC316,Address digital sovereignty with hybrid and cloud solutions,Chalk talk
+AIM265-S,Adopting AI within Streaming Architectures (sponsored by Redpanda),Lightning talk
+AIM425,Advanced agentic RAG Systems: Deep dive with Amazon Bedrock,Code talk
+COP401,Advanced analytics with AWS Cost and Usage Reports,Code talk
+DAT438,Advanced data modeling for Amazon ElastiCache,Breakout session
+DAT414,Advanced data modeling with Amazon DynamoDB,Breakout session
+STG301,Advanced data resiliency: Recovery strategies for AWS storage,Workshop
+WPS306,Advanced DDoS protection and DNS capabilities in AWS GovCloud (US),Chalk talk
+COP419,Advanced multicloud cost reporting with FOCUS,Code talk
+ISV403,Advanced Network Connectivity Patterns for ISVs,Chalk talk
+NTA403,Advanced RAG Architectures: From Basic Retrieval to Agentic RAG,Code talk
+STG401,Advanced S3 performance engineering: From multipart to resilience,Workshop
+STG414,Advanced security patterns on Amazon S3,Chalk talk
+ARC208-S,Advancing Behavioral Health Analytics with Integrated Cloud Services (sponsored by Deloitte),Breakout session
+COP321,Agent down! Building unbreakable AI workflows,Chalk talk
+BIZ221,Agentic AI advancements in customer experience with Amazon Connect,Breakout session
+WPS301,Agentic AI beyond the cloud: Building autonomy at the edge,Chalk talk
+AIM337,Agentic AI for member-owned financials: Systems that serve,Code talk
+MAM202,Agentic AI for VMware migrations with AWS Transform for VMware,Breakout session
+PEX202,Agentic AI's new generation of Industry and Line of Business solutions,Breakout session
+PEX301,Agentic AI Solutions for Financial Services & Insurance with AWS,Breakout session
+AIM248-S,Agentic Smart City Showdown: EKS Edge to Cloud Playtime  (sponsored by Intel),Workshop
+IND334,Agent in an hour: Build an agentic app with Strands Agents and MCP,Builders' session
+AIM3312,Agents that remember: Implementing context with AgentCore Memory,Breakout session
+COP354,Agile governance: Deploy AWS Control Tower in your current environment,Chalk talk
+AIM340,AI agents for cloud ops: Automating infrastructure management,Code talk
+IND3310,AI Agents framework for 5G RAN network operations powered by AWS,Chalk talk
+AIM263-S,"AI Agents with Amazon Nova Sonic: Vonage for Financial Services (sponsored by Vonage, Part of Ericsson)",Lightning talk
+IND203,AI and HCP Engagement: Powering Smarter Life Sciences Field Operations,Chalk talk
+NTA404,AI Code to Production: Context Matters,Code talk
+IND335,AI-Driven Research: Automating Workflows with AWS HealthOmics,Builders' session
+PEX113,AI-powered co-sell: Unlock partner success with AWS Partner Central ,Lightning talk
+ARC318,AI-powered FinOps: Agent-based cloud cost management,Chalk talk
+AIM206-S,AI-Powered Observability & Observability for AI: The Two Sides of the Coin (sponsored by ManageEngine),Lightning talk
+DAT301,AI powered PostgreSQL: Incident detection & MCP integration,Workshop
+ARC301,AI-powered troubleshooting: From chaos to Well-Architected,Builders' session
+AIM247-S,"All Power, No Pain: Scale Agentic AI Apps in an Open Lakehouse (sponsored by Qlik)",Lightning talk
+DAT401,Amazon Aurora DSQL: A developer's perspective,Code talk
+DAT442,Amazon Aurora HA and DR design patterns for global resilience,Breakout session
+CMP202,Amazon Braket: Get hands-on with quantum computing,Workshop
+CMP209,Amazon Braket Hubs - Accelerating R&D in national quantum initiatives,Chalk talk
+DAT427,Amazon DocumentDB for expert practitioners,Chalk talk
+STG349,Amazon EFS data resiliency: From strategy to implementation,Chalk talk
+CNS401,"Amazon EKS: Infrastructure as code, GitOps, or CI/CD",Chalk talk
+MAM401,Amazon EVS deep dive: Advanced networking and storage architecture,Chalk talk
+MAM305,Amazon EVS deep dive: Strategic migration planning,Chalk talk
+STG350,Amazon FSx Intelligent-Tiering: Technical deep dive and best practices,Chalk talk
+DAT450,Amazon Keyspaces live migration best practices with HBO Max,Chalk talk
+IND323,"Amazon Q Apps: Power RCM, Member Engagement, & Drug Safety Management ",Builders' session
+STG335,"Amazon S3 performance: Architecture, design, and optimization",Breakout session
+STG334,"Amazon S3 Tables architecture, use cases, and best practices",Breakout session
+WPS302,Amazon SageMaker Unified Studio for Public Sector,Workshop
+AMZ308,Amazon's finops: Cloud cost lessons from a global e-commerce giant,Lightning talk
+HMC206-S,"Anatomy of a Ransomware Attack: A Live Simulation, Sponsored by Rubrik (sponsored by Rubrik)",Breakout session
+DAT436,An insider’s look into architecture choices for Amazon DynamoDB,Breakout session
+BIZ212,Anthology boosts contact center efficiency with AI,Breakout session
+API303,API Gateway Unleashed: A Hands-on Journey to API Excellence,Workshop
+IND368,Apollo Tyres Accelerates Engineering Workflows with HPC on AWS,Breakout session
+DAT402,Applied data modeling with Amazon DynamoDB,Builders' session
+COP301,Applying AI for FinOps and FinOps for AI,Chalk talk
+STG344,A practical guide to Amazon S3 data protection and recovery,Chalk talk
+DAT315,A practitioner’s guide to data for agentic AI,Breakout session
+PEX308,Architecting Agentic AI for Supply Chain: Data-to-Decision Patterns,Chalk talk
+ARC324,Architecting agentic systems: Self-evolving patterns with AWS AI,Chalk talk
+ARC323,Architecting enterprise-scale governance beyond AWS Control Tower,Chalk talk
+CNS302,Architecting for data protection and compliance with Amazon ECS,Builders' session
+ARC209,Architecting for hypergrowth: Scaling to 200 million users with Skyscanner,Breakout session
+IND307,Architecting Intelligent Supply Chains with Multi-Agent Orchestration,Chalk talk
+WPS201,"Architecting large-scale migrations at the NSA, Fannie Mae, and DCSA",Breakout session
+IND374,Architecting multi-agent systems: Patterns in financial services,Chalk talk
+ARC322,Architecting multi-Region expansion for mission-critical workloads,Chalk talk
+COP312,Architecting Security at Scale with AWS Cloud Governance,Chalk talk
+CMP201,Architecting Solution Patterns for GPU-Accelerated HPC and AI/ML,Chalk talk
+ANT204,Architecting the future: Amazon SageMaker as a data and AI platform,Breakout session
+MAM221-S,Architecting Trusted GenAI and Agentic Experiences in Financial Services (sponsored by Coveo),Lightning talk
+STG303,Architecting vector-driven AI applications with Amazon S3 Vectors,Builders' session
+COP402,Architect open source observability for distributed environments,Chalk talk
+IND301,Architect petabyte-scale observability with OpenSearch and Amazon Q,Chalk talk
+CMP304,Architectures for Hybrid Quantum-Classical Workflows at Scale,Chalk talk
+CMP305,Assembling the Complete AI Stack: Optimizing Your AI Hardware on AWS,Chalk talk
+DAT455,A tale of two transactions,Breakout session
+STG333,Automate data protection at scale with AWS Backup and AWS Control Tower,Code talk
+IND384,Automate insights and drive innovation with cloud and AI solutions,Breakout session
+IND339,Automate Inventory Rebalancing on AWS with Agentic AI,Builders' session
+DVT401,Automate Java application upgrade with generative AI,Workshop
+DVT326,Automate Java app upgrades & accelerate innovation with generative AI,Chalk talk
+MAM330,Automate SAP supply chain exceptions with generative AI,Workshop
+DVT324, Automate your code transformations at scale,Builders' session
+IND393,Automating Amazon Fulfillment Center Operations with Generative AI,Breakout session
+COP310,Automating compliance and auditing at scale,Workshop
+MAM342,Automating enterprise-scale code modernization with agentic AI,Breakout session
+IND337,Auto ML Pipeline for Custom Telco Language Models in Amazon Connect,Workshop
+WPS207,Autonomy in Defense: Scaling Innovation for Mission Outcomes,Breakout session
+HMC211-S,AWS and Oracle: Transforming Healthcare (sponsored by Oracle),Lightning talk
+DAT210-S,AWS and Oracle: Transforming Healthcare (sponsored by Oracle),Lightning talk
+STG418,AWS Backup clean room recovery: Comprehensive resilience framework,Chalk talk
+STG410,AWS Backup unlocked: strategies for at-scale data protection,Chalk talk
+COP302,AWS disaster recovery strategies,Builders' session
+GBL101,AWS European Sovereign Cloud: Your 20-Minute Essential Guide,Lightning talk
+IND378,AWS for healthcare analytics: accelerating time to insights,Chalk talk
+MAM203,"AWS for VMware migrations: Successes, roadmaps, & strategies",Breakout session
+CMP307,AWS Graviton: The best price performance for your AWS workloads,Breakout session
+CNS304,AWS Lambda performance tuning: Best practices and guidance,Chalk talk
+PEX314,"AWS Marketplace seller workshop: Publish, update, and manage products",Workshop
+MAM309,AWS migration journey: 2025 itinerary for Microsoft workloads,Breakout session
+MAM310,AWS migration planning: From discovery to delivery,Chalk talk
+CNS402,AWS Serverless developer experience workshop,Workshop
+HMC202,AWS wherever you need it: From the cloud to the edge,Breakout session
+AIM3304,"Balance cost, performance & reliability for AI at enterprise scale",Breakout session
+ANT335,Best practices for agentic data engineering with AWS Analytics MCP Servers,Breakout session
+STG328,Best practices for cost optimization with AWS Backup,Chalk talk
+STG411,Best practices for maximizing S3 File Gateway performance,Chalk talk
+DAT303,Best practices for migrating and operating Db2 databases on Amazon RDS,Chalk talk
+MAM344,Best practices for performing custom code transformation with agentic AI,Code talk
+CNS403,Best practices for serverless developers,Breakout session
+STG317-S,Best practices to simplify resilience at scale for Gen AI data & apps (sponsored by Commvault),Breakout session
+DAT458,"Better, faster, cheaper: How Valkey is revolutionizing caching",Breakout session
+AIM284-S,Beyond a Chatbot: How to Build Intelligent Agent Memory (sponsored by MongoDB),Breakout session
+SEC205-S,Beyond Backup: Advancing Cloud Resiliency with Shared Responsibility (sponsored by Cohesity),Breakout session
+API401,Beyond Batch: Modernize with Event-Driven Architecture & Serverless,Builders' session
+ARC319,Beyond microservices: Event-driven patterns for modern applications,Chalk talk
+STG361,Beyond SFTP and NFS: Automate enterprise file transfers at scale,Breakout session
+AIM3303,Beyond short interactions: Building long running agents with AgentCore,Chalk talk
+DAT202-S,Beyond Vector Search: Ultra-Resilient GenAI Apps with AWS Bedrock (sponsored by YugabyteDB),Lightning talk
+AIM330,Beyond vibe testing: Productionalizing mission-driven genAI workloads,Chalk talk
+DAT322,Binge-worthy: Netflix's journey to Amazon Aurora at scale,Lightning talk
+CMP310,"Boost Amazon EKS Efficiency: EKS Auto Mode, Graviton, and EC2 Spot",Chalk talk
+STG417,Boost database performance & availability with Amazon FSx for OpenZFS,Chalk talk
+DAT312,Boost performance and reduce costs in Amazon Aurora and Amazon RDS,Breakout session
+CNS346,"Break down monoliths, modernizing applications on Amazon ECS",Chalk talk
+PEX309,Breakdown to Breakthrough: Crafting AI-Powered Smart Machine Support,Chalk talk
+MAM402,Breaking the legacy barrier: How AI is revolutionizing modernization,Breakout session
+AIM394,Bridging the POC to production gap: An introduction to AgentCore,Breakout session
+CNS305,Bring the power of Amazon EKS to your on-premises applications,Builders' session
+DVT224-S,Bronto: Logs at Scale Without Compromise (sponsored by Bronto),Lightning talk
+ANT329,Build Advanced AI-powered Search with OpenSearch MCP and Vectors,Chalk talk
+ANT314,"Build Advanced Enterprise Search with Vector, Hybrid, and AI Techniques ",Breakout session
+AIM304,Build agentic observability workflows with models from AWS Marketplace,Builders' session
+AIM3311,Build agentic workflows on AWS with third-party agents and tools,Breakout session
+AIM328,Build agentic workflows using third-party AI agents & tools,Chalk talk
+AIM341,Build agents with Amazon Bedrock AgentCore & Strands Agents,Workshop
+IND385,Build AI agents: A scalable framework using Strands and Amazon Bedrock AgentCore,Chalk talk
+AIM392,Build AI apps faster and at scale using Amazon Bedrock APIs,Chalk talk
+IND342,Build a multi-agent financial research assistant with Amazon Bedrock,Workshop
+DAT404,"Build a multi-Region, active-active rewards app with Aurora DSQL",Workshop
+COP406,Build and automate policy as code,Builders' session
+HMC301,Build and operate resilient and performant distributed applications,Workshop
+HMC403,Build and optimize edge architecture for resiliency with AI,Code talk
+MAM353,Build an SAP ABAP application and generate unit test cases with generative AI,Builders' session
+DAT405,Build a web-scale application with purpose-built databases & analytics,Workshop
+AIM310,Build a well-architected foundation for scaling generative AI and agentic apps,Breakout session
+STG329,Build data resilient application architectures using AWS Storage,Chalk talk
+CNS359,"Build, deploy, and operate agentic architectures on AWS Serverless",Breakout session
+COP323,Build effective logging strategies for operational insights,Chalk talk
+COP404,Build full-stack observability from applications to databases,Workshop
+NTA317,Build GenAI Apps with Anywhere Data,Chalk talk
+HMC308,Build generative and agentic AI applications on-premises and at the edge,Breakout session
+ANT344,"Build, govern, and share Amazon QuickSight dashboards with Amazon SageMaker",Breakout session
+API316,Build Hybrid Serverless Architectures with AWS and On-premises Systems,Chalk talk
+AIM399,Building A2A-enabled applications with Strands Agents,Chalk talk
+CNS206,Building Agentic AI architectures with AWS Serverless,Builders' session
+AIM357-S,Building Agentic AI Systems with AWS and Agent Mesh (sponsored by Solace),Workshop
+AIM239-S,Building Agentic Enterprise Workflows with Informatica & AWS (sponsored by Informatica),Breakout session
+COP405,Building agentic workflows for augmented observability,Code talk
+AMZ305,Building and managing conversational AI at scale: lessons from Alexa+,Breakout session
+STG413,Building an operational data lake using S3 Tables and SageMaker,Chalk talk
+ISV312,Building Context-Rich Data Agents for SaaS with Amazon Bedrock,Chalk talk
+WPS316,Building Cornell's AI Future: AWS Innovation at Enterprise Scale,Breakout session
+STG415,Building cost-effective data lakes with Apache Iceberg and Amazon S3,Chalk talk
+STG355,"Building cost-optimized, resilient apps with Amazon EKS and EFS",Chalk talk
+COP407,Building custom agents for intelligent AWS patch automation,Code talk
+API305,Building EDAs with Apache Kafka and Amazon EventBridge,Chalk talk
+PEX302,Building enterprise-grade Agentic AI factory,Breakout session
+AIM280-S,Building Enterprise-Ready Agentic Speech AI Pipelines on AWS (sponsored by NVIDIA),Breakout session
+API306,Building event-driven architectures,Workshop
+API322,Building Fault-Tolerant Systems with AWS Messaging Services ,Code talk
+DAT426,Building for high availability using Amazon ElastiCache,Chalk talk
+CNS308,"Building GenAI applications with AI Agents that reason, decide and act",Workshop
+AIM397,Building governed agents: Human-in-the-loop with AgentCore and Strands,Chalk talk
+HMC209-S,"Building High-Performance, Secure Networks for Hybrid and Multicloud (sponsored by Equinix)",Lightning talk
+IND313,"Building Intelligent Healthcare Systems: FHIR, AI, and AWS HealthLake",Workshop
+CNS202,Building interactive web based applications on Serverless,Builders' session
+CNS309,Building multi-tenant SaaS applications with Amazon ECS,Workshop
+DEV329,Building Production Agent Swarms: Mastering Industrial AI,Chalk talk
+API313,Building Production-Grade Workflow Patterns with AWS Step Functions,Breakout session
+COP340,"Building reliable operations, feat. Fannie Mae",Breakout session
+STG412,Building resilience against ransomware using AWS Backup,Breakout session
+STG324,Building resilient block storage through chaos engineering and observability,Chalk talk
+CNS310,Building secure serverless applications,Workshop
+SMB302,Building Self-Healing IT Systems with Agentic AI,Builders' session
+CNS312,Building Serverless applications with Terraform workshop,Workshop
+CNS404,Building Serverless distributed data processing workloads,Workshop
+STG321,Building serverless vector applications with Amazon S3 Vectors,Chalk talk
+COP409,Building Sovereign Cloud Environments,Code talk
+WPS307,Building sovereign LLMs: Best practice from national-scale deployments,Chalk talk
+NTA312,Building The Enterprise Data Success Framework,Chalk talk
+AIM390,Building tomorrow's AI applications at scale with Amazon Bedrock,Breakout session
+ARC317,Building Well-Architected agentic AI applications,Chalk talk
+CNS203,Building your first event driven application,Builders' session
+CMP311,"Build Once, Run Everywhere: Multi-Architecture in Your CI/CD Pipelines",Chalk talk
+AIM324,Build production-ready AI solutions with Claude in Amazon Bedrock,Workshop
+STG306,Build protection and optimize costs using Amazon EBS Snapshots,Workshop
+STG403,Build ransomware data recovery with AWS Backup logically air-gapped vaults,Workshop
+AIM306,Build reliable agents: Real-time insights with AgentCore Observability,Builders' session
+CNS353,Build safe and resilient deployment pipelines for Amazon ECS,Lightning talk
+CMP403,"Build, Scale, and Optimize Agentic AI on CPUs with AWS Graviton",Workshop
+DAT314,Build serverless chatbots using Amazon ElastiCache & Aurora PostgreSQL,Breakout session
+AIM303, Build trustworthy AI applications with Amazon Bedrock Guardrails,Workshop
+AIM111-S,Build your agentic operating system with Slack (sponsored by Slack from Salesforce),Lightning talk
+COP330,Byte to insight: Maximize value from your logs with Amazon CloudWatch,Chalk talk
+BIZ219,Caesars personalizes guest service at scale with AI-powered Amazon Connect,Breakout session
+ARC202,Capability-first architecture: Bridging business intent to technology,Breakout session
+IND3308,Capital One: Building resilient systems by engineering for five nines,Breakout session
+WPS202,Chaos & Continuity: Using Gen AI to improve humanitarian workload resilience,Lightning talk
+STG209,Choosing the right AWS storage service,Chalk talk
+AIM259-S,Closing the gap between speed and safety: shipping faster at scale (sponsored by LaunchDarkly),Breakout session
+HMC208-S,Cloud Application Security in the AI Era: Lessons from Adobe and Fortinet (sponsored by Fortinet),Breakout session
+MAM312,COBOL to cloud: Accelerated refactoring with AWS Transform agentic AI,Workshop
+BIZ215,Cochlear enhances contact center observability with Amazon Connect,Breakout session
+DAT429,Coding an MCP server for Amazon Aurora,Code talk
+AIM3300,Collaborate at scale: Architecting multi-agent systems with AgentCore,Chalk talk
+COP205-S,Connecting Context to Performance: Real-World Enterprise Observability  (sponsored by Splunk),Breakout session
+DAT308,Cost optimization for Amazon DynamoDB,Chalk talk
+CMP313,Cost Optimize your .NET workloads on AWS,Chalk talk
+DAT407,Create an intelligent banking agent using Aurora DSQL & MCP,Builders' session
+MAM347,Create custom mainframe modernization with AWS and AWS partners,Breakout session
+GBL204,"Cyber Resilience on AWS, designing security and recovery strategies",Breakout session
+CMP314,"Data-Driven EC2 Optimization: Efficiency, Metrics, and Sustainability",Chalk talk
+IND349,Data Harmony: AWS AI Agents for Clinical Integration,Chalk talk
+DAT311,Data modeling core concepts for Amazon DynamoDB,Breakout session
+ANT328,Data Processing architectures for building AI solutions,Breakout session
+STG338,Data protection and resilience with AWS Storage,Breakout session
+STG409,Data protection & application recovery strategies for ransomware,Chalk talk
+AIM339,Data protection strategies for AI data foundation,Code talk
+AIM3314,"Debug, trace, improve: Observability for agentic applications",Chalk talk
+MAM313,Decomposing monolithic databases with generative AI,Chalk talk
+DAT441,Deep dive into Amazon Aurora and its innovations,Breakout session
+DAT439,Deep dive into Amazon Aurora DSQL and its architecture,Breakout session
+DAT444,Deep dive into Amazon DocumentDB and its innovations,Breakout session
+ANT340,Deep dive into data processing in SageMaker Unified Studio,Chalk talk
+DAT446,Deep Dive into Deloitte's Amazon Neptune GenAI Security Intelligence Center,Breakout session
+STG407,Deep dive on Amazon S3,Breakout session
+HMC315,Deep dive on AWS hybrid and edge networking architectures,Chalk talk
+COP305,Defend against downtime using fault isolation boundaries,Chalk talk
+AIM3305,"Deliver a smarter, faster, and a more accurate agentic RAG system",Breakout session
+DAT452,Demystifying Aurora DSQL transactions and concurrency control,Chalk talk
+API324-S,Deploy and Fine-Tune Nemotron Models on AWS SageMaker and Bedrock: Hands-On Lab (sponsored by NVIDIA),Workshop
+HMC314,Deploying for resilience: HA/DR strategies for AWS Outposts and AWS Local Zones,Chalk talk
+CNS314,Deploy multi-agent AI on Amazon EKS,Builders' session
+MAM205,Derisk your mainframe exit through mainframe refactoring with agentic AI,Breakout session
+IND351,Design a multi-expert system for fraud investigation with AI agents,Chalk talk
+ANT330,Design and Implement Agentic AI Observability with OpenSearch,Chalk talk
+API311,Designing resilient Serverless Applications,Breakout session
+COP339,Developing a cost allocation strategy with AWS tooling,Chalk talk
+HMC311,Developing end-to-end SLM pipelines from the cloud to the edge,Chalk talk
+COP306,Developing Unit Cost Metrics with Cloud Intelligence Dashboards,Builders' session
+HMC310,Digital sovereignty and data residency with AWS,Breakout session
+MAM204,Digital transformation excellence: From vision to victory,Breakout session
+DAT435,Dive deep into Amazon DynamoDB,Breakout session
+DAT430,Dive deep into Amazon DynamoDB using design puzzles,Chalk talk
+AIM261-S,Dive into Poolside: AI Models for Today’s Enterprise Software Teams (sponsored by poolside),Breakout session
+IND315,Do's and don'ts for mission-critical workloads in financial services,Chalk talk
+AIM285-S,DraftKings & MongoDB: Supercharging Engineering with AI (sponsored by MongoDB),Breakout session
+DAT320,DraftKings: Scaling to 1M operations/min on Aurora during Super Bowl,Lightning talk
+IND3307,Drive Supply Chain Innovation Using AWS Cloud and AI Solutions,Breakout session
+AIM234-S,Drive trusted AI outcomes with governance and accurate data (sponsored by IBM),Lightning talk
+IND316,Driving Autonomous Operations with Data Sharing and Agentic AI,Chalk talk
+BIZ210-S,Driving Intelligent Project Portfolio Visibility with AWS + Smartsheet (sponsored by Smartsheet),Lightning talk
+ISV316,Driving Profitable Growth with Generative AI: From Prompt to Product,Breakout session
+COP101-S,Driving Resilience with Assurance and Visibility from Edge to Cloud (sponsored by Cisco),Lightning talk
+CMP404,EC2 Fleet: Your Swiss Army Knife for Large-Scale Compute Orchestration,Chalk talk
+CMP412,EC2 Flex instances: Get latest generation performance at lower costs,Chalk talk
+CNS316,Effective strategies for testing serverless event-driven applications,Chalk talk
+SMB303,Empowering SMBs: Streamlined Security & Resilience Automation on AWS,Chalk talk
+ANT203,Enabling AI innovation with Amazon SageMaker Unified Studio,Breakout session
+WPS312,Enabling government to streamline and ensure healthcare coverage with data,Breakout session
+IND410,Enhance GenAI Outcomes in Telecom with Domain Specific Fine-Tuning,Chalk talk
+CNS317,Enhance your Amazon EKS development workflow with MCP,Builders' session
+WPS401,Enhancing public sector efficiency with Agentic AI,Workshop
+DVT225-S,"Enterprise AI Without the Chaos: A New Path to Secure, Compliant Applications  (sponsored by Docker)",Lightning talk
+MAM315,Enterprise software licensing and optimization on AWS,Breakout session
+COP309,Establishing effective cost governance,Chalk talk
+COP201,Estimating workload costs using AWS Pricing Calculator,Chalk talk
+AMZ402,Evaluating AI agents: real-world lessons from Amazon's agent systems,Chalk talk
+AIM301,Expand Agent Capabilities with AgentCore Gateway and Tools,Workshop
+PEX201,"Expanding agentic AI: Accelerate, optimize and scale generative AI",Breakout session
+IND358,Experience T-Mobile's Digital Commerce in Action,Breakout session
+AIM393,Explore AI customization techniques with Amazon Bedrock,Chalk talk
+AIM3306,Explore zero-downtime deployment strategies for production LLMs,Chalk talk
+CMP408,Exploring hybrid quantum-classical computing with Amazon Braket,Workshop
+COP410,Exploring Multi-tenant Cost Allocation for Container Workloads,Workshop
+CMP319,Exploring the Spectrum of Architecture Patterns for 3D Rendering,Chalk talk
+HMC313,Extend Amazon EKS clusters for on-premises and edge use cases,Chalk talk
+HMC103-S,Fast-Track Modernization and Transformation with Nutanix and AWS (sponsored by Nutanix),Lightning talk
+MAM316,Fast-track your VMware to AWS migration with AWS Transform,Workshop
+STG416,File storage for high-performance workloads,Chalk talk
+IND317,Financial services multi-Region design patterns and best practices,Chalk talk
+COP211-S,FinOps+: A New Era of Accelerating Value (sponsored by Kion),Lightning talk
+AIM279-S,FINRA: Accelerate Massive Data Processing with NVIDIA on AWS EMR (sponsored by NVIDIA),Lightning talk
+STG205,Flawless AI: Visual dubbing at scale with Amazon S3,Lightning talk
+API204-S,From AI Promise to KPI Impact: Connected Agents & Orchestration (sponsored by Workato),Lightning talk
+AIM225-S,From Alert to Resolution: Supercharge AWS Ops with the Agentic AI SRE (sponsored by NeuBird AI),Lightning talk
+COP204-S,From Backup to Live Data: Protecting and Unleashing Your Cloud Data (sponsored by Eon),Breakout session
+AIM297-S,From Browser to Prompt: Building Infra for the Agentic Internet (sponsored by Kong),Breakout session
+IND306,From Bytes to Bench: Best practices for life science research agents,Workshop
+AIM344-S,From Cloud Modernization to Autonomous Enterprise: The Next Frontier (sponsored by Genpact),Breakout session
+CNS341,From code to cloud: Accelerate application development with Amazon ECS,Breakout session
+SEC206-S,From collecting tools to an autonomous SOC (sponsored by SentinelOne),Breakout session
+AIM395,From concept to campaign: Building marketing agents with AgentCore,Breakout session
+AIM119-S,From idea to instant production readiness: building AI agents on Cloudflare (sponsored by Cloudflare),Lightning talk
+CNS210,From monolith to microservices: Migrate and modernize with Amazon EKS,Breakout session
+AIM331,From reflection to action: Agentic AI for mission impact,Chalk talk
+CNS406,From serverful to serverless Java,Workshop
+IND386,From UX to AX: MCP Servers for AI Shopping Agents,Lightning talk
+MAM322,From VSAM to DynamoDB: Reimagining mainframe data for the cloud,Builders' session
+DVT327,From Windows to Linux: .NET application modernization,Chalk talk
+CNS201,Fundamentals to scale Kubernetes across your organization,Workshop
+STG308,Gaining insights from your data lake with Amazon S3 Metadata,Builders' session
+WPS305,Gen AI economics: Maximizing value while protecting the purse,Chalk talk
+SEC221,Gen AI in Security Assurance and Compliance: From Strategy to Daily Operations,Chalk talk
+GHJ201, Generative AI Architecture Rodeo,Gamified learning
+CNS344,Generative and Agentic AI on Amazon EKS,Breakout session
+DAT408,Geo-fencing & real-time geospatial alerts with ElastiCache Valkey,Builders' session
+CNS318,Getting started with Serverless using AI assistance,Workshop
+BIZ217,Global tourism brand transforms customer service with Amazon Connect,Breakout session
+PEX204,Go-to-market in today's political climate: a policy and AWS Marketplace overview,Breakout session
+DAT321,HA and DR design patterns for Amazon RDS for SQL Server and Oracle,Chalk talk
+CNS319,Handle scaling with AWS Lambda,Builders' session
+AIM246-S,Hesitate and You’re History: Why You Need Agentic AI Right Now (sponsored by Qlik),Breakout session
+WPS205,High Performance Computing for Mission-Ready Federal Workloads,Breakout session
+STG336,"High-performance storage for AI/ML, analytics, and HPC workloads",Breakout session
+AMZ403,How Amazon is migrating 1000’s of applications to new AWS regions,Chalk talk
+DAT323,How Samsung optimized 1.2 PB on Amazon DynamoDB with zero downtime,Lightning talk
+STG348,How to optimize AWS storage for generative AI and ML workloads,Chalk talk
+AIM102-S,How to uplevel your DevSecOps practice with agentic AI (sponsored by GitLab),Breakout session
+AIM205-S,Human-Centric AI: Avoiding the High Cost of Getting It Wrong in IT (sponsored by NinjaOne),Lightning talk
+HMC105-S,Hybrid Foundations to Cloud Innovation Transforming IBM i/AIX Workloads with AWS (sponsored by Lightedge),Breakout session
+CNS320,I didn't know AWS SAM could do that,Builders' session
+CNS409,Implementing advanced Serverless resilience: A practitioner's guide,Chalk talk
+HMC302,Implementing agentic AI solutions on-premises and at the edge,Workshop
+HMC312,Implement RAG while meeting data residency requirements,Chalk talk
+AIM211-S,Improve quality and speed across the SDLC with Atlassian Rovo Dev (sponsored by Atlassian),Lightning talk
+STG337,Improve self-managed database performance and agility with Amazon FSx,Breakout session
+STG210,Indeed's migration to Amazon S3 Tables,Lightning talk
+SEC224,"Infrastructure protection at scale with AWS Security, ft. Block, Inc.",Breakout session
+CMP407,Innovating with AWS Confidential Computing: An Integrated Approach,Breakout session
+SEC310,Innovations  in Infrastructure Protection to strengthen your network,Breakout session
+STG351,Inside S3: Lessons from exabyte-scale data lake modernization,Breakout session
+AIM396,Integrate any agent framework with Amazon Bedrock AgentCore,Breakout session
+COP411,Intelligent automation for managing cloud governance and compliance,Builders' session
+ISV304,Intelligent Document Processing at Scale Using Bedrock,Chalk talk
+PEX315,Intelligent Security Operations with AWS: AI-Powered Incident Response,Workshop
+CMP409,It's About Time! Improving Distributed Systems with Amazon Time Sync,Breakout session
+CMP326,Java Modernization and Performance Optimization GameDay,Workshop
+MAM403,Kiro and Amazon Bedrock: Unlock AI Agents for Your Legacy Apps,Breakout session
+CNS204,Kubernetes simplified: Get hands-on with Amazon EKS Auto Mode,Workshop
+CMP329,Learnings from developers adopting AWS Graviton at scale,Chalk talk
+CNS323,Learn multi-tier application architectures on Amazon ECS,Workshop
+COP311,Leaving no operational issues behind,Chalk talk
+CMP330,Leverage Auto Scaling to proactively scale and optimize EC2 workloads,Workshop
+MAM409,"Leveraging MCP Servers for SAP Observability, Security & Integration",Chalk talk
+MAM321,Licensing management and optimization on AWS with generative AI,Chalk talk
+MAM206,London Stock Exchange Group's transformation journey,Breakout session
+HMC305,Low-latency SLM deployment: Optimizing inference on AWS Hybrid and Edge services,Workshop
+SEC326-S,Make Attackers Cry: Outsmart Them With Deception (sponsored by Fastly),Lightning talk
+IND205,Making Level 4 Autonomous Networks a reality with British Telecom,Breakout session
+DAT424,Making your Amazon Aurora cluster more resilient,Chalk talk
+CMP331,Managing Amazon EC2 capacity and availability,Breakout session
+CNS324,Managing AWS Lambda runtime upgrades at scale,Chalk talk
+MAM323,Map your VMware workloads migration and modernization journey to AWS,Chalk talk
+CNS325,Master distributed transactions: Orchestration with AWS Step Functions,Builders' session
+AIM321,Mastering agent authentication: Hands-on with AgentCore Identity,Builders' session
+AIM3310,Mastering AI agents in enterprises: Best practices with AgentCore,Breakout session
+IND356,Mastering data chaos: Enterprise-scale catalogs for financial services,Chalk talk
+AIM391,Mastering model choice: The 3-step Amazon Bedrock advantage,Breakout session
+ARC211,Mastering Root Cause Analysis: Rebuilding trust after outages,Breakout session
+CNS407,Master KRMOps: Declarative resource management with Amazon EKS and kro,Builders' session
+STG208,Maximize the value of cold data with Amazon S3 Glacier storage classes,Breakout session
+STG319,Maximizing block storage performance for high-intensity workloads,Breakout session
+CMP315,Maximizing EC2 Local NVMe Storage: Enhanced NVMe Metrics and K8s Integration,Chalk talk
+CMP333,Maximizing EC2 Performance: A Hands-on Guide to Instance Optimization,Code talk
+IND3304, Maximizing uptime: Itaú’s mission-critical mainframe migration to AWS,Breakout session
+HMC402,Meet ultra-low latency and high throughput needs with AWS Outposts,Chalk talk
+PEX403,Metadata Intelligence: The Key to Trusted and Smart Agentic AI Systems,Chalk talk
+HMC303,Migrate and modernize VMware and Java workloads with on-premises dependencies,Workshop
+HMC309,Migrating your VMware workloads with on-premises dependencies,Breakout session
+CNS422,Modernize containers for AI agents using AgentCore Gateway,Code talk
+MAM348,Modernize legacy ABAP code with Q Developer,Code talk
+STG339,Modernize managed file transfer workflows with event-driven SFTP,Breakout session
+DEV333,Modernize monoliths to microservices with generative AI,Breakout session
+CNS326,Modernize .NET Framework workloads with containers and AWS Transform,Workshop
+MAM326,Modernize your analytics and AI for SAP with AWS,Chalk talk
+NTA311,Modernizing Document Processing,Chalk talk
+DVT210,Modernizing Java applications with generative AI,Breakout session
+CNS408,Modernizing monoliths: The path to architectural freedom,Builders' session
+API320,Modernizing Serverless Applications with Event-Driven Architectures,Chalk talk
+STG419,"Modern SFTP: Deploy AWS Transfer Family, Identity, and Automation",Code talk
+STG213,Motability Operations' unified backup strategy: From fragmented to fortified,Lightning talk
+MAM408,Move and improve at scale using AWS Transform,Workshop
+ARC205,Multicloud architectures: Solutions and design patterns,Chalk talk
+NTA310,Multi-Cloud Container Migrations: Amazon CodeCatalyst for Balanced Workloads.,Chalk talk
+STG331,Multicloud data movement best practices with AWS DataSync,Chalk talk
+COP313,Multicloud & hybrid node operation at scale is easier than you think,Chalk talk
+STG408,Multi-protocol data access in FSx for NetApp ONTAP scale-out file systems,Workshop
+COP358,Multi-Region disaster recovery & resilience testing (feat. Fidelity),Breakout session
+DAT440,Multi-Region strong consistency with Amazon DynamoDB global tables,Breakout session
+ISV305,Multi-Tenant AI Cost Control,Workshop
+CNS342,Navigate the cloud compute landscape with Amazon ECS,Breakout session
+IND359,Navigating multi-Region AWS database choices for financial services,Chalk talk
+INV517,Neurosymbolic AI integration in LLMs to enhance reasoning,Chalk talk
+AIM359-S,New Era of Platform Engineering – Agentic AI-Powered Self-Service  (sponsored by SoftServe),Lightning talk
+STG212,New York Times: Best practices for migration to Amazon FSx for ONTAP,Lightning talk
+NTA306,Next-Gen Logistics with GenAI,Workshop
+MAM355,Next-gen SAP security analytics powered by AWS,Chalk talk
+SPS314,Novartis's next-gen clinical platform enables AI drug development,Breakout session
+AIM281-S,NVIDIA Run:ai and Amazon SageMaker HyperPod Integration for Distributed Training (sponsored by NVIDIA),Breakout session
+COP412,Observability: The open source way,Workshop
+STG405,Onboarding and optimizing AI/ML workloads with Amazon S3 & Amazon EKS,Workshop
+STG326,Operating large-scale enterprise workloads with Amazon EBS and EBS Snapshots,Chalk talk
+DAT451,Optimize agentic AI apps with semantic caching,Breakout session
+CNS410,Optimize analytics workloads on Amazon EKS for performance and cost,Workshop
+ANT331,Optimize Cost and Performance in Amazon OpenSearch Service,Chalk talk
+DAT304,Optimize cost & performance in Amazon RDS for SQL Server,Chalk talk
+CNS419,Optimize GenAI inference and model performance on Amazon EKS,Chalk talk
+CMP335,Optimize .NET Price-Performance with Graviton using AWS Transform,Workshop
+AIM311,"Optimize open weight models for low-latency, cost-effective AI apps",Builders' session
+STG345,Optimize performance and cost for archival data in Amazon S3,Chalk talk
+COP212,Optimize software and AI Agent procurement with AWS Marketplace,Lightning talk
+DAT306,Optimize your Amazon Aurora resources to reduce costs,Chalk talk
+CNS349,Optimize your Amazon ECS workloads for performance and cost,Chalk talk
+CNS377,Optimizing Amazon EKS costs through workload analysis and observability,Chalk talk
+ANT319,Optimizing Apache Spark workloads with AWS  Data Processing,Chalk talk
+CNS306,Optimizing compute for performance and scale with Amazon ECS,Builders' session
+CMP337,Optimizing EC2: Hands-On Strategies for Cost-Effective Performance,Workshop
+DAT437,Optimizing for high performance with Amazon ElastiCache Serverless,Breakout session
+COP413,Optimizing GenAI performance with Amazon CloudWatch,Builders' session
+CNS411,Optimizing Kafka workloads with AWS Lambda,Chalk talk
+STG320,Optimizing price performance with enhanced Amazon EBS gp3 volumes,Breakout session
+COP338,Optimizing resources at scale with AWS Compute Optimizer,Chalk talk
+MAM101-S,Optimizing storage costs for Amazon EVS with FSx for ONTAP (sponsored by NetApp),Breakout session
+STG343,Optimizing throughput performance using Mountpoint for Amazon S3,Chalk talk
+DAT208-S,Oracle Database@AWS: supercharge your workloads with Oracle Exadata (sponsored by Oracle),Breakout session
+CNS328,Paper to production: Hosting LLMs on Amazon EKS using NVIDIA GPUs,Workshop
+CNS363,Patterns for session state management in Serverless applications,Chalk talk
+AIM3301,Performance meets pragmatism: Cost-optimized agents with AgentCore,Chalk talk
+DAT425,Perform live migrations to Amazon DocumentDB,Chalk talk
+BIZ213,Petco unlocks agentic AI-powered customer service with Amazon Connect,Breakout session
+COP215-S,Powering SRE Transformation for a Telco Major (sponsored by Tech Mahindra),Lightning talk
+HMC307-S,Preemptive Recovery: A New Playbook for Cloud Resilience (sponsored by Rubrik),Breakout session
+STG325,Protecting block storage at scale with native encryption and EBS Snapshots,Chalk talk
+STG353,Protecting FSx for NetApp ONTAP data from ransomware,Chalk talk
+SEC210-S,Protecting web apps & APIs with AI and an as-a-Service approach (sponsored by Check Point Software),Breakout session
+STG207,"Protect your data with AWS Backup: overview, use cases and what's new",Breakout session
+STG218,Put your data to work for Agentic AI with AWS storage,Breakout session
+IND383,Rapidly accelerate product development and launches with AI,Breakout session
+AIM316,Rapidly build and scale real-world AI agents with AgentCore & Strands,Workshop
+ARC308,Rapid prototyping: Leveraging Kiro and Amazon Q Developer CLI,Workshop
+IND212,Real-time Patient and Revenue Cycle Insights with Gen AI,Lightning talk
+GHJ202,re:Architecture Rodeo - Migration Showdown,Gamified learning
+MAM212,Re-defining customer experiences with SAP and Pan-Amazon Services,Breakout session
+BIZ216,Redefining service excellence: Canada Life’s AI-powered contact center,Breakout session
+CNS412,Refactoring Java applications to serverless,Chalk talk
+MAM341,Reimagine your mainframe applications using AWS Transform's AI agent,Workshop
+WPS203,Reimagining Public Sector with AWS Partner generative AI solutions,Lightning talk
+ARC310,Resilience of AWS Cloud: Design patterns for availability,Breakout session
+CMP339,Resilient and resourceful: Balance compute resiliency and costs,Chalk talk
+DAT411,Revolutionize customer care with data-driven generative AI,Builders' session
+AMZ404,Revolutionize shopping: Inside Amazon's AI-powered 'Buy for Me' experience,Chalk talk
+IND367,Revolutionizing Audi's Welding Inspection System through AI,Breakout session
+AIM286-S,Rivian & MongoDB: Powering the Future of Autonomous Driving (sponsored by MongoDB),Breakout session
+AIM243-S,Run and Scale Agentic AI Applications in Production (sponsored by HashiCorp),Breakout session
+CNS322,Running compute efficient workloads on Amazon EKS Auto Mode,Workshop
+SEC223-S,"Runtime + AI: Reinventing Cloud Security on AWS (sponsored by Upwind Security, Inc.)",Lightning talk
+AIM3308,Safeguard your generative AI applications with Amazon Bedrock Guardrails,Chalk talk
+DAT307,"Safer, simpler, faster upgrades with managed blue/green deployments",Chalk talk
+MAM333,SAP analytics modernization: Zero ETL to AI-driven insights with AWS,Workshop
+CMP341,SAP workloads on memory optimized EC2 instances,Chalk talk
+COP314,Scale & automate patching with AI-powered visualization,Workshop
+CNS414,"Scale, optimize, and upgrade your Kubernetes cluster with Karpenter",Chalk talk
+SEC329,Scale Security Operations with AWS Security Incident Response Service,Breakout session
+MAM335,Scale VMware migrations with Cloud Migration Factory & AWS Transform,Workshop
+AIM3313,Scaling agent tools with AgentCore Gateway for enterprises,Breakout session
+AIM209-S,Scaling AI with confidence: From proof of concept to production (sponsored by Dynatrace),Breakout session
+COP348,Scaling Compliance Controls and Risk Assessment,Chalk talk
+DAT324,Scaling MONOPOLY GO! to 10M daily players with DynamoDB & ElastiCache,Lightning talk
+AIM121-S,Scaling Observability for the AI Era: From GPUs to LLMs (sponsored by Chronosphere),Lightning talk
+STG211,Scaling Pinterest: Iceberg solutions for petabyte-scale challenges,Lightning talk
+ISV302,Scaling SaaS applications with cell-based architectures,Chalk talk
+IND3312,"Scaling support, compliance, & productivity with conversational AI at Coinbase",Breakout session
+STG354,Seamless file storage migration from on-premises to AWS,Chalk talk
+SEC216-S,"Seamless Network-based Fraud Protection for FinTech & Digital Business (sponsored by Vonage, Part of Ericsson)",Lightning talk
+WPS317,Secure AI Agents Delivering Efficiency in Regulated Industries,Breakout session
+IND3313,Secure in milliseconds: Visa's AI-powered fraud defense on AWS,Breakout session
+SEC328-S,Securing AI Agents: The Future of Identity & Access Control (sponsored by WorkOS),Breakout session
+AIM398,Securing AI agent workflows: Identity patterns in AgentCore,Chalk talk
+CNS332,Securing and optimizing your software supply chain with Amazon ECR,Chalk talk
+SEC337,Securing IoT Workloads with AWS IoT Lens and AWS Security Reference Architecture,Chalk talk
+CNS333,Serverless data processing with AWS Lambda and Apache Kafka,Builders' session
+API318,"Serverless Optimization: Balancing Cost, Throughput & Latency",Chalk talk
+AIM283-S,ServiceNow and AWS: Powering AI-driven workflows on the cloud built to scale (sponsored by ServiceNow),Breakout session
+ARC313,Service-oriented builders guide to agentic AI: Insights from WEX,Breakout session
+CNS209,Simplify backup for stateful Amazon EKS workloads,Lightning talk
+MAM107,Simplify discovery and deployment of software with AWS Marketplace,Lightning talk
+IND324,Simplify fraud investigation with Strands Agents and Amazon Nova Sonic,Chalk talk
+API323,Simplifying orchestrations with JSONata and AWS Step Functions,Lightning talk
+COP316,Simplifying security and operations through smart resource tracking,Builders' session
+STG332,Simplify secure file sharing with Transfer Family no-code web apps,Chalk talk
+CNS354,Simplify your Kubernetes journey with Amazon EKS,Breakout session
+AIM3309,Slack securely powers internal AI dev tools with Bedrock and Strands,Breakout session
+DAT325,Slash costs & get AI-ready with RDS for SQL Server & Oracle workloads,Breakout session
+IND325,Smart Clinical Documentation: Kiro & AWS HealthScribe,Builders' session
+AIM314,"Smarter Agents, Better Insights: Contextual Memory in Action",Workshop
+BIZ211,So Energy streamlines customer service with AI-powered automation,Breakout session
+PEX110,Solution-based selling strategies in AWS Marketplace,Lightning talk
+API321,Solving the Observability Mystery with AWS Step Functions,Code talk
+AIM116-S,Speed to Impact: AI Factory in the Cloud with NVIDIA on AWS (sponsored by NVIDIA),Breakout session
+DAT416,SQL Server migration & modernization powered by generative AI,Workshop
+CMP207,Startup to Scale: Powering Business Growth with Amazon Lightsail,Chalk talk
+STG330,Strategies to accelerate petabyte-scale migrations with AWS DataSync,Chalk talk
+IND363,Stream 3D applications globally with Amazon GameLift Streams,Workshop
+CNS421,Streamline Amazon EKS operations with Agentic AI,Code talk
+MAM336,Streamline web app deployment with gen AI and AWS Elastic Beanstalk,Workshop
+ANT320,Strengthening security for Apache Spark workloads,Chalk talk
+COP317,Stress test your services for resilience with AWS Game Day,Breakout session
+DAT313,Supercharge app intelligence using gen AI with Amazon DocumentDB,Breakout session
+CNS334,Supercharge Lambda functions for security and performance,Builders' session
+CNS335,Supercharge Serverless APIs with Powertools for AWS Lambda,Workshop
+IND327,Sysco's Digital Transformation: Platform Engineering with Amazon Q,Chalk talk
+DEV319,Tackling Anti-patterns with AI-Driven Development Lifecycle (AI-DLC),Chalk talk
+COP318,Tag like a pro: Optimize multi-account resource tracking,Chalk talk
+AIM278-S,Tapping into the Power of Agentic AI: Driving Mission Success with NVIDIA & AWS (sponsored by NVIDIA),Lightning talk
+CNS336,Telemetry forensics: Debugging event systems with metrics & traces,Builders' session
+COP332-S,The Digital Supply Chain Is Broken. Can AI Fix It? (sponsored by Files.com),Lightning talk
+CMP347,The Frugal Architect in a Chaotic World,Chalk talk
+CNS205,The future of Kubernetes on AWS,Breakout session
+AIM3322-S,The Great ReImagining: Thriving in the Age of AI Agents (sponsored by Kore.ai),Lightning talk
+SEC321,The magic behind Amazon GuardDuty Extended Threat Detection,Chalk talk
+MAM337,The New York Times: From Google Cloud Platform to AWS,Breakout session
+API310,The Step Functions Workshop,Workshop
+CNS337,Thinking Serverless,Chalk talk
+IND3315,Trading innovation: Jefferies' AI assistant on Amazon Bedrock ,Lightning talk
+BIZ214,Traeger accelerates contact center agent productivity with agentic AI,Breakout session
+AIM117-S,"Train, Simulate, Deploy: Building NVIDIA-Powered Physical AI on AWS (sponsored by NVIDIA)",Breakout session
+COP319,Transform cloud monitoring into natural conversations,Builders' session
+IND328,Transforming Additive Manufacturing with Agentic AI,Chalk talk
+STG318,Transforming AI storage economics with Amazon S3 Vectors,Breakout session
+BIZ220,Transforming contact centers in financial services with Amazon Connect,Breakout session
+MAM346,Transforming Enterprise IT: CSL Behring's VMware and SAP Modernization,Breakout session
+IND210,Transforming Healthcare Payor Operations: AWS-TriZetto Success Story,Lightning talk
+IND352,Transforming Integrated Diagnostics: Philips' AI Journey with AWS,Breakout session
+IND405,Transforming Manufacturing Operations with Agentic Edge Gateways,Chalk talk
+DVT206-S,Transforming Observability: Ripple’s Journey with Grafana on AWS (sponsored by Grafana Labs),Lightning talk
+MAM214,Transforming SAP with AWS AI services to drive innovation,Breakout session
+API206-S,Transforming Supply Chains with Amazon Bedrock AgentCore (sponsored by Fujitsu),Lightning talk
+AIM327,Transform multimodal data with Amazon Bedrock Data automation,Builders' session
+MAM207,Turbocharge the mainframe to cloud journey with AWS Transform's agentic AI,Breakout session
+ANT339,Turn unstructured data in Amazon S3 into AI-ready assets with SageMaker Catalog,Breakout session
+BIZ218,UC San Diego Health modernizes patient engagement with Amazon Connect,Breakout session
+CNS429,Under the hood: Architecting Amazon EKS for scale and performance,Breakout session
+STG323,Under the hood with Amazon EBS: Achieving sub-millisecond latency at scale,Chalk talk
+AIM338,Unified knowledge access: Bridging data with generative AI agents,Code talk
+IND329,Unified Namespace: Simplifying Manufacturing Data Integration,Chalk talk
+AIM210-S,"Unifying AWS observability, logs, and traces with Dynatrace (sponsored by Dynatrace)",Breakout session
+AIM216-S,"United Airlines, Deloitte & AWS GenAI-Powered Mainframe Emulator (sponsored by Deloitte)",Breakout session
+CMP210-S,Unleashing Performance: How Intel Xeon 6 on AWS EC2 Is Redefining Compute & TCO (sponsored by Intel),Breakout session
+AIM3320,Unlock carbon & cost insights: Optimize spend and drive sustainability,Workshop
+CMP352,Unlock Cost Efficiency with AWS Graviton Savings Dashboard,Lightning talk
+CNS355,Unlock distributed GenAI inference with Amazon EKS Hybrid Nodes,Chalk talk
+ARC314,Unlocking agentic AI access for microservices,Breakout session
+MAM213,Unlocking business value by integrating SAP and non-SAP data sources,Breakout session
+ANT313-S,"Unlocking GenAI potential with automated modernization to AWS  (sponsored by Impetus Technologies, Inc.)",Lightning talk
+DAT417,Unlock intelligent AI with MCP powered agentic Neptune graph reasoning,Workshop
+CNS338,Unlock productivity: tools and techniques for developers,Builders' session
+CNS413,Unveiling Amazon ECS workloads with AWS observability and agentic AI,Chalk talk
+DAT418,Use Amazon DynamoDB to enhance agentic AI workflows,Builders' session
+DAT419,Use GraphRAG with Amazon Neptune to improve generative AI applications,Builders' session
+STG315,Use your FSx file data to build custom gen AI apps,Builders' session
+COP345,Using AI to bridge the multicloud skills gap in IT operations,Lightning talk
+AIM336,Using AI to improve humanitarian workload resilience,Code talk
+CMP348,Using Amazon Q to Cost Optimize Your Containerized Workloads,Workshop
+API207,Using event-driven architectures to modernize legacy applications at scale,Breakout session
+DAT420,Using generative AI to accelerate database modernization with AWS DMS,Code talk
+AIM426,"Using Strands to build fully autonomous, self-improving AI agents",Code talk
+CNS339,Vibe coding production-ready containerized applications,Builders' session
+AIM202,Vibin' with Claude,Builders' session
+DAT433,Video sampling & search using in-memory DBs & multimodal embeddings,Code talk
+STG346,Visualize data lake insights with S3 Tables and AWS analytics,Chalk talk
+MAM338,"VMware to AWS modernization blueprint: Migrate, containerize, scale",Workshop
+MAM357,VMware to AWS Readiness: Foundational decisions before your migration,Chalk talk
+IND216,Vodafone Romania BSS Modernization on AWS,Chalk talk
+IND330,Voice AI restaurant ordering platform powered by Amazon Nova Sonic,Chalk talk
+WPS311,Weather emergency advisor with Amazon Bedrock and Location Service,Chalk talk
+DAT318,Web3 + AI: Agents that mean business,Breakout session
+COP202,What's new in AWS cost Optimization,Breakout session
+STG206,What's new with Amazon S3,Breakout session
+COP203,What's New with AWS Cost Management,Breakout session
+MAM209,Why customers choose AWS as their transformation partner for SAP,Breakout session
+AIM109-S,Why Usage-Based Billing Must Be Treated as Infrastructure (sponsored by Metronome),Lightning talk
+AIM112-S,Work AI that Works: Real Stories & Outcomes of Agentic AI  (sponsored by Glean),Breakout session
+STG342,Working with S3 Metadata: From basic queries to custom metadata,Chalk talk
+CNS340,Write less code: Building applications with a serverless mindset,Builders' session
+AIM3302,Your data is your moat: Integrating AWS-native tools into agents,Chalk talk
+AIM325,Zero to launch: Deploy AI agents with AgentCore Runtime and Identity,Workshop
+CNS357,Zero to production: Simplify AI deployments with Amazon EKS Auto Mode,Chalk talk
+SEC211-S,Zero Trust for Agentic Systems: Managing Non-Human Identities at Scale (sponsored by HashiCorp),Breakout session

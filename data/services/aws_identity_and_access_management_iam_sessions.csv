@@ -1,0 +1,24 @@
+code,title,type
+SEC402,A deep dive on IAM policy evaluation,Chalk talk
+SEC410,Advanced AI Security: Architecting Defense-in-Depth for AI Workloads,Breakout session
+ARC329,Architect for Zero Trust in AWS,Chalk talk
+SEC322,Automating Certificate Management with Exportable Public Certificates,Code talk
+SEC341,Automating IAM policy validation and analysis using GitHub Actions,Code talk
+SEC201,AWS European Sovereign Cloud: From concept to reality,Breakout session
+SEC325,"Building Scalable, Secure Secrets Management on AWS",Builders' session
+SEC306,Data perimeter challenge,Builders' session
+SEC307,"Design authentication, authorization, and logging logic in Agentic AI apps",Workshop
+SEC327-S,Detection Engineering at Scale: Building High-Fidelity Security Operations (sponsored by Datadog),Breakout session
+SEC340,IAM Access Analyzer Deep Dive: From Configuration to Remediation,Code talk
+COP351,Innovation Sandbox on AWS: Automating Temporary Cloud Environments,Lightning talk
+CNS356,Master identity-first security with Amazon EKS Auto Mode,Chalk talk
+SEC339,Modern workload identity management strategies,Chalk talk
+SEC214,Patterns for multiple AWS organizations for mergers and divestitures,Chalk talk
+CNS370,Secure user code execution with AWS Lambda for SaaS platforms,Chalk talk
+SEC408,"Securing Agentic AI: OWASP, MAESTRO, and Real-World Defense Strategies",Chalk talk
+CNS331,Securing and observing Amazon EKS clusters,Builders' session
+SEC314,Securing Data Lakes: From Ingestion to AI Analysis,Builders' session
+SPS323,Securing event-driven architectures: from sync to async security,Code talk
+SEC317,Shared responsibility: leadership lessons from active defense of the cloud,Chalk talk
+SEC203,State of the Art: AWS data protection in 2025 (ft. Vanguard),Breakout session
+SEC335,Threat modeling for AWS identity: From federation to resource access,Chalk talk

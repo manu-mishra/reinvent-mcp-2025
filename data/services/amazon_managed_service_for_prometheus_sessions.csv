@@ -1,0 +1,5 @@
+code,title,type
+CNS405,Cloud-native Java on Amazon EKS,Builders' session
+COP412,Observability: The open source way,Workshop
+CNS328,Paper to production: Hosting LLMs on Amazon EKS using NVIDIA GPUs,Workshop
+COP333,Scaling open source observability stack feat. Warner Bros Discovery,Breakout session

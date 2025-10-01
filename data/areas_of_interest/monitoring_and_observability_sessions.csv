@@ -1,0 +1,88 @@
+code,title,type
+DVT222-S,100% Observability at 10% the Cost Using Grepr's Real-Time ML (sponsored by Grepr),Lightning talk
+COP320,Accelerating Incident Resolution: AI-Driven Root Cause Analysis,Builders' session
+COP334,Accelerating incident response through AIOps,Breakout session
+NET312,Agent based Network Ops : Amazon Bedrock Agents & Agent Core,Workshop
+AIM232-S,Agentic AIOps: How LogicMonitor & WWT See Enterprises Readying for Autonomous IT (sponsored by LogicMonitor),Breakout session
+AIM217-S,Agents Assemble! The Power of AI Tools That Work Together (sponsored by New Relic),Breakout session
+ARC318,AI-powered FinOps: Agent-based cloud cost management,Chalk talk
+AIM206-S,AI-Powered Observability & Observability for AI: The Two Sides of the Coin (sponsored by ManageEngine),Lightning talk
+ISV313,AI-powered SaaS Observability using OpenSearch,Code talk
+ARC301,AI-powered troubleshooting: From chaos to Well-Architected,Builders' session
+CNS351,Amazon ECS observability patterns and design decisions,Chalk talk
+STG350,Amazon FSx Intelligent-Tiering: Technical deep dive and best practices,Chalk talk
+COP329,Application performance monitoring: From design to implementation,Chalk talk
+ARC336,Architecting reliable deployments: Amazon.com's blue/green patterns,Chalk talk
+COP402,Architect open source observability for distributed environments,Chalk talk
+IND301,Architect petabyte-scale observability with OpenSearch and Amazon Q,Chalk talk
+COP403,Automate cloud operations with AI agents,Workshop
+DAT302,Autonomous DBOps: Agentic AI for maintaining databases,Builders' session
+ARC303,AWS Solutions Library: Accelerating innovation with proven patterns,Workshop
+AIM235-S,Balance performance and cost on AWS with intelligent optimization (sponsored by IBM),Lightning talk
+COP415,Behind the scenes: How AWS drives operational excellence & reliability,Breakout session
+STG411,Best practices for maximizing S3 File Gateway performance,Chalk talk
+DAT312,Boost performance and reduce costs in Amazon Aurora and Amazon RDS,Breakout session
+DVT224-S,Bronto: Logs at Scale Without Compromise (sponsored by Bronto),Lightning talk
+AIM304,Build agentic observability workflows with models from AWS Marketplace,Builders' session
+CNS352,Build an adaptive compute grid with Amazon ECS and AWS Lambda,Chalk talk
+COP404,Build full-stack observability from applications to databases,Workshop
+COP405,Building agentic workflows for augmented observability,Code talk
+API305,Building EDAs with Apache Kafka and Amazon EventBridge,Chalk talk
+AIM394-S,Building multi-agent AI SRE: from root cause to vibe debugging (sponsored by Resolve AI),Breakout session
+DEV329,Building Production Agent Swarms: Mastering Industrial AI,Chalk talk
+COP408,Building resilient architectures with observability,Workshop
+DEV312,"Building, Securing, and Monitoring Kiu: A Global Community AI Agent",Breakout session
+IND311,Build Media Workflows with Natural Language Using Strands Agents SDK,Builders' session
+AIM233-S,"Build observable AI agents with Strands, AgentCore, and Datadog (sponsored by Datadog)",Breakout session
+COP330,Byte to insight: Maximize value from your logs with Amazon CloudWatch,Chalk talk
+AIM259-S,Closing the gap between speed and safety: shipping faster at scale (sponsored by LaunchDarkly),Breakout session
+COP205-S,Connecting Context to Performance: Real-World Enterprise Observability  (sponsored by Splunk),Breakout session
+CMP314,"Data-Driven EC2 Optimization: Efficiency, Metrics, and Sustainability",Chalk talk
+DAT446,Deep Dive into Deloitte's Amazon Neptune GenAI Security Intelligence Center,Breakout session
+COP421,Design effective Amazon CloudWatch dashboards and alarms,Chalk talk
+HMC320,Design patterns for multicloud observability,Chalk talk
+AIM260-S,Ditch your old SRE playbook: AI SRE for root cause in minutes (sponsored by Resolve AI),Breakout session
+COP327,Drive operational excellence for modern applications,Breakout session
+COP101-S,Driving Resilience with Assurance and Visibility from Edge to Cloud (sponsored by Cisco),Lightning talk
+CMP404,EC2 Fleet: Your Swiss Army Knife for Large-Scale Compute Orchestration,Chalk talk
+COP326,Elevate application and generative AI observability,Breakout session
+COP307,Enhancing security visibility: building scalable log analytics,Chalk talk
+DEV346,Enterprise CI/CD: Advanced patterns for resilient deployments,Code talk
+DEV328,From Laptop to Scale: A UnicornVibe AI Agent Journey,Chalk talk
+HMC207-S,From On-Prem to On-Point: Safelite's AWS Cloud Observability Journey (sponsored by SolarWinds),Lightning talk
+ISV315,GenAI-Powered Contextual Security Analysis & Remediation,Code talk
+COP328,Implementing observability at scale: A blueprint for success,Breakout session
+SEC207-S,Improve DevEx for GenAI Deployments: Dynatrace + Amazon Bedrock (sponsored by Dynatrace),Lightning talk
+PEX315,Intelligent Security Operations with AWS: AI-Powered Incident Response,Workshop
+COP311,Leaving no operational issues behind,Chalk talk
+COP360,Leverage observability to build responsible AI applications,Lightning talk
+OPN405,Mastering Fluent-bit: Performance at Scale,Workshop
+NET321,Measure what matters: Web & API optimization with Amazon CloudFront,Chalk talk
+ARC205,Multicloud architectures: Solutions and design patterns,Chalk talk
+CNS417,Networking and observability strategies for Kubernetes,Breakout session
+COP335,Observability for AI Agents and Traditional Workloads,Breakout session
+COP412,Observability: The open source way,Workshop
+CNS371,Operating AWS Lambda functions at scale,Chalk talk
+COP413,Optimizing GenAI performance with Amazon CloudWatch,Builders' session
+OPN407,Performance tuning for streaming Ingestion into Apache Iceberg,Builders' session
+AIM387,Scale AI and agentic workflows with Amazon SageMaker AI,Breakout session
+COP417,Scale security monitoring using AWS CloudTrail with generative AI,Chalk talk
+AIM209-S,Scaling AI with confidence: From proof of concept to production (sponsored by Dynatrace),Breakout session
+AIM121-S,Scaling Observability for the AI Era: From GPUs to LLMs (sponsored by Chronosphere),Lightning talk
+ARC311,Scaling observability with generative AI: Building automated patterns,Builders' session
+COP333,Scaling open source observability stack feat. Warner Bros Discovery,Breakout session
+CNS331,Securing and observing Amazon EKS clusters,Builders' session
+COP315,Securing your network perimeter through observability,Workshop
+CNS369,Serverless Observability: Best Practices for AWS Distributed Systems,Chalk talk
+COP316,Simplifying security and operations through smart resource tracking,Builders' session
+API321,Solving the Observability Mystery with AWS Step Functions,Code talk
+DEV304,Supercharge DevOps with AI-driven observability,Breakout session
+AIM418-S,The AI Discussion Control Plane: How Your Agentic Team Redefines Ops (sponsored by Edge Delta),Lightning talk
+ANT321,Top 10 tips to improve query performance in Amazon Redshift,Chalk talk
+COP319,Transform cloud monitoring into natural conversations,Builders' session
+DVT206-S,Transforming Observability: Ripple’s Journey with Grafana on AWS (sponsored by Grafana Labs),Lightning talk
+IND364,Transforming Service Operations with IoT and Gen AI,Builders' session
+COP331,Troubleshooting database performance issues at scale,Lightning talk
+AIM210-S,"Unifying AWS observability, logs, and traces with Dynatrace (sponsored by Dynatrace)",Breakout session
+CNS413,Unveiling Amazon ECS workloads with AWS observability and agentic AI,Chalk talk
+STG346,Visualize data lake insights with S3 Tables and AWS analytics,Chalk talk

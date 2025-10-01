@@ -1,0 +1,9 @@
+code,title,type
+CMP302,Accelerating Engineering: Cross-Industry HPC Cloud Transformations,Breakout session
+STG350,Amazon FSx Intelligent-Tiering: Technical deep dive and best practices,Chalk talk
+STG329,Build data resilient application architectures using AWS Storage,Chalk talk
+STG209,Choosing the right AWS storage service,Chalk talk
+STG314,Optimizing storage for your containers and Amazon EKS applications,Chalk talk
+STG218,Put your data to work for Agentic AI with AWS storage,Breakout session
+STG354,Seamless file storage migration from on-premises to AWS,Chalk talk
+STG203,What's new with AWS File Storage,Breakout session

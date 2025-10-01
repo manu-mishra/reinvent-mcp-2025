@@ -1,0 +1,52 @@
+code,title,type
+CNS373,Accelerate building Serverless apps with Amazon Q and MCP servers,Code talk
+MAM216-S,Accelerate Legacy Modernization with Slalom & AWS (sponsored by Slalom),Lightning talk
+PEX303,Accelerating Development and DevSecOps with Amazon Bedrock & Amazon Q,Breakout session
+COP320,Accelerating Incident Resolution: AI-Driven Root Cause Analysis,Builders' session
+IND334,Agent in an hour: Build an agentic app with Strands Agents and MCP,Builders' session
+SAS414,Agents meet SaaS operations: A natural fit,Builders' session
+CMP402,AI-assisted quantum software development using Amazon Braket and Amazon Bedrock,Chalk talk
+SMB301,AI Pioneers: Shipping Transformative GenAI Architectures to Production,Breakout session
+COP301,Applying AI for FinOps and FinOps for AI,Chalk talk
+IND384,Automate insights and drive innovation with cloud and AI solutions,Breakout session
+AIM104-S,Build an Agentic SaaS App in 5 Steps: From Idea to Revenue (sponsored by Pega),Lightning talk
+COP322,Building AI-Powered operational insights and automated remediation,Builders' session
+COP407,Building custom agents for intelligent AWS patch automation,Code talk
+API205-S,"Build, manage and govern AI agents from one place (sponsored by IBM)",Lightning talk
+AIM111-S,Build your agentic operating system with Slack (sponsored by Slack from Salesforce),Lightning talk
+SPS310,Commonwealth Bank of Australia reimagines modernization via agentic AI,Breakout session
+BIZ210-S,Driving Intelligent Project Portfolio Visibility with AWS + Smartsheet (sponsored by Smartsheet),Lightning talk
+ISV316,Driving Profitable Growth with Generative AI: From Prompt to Product,Breakout session
+CNS317,Enhance your Amazon EKS development workflow with MCP,Builders' session
+CMP405,Everything you've wanted to know about performance on EC2 instances,Code talk
+AIM344-S,From Cloud Modernization to Autonomous Enterprise: The Next Frontier (sponsored by Genpact),Breakout session
+SEC324,From code to cloud: enhancing visibility across the SDLC with AWS,Workshop
+SAS401,From Zero to SaaS: When Vibe Coding Meets Production,Builders' session
+SEC221,Gen AI in Security Assurance and Compliance: From Strategy to Daily Operations,Chalk talk
+SAS403,Hands-on multi-tenant agents: Inside tenant-aware agentic systems,Workshop
+AIM102-S,How to uplevel your DevSecOps practice with agentic AI (sponsored by GitLab),Breakout session
+CMP328,Infrastructure Automation with Amazon Q CLI and EC2 Image Builder,Builders' session
+CMP326,Java Modernization and Performance Optimization GameDay,Workshop
+COP311,Leaving no operational issues behind,Chalk talk
+STG404,Modern batch analytics: Building advanced pipelines with S3 Tables,Workshop
+DEV333,Modernize monoliths to microservices with generative AI,Breakout session
+CNS326,Modernize .NET Framework workloads with containers and AWS Transform,Workshop
+AIM359-S,New Era of Platform Engineering – Agentic AI-Powered Self-Service  (sponsored by SoftServe),Lightning talk
+SAS404,Next-gen agentic SaaS: Transforming to an agent-powered experience,Workshop
+MAM355,Next-gen SAP security analytics powered by AWS,Chalk talk
+STG313,Optimize AWS Backup using AI evaluation and Well-Architected best practices,Builders' session
+API102-S,Power multi-agent AI systems that truly transform enterprise workflows (sponsored by IBM),Breakout session
+MAM212,Re-defining customer experiences with SAP and Pan-Amazon Services,Breakout session
+AIM299-S,Reinventing Pharma Document Workflows to Unlock Value at Scale with Agentic AI (sponsored by ZS),Lightning talk
+SAS302,SaaS Anywhere meets GenAI: Building distributed AI multi-tenant environments,Workshop
+COP314,Scale & automate patching with AI-powered visualization,Workshop
+DEV304,Supercharge DevOps with AI-driven observability,Breakout session
+SAS303,Supercharge your SaaS with agentic insights,Builders' session
+AIM326,Talk with your data: Approaches to natural language query for nonprofits,Builders' session
+COP319,Transform cloud monitoring into natural conversations,Builders' session
+SAS304,Transforming from SaaS to multi-tenant agentic SaaS,Breakout session
+MAM214,Transforming SAP with AWS AI services to drive innovation,Breakout session
+MAM213,Unlocking business value by integrating SAP and non-SAP data sources,Breakout session
+AIM334,Unlock sustainability insights: How AI enables AWS carbon management,Chalk talk
+CMP348,Using Amazon Q to Cost Optimize Your Containerized Workloads,Workshop
+CNS339,Vibe coding production-ready containerized applications,Builders' session

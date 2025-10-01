@@ -1,0 +1,8 @@
+code,title,type
+NTA403,Advanced RAG Architectures: From Basic Retrieval to Agentic RAG,Code talk
+PEX405,AI That Remembers: Building Memory Systems for AI Agents,Workshop
+ANT401,Build an AI-powered enterprise search with Amazon OpenSearch service,Workshop
+COP307,Enhancing security visibility: building scalable log analytics,Chalk talk
+ANT411,Low-cost logging and observability with Amazon OpenSearch Service,Workshop
+ANT419,Vector search with Amazon OpenSearch Service,Builders' session
+ANT201,"What’s new in search, observability, and vector databases with OpenSearch",Breakout session

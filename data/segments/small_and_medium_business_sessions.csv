@@ -1,0 +1,114 @@
+code,title,type
+AIM362,Accelerate AI workloads with UltraServers on Amazon SageMaker HyperPod,Breakout session
+IND333,Accelerate financial products from idea to market with AI agents,Chalk talk
+PEX101,Accelerate new customer engagement and revenue growth,Breakout session
+IND414,Accelerating Life Sciences Regulatory Intelligence with Amazon Bedrock Agents,Chalk talk
+IND334,Agent in an hour: Build an agentic app with Strands Agents and MCP,Builders' session
+SAS414,Agents meet SaaS operations: A natural fit,Builders' session
+NTA404,AI Code to Production: Context Matters,Code talk
+SMB301,AI Pioneers: Shipping Transformative GenAI Architectures to Production,Breakout session
+TNC322,Amazon Bedrock Agents: Features and Design Patterns,Breakout session
+AIM367,A strategic guide to AWS compute options for your AI/ML workload,Chalk talk
+IND338,Automate analysis and extract intelligence from financial datasets,Workshop
+NTA321,AWS Agent for SAP Invoice Automation,Workshop
+GBL101,AWS European Sovereign Cloud: Your 20-Minute Essential Guide,Lightning talk
+SMB202,AWS & GenAI Power CDG's Telecom Software Modernization Journey,Lightning talk
+PEX314,"AWS Marketplace seller workshop: Publish, update, and manage products",Workshop
+AIM304,Build agentic observability workflows with models from AWS Marketplace,Builders' session
+AIM328,Build agentic workflows using third-party AI agents & tools,Chalk talk
+IND342,Build a multi-agent financial research assistant with Amazon Bedrock,Workshop
+SMB309,Build an Agent Factory: An Agent that can Create any Agent On-Demand,Code talk
+SMB401,Build Fast Multi-Agent AI Systems Using Amplify and Bedrock Together,Workshop
+NTA401,Build First Retail AI Agent: Customer Service Excellence with Amazon Bedrock,Builders' session
+HMC209-S,"Building High-Performance, Secure Networks for Hybrid and Multicloud (sponsored by Equinix)",Lightning talk
+IND345,Building privacy-aware generative AI applications in financial services,Chalk talk
+IND3302,Building Prudential’s microagent platform with MCP and A2A on AWS,Breakout session
+SMB302,Building Self-Healing IT Systems with Agentic AI,Builders' session
+NTA312,Building The Enterprise Data Success Framework,Chalk talk
+IND346,Building vertical AI agent blueprints in financial services,Chalk talk
+AIM111-S,Build your agentic operating system with Slack (sponsored by Slack from Salesforce),Lightning talk
+IND3308,Capital One: Building resilient systems by engineering for five nines,Breakout session
+NTA201,Cloud Foundations Accelerator,Chalk talk
+IND347,Combat financial document fraud with a multi-agent system,Workshop
+NTA314,Connecting Infor CloudSuite to AWS Services,Chalk talk
+AIM292-S,Cracking the SMB Code: AI Sales That Redefine Travel Growth (sponsored by ZS),Lightning talk
+IND348,Create a secure card management platform with AWS Payment Cryptography,Chalk talk
+SAS402,Creating multi-tenant data lakehouses for agentic SaaS environments,Workshop
+AIM386,Customize foundation models using Amazon SageMaker AI,Chalk talk
+AIM3315,Customize GPT-OSS models on Amazon SageMaker AI for improved accuracy,Chalk talk
+AIM363,Customize & scale foundation models using Amazon SageMaker AI,Breakout session
+NTA313,Cut Costs with Aurora PostgreSQL & Babelfish,Chalk talk
+GBL204,"Cyber Resilience on AWS, designing security and recovery strategies",Breakout session
+AIM3319,Deploy LLMs at scale with vLLM Deep Learning Containers and AI agents,Chalk talk
+IND351,Design a multi-expert system for fraud investigation with AI agents,Chalk talk
+TNC315,Develop AI Agents and Flow Apps on Amazon SageMaker Unified Studio,Interactive training
+AIM388,Develop AI Agents faster with Amazon SageMaker Studio and AgentCore,Breakout session
+IND353, Documents to decisions: AI-powered underwriting with Amazon Bedrock,Builders' session
+IND315,Do's and don'ts for mission-critical workloads in financial services,Chalk talk
+BIZ210-S,Driving Intelligent Project Portfolio Visibility with AWS + Smartsheet (sponsored by Smartsheet),Lightning talk
+AIM2202-S,"Edge AI in Real-World Solutions using AWS SageMaker, Greengrass and Bedrock (sponsored by Qualcomm)",Breakout session
+SMB303,Empowering SMBs: Streamlined Security & Resilience Automation on AWS,Chalk talk
+TNC313,Enhance and Scale Agents with Amazon Bedrock AgentCore,Interactive training
+AIM114-S,Exploring dual pathways to agentic commerce with AWS and Stripe (sponsored by Stripe),Lightning talk
+NTA315,Extending governance across clouds,Chalk talk
+IND317,Financial services multi-Region design patterns and best practices,Chalk talk
+SEC220-S,From Cloud to AI  Securing the New Cloud Attack Surface (sponsored by Wiz),Breakout session
+SMB204,From Documents to Decisions: Unleashing AI-Powered Business Automation,Lightning talk
+AIM3318,From idea to impact: Harness AI agents and tools in AWS Marketplace,Lightning talk
+SAS401,From Zero to SaaS: When Vibe Coding Meets Production,Builders' session
+SMB307,Generative AI strategy: accelerating path to production,Breakout session
+SMB304,Growing Pains to Growing Gains: AI for Every Data Stage,Chalk talk
+SAS403,Hands-on multi-tenant agents: Inside tenant-aware agentic systems,Workshop
+IND3321,How Allianz designed AIOps at enterprise scale,Breakout session
+SMB203,How Cires21 revolutionized advanced video workflows using AI on AWS,Lightning talk
+NTA302,IAM Analytics: Automate & Visualize,Workshop
+TNC206,Implement Modern Data Architectures with Amazon SageMaker Lakehouse,Interactive training
+SAS405,Integration patterns for multi-tenant systems,Breakout session
+NTA303,Landing Zone: Deploy Smarter with AI,Builders' session
+SMB205,Learn how Riskspan is transforming private credit market using GenAI,Lightning talk
+IND3305,LSEG: Transforming market intelligence at massive scale,Breakout session
+AIM272,Master AI model development with Amazon SageMaker AI,Breakout session
+IND3319,Mastercard: How to protect sensitive data in real-time applications,Breakout session
+AIM3321,Mastering LLM inference on Amazon  SageMaker AI,Chalk talk
+NTA402,Mastering VMware to EC2 Migration,Workshop
+SMB305,Maximize ROI: How Octus migrated CreditAI from Azure to Amazon Bedrock,Breakout session
+NTA311,Modernizing Document Processing,Chalk talk
+IND3303,Moody’s: Architecting a multi-agent system on AWS,Breakout session
+SMB308,Multi-Agent Data Pipelines: Shaping the Future of Analytics,Builders' session
+SMB402,"Multi-Agent Systems: Build, Evaluate, Observe with Strands Agents",Builders' session
+NTA310,Multi-Cloud Container Migrations: Amazon CodeCatalyst for Balanced Workloads.,Chalk talk
+NTA305,Multilingual Contact Center with Amazon Connect,Workshop
+NTA304,Multi-Tenant ETL: Consolidate SaaS Data,Builders' session
+IND359,Navigating multi-Region AWS database choices for financial services,Chalk talk
+AIM359-S,New Era of Platform Engineering – Agentic AI-Powered Self-Service  (sponsored by SoftServe),Lightning talk
+SAS404,Next-gen agentic SaaS: Transforming to an agent-powered experience,Workshop
+NTA306,Next-Gen Logistics with GenAI,Workshop
+SMB201,Nextworld Revolutionizes ERP: Supply Chain powered by Sagemaker AutoML,Lightning talk
+NTA307,NLP to SQL: Data Access with Amazon Nova,Builders' session
+AIM366,Optimize AI infrastructure performance with SageMaker HyperPod,Chalk talk
+DEV318,Optimize AWS Costs: Developer Tools and Techniques,Breakout session
+COP212,Optimize software and AI Agent procurement with AWS Marketplace,Lightning talk
+COP215-S,Powering SRE Transformation for a Telco Major (sponsored by Tech Mahindra),Lightning talk
+AIM204-S,Reimagining software with Bedrock agent powered middlewares (sponsored by Cybage Software),Lightning talk
+SAS302,SaaS Anywhere meets GenAI: Building distributed AI multi-tenant environments,Workshop
+NTA309,Sandbox Magic: No Spells Required,Workshop
+AIM369,Scalable and resilient distributed AI with Ray on SageMaker HyperPod,Chalk talk
+IND361,Scaling document intelligence: Advanced patterns with Amazon Bedrock,Chalk talk
+AIM424,Scaling foundation model inference on Amazon SageMaker AI,Breakout session
+COP333,Scaling open source observability stack feat. Warner Bros Discovery,Breakout session
+IND3313,Secure in milliseconds: Visa's AI-powered fraud defense on AWS,Breakout session
+IND324,Simplify fraud investigation with Strands Agents and Amazon Nova Sonic,Chalk talk
+SMB206,Slickdeals' AI-powered deal discovery with Amazon Sagemaker,Lightning talk
+IND326,Smart Machines: Maximizing Business Value with Generative AI,Chalk talk
+SMB306,"Smart Security for SMBs: Combining AWS Tools, MCP, and AI",Builders' session
+COP213-S,Solving the Cloud Privilege Problem at Scale: A Fiserv Case Study (sponsored by Sonrai Security),Lightning talk
+DEV309,Start building with Q Developer CLI: Serverless full-stack in action,Code talk
+AIM364,Streamline AI model development lifecycle with Amazon SageMaker AI,Breakout session
+SAS303,Supercharge your SaaS with agentic insights,Builders' session
+AIM418-S,The AI Discussion Control Plane: How Your Agentic Team Redefines Ops (sponsored by Edge Delta),Lightning talk
+IND3315,Trading innovation: Jefferies' AI assistant on Amazon Bedrock ,Lightning talk
+AIM365,Train high-performing AI models at scale on AWS,Breakout session
+SAS304,Transforming from SaaS to multi-tenant agentic SaaS,Breakout session
+NTA316,Transitioning VMware workloads: VMC-A to AWS EVS,Chalk talk
+AIM368,Unifying AI/ML operations with SageMaker HyperPod and Amazon EKS,Chalk talk
+NTA101,Unlock Innovation: A Guide to AWS Partner Products in AWS Marketplace,Breakout session

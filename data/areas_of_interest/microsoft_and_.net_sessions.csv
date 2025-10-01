@@ -1,0 +1,25 @@
+code,title,type
+MAM303,Accelerating .NET and SQL Server modernization using agentic AI,Workshop
+MAM304,Accelerating SQL Server modernization on AWS with agentic AI,Chalk talk
+MAM308,AWS fundamentals for the accidental SQL Server database administrator,Chalk talk
+MAM309,AWS migration journey: 2025 itinerary for Microsoft workloads,Breakout session
+MAM404,Building agentic AI applications on Amazon Bedrock using C# and .NET,Builders' session
+DEV302,Building .NET AI Applications with Semantic Kernel and Amazon Bedrock,Code talk
+MAM311,Choose your own modernization adventure: From legacy to cloud-native,Workshop
+CMP313,Cost Optimize your .NET workloads on AWS,Chalk talk
+MAM405,Easily port .NET applications to Linux with AWS Transform for .NET,Workshop
+MAM315,Enterprise software licensing and optimization on AWS,Breakout session
+MAM339,From EC2 to EKS: Tipalti’s transformation to Windows containers on AWS,Breakout session
+MAM319,Full-stack SQL Server modernization on AWS,Builders' session
+MAM320,Grupo Tress Internacional's .NET modernization with AWS Transform,Breakout session
+MAM321,Licensing management and optimization on AWS with generative AI,Chalk talk
+MAM324,Modernize AD integrations with AWS Managed Microsoft AD Hybrid Edition,Workshop
+CNS326,Modernize .NET Framework workloads with containers and AWS Transform,Workshop
+MAM410,Modernizing DMV Systems with AWS Transform: Idemia's .NET Success Story,Breakout session
+MAM317,.NET cloud journey: Migration & modernization strategies,Chalk talk
+DAT304,Optimize cost & performance in Amazon RDS for SQL Server,Chalk talk
+CMP335,Optimize .NET Price-Performance with Graviton using AWS Transform,Workshop
+MAM334,Scale modernization with agentic AI featuring Thomson Reuters,Breakout session
+DAT325,Slash costs & get AI-ready with RDS for SQL Server & Oracle workloads,Breakout session
+MAM343,Tips and tricks for successful transformation of your legacy .NET applications,Code talk
+MAM357,VMware to AWS Readiness: Foundational decisions before your migration,Chalk talk

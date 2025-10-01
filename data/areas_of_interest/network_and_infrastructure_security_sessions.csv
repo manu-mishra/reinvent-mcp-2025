@@ -1,0 +1,54 @@
+code,title,type
+NET310,Accelerate your hybrid network with AWS Direct Connect SiteLink,Workshop
+SEC303,Advanced AWS Network Security : Building Scalable Production Defenses,Workshop
+ISV403,Advanced Network Connectivity Patterns for ISVs,Chalk talk
+STG414,Advanced security patterns on Amazon S3,Chalk talk
+NET201,Advanced VPC design and new capabilities,Breakout session
+NET312,Agent based Network Ops : Amazon Bedrock Agents & Agent Core,Workshop
+GBL205,AI in Action: How Companies Unlock Global Value & Fuel Growth,Breakout session
+NET309,A modern approach to application migration with Amazon VPC Lattice,Breakout session
+NET202,Application networking simplified: From basics to best practices,Workshop
+NET204,Approaches to layered security on Amazon VPC,Workshop
+ARC320,Architecting resilient global networks with Project Kuiper,Breakout session
+NET203,Ask Me Anything About AWS Networking,Chalk talk
+SEC217-S,Automated cloud security remediation with agentic workflows (sponsored by Dynatrace),Lightning talk
+DEV322,Automated Security Remediation with AWS Step Functions,Builders' session
+SEC403,AWS GameDay - Winning the DDos Game,Workshop
+IND375,Best practices for optimizing financial services application latency ,Chalk talk
+ARC332-S,Beyond Multi-Cloud Chaos: The Unified Cloud Mesh Architecture (sponsored by HAProxy Technologies),Breakout session
+HMC209-S,"Building High-Performance, Secure Networks for Hybrid and Multicloud (sponsored by Equinix)",Lightning talk
+SEC208-S,Building Secure-by-Design Environments with AWS Capabilities (sponsored by Native),Lightning talk
+GBL204,"Cyber Resilience on AWS, designing security and recovery strategies",Breakout session
+NET401,Deep dive into advanced routing policy with AWS Cloud WAN,Breakout session
+CNS313,Demystifying the shared security model on Amazon ECS,Chalk talk
+NET207,DNS unleashed: Unlocking the full potential of Amazon Route 53,Builders' session
+CNS208,Enhancing container security with Amazon ECR,Lightning talk
+SEC206-S,From collecting tools to an autonomous SOC (sponsored by SentinelOne),Breakout session
+NET318,From threat to threat intel: 360 degrees of DDOS,Breakout session
+NET311,Global Resilient Apps: Guide to Multi-AZ/Region Architecture with ELB,Breakout session
+INV503,How Amazon uses AI and Automated Reasoning to detect hallucinations,Chalk talk
+NTA320,How Zydus implemented regulated DR on AWS,Breakout session
+NET329,Human Meets Microservice: Zero Trust with AWS Networking Services,Builders' session
+SEC310,Innovations  in Infrastructure Protection to strengthen your network,Breakout session
+NET322,Level Up Your Bot Defense for Mobile Apps with AWS WAF SDK,Chalk talk
+NET324,Managing Bots vs Humans with CloudFront and AWS WAF,Code talk
+ARC205,Multicloud architectures: Solutions and design patterns,Chalk talk
+HMC321,Multicloud networking best practices,Chalk talk
+CNS417,Networking and observability strategies for Kubernetes,Breakout session
+INV509,Neurosymbolic AI: Logic-Enhanced Neural Networks at Amazon Scale,Chalk talk
+WPS314,Next-Gen SOC: Agentic SOC analyst with Amazon Bedrock,Workshop
+CNS327,Optimizing your Amazon ECS application networking strategy,Chalk talk
+API210-S,Powering real-time apps and analytics with Redis 8 + RDI (sponsored by Redis),Breakout session
+NET402,Powering your success through AWS Infrastructure innovations,Breakout session
+STG353,Protecting FSx for NetApp ONTAP data from ransomware,Chalk talk
+SEC311,Protecting  Your Infrastructure with Amazon Threat Intelligence,Breakout session
+SEC223-S,"Runtime + AI: Reinventing Cloud Security on AWS (sponsored by Upwind Security, Inc.)",Lightning talk
+ISV302,Scaling SaaS applications with cell-based architectures,Chalk talk
+CDN201-S,"Secure, Easy and Performant VPC Resource Connectivity with Tailscale (sponsored by Tailscale)",Lightning talk
+NET206,Secure your cloud networks with Amazon VPC Block Public Access,Builders' session
+CNS330,Securing Amazon ECS workloads with application-aware networking,Workshop
+CNS331,Securing and observing Amazon EKS clusters,Builders' session
+CNS332,Securing and optimizing your software supply chain with Amazon ECR,Chalk talk
+IND206,Streamlining Telecom Cybersecurity Operations with AWS Generative AI,Lightning talk
+SEC318,Strengthen your network security with generative AI,Builders' session
+ARC101-S,Supercharge your data insights with the Cisco Data Fabric (sponsored by Splunk),Breakout session

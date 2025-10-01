@@ -1,0 +1,120 @@
+code,title,type
+DAT205-S,Accelerating SAP Transformation with Amazon EC2 with the latest Intel Xeon CPUs (sponsored by Intel),Breakout session
+DAT438,Advanced data modeling for Amazon ElastiCache,Breakout session
+DAT414,Advanced data modeling with Amazon DynamoDB,Breakout session
+DEV315,"AI Agents for Databases: Discover, Recommend, Optimize",Breakout session
+DAT301,AI powered PostgreSQL: Incident detection & MCP integration,Workshop
+DAT401,Amazon Aurora DSQL: A developer's perspective,Code talk
+DAT442,Amazon Aurora HA and DR design patterns for global resilience,Breakout session
+DAT427,Amazon DocumentDB for expert practitioners,Chalk talk
+DAT450,Amazon Keyspaces live migration best practices with HBO Max,Chalk talk
+DAT436,An insider’s look into architecture choices for Amazon DynamoDB,Breakout session
+DAT402,Applied data modeling with Amazon DynamoDB,Builders' session
+DAT315,A practitioner’s guide to data for agentic AI,Breakout session
+DAT455,A tale of two transactions,Breakout session
+DAT302,Autonomous DBOps: Agentic AI for maintaining databases,Builders' session
+HMC211-S,AWS and Oracle: Transforming Healthcare (sponsored by Oracle),Lightning talk
+DAT210-S,AWS and Oracle: Transforming Healthcare (sponsored by Oracle),Lightning talk
+GBL101,AWS European Sovereign Cloud: Your 20-Minute Essential Guide,Lightning talk
+DAT207-S,AWS & Salesforce: A Zero Copy Customer Success Story (sponsored by Salesforce),Lightning talk
+DAT303,Best practices for migrating and operating Db2 databases on Amazon RDS,Chalk talk
+DAT458,"Better, faster, cheaper: How Valkey is revolutionizing caching",Breakout session
+DAT202-S,Beyond Vector Search: Ultra-Resilient GenAI Apps with AWS Bedrock (sponsored by YugabyteDB),Lightning talk
+DAT322,Binge-worthy: Netflix's journey to Amazon Aurora at scale,Lightning talk
+STG417,Boost database performance & availability with Amazon FSx for OpenZFS,Chalk talk
+DAT312,Boost performance and reduce costs in Amazon Aurora and Amazon RDS,Breakout session
+DAT403,Build a collaborative agentic AI solution with Aurora & Bedrock Agents,Workshop
+DAT428,Build a cost-effective RAG-based gen AI application with Amazon Aurora,Chalk talk
+DAT406,Build agentic AI–powered search with Amazon Aurora and Amazon RDS,Workshop
+DAT309,Build agentic workflows with Aurora and MCP,Chalk talk
+DAT404,"Build a multi-Region, active-active rewards app with Aurora DSQL",Workshop
+DAT405,Build a web-scale application with purpose-built databases & analytics,Workshop
+NTA401,Build First Retail AI Agent: Customer Service Excellence with Amazon Bedrock,Builders' session
+COP404,Build full-stack observability from applications to databases,Workshop
+DAT319,Building agentic memory layers on AWS managed databases,Breakout session
+DAT426,Building for high availability using Amazon ElastiCache,Chalk talk
+IND344,Building multi-Region financial transaction systems with Aurora DSQL,Builders' session
+DEV308,Build modern applications with Amazon Aurora DSQL,Breakout session
+DAT314,Build serverless chatbots using Amazon ElastiCache & Aurora PostgreSQL,Breakout session
+OPN402,"Cache me if you can, Valkey edition",Workshop
+DAT102-S,CCC Intelligent Solutions Achieves Major Savings with Oracle to AWS PostgreSQL (sponsored by Cognizant),Breakout session
+DAT429,Coding an MCP server for Amazon Aurora,Code talk
+DAT308,Cost optimization for Amazon DynamoDB,Chalk talk
+DAT407,Create an intelligent banking agent using Aurora DSQL & MCP,Builders' session
+SAS402,Creating multi-tenant data lakehouses for agentic SaaS environments,Workshop
+PEX313,Customize Amazon Nova models for Agentic AI with SageMaker & Bedrock ,Workshop
+NTA313,Cut Costs with Aurora PostgreSQL & Babelfish,Chalk talk
+INV208,Databases made effortless so agents and developers can change the world,Innovation talk
+DAT311,Data modeling core concepts for Amazon DynamoDB,Breakout session
+COP416,Deep dive into advanced database performance monitoring,Chalk talk
+DAT441,Deep dive into Amazon Aurora and its innovations,Breakout session
+DAT439,Deep dive into Amazon Aurora DSQL and its architecture,Breakout session
+DAT444,Deep dive into Amazon DocumentDB and its innovations,Breakout session
+DAT445,Deep dive into databases zero-ETL integrations,Breakout session
+DAT446,Deep Dive into Deloitte's Amazon Neptune GenAI Security Intelligence Center,Breakout session
+SPS302,Democratize Data: Bundesliga Real-time Insights Without Writing any SQL,Chalk talk
+DAT452,Demystifying Aurora DSQL transactions and concurrency control,Chalk talk
+DAT435,Dive deep into Amazon DynamoDB,Breakout session
+DAT430,Dive deep into Amazon DynamoDB using design puzzles,Chalk talk
+DAT320,DraftKings: Scaling to 1M operations/min on Aurora during Super Bowl,Lightning talk
+AIM234-S,Drive trusted AI outcomes with governance and accurate data (sponsored by IBM),Lightning talk
+DAT103-S,Driving AI Innovation at the Enterprise Level with MDB Atlas (sponsored by MongoDB),Lightning talk
+DAT453,DynamoDB zero-trust architecture: Advanced access controls,Breakout session
+DVT303, Empower development teams with AI-driven automation,Builders' session
+DAT431,Essentials for migrating from Oracle to Amazon Aurora PostgreSQL,Chalk talk
+DAT449,Evolve Amazon DynamoDB data models with no application impact,Chalk talk
+TNC312,Explore Advanced features of Amazon Aurora PostgreSQL,Interactive training
+DAT423,Fast and easy bulk operations with Amazon DynamoDB,Chalk talk
+ISV315,GenAI-Powered Contextual Security Analysis & Remediation,Code talk
+DAT408,Geo-fencing & real-time geospatial alerts with ElastiCache Valkey,Builders' session
+INV502,Graph Computations - Can we have best of two worlds: OLAP and OLTP?,Chalk talk
+DAT321,HA and DR design patterns for Amazon RDS for SQL Server and Oracle,Chalk talk
+DAT323,How Samsung optimized 1.2 PB on Amazon DynamoDB with zero downtime,Lightning talk
+DAT201-S,How SAS and Freshworks Power Real-Time Personalization at Extreme Scale  (sponsored by ScyllaDB),Breakout session
+DAT409,Implement hybrid search with Aurora PostgreSQL for MCP retrieval,Builders' session
+STG337,Improve self-managed database performance and agility with Amazon FSx,Breakout session
+STG310,Increase your database agility with Amazon FSx,Workshop
+CMP409,It's About Time! Improving Distributed Systems with Amazon Time Sync,Breakout session
+DAT209-S,Knowledge Graphs for AI and Intelligent Systems (sponsored by Neo4j),Lightning talk
+DAT424,Making your Amazon Aurora cluster more resilient,Chalk talk
+ANT323,"Mastering materialized views: tips for fast, low-latency queries in Redshift",Chalk talk
+PEX403,Metadata Intelligence: The Key to Trusted and Smart Agentic AI Systems,Chalk talk
+OPN406,Moving to Valkey without downtime,Chalk talk
+DAT440,Multi-Region strong consistency with Amazon DynamoDB global tables,Breakout session
+NTA304,Multi-Tenant ETL: Consolidate SaaS Data,Builders' session
+IND359,Navigating multi-Region AWS database choices for financial services,Chalk talk
+NTA307,NLP to SQL: Data Access with Amazon Nova,Builders' session
+DAT451,Optimize agentic AI apps with semantic caching,Breakout session
+DAT304,Optimize cost & performance in Amazon RDS for SQL Server,Chalk talk
+CMP336,Optimize Network and EBS intensive workloads on Amazon EC2 instances,Chalk talk
+DAT306,Optimize your Amazon Aurora resources to reduce costs,Chalk talk
+DAT437,Optimizing for high performance with Amazon ElastiCache Serverless,Breakout session
+DAT208-S,Oracle Database@AWS: supercharge your workloads with Oracle Exadata (sponsored by Oracle),Breakout session
+DAT425,Perform live migrations to Amazon DocumentDB,Chalk talk
+DAT415,Perform vector search on your Amazon DynamoDB data using zero-ETL,Workshop
+DAT310,Plan and execute PostgreSQL version upgrades for Aurora & Amazon RDS,Chalk talk
+DAT410,PostgreSQL performance: Real-world workload tuning,Code talk
+API210-S,Powering real-time apps and analytics with Redis 8 + RDI (sponsored by Redis),Breakout session
+DAT101-S,Presidio Resonate: AI Agents Orchestrating Multimodal Data at Scale (sponsored by Presidio),Lightning talk
+OPN307,Production Trino: Robust Interactive Workloads at Scale,Chalk talk
+DAT204-S,Redefining database scale for agentic AI workloads with TiDB (sponsored by TiDB powered by PingCAP),Lightning talk
+DAT456,Revealing the northern lights: Amazon Aurora security deep dive,Breakout session
+DAT411,Revolutionize customer care with data-driven generative AI,Builders' session
+DAT307,"Safer, simpler, faster upgrades with managed blue/green deployments",Chalk talk
+DAT324,Scaling MONOPOLY GO! to 10M daily players with DynamoDB & ElastiCache,Lightning talk
+DAT325,Slash costs & get AI-ready with RDS for SQL Server & Oracle workloads,Breakout session
+DAT416,SQL Server migration & modernization powered by generative AI,Workshop
+DAT313,Supercharge app intelligence using gen AI with Amazon DocumentDB,Breakout session
+DAT443,Symbolic AI in the age of LLMs,Breakout session
+AIM326,Talk with your data: Approaches to natural language query for nonprofits,Builders' session
+DAT206-S,Unify Data for a Strong AI Foundation with AWS & Salesforce (sponsored by Salesforce),Breakout session
+DAT417,Unlock intelligent AI with MCP powered agentic Neptune graph reasoning,Workshop
+DAT418,Use Amazon DynamoDB to enhance agentic AI workflows,Builders' session
+DAT422,Use an AI agent to launch your Aurora DSQL project with Amazon Q & MCP,Chalk talk
+DAT419,Use GraphRAG with Amazon Neptune to improve generative AI applications,Builders' session
+DAT432,Use serverless knowledge graphs for hybrid search with Amazon Neptune,Chalk talk
+DAT420,Using generative AI to accelerate database modernization with AWS DMS,Code talk
+DAT447,Using graphs over your data lake to power generative AI applications,Breakout session
+DAT421,Vibe data modeling with Amazon DynamoDB,Builders' session
+DAT433,Video sampling & search using in-memory DBs & multimodal embeddings,Code talk
+DAT203-S,What Database Would Your AI Agents Choose -  Escape the Frankenstack (sponsored by SingleStore),Lightning talk

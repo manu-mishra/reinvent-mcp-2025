@@ -1,0 +1,18 @@
+code,title,type
+INV504,Building fast with automated reasoning at Amazon S3 scale,Chalk talk
+INV516,Can your model keep a secret? How to measure the privacy of your model,Chalk talk
+INV501,Frontier Model Safety in Practice: Amazon Nova Risk Evaluation,Chalk talk
+INV502,Graph Computations - Can we have best of two worlds: OLAP and OLTP?,Chalk talk
+INV503,How Amazon uses AI and Automated Reasoning to detect hallucinations,Chalk talk
+INV505,IAM Access Analyzer from Research Paper to Reality,Chalk talk
+INV506,Known Unknowns: Bayesian Multi-Path Framework for Uncertainty in LLMs,Chalk talk
+INV507,Light qubits in the AWS network,Chalk talk
+INV508,LLMs Reflecting on Reasoning: A Probabilistic VC-Theory Approach,Chalk talk
+INV517,Neurosymbolic AI integration in LLMs to enhance reasoning,Chalk talk
+INV509,Neurosymbolic AI: Logic-Enhanced Neural Networks at Amazon Scale,Chalk talk
+INV510,Next generation etcd for Amazon EKS,Chalk talk
+INV511,Symbolic Execution for Better Cloud Governance,Chalk talk
+INV512,The hidden engineering behind foundation model building,Chalk talk
+INV513,The Mirage of Benchmarks: Foundations of LLM Evaluation Reliability,Chalk talk
+INV514,Virtualization Architecture Behind AgentCore's Runtime Security Model,Chalk talk
+INV515,Wrangling chaos: Atoms of emergence,Chalk talk

@@ -1,0 +1,11 @@
+code,title,type
+STG333,Automate data protection at scale with AWS Backup and AWS Control Tower,Code talk
+DVT203, AWS infrastructure as code: A year in review,Breakout session
+ARC303,AWS Solutions Library: Accelerating innovation with proven patterns,Workshop
+COP406,Build and automate policy as code,Builders' session
+COP409,Building Sovereign Cloud Environments,Code talk
+DVT304,Deploy infrastructure with speed and safety using AWS CloudFormation,Workshop
+COP346,Governance that Enables Innovation at Scale feat. Eli Lilly,Breakout session
+ARC333,Pipeline architectures: Balancing centralization and team autonomy,Chalk talk
+DVT313, Simplify cloud infrastructure creation with the AWS CDK,Chalk talk
+DVT314, Top Tips for Getting the Most Out of AWS CloudFormation,Chalk talk

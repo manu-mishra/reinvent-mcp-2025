@@ -1,0 +1,59 @@
+code,title,type
+DVT308,Accelerate enterprise development with Amazon Q Developer,Workshop
+DVT211,Accelerate .NET application modernization with generative AI ,Breakout session
+IND413,Accelerate SDV Development: Amazon Q for Automotive Code Refactoring,Chalk talk
+DVT216,Accelerate Terraform Provider development worklows with Amazon Q Developer CLI,Breakout session
+PEX303,Accelerating Development and DevSecOps with Amazon Bedrock & Amazon Q,Breakout session
+ANT315,Agentic AI for Intelligent Observability with OpenSearch Service,Breakout session
+AIM342-S,Agentic AI: The Next Frontier of Cloud Intelligence (sponsored by Atos),Lightning talk
+IND407,AI Agents for deploying telco network workloads on AWS: MCP-powered Framework,Builders' session
+SEC226-S,AI Agents – the new face of privileged machine identities  (sponsored by CyberArk),Lightning talk
+DEV323,AI Native Development: Strategies and Impact across Amazon and AWS,Breakout session
+ARC301,AI-powered troubleshooting: From chaos to Well-Architected,Builders' session
+DVT330,"Amazon Q Developer CLI, a lightning-fast coding experience",Chalk talk
+ARC306,Architecture diagrams with generative AI: Leveraging AI agents,Builders' session
+DVT401,Automate Java application upgrade with generative AI,Workshop
+DVT326,Automate Java app upgrades & accelerate innovation with generative AI,Chalk talk
+ANT304,Build an AI-ready data foundation,Breakout session
+COP405,Building agentic workflows for augmented observability,Code talk
+ARC201, Building generative AI-powered full-stack applications,Workshop
+SMB302,Building Self-Healing IT Systems with Agentic AI,Builders' session
+ARC305,Building Well-Architected solutions: A generative AI approach,Builders' session
+DVT405,Code completion to agents: The evolution of development,Breakout session
+DVT309," Create secure, production-ready code with Amazon Q Developer",Workshop
+MAM313,Decomposing monolithic databases with generative AI,Chalk talk
+ANT330,Design and Implement Agentic AI Observability with OpenSearch,Chalk talk
+DVT207,Developer Experience Economics: Moving Past Productivity Metrics,Breakout session
+ANT207,Develop with natural language and agentic AI in Amazon SageMaker Unified Studio,Chalk talk
+DVT303, Empower development teams with AI-driven automation,Builders' session
+IND410,Enhance GenAI Outcomes in Telecom with Domain Specific Fine-Tuning,Chalk talk
+DVT208, Epic journey: Navigating the AI-powered SDLC from backlog to production,Breakout session
+MAM318,From vibe coding to vibe modernizing with AWS AI services,Builders' session
+DVT327,From Windows to Linux: .NET application modernization,Chalk talk
+DVT215,Go from idea to deployment faster with Amazon Q Developer,Breakout session
+DEV403,How Amazon Teams Use AI Assistants to Accelerate Development,Code talk
+DVT322,Incorporating generative AI in the CI/CD pipeline,Chalk talk
+DVT335,Mastering agentic prompt engineering ,Chalk talk
+DVT219,Measuring AI Impact with Amazon Q Developer and Jellyfish,Breakout session
+DEV333,Modernize monoliths to microservices with generative AI,Breakout session
+DVT210,Modernizing Java applications with generative AI,Breakout session
+DEV318,Optimize AWS Costs: Developer Tools and Techniques,Breakout session
+ARC308,Rapid prototyping: Leveraging Kiro and Amazon Q Developer CLI,Workshop
+DVT301, Reduce development cycles with Amazon Q Developer and GitHub,Builders' session
+ARC325,Refactoring post-migration: API-first and event-driven architectures,Chalk talk
+ARC311,Scaling observability with generative AI: Building automated patterns,Builders' session
+DVT220,Simplify development workflows with agentic capabilities,Breakout session
+DEV321,Simplify serverless testing using Amazon Q Developer,Builders' session
+SMB306,"Smart Security for SMBs: Combining AWS Tools, MCP, and AI",Builders' session
+DAT416,SQL Server migration & modernization powered by generative AI,Workshop
+CNS421,Streamline Amazon EKS operations with Agentic AI,Code talk
+SEC318,Strengthen your network security with generative AI,Builders' session
+TNC314,Structured Approach to AI coding with Spec-Driven Development on Kiro,Interactive training
+CNS427,Supercharge Serverless testing: Accelerate development with Amazon Q,Code talk
+DEV416,Swift for AI: Developing Agents and MCP-Compatible Tools,Chalk talk
+CMP347,The Frugal Architect in a Chaotic World,Chalk talk
+DVT328,Unlock development value in the age of AI-driven strategies ,Chalk talk
+ANT413,Upgrade Amazon DataZone to Amazon SageMaker Catalog for analytics and AI,Chalk talk
+DAT422,Use an AI agent to launch your Aurora DSQL project with Amazon Q & MCP,Chalk talk
+ARC315,Using generative AI to automate architectural guidance,Chalk talk
+ANT312,What's new with Amazon SageMaker in the era of unified data and AI,Breakout session

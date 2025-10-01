@@ -1,0 +1,21 @@
+code,title,type
+DEV303,Architecting Distributed Micro-frontends with Serverless,Chalk talk
+DVT315,AWS SAM Beyond the Basics - Powered by Amazon Q Developer,Chalk talk
+ARC201, Building generative AI-powered full-stack applications,Workshop
+ARC331,Building resilient clients: Architecture patterns from Amazon.com,Chalk talk
+DVT307,Build real-time applications AWS Amplify,Workshop
+DEV310,Build real-time full-stack Generative AI applications,Code talk
+DVT323,Deliver GenAI Mobile Apps and Models at scale: A Testing Architecture,Chalk talk
+CNS366,Designing web architectures on AWS at scale,Chalk talk
+AIM2200-S,Fit for purpose AI-led transformation (sponsored by Tata Consultancy Services),Breakout session
+IND386,From UX to AX: MCP Servers for AI Shopping Agents,Lightning talk
+CMP321,GenAI Storyboarding: From Sketch to 3D Scene with GenAI on AWS,Chalk talk
+DVT319,How Priority Pass migrated their global-scale website,Lightning talk
+NET321,Measure what matters: Web & API optimization with Amazon CloudFront,Chalk talk
+API308,Real-time for the real world with AWS AppSync Events,Builders' session
+SEC101-S,Scale Customer Engagement with WhatsApp Business on AWS (sponsored by Meta),Breakout session
+DEV314,Spec-driven development with Kiro,Code talk
+IND363,Stream 3D applications globally with Amazon GameLift Streams,Workshop
+DVT318, Test your web and mobile applications with AWS Device Farm,Workshop
+IND330,Voice AI restaurant ordering platform powered by Amazon Nova Sonic,Chalk talk
+DVT204, What’s new in fullstack AWS app development,Breakout session

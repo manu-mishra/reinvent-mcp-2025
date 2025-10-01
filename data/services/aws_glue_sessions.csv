@@ -1,0 +1,23 @@
+code,title,type
+ARC208-S,Advancing Behavioral Health Analytics with Integrated Cloud Services (sponsored by Deloitte),Breakout session
+IND338,Automate analysis and extract intelligence from financial datasets,Workshop
+ANT347,Build a secure and regulated data foundation for AI,Chalk talk
+ANT311,Build data pipelines in minutes with the SageMaker Visual experience,Chalk talk
+STG415,Building cost-effective data lakes with Apache Iceberg and Amazon S3,Chalk talk
+ISV303,Building Multi-tenant Data Pipelines for Agentic SaaS experiences,Chalk talk
+ANT324,"Building Pipelines for Analytics, ML and AI in Amazon Sagemaker Unified Studio",Chalk talk
+ANT345,Building secure and scalable lakehouses for the future,Chalk talk
+NTA312,Building The Enterprise Data Success Framework,Chalk talk
+ANT340,Deep dive into data processing in SageMaker Unified Studio,Chalk talk
+ANT336,Enterprise-scale ETL optimization for Apache Spark,Breakout session
+DAT423,Fast and easy bulk operations with Amazon DynamoDB,Chalk talk
+ANT303, Implement data pipelines for analytics using SageMaker Unified Studio,Chalk talk
+ANT410,Integrate and orchestrate data workflows with AWS Glue & managed Apache Airflow,Builders' session
+PEX403,Metadata Intelligence: The Key to Trusted and Smart Agentic AI Systems,Chalk talk
+ANT102-S,Modernizing Wealth Management with Cloud + AI Use Cases (sponsored by Incedo Inc),Lightning talk
+ANT316,"Orchestrating with Apache Airflow, MWAA, and SageMaker Unified Studio",Chalk talk
+NTA319,Spreetail's AI Value Journey ,Breakout session
+IND365,Unifying data platforms for generative AI-ready financial systems,Chalk talk
+ANT306,Universal connectivity with zero-ETL and AWS Glue,Breakout session
+ISV307,Unlock New Business by Removing Data Silos with Zero-Copy ,Chalk talk
+ANT305,What's new in AWS Data Processing,Breakout session

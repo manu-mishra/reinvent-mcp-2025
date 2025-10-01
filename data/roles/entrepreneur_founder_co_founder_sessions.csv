@@ -1,0 +1,40 @@
+code,title,type
+AIM362,Accelerate AI workloads with UltraServers on Amazon SageMaker HyperPod,Breakout session
+AIM115-S,"AI, Cloud & Public Sector Transformation: PwC & AWS Driving Change Now (sponsored by PwC)",Lightning talk
+SMB301,AI Pioneers: Shipping Transformative GenAI Architectures to Production,Breakout session
+AIM203-S,An Alliance for Our Times: Building the Next Frontier of Cancer Research (sponsored by Deloitte),Breakout session
+AIM367,A strategic guide to AWS compute options for your AI/ML workload,Chalk talk
+AIM235-S,Balance performance and cost on AWS with intelligent optimization (sponsored by IBM),Lightning talk
+AIM231-S,Beyond the Hype: Delivering Measurable ROI with Generative AI on AWS (sponsored by CDW),Lightning talk
+PEX316,Build agents & tools for Bedrock AgentCore and sell in AWS Marketplace,Builders' session
+AIM104-S,Build an Agentic SaaS App in 5 Steps: From Idea to Revenue (sponsored by Pega),Lightning talk
+API205-S,"Build, manage and govern AI agents from one place (sponsored by IBM)",Lightning talk
+DAT102-S,CCC Intelligent Solutions Achieves Major Savings with Oracle to AWS PostgreSQL (sponsored by Cognizant),Breakout session
+AIM259-S,Closing the gap between speed and safety: shipping faster at scale (sponsored by LaunchDarkly),Breakout session
+AIM3315,Customize GPT-OSS models on Amazon SageMaker AI for improved accuracy,Chalk talk
+AIM363,Customize & scale foundation models using Amazon SageMaker AI,Breakout session
+AIM388,Develop AI Agents faster with Amazon SageMaker Studio and AgentCore,Breakout session
+AIM114-S,Exploring dual pathways to agentic commerce with AWS and Stripe (sponsored by Stripe),Lightning talk
+DEV328,From Laptop to Scale: A UnicornVibe AI Agent Journey,Chalk talk
+ISV310,Global Growth: A Framework for Expanding into New Regions,Chalk talk
+AIM226-S,Global infrastructure for foundation model inference (sponsored by Baseten),Lightning talk
+SMB304,Growing Pains to Growing Gains: AI for Every Data Stage,Chalk talk
+COP207-S,How AI is rewriting the contact center play book (sponsored by Zendesk),Lightning talk
+AIM207-S,Integrated AI Agents: Moving Beyond Summarization to Automation (sponsored by DevRev),Lightning talk
+AIM272,Master AI model development with Amazon SageMaker AI,Breakout session
+PEX403,Metadata Intelligence: The Key to Trusted and Smart Agentic AI Systems,Chalk talk
+SMB402,"Multi-Agent Systems: Build, Evaluate, Observe with Strands Agents",Builders' session
+ARC203,Navigating the future: Solutions architecture in the age of AI,Breakout session
+AIM366,Optimize AI infrastructure performance with SageMaker HyperPod,Chalk talk
+AIM214-S,RAG is Dead: Long Live Intelligent Retrieval-Augmented Generation (sponsored by Pinecone),Lightning talk
+IND208,Reclaiming Clinical Time: How Veradigm Uses AI to Transform Workflows,Breakout session
+MAM356-S,SAP modernization at an Australian steel manufacturer (sponsored by Capgemini),Breakout session
+ISV317,Scale and Optimize your Solutions Globally with AWS Expansion Programs,Breakout session
+AIM424,Scaling foundation model inference on Amazon SageMaker AI,Breakout session
+AIM2201-S,Scaling instantly to 1000 GPUs for Serverless AI inference (sponsored by Modal),Lightning talk
+WPS309,"Smart Alerts, Smarter Workflows: The Amazon Connect Edge",Builders' session
+AIM364,Streamline AI model development lifecycle with Amazon SageMaker AI,Breakout session
+AIM3322-S,The Great ReImagining: Thriving in the Age of AI Agents (sponsored by Kore.ai),Lightning talk
+AIM365,Train high-performing AI models at scale on AWS,Breakout session
+AIM368,Unifying AI/ML operations with SageMaker HyperPod and Amazon EKS,Chalk talk
+AIM109-S,Why Usage-Based Billing Must Be Treated as Infrastructure (sponsored by Metronome),Lightning talk

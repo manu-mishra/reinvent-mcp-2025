@@ -1,0 +1,5 @@
+code,title,type
+IND313,"Building Intelligent Healthcare Systems: FHIR, AI, and AWS HealthLake",Workshop
+INV516,Can your model keep a secret? How to measure the privacy of your model,Chalk talk
+AIM339,Data protection strategies for AI data foundation,Code talk
+CMP338,Protect privacy in GenAI applications using AWS Confidential computing,Workshop

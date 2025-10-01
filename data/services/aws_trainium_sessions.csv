@@ -1,0 +1,14 @@
+code,title,type
+CMP305,Assembling the Complete AI Stack: Optimizing Your AI Hardware on AWS,Chalk talk
+SPS201,Autodesk's ML Inference Optimization: Leveraging AWS AI Chips,Breakout session
+AIM201,Break through AI performance and cost barriers with AWS Trainium,Breakout session
+AIM307,Building agentic systems with Hugging Face and AWS AI chips,Chalk talk
+AIM309,Building LLMs with Amazon SageMaker HyperPod and AWS Trainium,Workshop
+AIM419,Build your own high performance kernel on AWS Trainium with NKI,Chalk talk
+AIM312,Compact yet powerful: Exploring model distillation with AWS Trainium,Builders' session
+AIM355,Deploying LLMs at scale with vLLM on AWS AI chips,Chalk talk
+AIM351,End-to-end foundation model lifecycle on AWS Trainium,Breakout session
+AIM318,Fine-tune Hugging Face LLMs on AWS Trainium with Amazon Sagemaker,Builders' session
+AIM320,Inference on AWS Trainium and Amazon EKS using vLLM,Workshop
+AIM356,Master post-training workflows for foundation models on AWS Trainium,Chalk talk
+AIM414,Performance engineering on Neuron: How to optimize your LLM with NKI,Code talk

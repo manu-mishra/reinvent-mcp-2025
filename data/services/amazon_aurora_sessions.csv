@@ -1,0 +1,39 @@
+code,title,type
+DEV315,"AI Agents for Databases: Discover, Recommend, Optimize",Breakout session
+DAT301,AI powered PostgreSQL: Incident detection & MCP integration,Workshop
+PEX405,AI That Remembers: Building Memory Systems for AI Agents,Workshop
+DAT442,Amazon Aurora HA and DR design patterns for global resilience,Breakout session
+MAM306,Application modernization challenge,Workshop
+DAT315,A practitioner’s guide to data for agentic AI,Breakout session
+DAT302,Autonomous DBOps: Agentic AI for maintaining databases,Builders' session
+COP302,AWS disaster recovery strategies,Builders' session
+DAT322,Binge-worthy: Netflix's journey to Amazon Aurora at scale,Lightning talk
+DAT312,Boost performance and reduce costs in Amazon Aurora and Amazon RDS,Breakout session
+DAT403,Build a collaborative agentic AI solution with Aurora & Bedrock Agents,Workshop
+DAT428,Build a cost-effective RAG-based gen AI application with Amazon Aurora,Chalk talk
+DAT406,Build agentic AI–powered search with Amazon Aurora and Amazon RDS,Workshop
+DAT309,Build agentic workflows with Aurora and MCP,Chalk talk
+DAT405,Build a web-scale application with purpose-built databases & analytics,Workshop
+DAT319,Building agentic memory layers on AWS managed databases,Breakout session
+IND344,Building multi-Region financial transaction systems with Aurora DSQL,Builders' session
+DAT314,Build serverless chatbots using Amazon ElastiCache & Aurora PostgreSQL,Breakout session
+DAT429,Coding an MCP server for Amazon Aurora,Code talk
+NTA313,Cut Costs with Aurora PostgreSQL & Babelfish,Chalk talk
+DAT441,Deep dive into Amazon Aurora and its innovations,Breakout session
+DAT445,Deep dive into databases zero-ETL integrations,Breakout session
+DAT320,DraftKings: Scaling to 1M operations/min on Aurora during Super Bowl,Lightning talk
+DAT453,DynamoDB zero-trust architecture: Advanced access controls,Breakout session
+DAT431,Essentials for migrating from Oracle to Amazon Aurora PostgreSQL,Chalk talk
+TNC312,Explore Advanced features of Amazon Aurora PostgreSQL,Interactive training
+IND3318,FIS: High-performance instant payment processing at massive scale,Breakout session
+DAT409,Implement hybrid search with Aurora PostgreSQL for MCP retrieval,Builders' session
+DAT424,Making your Amazon Aurora cluster more resilient,Chalk talk
+ANT102-S,Modernizing Wealth Management with Cloud + AI Use Cases (sponsored by Incedo Inc),Lightning talk
+DAT306,Optimize your Amazon Aurora resources to reduce costs,Chalk talk
+DAT310,Plan and execute PostgreSQL version upgrades for Aurora & Amazon RDS,Chalk talk
+DAT410,PostgreSQL performance: Real-world workload tuning,Code talk
+DAT456,Revealing the northern lights: Amazon Aurora security deep dive,Breakout session
+DAT307,"Safer, simpler, faster upgrades with managed blue/green deployments",Chalk talk
+DAT416,SQL Server migration & modernization powered by generative AI,Workshop
+AIM216-S,"United Airlines, Deloitte & AWS GenAI-Powered Mainframe Emulator (sponsored by Deloitte)",Breakout session
+DAT422,Use an AI agent to launch your Aurora DSQL project with Amazon Q & MCP,Chalk talk

@@ -1,0 +1,11 @@
+code,title,type
+DAT405,Build a web-scale application with purpose-built databases & analytics,Workshop
+DAT446,Deep Dive into Deloitte's Amazon Neptune GenAI Security Intelligence Center,Breakout session
+ISV315,GenAI-Powered Contextual Security Analysis & Remediation,Code talk
+INV502,Graph Computations - Can we have best of two worlds: OLAP and OLTP?,Chalk talk
+SPS306,Scaling AI Supply Chains: Search to Consumer-Driven Demand,Chalk talk
+DAT443,Symbolic AI in the age of LLMs,Breakout session
+DAT417,Unlock intelligent AI with MCP powered agentic Neptune graph reasoning,Workshop
+DAT419,Use GraphRAG with Amazon Neptune to improve generative AI applications,Builders' session
+DAT432,Use serverless knowledge graphs for hybrid search with Amazon Neptune,Chalk talk
+DAT447,Using graphs over your data lake to power generative AI applications,Breakout session

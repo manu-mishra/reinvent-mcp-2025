@@ -1,0 +1,11 @@
+code,title,type
+ANT301,Accelerating the shift from batch to real-time streaming,Chalk talk
+DAT450,Amazon Keyspaces live migration best practices with HBO Max,Chalk talk
+ANT423,Amazon Kinesis Data Streams under the hood,Breakout session
+ANT407,Building event-driven applications with AWS Streaming and Messaging,Builders' session
+NTA314,Connecting Infor CloudSuite to AWS Services,Chalk talk
+IND3311,How Amazon Game Studios builds a data foundation for AI/ML on AWS,Chalk talk
+COP206-S,How High-Performing Teams Connect Observability to Business Growth (sponsored by Coralogix),Breakout session
+ANT412,Power streaming analytics on AWS with AI-driven insights,Workshop
+API402,Understanding AWS Lambda event source mapping,Chalk talk
+ANT418,Unleash Apache Kafka's elasticity and cost-efficiency with Amazon MSK,Workshop

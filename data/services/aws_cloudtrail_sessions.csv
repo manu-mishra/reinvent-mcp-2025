@@ -1,0 +1,24 @@
+code,title,type
+COP355,A practical guide to implement cost-effective governance controls,Chalk talk
+SEC301,Architecting for Digital Sovereignty: From Foundation to Practice,Chalk talk
+SEC322,Automating Certificate Management with Exportable Public Certificates,Code talk
+AIM339,Data protection strategies for AI data foundation,Code talk
+SEC327-S,Detection Engineering at Scale: Building High-Fidelity Security Operations (sponsored by Datadog),Breakout session
+COP336,Elevating application reliability,Breakout session
+COP307,Enhancing security visibility: building scalable log analytics,Chalk talk
+COP308,Establish a secure AWS foundation with AWS Control Tower,Workshop
+SEC206-S,From collecting tools to an autonomous SOC (sponsored by SentinelOne),Breakout session
+SEC340,IAM Access Analyzer Deep Dive: From Configuration to Remediation,Code talk
+NTA302,IAM Analytics: Automate & Visualize,Workshop
+SEC405,Implementing Advanced Data Protection Controls,Workshop
+COP311,Leaving no operational issues behind,Chalk talk
+CNS356,Master identity-first security with Amazon EKS Auto Mode,Chalk talk
+COP325,Migrate from VMWare to AWS: Cloud Operations Best Practices,Chalk talk
+COP324,Moving AWS Accounts seamlessly at scale,Chalk talk
+COP417,Scale security monitoring using AWS CloudTrail with generative AI,Chalk talk
+CNS331,Securing and observing Amazon EKS clusters,Builders' session
+COP315,Securing your network perimeter through observability,Workshop
+AIM288-S,See The Future of Cloud Defense: Agentic Cloud Security (sponsored by Sysdig),Lightning talk
+COP316,Simplifying security and operations through smart resource tracking,Builders' session
+SEC320,The AWS Security Incident Response Challenge: Defend the Cake!,Workshop
+DVT206-S,Transforming Observability: Ripple’s Journey with Grafana on AWS (sponsored by Grafana Labs),Lightning talk

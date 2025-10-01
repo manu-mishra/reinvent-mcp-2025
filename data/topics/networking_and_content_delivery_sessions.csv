@@ -1,0 +1,63 @@
+code,title,type
+NET310,Accelerate your hybrid network with AWS Direct Connect SiteLink,Workshop
+NET317,A day in the life of an AWS WAF administrator ,Breakout session
+ISV403,Advanced Network Connectivity Patterns for ISVs,Chalk talk
+NET201,Advanced VPC design and new capabilities,Breakout session
+NET312,Agent based Network Ops : Amazon Bedrock Agents & Agent Core,Workshop
+IND3310,AI Agents framework for 5G RAN network operations powered by AWS,Chalk talk
+NET309,A modern approach to application migration with Amazon VPC Lattice,Breakout session
+NET202,Application networking simplified: From basics to best practices,Workshop
+NET212,Application network monitoring: Troubleshooting with VPC Lattice,Chalk talk
+NET204,Approaches to layered security on Amazon VPC,Workshop
+NET404,Architecting networks for AI workloads on AWS,Chalk talk
+NET203,Ask Me Anything About AWS Networking,Chalk talk
+NET208,"AWS Networking Fundamentals: Connect, secure and scale",Breakout session
+IND375,Best practices for optimizing financial services application latency ,Chalk talk
+DEV343,Breaking AWS networks on purpose to build resilience,Lightning talk
+IND311,Build Media Workflows with Natural Language Using Strands Agents SDK,Builders' session
+NET214,Choosing the right AWS network connectivity option for your use case,Chalk talk
+NTA201,Cloud Foundations Accelerator,Chalk talk
+NET401,Deep dive into advanced routing policy with AWS Cloud WAN,Breakout session
+NET330,Deep dive into private DNS with Route 53: From basics to scale,Chalk talk
+HMC315,Deep dive on AWS hybrid and edge networking architectures,Chalk talk
+IND314,DevOps Meets Broadcast: Build Your Own Multi-Camera Broadcast Solution,Workshop
+NET207,DNS unleashed: Unlocking the full potential of Amazon Route 53,Builders' session
+NET319,Elastic Load Balancing cookbook: Advanced recipes for ALB and NLB,Chalk talk
+NET313,"Fortifying encryption in transit: speed, security and AWS Nitro Power",Breakout session
+NET209,From data center to the cloud: Translating network architecture to AWS,Chalk talk
+NET213,From Pods to Gateway API: Container Networking Mysteries Solved! ,Chalk talk
+NET318,From threat to threat intel: 360 degrees of DDOS,Breakout session
+NET311,Global Resilient Apps: Guide to Multi-AZ/Region Architecture with ELB,Breakout session
+NET301,Hands-on AWS WAF: Troubleshooting attack scenarios,Builders' session
+NET302,How CloudFront Handles Black Friday-Scale Retail at the Edge,Chalk talk
+IND318,How Prime Video balanced innovation and reliability for live sports,Chalk talk
+NTA320,How Zydus implemented regulated DR on AWS,Breakout session
+NET329,Human Meets Microservice: Zero Trust with AWS Networking Services,Builders' session
+NET403,Hybrid connectivity at scale: A deep dive into AWS Direct Connect,Breakout session
+NET303,I didn't know AWS WAF did this,Chalk talk
+AMZ302,Kuiper: Building a Low Earth Orbit Satellite Network on AWS,Breakout session
+NET322,Level Up Your Bot Defense for Mobile Apps with AWS WAF SDK,Chalk talk
+INV507,Light qubits in the AWS network,Chalk talk
+NET324,Managing Bots vs Humans with CloudFront and AWS WAF,Code talk
+NET321,Measure what matters: Web & API optimization with Amazon CloudFront,Chalk talk
+HMC321,Multicloud networking best practices,Chalk talk
+CNS417,Networking and observability strategies for Kubernetes,Breakout session
+NET210,Network observability in AWS: Picking the right tool for the job,Chalk talk
+NET323,Networks at scale and how to automate operations,Code talk
+NET325,Network security architecture: Deployment patterns for firewalls in AWS,Chalk talk
+NET320,Origin management for multi-region applications with Amazon CloudFront,Chalk talk
+NET402,Powering your success through AWS Infrastructure innovations,Breakout session
+NET304,Practical Applications of Edge Compute in Amazon CloudFront,Chalk talk
+NET326,Robust network security with perimeter protection and zero trust,Breakout session
+NET316,Scaling Multi-Tenant SaaS Delivery with Amazon CloudFront,Breakout session
+ISV302,Scaling SaaS applications with cell-based architectures,Chalk talk
+CDN201-S,"Secure, Easy and Performant VPC Resource Connectivity with Tailscale (sponsored by Tailscale)",Lightning talk
+NET206,Secure your cloud networks with Amazon VPC Block Public Access,Builders' session
+NET305,Simplifying Multi-Tenant SaaS Delivery with CloudFront,Workshop
+NET314,Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice,Chalk talk
+NET211,"State of the Edge:  Delivery of the web with CloudFront, WAF, and Shield",Breakout session
+NET307,Streaming at Scale: Advanced Media Delivery with Amazon CloudFront,Breakout session
+NET315,The Art of Managing Trade-Offs for your AWS Network Design,Chalk talk
+INV213,The power of cloud network innovation,Innovation talk
+NET306,Winning the DDoS Battle with AWS WAF,Workshop
+NET308,Write Deploy and Monitor CloudFront Functions & Key Value Store,Builders' session

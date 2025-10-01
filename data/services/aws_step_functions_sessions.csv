@@ -1,0 +1,25 @@
+code,title,type
+IND373,Agentic KYC: Autonomous customer screening for financial institutions,Chalk talk
+DEV322,Automated Security Remediation with AWS Step Functions,Builders' session
+API304,Build GenAI-Powered Workflows with Step Functions and AWS AI Services,Builders' session
+CNS307,Building event-driven architectures using Amazon ECS with AWS Fargate,Breakout session
+API313,Building Production-Grade Workflow Patterns with AWS Step Functions,Breakout session
+CNS415-S,Developing Serverless Applications Locally with AWS and LocalStack (sponsored by LocalStack),Lightning talk
+API312,From Zero to Millions: Building Real-Time Applications at Scale,Breakout session
+CMP211,Hybrid Science: AI + Physics Simulations for Climate & Automotive Engineering,Chalk talk
+CNS360,Implementing security best practices for serverless applications,Breakout session
+ISV304,Intelligent Document Processing at Scale Using Bedrock,Chalk talk
+NTA304,Multi-Tenant ETL: Consolidate SaaS Data,Builders' session
+API203,Optimize data processing with built-in AWS Step Functions features,Chalk talk
+ARC401,Orchestration meets choreography: Building event-driven architectures,Builders' session
+CNS363,Patterns for session state management in Serverless applications,Chalk talk
+API319,Processing payments with real-time serverless architectures,Chalk talk
+CNS361,Scaling Serverless with platform engineering: A blueprint for success,Breakout session
+CNS364,Serverless cost optimization: More from every invoke,Chalk talk
+API309,Serverlesspresso: Build an event-driven application from the ground up,Workshop
+API323,Simplifying orchestrations with JSONata and AWS Step Functions,Lightning talk
+DEV321,Simplify serverless testing using Amazon Q Developer,Builders' session
+API321,Solving the Observability Mystery with AWS Step Functions,Code talk
+CNS211,The future of AWS Serverless in 2025 and beyond,Breakout session
+API310,The Step Functions Workshop,Workshop
+API207,Using event-driven architectures to modernize legacy applications at scale,Breakout session

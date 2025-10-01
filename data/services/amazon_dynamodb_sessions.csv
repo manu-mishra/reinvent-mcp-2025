@@ -1,0 +1,40 @@
+code,title,type
+DAT414,Advanced data modeling with Amazon DynamoDB,Breakout session
+HMC206-S,"Anatomy of a Ransomware Attack: A Live Simulation, Sponsored by Rubrik (sponsored by Rubrik)",Breakout session
+DAT436,An insider’s look into architecture choices for Amazon DynamoDB,Breakout session
+DAT402,Applied data modeling with Amazon DynamoDB,Builders' session
+STG317-S,Best practices to simplify resilience at scale for Gen AI data & apps (sponsored by Commvault),Breakout session
+DAT448,Build a stablecoin payment processor using AWS serverless services,Workshop
+DAT405,Build a web-scale application with purpose-built databases & analytics,Workshop
+NTA401,Build First Retail AI Agent: Customer Service Excellence with Amazon Bedrock,Builders' session
+ARC403,Building adaptive AI agents: Enterprise patterns that scale,Workshop
+ARC404,Building resilient multi-Region applications with Capital One,Breakout session
+IND343,Build your own AI-Driven Industrial Automation System with Agentic AI,Builders' session
+IND3308,Capital One: Building resilient systems by engineering for five nines,Breakout session
+IND350,Chaos detective: Deploy generative AI-powered troubleshooting agents,Chalk talk
+DAT308,Cost optimization for Amazon DynamoDB,Chalk talk
+TNC316,Create an AWS DevOps AI Agent with the Strands Agents SDK,Interactive training
+DAT311,Data modeling core concepts for Amazon DynamoDB,Breakout session
+DAT445,Deep dive into databases zero-ETL integrations,Breakout session
+DAT435,Dive deep into Amazon DynamoDB,Breakout session
+DAT430,Dive deep into Amazon DynamoDB using design puzzles,Chalk talk
+DAT449,Evolve Amazon DynamoDB data models with no application impact,Chalk talk
+IND358,Experience T-Mobile's Digital Commerce in Action,Breakout session
+DAT423,Fast and easy bulk operations with Amazon DynamoDB,Chalk talk
+COP204-S,From Backup to Live Data: Protecting and Unleashing Your Cloud Data (sponsored by Eon),Breakout session
+MAM322,From VSAM to DynamoDB: Reimagining mainframe data for the cloud,Builders' session
+AMZ403,How Amazon is migrating 1000’s of applications to new AWS regions,Chalk talk
+DAT323,How Samsung optimized 1.2 PB on Amazon DynamoDB with zero downtime,Lightning talk
+CNS428,Implementing Human-in-the-Loop Controls for Multi-Agent AI Systems,Lightning talk
+TNC202,Intelligent Document Processing with Amazon Bedrock,Interactive training
+IND3304, Maximizing uptime: Itaú’s mission-critical mainframe migration to AWS,Breakout session
+DAT440,Multi-Region strong consistency with Amazon DynamoDB global tables,Breakout session
+IND359,Navigating multi-Region AWS database choices for financial services,Chalk talk
+DAT415,Perform vector search on your Amazon DynamoDB data using zero-ETL,Workshop
+HMC307-S,Preemptive Recovery: A New Playbook for Cloud Resilience (sponsored by Rubrik),Breakout session
+DAT324,Scaling MONOPOLY GO! to 10M daily players with DynamoDB & ElastiCache,Lightning talk
+ARC326,Scaling multi-agent architectures: Patterns for mission-critical AI,Chalk talk
+IND3315,Trading innovation: Jefferies' AI assistant on Amazon Bedrock ,Lightning talk
+AIM216-S,"United Airlines, Deloitte & AWS GenAI-Powered Mainframe Emulator (sponsored by Deloitte)",Breakout session
+DAT418,Use Amazon DynamoDB to enhance agentic AI workflows,Builders' session
+DAT421,Vibe data modeling with Amazon DynamoDB,Builders' session

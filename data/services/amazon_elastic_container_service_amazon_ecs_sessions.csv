@@ -1,0 +1,49 @@
+code,title,type
+CMP349,5-Star Customer Service: Duolingo's Path to Compute Savings,Breakout session
+CNS315,Accelerate software delivery with Amazon,Breakout session
+CNS351,Amazon ECS observability patterns and design decisions,Chalk talk
+CNS302,Architecting for data protection and compliance with Amazon ECS,Builders' session
+SPS309,Automating LLM Fine-Tuning with Multi-Agentic Orchestration,Breakout session
+MAM203,"AWS for VMware migrations: Successes, roadmaps, & strategies",Breakout session
+IND375,Best practices for optimizing financial services application latency ,Chalk talk
+CNS346,"Break down monoliths, modernizing applications on Amazon ECS",Chalk talk
+CNS358,"Build AI-powered developer experiences with MCP on ECS, EKS and Lambda",Breakout session
+CNS352,Build an adaptive compute grid with Amazon ECS and AWS Lambda,Chalk talk
+DEV325,Build and Deploy Highly Available Event Processing with Containers,Chalk talk
+CNS307,Building event-driven architectures using Amazon ECS with AWS Fargate,Breakout session
+CNS309,Building multi-tenant SaaS applications with Amazon ECS,Workshop
+CNS425,Building production-ready Agentic AI architectures with AWS Serverless,Chalk talk
+IND3302,Building Prudential’s microagent platform with MCP and A2A on AWS,Breakout session
+CNS321,Building resilient deployment pipelines with Amazon ECS,Workshop
+CNS311,Building serverless AI Agents in Java with Spring AI,Builders' session
+CNS353,Build safe and resilient deployment pipelines for Amazon ECS,Lightning talk
+CNS347,Build secure and scalable agentic AI workflows on Amazon ECS,Chalk talk
+IND366,Build ultra-low latency ad workloads with unmatched cost-performance,Workshop
+IND350,Chaos detective: Deploy generative AI-powered troubleshooting agents,Chalk talk
+MAM311,Choose your own modernization adventure: From legacy to cloud-native,Workshop
+IND348,Create a secure card management platform with AWS Payment Cryptography,Chalk talk
+CNS416,Deep dive into Amazon ECS resilience and availability,Breakout session
+CNS313,Demystifying the shared security model on Amazon ECS,Chalk talk
+IND351,Design a multi-expert system for fraud investigation with AI agents,Chalk talk
+COP327,Drive operational excellence for modern applications,Breakout session
+CNS341,From code to cloud: Accelerate application development with Amazon ECS,Breakout session
+NET213,From Pods to Gateway API: Container Networking Mysteries Solved! ,Chalk talk
+IND354,Game Dev on AWS: Your Studio Architecture Questions Answered,Chalk talk
+MAM320,Grupo Tress Internacional's .NET modernization with AWS Transform,Breakout session
+CNS348,Implement distributed inference with Amazon ECS,Chalk talk
+CNS323,Learn multi-tier application architectures on Amazon ECS,Workshop
+CNS326,Modernize .NET Framework workloads with containers and AWS Transform,Workshop
+IND3303,Moody’s: Architecting a multi-agent system on AWS,Breakout session
+CNS342,Navigate the cloud compute landscape with Amazon ECS,Breakout session
+MAM317,.NET cloud journey: Migration & modernization strategies,Chalk talk
+CNS349,Optimize your Amazon ECS workloads for performance and cost,Chalk talk
+CNS306,Optimizing compute for performance and scale with Amazon ECS,Builders' session
+CNS327,Optimizing your Amazon ECS application networking strategy,Chalk talk
+CNS329,Reducing downtime: Build resilient architectures with Amazon ECS,Chalk talk
+IND379,Run real-time advertising workloads with unmatched cost-performance on AWS,Breakout session
+SEC223-S,"Runtime + AI: Reinventing Cloud Security on AWS (sponsored by Upwind Security, Inc.)",Lightning talk
+CNS350,Scaling to 1000s of containers in minutes with Amazon ECS,Chalk talk
+CNS330,Securing Amazon ECS workloads with application-aware networking,Workshop
+CNS426,The Shapeshifting Application: Architecture That Transforms Across AWS,Code talk
+CNS413,Unveiling Amazon ECS workloads with AWS observability and agentic AI,Chalk talk
+CNS339,Vibe coding production-ready containerized applications,Builders' session

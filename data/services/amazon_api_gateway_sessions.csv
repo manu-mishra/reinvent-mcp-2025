@@ -1,0 +1,27 @@
+code,title,type
+API301,Accelerate API Creation with Amazon Q Developer CLI,Builders' session
+API314,A decade of API Gateway: Architecting the future of API Management,Breakout session
+CNS365,Advanced authorization patterns for secure serverless applications,Chalk talk
+NTA404,AI Code to Production: Context Matters,Code talk
+API302,API Gateway Authorization Strategies,Builders' session
+API303,API Gateway Unleashed: A Hands-on Journey to API Excellence,Workshop
+DVT316-S,Are your APIs ready for AI agents? (sponsored by Postman),Breakout session
+CNS359,"Build, deploy, and operate agentic architectures on AWS Serverless",Breakout session
+API316,Build Hybrid Serverless Architectures with AWS and On-premises Systems,Chalk talk
+API208,Building a culture of API Excellence,Lightning talk
+NTA405,"Building AI Agents with Serverless, Strands, and MCP",Code talk
+CNS425,Building production-ready Agentic AI architectures with AWS Serverless,Chalk talk
+DEV308,Build modern applications with Amazon Aurora DSQL,Breakout session
+NTA314,Connecting Infor CloudSuite to AWS Services,Chalk talk
+API311,Designing resilient Serverless Applications,Breakout session
+CNS360,Implementing security best practices for serverless applications,Breakout session
+API317,Migrating to Amazon API Gateway,Chalk talk
+NTA311,Modernizing Document Processing,Chalk talk
+MAM329,Navigating API modernization on AWS,Chalk talk
+CNS363,Patterns for session state management in Serverless applications,Chalk talk
+SEC210-S,Protecting web apps & APIs with AI and an as-a-Service approach (sponsored by Check Point Software),Breakout session
+ARC325,Refactoring post-migration: API-first and event-driven architectures,Chalk talk
+CNS361,Scaling Serverless with platform engineering: A blueprint for success,Breakout session
+IND363,Stream 3D applications globally with Amazon GameLift Streams,Workshop
+IND206,Streamlining Telecom Cybersecurity Operations with AWS Generative AI,Lightning talk
+CNS211,The future of AWS Serverless in 2025 and beyond,Breakout session

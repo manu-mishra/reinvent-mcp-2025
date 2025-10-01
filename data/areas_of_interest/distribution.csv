@@ -1,0 +1,53 @@
+areas_of_interest,session_count,percentage
+Generative AI,513,27.84
+Agentic AI,431,23.39
+Innovation & Transformation,273,14.81
+Cost Optimization,171,9.28
+DevOps,156,8.46
+Automation,140,7.6
+Machine Learning,135,7.33
+Serverless,118,6.4
+Resilience,116,6.29
+Management & Governance,90,4.88
+Monitoring & Observability,87,4.72
+Application Security,74,4.02
+Data Protection,68,3.69
+Containers,65,3.53
+Event-Driven Architecture,63,3.42
+"Governance, Risk & Compliance",62,3.36
+Kubernetes,61,3.31
+Lambda-Based Applications,59,3.2
+SaaS,59,3.2
+Business Intelligence,58,3.15
+Global Infrastructure,57,3.09
+Network & Infrastructure Security,53,2.88
+Well-Architected Framework,50,2.71
+DevSecOps,44,2.39
+Disaster Response & Recovery,42,2.28
+Threat Detection & Incident Response,39,2.12
+Responsible AI,39,2.12
+Training & Certification,38,2.06
+Identity & Access Management,34,1.84
+Customer Enablement,31,1.68
+Open Data,31,1.68
+Edge Computing,28,1.52
+Culture of Security,28,1.52
+Microsoft & .NET,24,1.3
+Front-End Web & Mobile,20,1.09
+Digital Sovereignty,19,1.03
+Tech for Impact,18,0.98
+VMware,18,0.98
+Learning from Amazon,18,0.98
+SAP,16,0.87
+Internet of Things,14,0.76
+Quantum Technologies,12,0.65
+Sustainability,12,0.65
+Blockchain,8,0.43
+Threat Intelligence,7,0.38
+Zero Trust,6,0.33
+Oracle,6,0.33
+Cryptography and Post-Quantum,5,0.27
+Inclusion,4,0.22
+Robotics,4,0.22
+Privacy,4,0.22
+Workforce Development,4,0.22

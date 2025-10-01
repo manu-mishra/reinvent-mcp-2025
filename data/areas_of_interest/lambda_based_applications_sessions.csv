@@ -1,0 +1,60 @@
+code,title,type
+CNS373,Accelerate building Serverless apps with Amazon Q and MCP servers,Code talk
+CNS365,Advanced authorization patterns for secure serverless applications,Chalk talk
+API302,API Gateway Authorization Strategies,Builders' session
+MAM306,Application modernization challenge,Workshop
+CNS304,AWS Lambda performance tuning: Best practices and guidance,Chalk talk
+CNS402,AWS Serverless developer experience workshop,Workshop
+CNS403,Best practices for serverless developers,Breakout session
+CNS368,Build high-performance inference APIs with Lambda SnapStart,Chalk talk
+CNS206,Building Agentic AI architectures with AWS Serverless,Builders' session
+CNS308,"Building GenAI applications with AI Agents that reason, decide and act",Workshop
+CNS202,Building interactive web based applications on Serverless,Builders' session
+API313,Building Production-Grade Workflow Patterns with AWS Step Functions,Breakout session
+CNS425,Building production-ready Agentic AI architectures with AWS Serverless,Chalk talk
+CNS424,Building resilient Serverless applications with chaos engineering,Chalk talk
+CNS310,Building secure serverless applications,Workshop
+CNS311,Building serverless AI Agents in Java with Spring AI,Builders' session
+CNS312,Building Serverless applications with Terraform workshop,Workshop
+CNS404,Building Serverless distributed data processing workloads,Workshop
+CNS203,Building your first event driven application,Builders' session
+CNS367,Debug Lambda functions deployed in cloud like never before,Breakout session
+CNS415-S,Developing Serverless Applications Locally with AWS and LocalStack (sponsored by LocalStack),Lightning talk
+CNS316,Effective strategies for testing serverless event-driven applications,Chalk talk
+PEX402,Engineering Intelligence: Multi-Agent AI Systems for Industrials,Chalk talk
+CNS406,From serverful to serverless Java,Workshop
+CNS423,From Trigger to Execution: The Journey of Events in AWS Lambda,Breakout session
+CNS318,Getting started with Serverless using AI assistance,Workshop
+CNS319,Handle scaling with AWS Lambda,Builders' session
+CNS320,I didn't know AWS SAM could do that,Builders' session
+CNS409,Implementing advanced Serverless resilience: A practitioner's guide,Chalk talk
+CNS428,Implementing Human-in-the-Loop Controls for Multi-Agent AI Systems,Lightning talk
+CNS360,Implementing security best practices for serverless applications,Breakout session
+OPN404,Level Up Your Serverless: The Powertools for AWS Lambda Workshop,Workshop
+CNS324,Managing AWS Lambda runtime upgrades at scale,Chalk talk
+CNS325,Master distributed transactions: Orchestration with AWS Step Functions,Builders' session
+API317,Migrating to Amazon API Gateway,Chalk talk
+CNS408,Modernizing monoliths: The path to architectural freedom,Builders' session
+API320,Modernizing Serverless Applications with Event-Driven Architectures,Chalk talk
+CNS371,Operating AWS Lambda functions at scale,Chalk talk
+CNS411,Optimizing Kafka workloads with AWS Lambda,Chalk talk
+OPN408,Production-ready Serverless: mastering Powertools for AWS Lambda,Chalk talk
+CNS375,Real-time insights for smart manufacturing with AWS Serverless,Lightning talk
+CNS412,Refactoring Java applications to serverless,Chalk talk
+CNS364,Serverless cost optimization: More from every invoke,Chalk talk
+CNS333,Serverless data processing with AWS Lambda and Apache Kafka,Builders' session
+CNS369,Serverless Observability: Best Practices for AWS Distributed Systems,Chalk talk
+CNS372,Serverless patterns for large-scale applications with AWS Lambda,Code talk
+API309,Serverlesspresso: Build an event-driven application from the ground up,Workshop
+CNS334,Supercharge Lambda functions for security and performance,Builders' session
+CNS374,Supercharge Lambda with Hono: The lightweight web framework,Lightning talk
+CNS335,Supercharge Serverless APIs with Powertools for AWS Lambda,Workshop
+CNS427,Supercharge Serverless testing: Accelerate development with Amazon Q,Code talk
+CNS336,Telemetry forensics: Debugging event systems with metrics & traces,Builders' session
+CNS211,The future of AWS Serverless in 2025 and beyond,Breakout session
+CNS426,The Shapeshifting Application: Architecture That Transforms Across AWS,Code talk
+CNS337,Thinking Serverless,Chalk talk
+API402,Understanding AWS Lambda event source mapping,Chalk talk
+CNS338,Unlock productivity: tools and techniques for developers,Builders' session
+CNS376,What's new with AWS Lambda,Lightning talk
+CNS340,Write less code: Building applications with a serverless mindset,Builders' session

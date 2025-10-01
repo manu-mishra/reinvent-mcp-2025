@@ -1,0 +1,32 @@
+code,title,type
+AIM236-S,A $3.7T Wake-Up Call: How data + AI is transforming CX (sponsored by Twilio),Breakout session
+STG340,Accelerate & automate secure data transfers at scale with AWS DataSync,Breakout session
+CMP345,Accelerate Drug Discovery R&D at Scale with AWS,Chalk talk
+CMP350,Accelerating Vehicle Innovation: ML & HPC Best Practices,Chalk talk
+AIM115-S,"AI, Cloud & Public Sector Transformation: PwC & AWS Driving Change Now (sponsored by PwC)",Lightning talk
+AIM274-S,AI-First Contact Centers: Reinventing Scale with AWS and Partners (sponsored by PwC),Breakout session
+DAT450,Amazon Keyspaces live migration best practices with HBO Max,Chalk talk
+IND396,Another Axiom: Migrating the backend for hit game Gorilla Tag to AWS,Lightning talk
+MAM308,AWS fundamentals for the accidental SQL Server database administrator,Chalk talk
+DAT322,Binge-worthy: Netflix's journey to Amazon Aurora at scale,Lightning talk
+AIM3307-S,Building the Future Trading Platform leveraging AI and AWS (sponsored by Cognizant),Breakout session
+BIZ219,Caesars personalizes guest service at scale with AI-powered Amazon Connect,Breakout session
+AIM285-S,DraftKings & MongoDB: Supercharging Engineering with AI (sponsored by MongoDB),Breakout session
+DAT320,DraftKings: Scaling to 1M operations/min on Aurora during Super Bowl,Lightning talk
+IND3307,Drive Supply Chain Innovation Using AWS Cloud and AI Solutions,Breakout session
+PEX310,From Motion to Meaning: AI-Powered Human Movement Analysis on AWS,Chalk talk
+DAT323,How Samsung optimized 1.2 PB on Amazon DynamoDB with zero downtime,Lightning talk
+CMP340,HPC at Scale: From Robot Learning to Scientific Insights on AWS,Breakout session
+PEX306,Integration to impact: Accelerate AWS Partner revenue measurement,Breakout session
+ARC211,Mastering Root Cause Analysis: Rebuilding trust after outages,Breakout session
+IND3304, Maximizing uptime: Itaú’s mission-critical mainframe migration to AWS,Breakout session
+DAT208-S,Oracle Database@AWS: supercharge your workloads with Oracle Exadata (sponsored by Oracle),Breakout session
+CMP411,Quantum Computing with Amazon Braket: From Exploration to Enterprise,Breakout session
+IND211,Reimagining Healthcare Access with Amazon One's Biometric Innovation,Chalk talk
+AIM286-S,Rivian & MongoDB: Powering the Future of Autonomous Driving (sponsored by MongoDB),Breakout session
+IND398,Rovio’s GenAI Journey: Game Asset Creation with AWS AI Stack,Breakout session
+NTA309,Sandbox Magic: No Spells Required,Workshop
+IND215-S,Scaling Data Transformation w/ dbt & Nasdaq: Unlocking Ent Power Global Mkts (sponsored by dbt Labs),Lightning talk
+DAT324,Scaling MONOPOLY GO! to 10M daily players with DynamoDB & ElastiCache,Lightning talk
+STG354,Seamless file storage migration from on-premises to AWS,Chalk talk
+CMP207,Startup to Scale: Powering Business Growth with Amazon Lightsail,Chalk talk

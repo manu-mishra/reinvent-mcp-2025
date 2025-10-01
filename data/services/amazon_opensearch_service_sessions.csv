@@ -1,0 +1,29 @@
+code,title,type
+ANT315,Agentic AI for Intelligent Observability with OpenSearch Service,Breakout session
+ARC318,AI-powered FinOps: Agent-based cloud cost management,Chalk talk
+ISV313,AI-powered SaaS Observability using OpenSearch,Code talk
+DAT315,A practitioner’s guide to data for agentic AI,Breakout session
+COP402,Architect open source observability for distributed environments,Chalk talk
+ANT424,Autonomous agents powered by streaming data and Retrieval Augmented Generation,Breakout session
+ARC303,AWS Solutions Library: Accelerating innovation with proven patterns,Workshop
+COP415,Behind the scenes: How AWS drives operational excellence & reliability,Breakout session
+AIM231-S,Beyond the Hype: Delivering Measurable ROI with Generative AI on AWS (sponsored by CDW),Lightning talk
+ANT329,Build Advanced AI-powered Search with OpenSearch MCP and Vectors,Chalk talk
+ANT314,"Build Advanced Enterprise Search with Vector, Hybrid, and AI Techniques ",Breakout session
+ANT304,Build an AI-ready data foundation,Breakout session
+COP322,Building AI-Powered operational insights and automated remediation,Builders' session
+STG321,Building serverless vector applications with Amazon S3 Vectors,Chalk talk
+COP337,Correlating compliance signals across AWS,Chalk talk
+ANT330,Design and Implement Agentic AI Observability with OpenSearch,Chalk talk
+IND3323,Fidelity Investments: Text-to-SQL for data analytics at enterprise scale,Lightning talk
+ISV315,GenAI-Powered Contextual Security Analysis & Remediation,Code talk
+IND205,Making Level 4 Autonomous Networks a reality with British Telecom,Breakout session
+SMB305,Maximize ROI: How Octus migrated CreditAI from Azure to Amazon Bedrock,Breakout session
+IND3303,Moody’s: Architecting a multi-agent system on AWS,Breakout session
+COP412,Observability: The open source way,Workshop
+ANT331,Optimize Cost and Performance in Amazon OpenSearch Service,Chalk talk
+DAT415,Perform vector search on your Amazon DynamoDB data using zero-ETL,Workshop
+IND3301,"Ripple: Building an intelligent, multi-agent system for 24/7 operations",Breakout session
+COP333,Scaling open source observability stack feat. Warner Bros Discovery,Breakout session
+STG318,Transforming AI storage economics with Amazon S3 Vectors,Breakout session
+DAT432,Use serverless knowledge graphs for hybrid search with Amazon Neptune,Chalk talk

@@ -1,0 +1,22 @@
+code,title,type
+IND395,Accelerate Game Design Reviews with Generative AI and LLM Agents,Code talk
+IND396,Another Axiom: Migrating the backend for hit game Gorilla Tag to AWS,Lightning talk
+IND340,Autonomous Live-Ops: AI Agents for Dynamic Gaming Experiences,Workshop
+ANT327-S,Build a GenAI Race Tracker With Confluent & AWS Bedrock in <60 Min  (sponsored by Confluent),Breakout session
+SEC327-S,Detection Engineering at Scale: Building High-Fidelity Security Operations (sponsored by Datadog),Breakout session
+AIM285-S,DraftKings & MongoDB: Supercharging Engineering with AI (sponsored by MongoDB),Breakout session
+DAT320,DraftKings: Scaling to 1M operations/min on Aurora during Super Bowl,Lightning talk
+ANT208-S,From Agentic AI Demos to ROI: Path to Production With Confluent + AWS (sponsored by Confluent),Breakout session
+IND354,Game Dev on AWS: Your Studio Architecture Questions Answered,Chalk talk
+CMP321,GenAI Storyboarding: From Sketch to 3D Scene with GenAI on AWS,Chalk talk
+IND3311,How Amazon Game Studios builds a data foundation for AI/ML on AWS,Chalk talk
+IND355,Level Up Your Asset Pipeline: AI-Powered 3D Model Generation at Scale,Builders' session
+AIM378,Leverage your own IP to enhance creative control,Chalk talk
+HMC309,Migrating your VMware workloads with on-premises dependencies,Breakout session
+IND204,Powering the Future of Battle Royale — EA’s Apex Legends & Amazon GameLift,Breakout session
+DAT101-S,Presidio Resonate: AI Agents Orchestrating Multimodal Data at Scale (sponsored by Presidio),Lightning talk
+IND3316,Real-time AI inference patterns: Lessons from production game workloads,Chalk talk
+IND398,Rovio’s GenAI Journey: Game Asset Creation with AWS AI Stack,Breakout session
+IND363,Stream 3D applications globally with Amazon GameLift Streams,Workshop
+AIM418-S,The AI Discussion Control Plane: How Your Agentic Team Redefines Ops (sponsored by Edge Delta),Lightning talk
+AIM368,Unifying AI/ML operations with SageMaker HyperPod and Amazon EKS,Chalk talk

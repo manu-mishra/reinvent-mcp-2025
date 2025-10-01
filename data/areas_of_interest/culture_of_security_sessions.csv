@@ -1,0 +1,29 @@
+code,title,type
+OPN301,Accelerate app authorization with the latest Cedar tools ,Builders' session
+SNR304,A leaders guide to achieving compliance through software excellence,Breakout session
+SEC332,Automate vulnerability remediation for containers running in AWS,Chalk talk
+ARC206,Building and operating an effective architecture review board,Chalk talk
+INV504,Building fast with automated reasoning at Amazon S3 scale,Chalk talk
+IND345,Building privacy-aware generative AI applications in financial services,Chalk talk
+ARC317,Building Well-Architected agentic AI applications,Chalk talk
+IND348,Create a secure card management platform with AWS Payment Cryptography,Chalk talk
+SEC343,Fostering a Resilient Incident Response Culture,Chalk talk
+SEC221,Gen AI in Security Assurance and Compliance: From Strategy to Daily Operations,Chalk talk
+SEC202,How Cathay Transformed DevSecOps with AI: A 75% Faster Security Story,Breakout session
+SEC331,How Security Maturity Enables Your Cryptographic Agility Playbook,Chalk talk
+MAM105-S,How Sophos modernizes security data at scale with Cribl and AWS (sponsored by Cribl),Breakout session
+SEC219,Lead resilient security teams through psychological safety,Lightning talk
+EUC205,Mission-critical security: How U.S. Army secures comms with AWS Wickr,Breakout session
+MAM324,Modernize AD integrations with AWS Managed Microsoft AD Hybrid Edition,Workshop
+SEC213,Modern Secrets: A Journey from Legacy Systems to AI-Ready Security,Breakout session
+HMC318,Multicloud security best practices,Breakout session
+SPS314,Novartis's next-gen clinical platform enables AI drug development,Breakout session
+IND211,Reimagining Healthcare Access with Amazon One's Biometric Innovation,Chalk talk
+SEC204,Rethinking DevSecOps with Platform Engineering That Actually Works,Chalk talk
+DAT456,Revealing the northern lights: Amazon Aurora security deep dive,Breakout session
+ISV311,Securing AI Agents: SailPoint's Journey with Amazon Bedrock AgentCore,Chalk talk
+SEC225-S,Securing data for your AI workloads with tokenization (sponsored by Capital One),Breakout session
+SEC337,Securing IoT Workloads with AWS IoT Lens and AWS Security Reference Architecture,Chalk talk
+SEC317,Shared responsibility: leadership lessons from active defense of the cloud,Chalk talk
+SEC227,Translating Security Metrics into Business Outcomes,Chalk talk
+DAT318,Web3 + AI: Agents that mean business,Breakout session

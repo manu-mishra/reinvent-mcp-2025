@@ -1,0 +1,11 @@
+code,title,type
+API322,Building Fault-Tolerant Systems with AWS Messaging Services ,Code talk
+ANT422,Building Resilient Multi-Tenant Messaging with Amazon SQS,Chalk talk
+CNS423,From Trigger to Execution: The Journey of Events in AWS Lambda,Breakout session
+CNS428,Implementing Human-in-the-Loop Controls for Multi-Agent AI Systems,Lightning talk
+API315,Integration patterns for distributed systems,Breakout session
+SAS405,Integration patterns for multi-tenant systems,Breakout session
+IND3304, Maximizing uptime: Itaú’s mission-critical mainframe migration to AWS,Breakout session
+ARC401,Orchestration meets choreography: Building event-driven architectures,Builders' session
+ANT310,Powering your Agentic AI experience with AWS Streaming and Messaging,Breakout session
+API402,Understanding AWS Lambda event source mapping,Chalk talk

@@ -1,0 +1,158 @@
+code,title,type
+DVT222-S,100% Observability at 10% the Cost Using Grepr's Real-Time ML (sponsored by Grepr),Lightning talk
+CNS373,Accelerate building Serverless apps with Amazon Q and MCP servers,Code talk
+SPS324,Accelerate code delivery: Amazon Q developer and dev containers,Code talk
+CNS207,Accelerate container migrations with Amazon EKS Auto Mode,Chalk talk
+DVT308,Accelerate enterprise development with Amazon Q Developer,Workshop
+DVT321,Accelerate multi-step SLDC with Amazon Q Developer,Code talk
+DVT211,Accelerate .NET application modernization with generative AI ,Breakout session
+CNS301,Accelerate platform engineering on Amazon EKS,Workshop
+DVT216,Accelerate Terraform Provider development worklows with Amazon Q Developer CLI,Breakout session
+AIM248-S,Agentic Smart City Showdown: EKS Edge to Cloud Playtime  (sponsored by Intel),Workshop
+DEV323,AI Native Development: Strategies and Impact across Amazon and AWS,Breakout session
+DVT103-S,AI transforms development: Lessons from CircleCI's journey with AWS (sponsored by CircleCI),Lightning talk
+STG402,Amazon EKS advanced storage best practices with Amazon FSx for OpenZFS,Builders' session
+CNS401,"Amazon EKS: Infrastructure as code, GitOps, or CI/CD",Chalk talk
+DVT330,"Amazon Q Developer CLI, a lightning-fast coding experience",Chalk talk
+COP329,Application performance monitoring: From design to implementation,Chalk talk
+DVT311, Apply Amazon’s DevOps culture to your team,Chalk talk
+DVT316-S,Are your APIs ready for AI agents? (sponsored by Postman),Breakout session
+COP303,Automate disaster recovery playbooks using generative AI,Builders' session
+DVT401,Automate Java application upgrade with generative AI,Workshop
+DVT326,Automate Java app upgrades & accelerate innovation with generative AI,Chalk talk
+DVT324, Automate your code transformations at scale,Builders' session
+DVT302, Automate your software tasks with agent hooks,Builders' session
+DVT203, AWS infrastructure as code: A year in review,Breakout session
+DVT315,AWS SAM Beyond the Basics - Powered by Amazon Q Developer,Chalk talk
+CNS402,AWS Serverless developer experience workshop,Workshop
+DVT329,Blueprint to code: Mastering spec-driven development,Chalk talk
+DVT224-S,Bronto: Logs at Scale Without Compromise (sponsored by Bronto),Lightning talk
+AIM224-S,Browser Power: Building MCP Tools That Do Real Work (sponsored by Cloudflare),Lightning talk
+DEV306,Build AI Agents in Java with Spring AI,Chalk talk
+DEV330,Build a multi-agent role-playing Game Master with Strands Agents,Code talk
+COP406,Build and automate policy as code,Builders' session
+DEV331,Build and deploy AI agents using Kiro and Amazon Bedrock AgentCore,Code talk
+MAM353,Build an SAP ABAP application and generate unit test cases with generative AI,Builders' session
+SMB401,Build Fast Multi-Agent AI Systems Using Amplify and Bedrock Together,Workshop
+DEV327,Building Agentic AI: Amazon Nova Act and Strands Agents in Practice,Breakout session
+AIM394-S,Building multi-agent AI SRE: from root cause to vibe debugging (sponsored by Resolve AI),Breakout session
+DEV302,Building .NET AI Applications with Semantic Kernel and Amazon Bedrock,Code talk
+CNS312,Building Serverless applications with Terraform workshop,Workshop
+SPS322,Building smarter AI coding assistants: real-world implementation guide,Code talk
+DEV332,Build multi-modal AI agents with Strands Agents and Amazon S3 Vectors,Code talk
+AIM233-S,"Build observable AI agents with Strands, AgentCore, and Datadog (sponsored by Datadog)",Breakout session
+TNC317,Build production-ready Generative AI Applications on AWS,Interactive training
+DVT307,Build real-time applications AWS Amplify,Workshop
+ISV404,Build Resilient SaaS: Multi-Account Resilience Testing Patterns,Code talk
+DVT405,Code completion to agents: The evolution of development,Breakout session
+DEV405,Compile blazing-fast MCP servers in Rust,Code talk
+DVT202, Continuous integration and continuous delivery (CI/CD) for AWS,Breakout session
+DVT309," Create secure, production-ready code with Amazon Q Developer",Workshop
+DVT403,Create your own AI sidekick: a hands-on agent building workshop,Workshop
+DVT221,Crowning the Kiro code champions,Lightning talk
+CNS367,Debug Lambda functions deployed in cloud like never before,Breakout session
+DVT323,Deliver GenAI Mobile Apps and Models at scale: A Testing Architecture,Chalk talk
+TNC318,Deploy Agentic AI Application with Strands and MCP on Amazon EKS,Interactive training
+DVT304,Deploy infrastructure with speed and safety using AWS CloudFormation,Workshop
+DVT102-S,Designing with Agents: A Playbook for Enterprise Engineering Leaders (sponsored by Windsurf),Breakout session
+TNC315,Develop AI Agents and Flow Apps on Amazon SageMaker Unified Studio,Interactive training
+AIM381,Develop AI Agents faster with Amazon SageMaker AI & Bedrock AgentCore,Breakout session
+DVT305, Develop AWS CDK resources to deploy your applications on AWS,Workshop
+DVT207,Developer Experience Economics: Moving Past Productivity Metrics,Breakout session
+CNS415-S,Developing Serverless Applications Locally with AWS and LocalStack (sponsored by LocalStack),Lightning talk
+DVT331,"Develop richer, contextual workflows with Model Context Protocol (MCP)",Chalk talk
+ANT207,Develop with natural language and agentic AI in Amazon SageMaker Unified Studio,Chalk talk
+AIM260-S,Ditch your old SRE playbook: AI SRE for root cause in minutes (sponsored by Resolve AI),Breakout session
+DAT103-S,Driving AI Innovation at the Enterprise Level with MDB Atlas (sponsored by MongoDB),Lightning talk
+AIM2202-S,"Edge AI in Real-World Solutions using AWS SageMaker, Greengrass and Bedrock (sponsored by Qualcomm)",Breakout session
+TNC313,Enhance and Scale Agents with Amazon Bedrock AgentCore,Interactive training
+DVT225-S,"Enterprise AI Without the Chaos: A New Path to Secure, Compliant Applications  (sponsored by Docker)",Lightning talk
+DEV346,Enterprise CI/CD: Advanced patterns for resilient deployments,Code talk
+DVT208, Epic journey: Navigating the AI-powered SDLC from backlog to production,Breakout session
+DVT213,Extend Kiro with MCP support for richer context,Breakout session
+DVT333,From AI tools to AI teammates: Building an AI strategy for your SDLC,Chalk talk
+DVT320,From concept to production: Build with spec-driven development and Kiro,Code talk
+AIM119-S,From idea to instant production readiness: building AI agents on Cloudflare (sponsored by Cloudflare),Lightning talk
+AIM294-S,From Punch Cards to Pair Programming and Beyond: The Future of Copilot (sponsored by GitHub),Breakout session
+DEV205,From punched cards to AI: The developer’s new mindset,Lightning talk
+DVT327,From Windows to Linux: .NET application modernization,Chalk talk
+DVT402, Game on: build a retro adventure game in 120 minutes,Workshop
+DVT217,"Generative AI, agents, MCP, and the future of AI-powered software development",Breakout session
+CNS318,Getting started with Serverless using AI assistance,Workshop
+AIM226-S,Global infrastructure for foundation model inference (sponsored by Baseten),Lightning talk
+DVT215,Go from idea to deployment faster with Amazon Q Developer,Breakout session
+DVT334,How AI is impacting the software development lifecycle,Chalk talk
+DEV403,How Amazon Teams Use AI Assistants to Accelerate Development,Code talk
+DVT104-S,"How Enterprises are Pioneering Innovation and DevOps (sponsored by Harness, Inc)",Breakout session
+DVT319,How Priority Pass migrated their global-scale website,Lightning talk
+AIM102-S,How to uplevel your DevSecOps practice with agentic AI (sponsored by GitLab),Breakout session
+CMP406,HPC infrastructure for Financial Services using AWS Batch and AWS CDK,Builders' session
+TNC206,Implement Modern Data Architectures with Amazon SageMaker Lakehouse,Interactive training
+AIM211-S,Improve quality and speed across the SDLC with Atlassian Rovo Dev (sponsored by Atlassian),Lightning talk
+DVT322,Incorporating generative AI in the CI/CD pipeline,Chalk talk
+OPN305,Integrated AI Agents & Code Assistants with MCP & AWS,Chalk talk
+OPN306,"Inter-Agent Systems with Strands Agents, Amazon Bedrock, MCP, and A2A",Builders' session
+DVT214,Introducing AI driven development lifecycle (AI-DLC),Breakout session
+DVT209,Kiro: Your agentic IDE for spec-driven development,Breakout session
+DVT201, Learn new development skills with Kiro,Builders' session
+OPN404,Level Up Your Serverless: The Powertools for AWS Lambda Workshop,Workshop
+AIM258-S,Live hallucination detection in prod with LaunchDarkly’s AI Configs (sponsored by LaunchDarkly),Breakout session
+CNS356,Master identity-first security with Amazon EKS Auto Mode,Chalk talk
+DVT335,Mastering agentic prompt engineering ,Chalk talk
+DVT310," Mastering automated, zero-downtime software deployments",Chalk talk
+DEV320,Mastering feature flags: Faster releases and rapid recovery,Code talk
+OPN405,Mastering Fluent-bit: Performance at Scale,Workshop
+CNS407,Master KRMOps: Declarative resource management with Amazon EKS and kro,Builders' session
+DVT223-S,Maximize Productivity with the Amazon Q Developer CLI Agent (sponsored by Pluralsight),Lightning talk
+DVT219,Measuring AI Impact with Amazon Q Developer and Jellyfish,Breakout session
+AIM245-S,Memory Design for AI Agents (sponsored by MongoDB),Workshop
+PEX403,Metadata Intelligence: The Key to Trusted and Smart Agentic AI Systems,Chalk talk
+DVT306, Modernize CI/CD with GitHub and AWS CodePipeline,Workshop
+DVT210,Modernizing Java applications with generative AI,Breakout session
+COP418,Monitor the quality and accuracy of your generative AI workloads,Code talk
+DVT205-S,Move fast & don't break things: Maintaining software excellence as you adopt AI (sponsored by Cortex),Lightning talk
+DVT312, Multi-account and multi-region deployments at scale,Chalk talk
+NTA407, Multi-Agent Collaboration with Amazon Bedrock Agentcore for Advanced SecOps,Code talk
+COP335,Observability for AI Agents and Traditional Workloads,Breakout session
+DEV318,Optimize AWS Costs: Developer Tools and Techniques,Breakout session
+CNS363,Patterns for session state management in Serverless applications,Chalk talk
+MAM331,Platform engineering: How to build a developer platform on Amazon EKS,Workshop
+DVT301, Reduce development cycles with Amazon Q Developer and GitHub,Builders' session
+DEV340,Reimagining incident response with MCP on AWS,Lightning talk
+AIM293-S,Reimagining Software Development and DevOps with Agentic AI (sponsored by GitHub),Breakout session
+OPN409,Reinforce large policy based authorization systems with Cedar Analysis,Chalk talk
+DVT332,Reinvent your DevOps workflows using Kiro,Chalk talk
+AIM243-S,Run and Scale Agentic AI Applications in Production (sponsored by HashiCorp),Breakout session
+DEV203,Scale applications with Amazon EKS and AI-driven insights,Lightning talk
+CNS361,Scaling Serverless with platform engineering: A blueprint for success,Breakout session
+CNS372,Serverless patterns for large-scale applications with AWS Lambda,Code talk
+DVT313, Simplify cloud infrastructure creation with the AWS CDK,Chalk talk
+DVT220,Simplify development workflows with agentic capabilities,Breakout session
+HMC323,"Simplifying multicloud developer experience, feat. Macquarie",Lightning talk
+DEV321,Simplify serverless testing using Amazon Q Developer,Builders' session
+CNS354,Simplify your Kubernetes journey with Amazon EKS,Breakout session
+DVT212,Spec-driven development: Shaping the next generation of AI software,Breakout session
+DEV314,Spec-driven development with Kiro,Code talk
+DEV309,Start building with Q Developer CLI: Serverless full-stack in action,Code talk
+DVT101-S,State of DevEx 2025: Navigating the AI Revolution and Developer Experience (sponsored by Atlassian),Breakout session
+CNS421,Streamline Amazon EKS operations with Agentic AI,Code talk
+CNS335,Supercharge Serverless APIs with Powertools for AWS Lambda,Workshop
+CNS427,Supercharge Serverless testing: Accelerate development with Amazon Q,Code talk
+COP208-S,Supercharge your Karpenter: Tactics for smarter K8s optimization (sponsored by Zesty),Lightning talk
+DEV416,Swift for AI: Developing Agents and MCP-Compatible Tools,Chalk talk
+IND327,Sysco's Digital Transformation: Platform Engineering with Amazon Q,Chalk talk
+DEV319,Tackling Anti-patterns with AI-Driven Development Lifecycle (AI-DLC),Chalk talk
+DVT341,Teaching your AI tools custom languages and libraries,Lightning talk
+DVT318, Test your web and mobile applications with AWS Device Farm,Workshop
+AIM418-S,The AI Discussion Control Plane: How Your Agentic Team Redefines Ops (sponsored by Edge Delta),Lightning talk
+DVT317,The Kiro coding challenge,Workshop
+DVT314, Top Tips for Getting the Most Out of AWS CloudFormation,Chalk talk
+DVT206-S,Transforming Observability: Ripple’s Journey with Grafana on AWS (sponsored by Grafana Labs),Lightning talk
+DVT325,Unleashing AWS agility with Terraform ,Chalk talk
+DEV307,Unleash Rust's potential on AWS,Breakout session
+AIM250-S,Unlock AI Innovation on AWS with Heroku (sponsored by Heroku from Salesforce),Lightning talk
+DVT328,Unlock development value in the age of AI-driven strategies ,Chalk talk
+DVT404,Unlock interoperability: Build your first MCP server,Workshop
+CNS338,Unlock productivity: tools and techniques for developers,Builders' session
+DVT340,Unlock the power of Kiro steering: Your blueprint for scalable development,Breakout session
+DVT204, What’s new in fullstack AWS app development,Breakout session

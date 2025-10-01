@@ -1,0 +1,50 @@
+code,title,type
+API301,Accelerate API Creation with Amazon Q Developer CLI,Builders' session
+PEX307,Accelerating Cloud Migration with Agentic AI: Hands-on AWS Transform,Builders' session
+PEX303,Accelerating Development and DevSecOps with Amazon Bedrock & Amazon Q,Breakout session
+PEX405,AI That Remembers: Building Memory Systems for AI Agents,Workshop
+SNR306,A leaders guide to AI powered FinOps,Breakout session
+PEX305,Automotive Supply Chain Optimization using AI,Breakout session
+SMB202,AWS & GenAI Power CDG's Telecom Software Modernization Journey,Lightning talk
+API401,Beyond Batch: Modernize with Event-Driven Architecture & Serverless,Builders' session
+CNS346,"Break down monoliths, modernizing applications on Amazon ECS",Chalk talk
+API304,Build GenAI-Powered Workflows with Step Functions and AWS AI Services,Builders' session
+WPS303,Building a GenAI-Powered Compliance Bot to Secure Networks on AWS,Builders' session
+ARC312,Building at global scale: Engineering AWS expansion,Breakout session
+PEX302,Building enterprise-grade Agentic AI factory,Breakout session
+ARC404,Building resilient multi-Region applications with Capital One,Breakout session
+SPS322,Building smarter AI coding assistants: real-world implementation guide,Code talk
+AIM3307-S,Building the Future Trading Platform leveraging AI and AWS (sponsored by Cognizant),Breakout session
+ARC202,Capability-first architecture: Bridging business intent to technology,Breakout session
+DAT102-S,CCC Intelligent Solutions Achieves Major Savings with Oracle to AWS PostgreSQL (sponsored by Cognizant),Breakout session
+PEX402,Engineering Intelligence: Multi-Agent AI Systems for Industrials,Chalk talk
+ARC405,Feature flags at scale: Advanced deployment patterns on AWS,Chalk talk
+SMB204,From Documents to Decisions: Unleashing AI-Powered Business Automation,Lightning talk
+ARC307,From downtime to uptime: Mastering application recovery on AWS,Workshop
+ARC204,From ideas to impact: Architecting with cloud best practices,Breakout session
+SMB203,How Cires21 revolutionized advanced video workflows using AI on AWS,Lightning talk
+AIM252,How customers build AI at scale with AWS AI infrastructure,Breakout session
+IND369,How TE Connectivity Transforms Product Engineering with Agentic AI,Breakout session
+WPS403,Improving citizens customer experience ,Chalk talk
+PEX315,Intelligent Security Operations with AWS: AI-Powered Incident Response,Workshop
+SMB205,Learn how Riskspan is transforming private credit market using GenAI,Lightning talk
+PEX304,Migrate and Modernize Legacy Workflows to Intelligent Agents,Breakout session
+ARC205,Multicloud architectures: Solutions and design patterns,Chalk talk
+CNS342,Navigate the cloud compute landscape with Amazon ECS,Breakout session
+ARC401,Orchestration meets choreography: Building event-driven architectures,Builders' session
+ARC328,Privacy-preserving AI primitives: Building blocks for regulated industries,Breakout session
+API319,Processing payments with real-time serverless architectures,Chalk talk
+SEC346-S,Reimagining SIEM architecture using AWS S3 Buckets (sponsored by Vega),Lightning talk
+SEC101-S,Scale Customer Engagement with WhatsApp Business on AWS (sponsored by Meta),Breakout session
+ISV309,Scaling Agentic AI in Multi-Tenant SaaS Environments,Chalk talk
+SPS306,Scaling AI Supply Chains: Search to Consumer-Driven Demand,Chalk talk
+API101-S,The Federal Fast Lane: Deploying Mission Technology at Commercial Speed (sponsored by LMI),Lightning talk
+IND364,Transforming Service Operations with IoT and Gen AI,Builders' session
+MAM211-S,Turning Complexity into Effortless CX with Amazon Connect (sponsored by NTT DATA),Breakout session
+IND329,Unified Namespace: Simplifying Manufacturing Data Integration,Chalk talk
+AIM223-S,Unpredictable by Design: Finding Innovation with Generative AI (sponsored by Deloitte),Lightning talk
+ARC315,Using generative AI to automate architectural guidance,Chalk talk
+AIM416-S,Utilizing AWS GenAI to deliver enterprise data modernization in CommBank (sponsored by HCLTech),Lightning talk
+COP203,What's New with AWS Cost Management,Breakout session
+MAM210-S,Why Your Processor Matters for AI Inference and General Compute (sponsored by AMD),Breakout session
+INV515,Wrangling chaos: Atoms of emergence,Chalk talk

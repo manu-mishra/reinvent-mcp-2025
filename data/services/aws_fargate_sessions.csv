@@ -1,0 +1,18 @@
+code,title,type
+AIM236-S,A $3.7T Wake-Up Call: How data + AI is transforming CX (sponsored by Twilio),Breakout session
+CNS315,Accelerate software delivery with Amazon,Breakout session
+IND207,AI Agents in Concert: Building Self-Healing Networks with AWS & Ericsson,Breakout session
+CNS351,Amazon ECS observability patterns and design decisions,Chalk talk
+CNS302,Architecting for data protection and compliance with Amazon ECS,Builders' session
+CNS346,"Break down monoliths, modernizing applications on Amazon ECS",Chalk talk
+CNS352,Build an adaptive compute grid with Amazon ECS and AWS Lambda,Chalk talk
+CNS353,Build safe and resilient deployment pipelines for Amazon ECS,Lightning talk
+CNS416,Deep dive into Amazon ECS resilience and availability,Breakout session
+SEC212-S,Full Speed Ahead: Securing Innovation with Trend (sponsored by Trend Micro),Breakout session
+IND3321,How Allianz designed AIOps at enterprise scale,Breakout session
+MAM403,Kiro and Amazon Bedrock: Unlock AI Agents for Your Legacy Apps,Breakout session
+SMB305,Maximize ROI: How Octus migrated CreditAI from Azure to Amazon Bedrock,Breakout session
+NTA310,Multi-Cloud Container Migrations: Amazon CodeCatalyst for Balanced Workloads.,Chalk talk
+CNS342,Navigate the cloud compute landscape with Amazon ECS,Breakout session
+CNS327,Optimizing your Amazon ECS application networking strategy,Chalk talk
+AIM288-S,See The Future of Cloud Defense: Agentic Cloud Security (sponsored by Sysdig),Lightning talk

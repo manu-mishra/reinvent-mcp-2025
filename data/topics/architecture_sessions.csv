@@ -1,0 +1,185 @@
+code,title,type
+NET310,Accelerate your hybrid network with AWS Direct Connect SiteLink,Workshop
+COP320,Accelerating Incident Resolution: AI-Driven Root Cause Analysis,Builders' session
+ISV308,Accelerating SaaS Implementations with Amazon Bedrock and Amazon Nova,Chalk talk
+ARC208-S,Advancing Behavioral Health Analytics with Integrated Cloud Services (sponsored by Deloitte),Breakout session
+COP321,Agent down! Building unbreakable AI workflows,Chalk talk
+ARC330,Agentic architecting: From prototype to production-ready systems,Chalk talk
+DEV335,AgentVision: Multi-Agent Frameworks for Esports Video Understanding,Chalk talk
+INV202,AI agents in action: Architecting the future of applications,Innovation talk
+NTA404,AI Code to Production: Context Matters,Code talk
+ARC338,AI-driven architecture: Designing distributed systems at scale,Chalk talk
+ARC334,"AI model benchmarking with Amazon SageMaker, Amazon Bedrock & AWS IoT Greengrass",Chalk talk
+ARC337-S,AI-Powered Enterprise Architecture with ServiceNow & AWS (sponsored by ServiceNow),Breakout session
+ARC318,AI-powered FinOps: Agent-based cloud cost management,Chalk talk
+COP420,AI-powered resilience testing and disaster recovery,Breakout session
+ARC301,AI-powered troubleshooting: From chaos to Well-Architected,Builders' session
+ARC302,AI-powered Well-Architected reviews: Building automated governance,Builders' session
+SNR302,A leaders guide to cloud-native application modernization,Breakout session
+STG335,"Amazon S3 performance: Architecture, design, and optimization",Breakout session
+API302,API Gateway Authorization Strategies,Builders' session
+MAM306,Application modernization challenge,Workshop
+NET202,Application networking simplified: From basics to best practices,Workshop
+ARC329,Architect for Zero Trust in AWS,Chalk talk
+PEX308,Architecting Agentic AI for Supply Chain: Data-to-Decision Patterns,Chalk talk
+ARC324,Architecting agentic systems: Self-evolving patterns with AWS AI,Chalk talk
+ARC335,Architecting AI solutions for mission-critical systems with UK MetOffice,Breakout session
+AIM335,Architecting circular systems with generative AI on AWS,Chalk talk
+ARC323,Architecting enterprise-scale governance beyond AWS Control Tower,Chalk talk
+ARC209,Architecting for hypergrowth: Scaling to 200 million users with Skyscanner,Breakout session
+HMC210,Architecting multicloud solutions from data mesh to generative AI,Breakout session
+ARC322,Architecting multi-Region expansion for mission-critical workloads,Chalk talk
+ARC336,Architecting reliable deployments: Amazon.com's blue/green patterns,Chalk talk
+ARC320,Architecting resilient global networks with Project Kuiper,Breakout session
+HMC201,"Architecting resilient multicloud operations, feat. Monzo Bank",Breakout session
+ANT204,Architecting the future: Amazon SageMaker as a data and AI platform,Breakout session
+ANT346,Architectural blueprints for your lakehouse in Amazon SageMaker,Chalk talk
+ARC306,Architecture diagrams with generative AI: Leveraging AI agents,Builders' session
+DEV341,Architecture lessons: Three failures and how to prevent them,Lightning talk
+CMP306,Automating and optimizing EC2 Mac instances for Apple development,Workshop
+SPS309,Automating LLM Fine-Tuning with Multi-Agentic Orchestration,Breakout session
+NTA321,AWS Agent for SAP Invoice Automation,Workshop
+COP302,AWS disaster recovery strategies,Builders' session
+TNC204,AWS Escape Room: Exam Prep for AWS Certified Solutions Architect - Associate,Exam prep
+ARC303,AWS Solutions Library: Accelerating innovation with proven patterns,Workshop
+COP415,Behind the scenes: How AWS drives operational excellence & reliability,Breakout session
+ARC319,Beyond microservices: Event-driven patterns for modern applications,Chalk talk
+ARC332-S,Beyond Multi-Cloud Chaos: The Unified Cloud Mesh Architecture (sponsored by HAProxy Technologies),Breakout session
+AIM231-S,Beyond the Hype: Delivering Measurable ROI with Generative AI on AWS (sponsored by CDW),Lightning talk
+PEX309,Breakdown to Breakthrough: Crafting AI-Powered Smart Machine Support,Chalk talk
+HMC301,Build and operate resilient and performant distributed applications,Workshop
+HMC403,Build and optimize edge architecture for resiliency with AI,Code talk
+STG309,Build an S3 time machine: Implementing advanced point-in-time recovery,Workshop
+DAT448,Build a stablecoin payment processor using AWS serverless services,Workshop
+ARC403,Building adaptive AI agents: Enterprise patterns that scale,Workshop
+ARC206,Building and operating an effective architecture review board,Chalk talk
+ARC304,Building and testing resilient multi-AZ applications,Workshop
+ARC312,Building at global scale: Engineering AWS expansion,Breakout session
+ISV312,Building Context-Rich Data Agents for SaaS with Amazon Bedrock,Chalk talk
+API305,Building EDAs with Apache Kafka and Amazon EventBridge,Chalk talk
+ANT407,Building event-driven applications with AWS Streaming and Messaging,Builders' session
+API306,Building event-driven architectures,Workshop
+CMP351,Building for Efficiency & Reliability with Performance Testing on AWS,Lightning talk
+ARC201, Building generative AI-powered full-stack applications,Workshop
+ISV303,Building Multi-tenant Data Pipelines for Agentic SaaS experiences,Chalk talk
+ARC207,Building on AWS resilience: Innovations for critical success,Breakout session
+ANT324,"Building Pipelines for Analytics, ML and AI in Amazon Sagemaker Unified Studio",Chalk talk
+DEV329,Building Production Agent Swarms: Mastering Industrial AI,Chalk talk
+COP408,Building resilient architectures with observability,Workshop
+ARC331,Building resilient clients: Architecture patterns from Amazon.com,Chalk talk
+STG406,Building resilient data protection with Amazon EBS Snapshots,Builders' session
+ARC404,Building resilient multi-Region applications with Capital One,Breakout session
+ANT345,Building secure and scalable lakehouses for the future,Chalk talk
+SPS322,Building smarter AI coding assistants: real-world implementation guide,Code talk
+NTA312,Building The Enterprise Data Success Framework,Chalk talk
+ARC317,Building Well-Architected agentic AI applications,Chalk talk
+ARC305,Building Well-Architected solutions: A generative AI approach,Builders' session
+DEV406,Build resilient distributed systems through comprehensive testing,Chalk talk
+ARC202,Capability-first architecture: Bridging business intent to technology,Breakout session
+IND3308,Capital One: Building resilient systems by engineering for five nines,Breakout session
+ARC327,Cell-based architectures: From connected vehicles to enterprise systems,Chalk talk
+COP342,Centralize Multicloud Management using AWS,Breakout session
+COP304,Chaos engineering workshop,Workshop
+ANT334,CMT: High-performance NLP & geospatial analysis with Redshift,Lightning talk
+TNC316,Create an AWS DevOps AI Agent with the Strands Agents SDK,Interactive training
+PEX313,Customize Amazon Nova models for Agentic AI with SageMaker & Bedrock ,Workshop
+NTA313,Cut Costs with Aurora PostgreSQL & Babelfish,Chalk talk
+GBL204,"Cyber Resilience on AWS, designing security and recovery strategies",Breakout session
+HMC325,Data architecture for multicloud environments,Chalk talk
+CMP316,Deep Dive into the AWS Nitro System,Breakout session
+STG407,Deep dive on Amazon S3,Breakout session
+COP305,Defend against downtime using fault isolation boundaries,Chalk talk
+HMC314,Deploying for resilience: HA/DR strategies for AWS Outposts and AWS Local Zones,Chalk talk
+CNS366,Designing web architectures on AWS at scale,Chalk talk
+CNS418,Design multi-region resilience strategies on Amazon EKS,Chalk talk
+NET207,DNS unleashed: Unlocking the full potential of Amazon Route 53,Builders' session
+IND315,Do's and don'ts for mission-critical workloads in financial services,Chalk talk
+COP101-S,Driving Resilience with Assurance and Visibility from Edge to Cloud (sponsored by Cisco),Lightning talk
+CMP404,EC2 Fleet: Your Swiss Army Knife for Large-Scale Compute Orchestration,Chalk talk
+COP336,Elevating application reliability,Breakout session
+CMP354,End-to-End Automotive Simulation: From Design to Analysis on AWS,Lightning talk
+ARC321,Evaluating architectural trade-offs: Cloud patterns for flexibility,Breakout session
+IND358,Experience T-Mobile's Digital Commerce in Action,Breakout session
+ANT333,Fast-track to insights: AWS-SAP data strategy,Lightning talk
+ARC405,Feature flags at scale: Advanced deployment patterns on AWS,Chalk talk
+IND317,Financial services multi-Region design patterns and best practices,Chalk talk
+ARC307,From downtime to uptime: Mastering application recovery on AWS,Workshop
+DEV334,From Hours to Minutes: Crafting Bite-Sized Video Stories with AWS,Chalk talk
+ARC204,From ideas to impact: Architecting with cloud best practices,Breakout session
+SAS401,From Zero to SaaS: When Vibe Coding Meets Production,Builders' session
+GHJ201, Generative AI Architecture Rodeo,Gamified learning
+ISV310,Global Growth: A Framework for Expanding into New Regions,Chalk talk
+NET311,Global Resilient Apps: Guide to Multi-AZ/Region Architecture with ELB,Breakout session
+SAS403,Hands-on multi-tenant agents: Inside tenant-aware agentic systems,Workshop
+API202,How Event Driven Architectures Go Wrong  and How to Fix them,Chalk talk
+IND387,How Netflix Shapes our Fleet for Efficiency and Reliability,Breakout session
+DAT201-S,How SAS and Freshworks Power Real-Time Personalization at Extreme Scale  (sponsored by ScyllaDB),Breakout session
+NTA320,How Zydus implemented regulated DR on AWS,Breakout session
+NTA302,IAM Analytics: Automate & Visualize,Workshop
+CMP353,Illumina DRAGEN pipelines on F2 instances with Nextflow & AWS Batch,Lightning talk
+COP344,Implementing Automated Security Controls for Zero-Day Defense,Chalk talk
+COP328,Implementing observability at scale: A blueprint for success,Breakout session
+COP341,Implement secure automated workflows with AWS Systems Manager,Chalk talk
+AIM262-S,Inside Poolside’s Model Factory: Building Better Models Faster (sponsored by poolside),Breakout session
+STG351,Inside S3: Lessons from exabyte-scale data lake modernization,Breakout session
+SAS405,Integration patterns for multi-tenant systems,Breakout session
+ISV304,Intelligent Document Processing at Scale Using Bedrock,Chalk talk
+CMP355,Introducing Spending Limits for Amazon Braket,Lightning talk
+ANT342,ITTI's Cross-Company Data Mesh Blueprint with Amazon SageMaker,Lightning talk
+OPN308,kro: Simplifying Kubernetes Resource Orchestration,Lightning talk
+NTA408,Logistics Agility: AWS Success Story ,Breakout session
+ARC211,Mastering Root Cause Analysis: Rebuilding trust after outages,Breakout session
+NTA402,Mastering VMware to EC2 Migration,Workshop
+IND3304, Maximizing uptime: Itaú’s mission-critical mainframe migration to AWS,Breakout session
+DAT317,Microseconds matter: Architect ultra-low latency trading platforms,Chalk talk
+SPS312,Modernizing Global Payment Processing: Moving from Mainframe to AWS,Breakout session
+ARC205,Multicloud architectures: Solutions and design patterns,Chalk talk
+ARC203,Navigating the future: Solutions architecture in the age of AI,Breakout session
+HMC101,Navigating the multicloud journey: essential foundations for success,Breakout session
+SPS314,Novartis's next-gen clinical platform enables AI drug development,Breakout session
+ARC316,Operational excellence: Building resilient systems,Chalk talk
+ARC401,Orchestration meets choreography: Building event-driven architectures,Builders' session
+CNS363,Patterns for session state management in Serverless applications,Chalk talk
+ARC333,Pipeline architectures: Balancing centralization and team autonomy,Chalk talk
+NET402,Powering your success through AWS Infrastructure innovations,Breakout session
+ARC328,Privacy-preserving AI primitives: Building blocks for regulated industries,Breakout session
+ARC308,Rapid prototyping: Leveraging Kiro and Amazon Q Developer CLI,Workshop
+GHJ202,re:Architecture Rodeo - Migration Showdown,Gamified learning
+GHJ311,re:Architecture Rodeo - Real-Time Data and Analytics Showdown,Gamified learning
+GHJ310,re:Architecture Rodeo - Resilience Challenge,Gamified learning
+ARC325,Refactoring post-migration: API-first and event-driven architectures,Chalk talk
+ARC310,Resilience of AWS Cloud: Design patterns for availability,Breakout session
+COP414,Resilience testing and AWS Lambda actions under the hood,Code talk
+AMZ307,Revolutionize media production: Field-ready cloud solutions,Lightning talk
+SAS302,SaaS Anywhere meets GenAI: Building distributed AI multi-tenant environments,Workshop
+NTA309,Sandbox Magic: No Spells Required,Workshop
+ISV317,Scale and Optimize your Solutions Globally with AWS Expansion Programs,Breakout session
+SPS306,Scaling AI Supply Chains: Search to Consumer-Driven Demand,Chalk talk
+ANT318,Scaling Amazon Redshift with a multi-warehouse architecture,Breakout session
+ARC326,Scaling multi-agent architectures: Patterns for mission-critical AI,Chalk talk
+ARC402,Scaling multi-tenant SaaS: Cell-based architecture patterns,Workshop
+ARC311,Scaling observability with generative AI: Building automated patterns,Builders' session
+ISV302,Scaling SaaS applications with cell-based architectures,Chalk talk
+NTA308,Seamlessly Connect On-Premises to AWS,Builders' session
+ARC313,Service-oriented builders guide to agentic AI: Insights from WEX,Breakout session
+NET307,Streaming at Scale: Advanced Media Delivery with Amazon CloudFront,Breakout session
+COP343,Streamline operations with automated health monitoring and response,Chalk talk
+COP317,Stress test your services for resilience with AWS Game Day,Breakout session
+ARC101-S,Supercharge your data insights with the Cisco Data Fabric (sponsored by Splunk),Breakout session
+AIM333,Sustainable and cost-efficient generative AI with agentic workflows,Breakout session
+AIM417,Sustainable computing for climate solutions,Breakout session
+COP318,Tag like a pro: Optimize multi-account resource tracking,Chalk talk
+COP332-S,The Digital Supply Chain Is Broken. Can AI Fix It? (sponsored by Files.com),Lightning talk
+ARC309,The Frugal Architect GameDay: Building cost-aware architectures,Workshop
+CMP347,The Frugal Architect in a Chaotic World,Chalk talk
+CNS426,The Shapeshifting Application: Architecture That Transforms Across AWS,Code talk
+SAS304,Transforming from SaaS to multi-tenant agentic SaaS,Breakout session
+API402,Understanding AWS Lambda event source mapping,Chalk talk
+CNS429,Under the hood: Architecting Amazon EKS for scale and performance,Breakout session
+ARC314,Unlocking agentic AI access for microservices,Breakout session
+ISV307,Unlock New Business by Removing Data Silos with Zero-Copy ,Chalk talk
+ARC315,Using generative AI to automate architectural guidance,Chalk talk
+STG202,What's new with Amazon EBS,Breakout session
+STG203,What's new with AWS File Storage,Breakout session
+INV515,Wrangling chaos: Atoms of emergence,Chalk talk
+AMZ304,Zoox: Building Machine Learning Infrastructure for Autonomous Vehicles,Breakout session

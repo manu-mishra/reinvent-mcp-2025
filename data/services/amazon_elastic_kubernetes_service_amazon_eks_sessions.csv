@@ -1,0 +1,100 @@
+code,title,type
+CNS207,Accelerate container migrations with Amazon EKS Auto Mode,Chalk talk
+CNS301,Accelerate platform engineering on Amazon EKS,Workshop
+MAM302,Accelerate your migration & modernization journey with EBA Cloud Party,Workshop
+DAT205-S,Accelerating SAP Transformation with Amazon EC2 with the latest Intel Xeon CPUs (sponsored by Intel),Breakout session
+AIM248-S,Agentic Smart City Showdown: EKS Edge to Cloud Playtime  (sponsored by Intel),Workshop
+IND407,AI Agents for deploying telco network workloads on AWS: MCP-powered Framework,Builders' session
+IND3310,AI Agents framework for 5G RAN network operations powered by AWS,Chalk talk
+AIM242-S,"AI in the Cloud: Surveillance, Sabotage, and Security (sponsored by Trend Micro)",Breakout session
+STG402,Amazon EKS advanced storage best practices with Amazon FSx for OpenZFS,Builders' session
+CNS401,"Amazon EKS: Infrastructure as code, GitOps, or CI/CD",Chalk talk
+DAT450,Amazon Keyspaces live migration best practices with HBO Max,Chalk talk
+MAM306,Application modernization challenge,Workshop
+ARC209,Architecting for hypergrowth: Scaling to 200 million users with Skyscanner,Breakout session
+CNS303,Architecture patterns for MLOps on Amazon EKS,Chalk talk
+SPS309,Automating LLM Fine-Tuning with Multi-Agentic Orchestration,Breakout session
+IND375,Best practices for optimizing financial services application latency ,Chalk talk
+CMP310,"Boost Amazon EKS Efficiency: EKS Auto Mode, Graviton, and EC2 Spot",Chalk talk
+CNS305,Bring the power of Amazon EKS to your on-premises applications,Builders' session
+CNS358,"Build AI-powered developer experiences with MCP on ECS, EKS and Lambda",Breakout session
+HMC301,Build and operate resilient and performant distributed applications,Workshop
+STG355,"Building cost-optimized, resilient apps with Amazon EKS and EFS",Chalk talk
+AIM394-S,Building multi-agent AI SRE: from root cause to vibe debugging (sponsored by Resolve AI),Breakout session
+ISV306,Building Multi-tenant global ML SaaS platform,Lightning talk
+CMP311,"Build Once, Run Everywhere: Multi-Architecture in Your CI/CD Pipelines",Chalk talk
+CMP403,"Build, Scale, and Optimize Agentic AI on CPUs with AWS Graviton",Workshop
+STG307,Build your own GenAI app on Amazon EKS with Amazon FSx and accelerated compute,Workshop
+CNS405,Cloud-native Java on Amazon EKS,Builders' session
+DVT336-S,Customizing Llama Models for Code (sponsored by Meta),Breakout session
+TNC318,Deploy Agentic AI Application with Strands and MCP on Amazon EKS,Interactive training
+AIM3319,Deploy LLMs at scale with vLLM Deep Learning Containers and AI agents,Chalk talk
+CNS314,Deploy multi-agent AI on Amazon EKS,Builders' session
+CNS418,Design multi-region resilience strategies on Amazon EKS,Chalk talk
+AIM408,Detect and mitigating hallucinations: A hands-on responsible AI workshop,Workshop
+HMC311,Developing end-to-end SLM pipelines from the cloud to the edge,Chalk talk
+AIM260-S,Ditch your old SRE playbook: AI SRE for root cause in minutes (sponsored by Resolve AI),Breakout session
+ISV401,Elevate Multi-Tenant SaaS Operations: DevOps Strategy with Kubernetes,Builders' session
+CNS317,Enhance your Amazon EKS development workflow with MCP,Builders' session
+CNS208,Enhancing container security with Amazon ECR,Lightning talk
+OPN403,Expedite model loading times in Kubernetes using kro & ACK,Chalk talk
+COP410,Exploring Multi-tenant Cost Allocation for Container Workloads,Workshop
+HMC313,Extend Amazon EKS clusters for on-premises and edge use cases,Chalk talk
+HMC103-S,Fast-Track Modernization and Transformation with Nutanix and AWS (sponsored by Nutanix),Lightning talk
+IND3323,Fidelity Investments: Text-to-SQL for data analytics at enterprise scale,Lightning talk
+AIM279-S,FINRA: Accelerate Massive Data Processing with NVIDIA on AWS EMR (sponsored by NVIDIA),Lightning talk
+IND3318,FIS: High-performance instant payment processing at massive scale,Breakout session
+IND3306,From fragmented to unified platform: Rocket Companies data and AI journey ,Breakout session
+CNS210,From monolith to microservices: Migrate and modernize with Amazon EKS,Breakout session
+SEC212-S,Full Speed Ahead: Securing Innovation with Trend (sponsored by Trend Micro),Breakout session
+CNS201,Fundamentals to scale Kubernetes across your organization,Workshop
+CNS344,Generative and Agentic AI on Amazon EKS,Breakout session
+AIM238-S,How Samsung Uses AI Agents to Optimize Infrastructure at Scale  (sponsored by Cast AI),Lightning talk
+IND3300,How Stripe built a foundation model for fraud detection on AWS,Breakout session
+AIM320,Inference on AWS Trainium and Amazon EKS using vLLM,Workshop
+STG311,Integrate serverless applications with AWS storage services,Workshop
+CNS204,Kubernetes simplified: Get hands-on with Amazon EKS Auto Mode,Workshop
+IND3319,Mastercard: How to protect sensitive data in real-time applications,Breakout session
+CNS356,Master identity-first security with Amazon EKS Auto Mode,Chalk talk
+CNS407,Master KRMOps: Declarative resource management with Amazon EKS and kro,Builders' session
+MAM215-S,"Migrating 1,600+ Daily Image Builds to AWS (sponsored by Chainguard)",Lightning talk
+HMC309,Migrating your VMware workloads with on-premises dependencies,Breakout session
+CNS422,Modernize containers for AI agents using AgentCore Gateway,Code talk
+MAM328,Monolith to microservices with AWS Modernization pathways,Workshop
+MAM317,.NET cloud journey: Migration & modernization strategies,Chalk talk
+CNS417,Networking and observability strategies for Kubernetes,Breakout session
+AIM359-S,New Era of Platform Engineering – Agentic AI-Powered Self-Service  (sponsored by SoftServe),Lightning talk
+AIM323,Next-gen AI: Scaling distributed GPU inference with NVIDIA on AWS,Builders' session
+INV510,Next generation etcd for Amazon EKS,Chalk talk
+STG405,Onboarding and optimizing AI/ML workloads with Amazon S3 & Amazon EKS,Workshop
+CNS410,Optimize analytics workloads on Amazon EKS for performance and cost,Workshop
+CNS419,Optimize GenAI inference and model performance on Amazon EKS,Chalk talk
+CNS377,Optimizing Amazon EKS costs through workload analysis and observability,Chalk talk
+STG314,Optimizing storage for your containers and Amazon EKS applications,Chalk talk
+STG343,Optimizing throughput performance using Mountpoint for Amazon S3,Chalk talk
+CNS328,Paper to production: Hosting LLMs on Amazon EKS using NVIDIA GPUs,Workshop
+MAM331,Platform engineering: How to build a developer platform on Amazon EKS,Workshop
+COP215-S,Powering SRE Transformation for a Telco Major (sponsored by Tech Mahindra),Lightning talk
+HMC204-S,"Reinventing the Retail Edge with YUM! Brands, AWS & Spectro Cloud (sponsored by Spectro Cloud)",Lightning talk
+CNS322,Running compute efficient workloads on Amazon EKS Auto Mode,Workshop
+AIM369,Scalable and resilient distributed AI with Ray on SageMaker HyperPod,Chalk talk
+CNS414,"Scale, optimize, and upgrade your Kubernetes cluster with Karpenter",Chalk talk
+IND3313,Secure in milliseconds: Visa's AI-powered fraud defense on AWS,Breakout session
+CNS331,Securing and observing Amazon EKS clusters,Builders' session
+CNS332,Securing and optimizing your software supply chain with Amazon ECR,Chalk talk
+AIM288-S,See The Future of Cloud Defense: Agentic Cloud Security (sponsored by Sysdig),Lightning talk
+CNS420,"Shuffle, Scale, Succeed: Optimizing Spark Performance on Amazon EKS",Chalk talk
+CNS209,Simplify backup for stateful Amazon EKS workloads,Lightning talk
+CNS354,Simplify your Kubernetes journey with Amazon EKS,Breakout session
+CNS421,Streamline Amazon EKS operations with Agentic AI,Code talk
+COP208-S,Supercharge your Karpenter: Tactics for smarter K8s optimization (sponsored by Zesty),Lightning talk
+AIM278-S,Tapping into the Power of Agentic AI: Driving Mission Success with NVIDIA & AWS (sponsored by NVIDIA),Lightning talk
+AIM418-S,The AI Discussion Control Plane: How Your Agentic Team Redefines Ops (sponsored by Edge Delta),Lightning talk
+CNS205,The future of Kubernetes on AWS,Breakout session
+CNS426,The Shapeshifting Application: Architecture That Transforms Across AWS,Code talk
+IND210,Transforming Healthcare Payor Operations: AWS-TriZetto Success Story,Lightning talk
+CNS429,Under the hood: Architecting Amazon EKS for scale and performance,Breakout session
+CNS355,Unlock distributed GenAI inference with Amazon EKS Hybrid Nodes,Chalk talk
+CMP348,Using Amazon Q to Cost Optimize Your Containerized Workloads,Workshop
+MAM338,"VMware to AWS modernization blueprint: Migrate, containerize, scale",Workshop
+CNS357,Zero to production: Simplify AI deployments with Amazon EKS Auto Mode,Chalk talk

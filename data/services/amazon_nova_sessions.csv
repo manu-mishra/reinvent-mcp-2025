@@ -1,0 +1,51 @@
+code,title,type
+IND333,Accelerate financial products from idea to market with AI agents,Chalk talk
+IND414,Accelerating Life Sciences Regulatory Intelligence with Amazon Bedrock Agents,Chalk talk
+ISV308,Accelerating SaaS Implementations with Amazon Bedrock and Amazon Nova,Chalk talk
+AIM376,Advanced document processing with increased accuracy and compliance,Chalk talk
+AIM402,Advanced model customization with Amazon Nova,Builders' session
+AIM263-S,"AI Agents with Amazon Nova Sonic: Vonage for Financial Services (sponsored by Vonage, Part of Ericsson)",Lightning talk
+IND397,AI-Powered Content Compliance: Media Rating Automation with Nova,Chalk talk
+ARC335,Architecting AI solutions for mission-critical systems with UK MetOffice,Breakout session
+MAM221-S,Architecting Trusted GenAI and Agentic Experiences in Financial Services (sponsored by Coveo),Lightning talk
+NTA301,Automate Review Analysis with Nova Act and Generative AI,Builders' session
+IND393,Automating Amazon Fulfillment Center Operations with Generative AI,Breakout session
+AIM382,Build AI your way with Amazon Nova customization,Breakout session
+DEV327,Building Agentic AI: Amazon Nova Act and Strands Agents in Practice,Breakout session
+AIM256,Building an AI-powered waste classification using Amazon Nova & IoT,Lightning talk
+IND391,Building Data Products and AI for Electric Vehicles,Chalk talk
+AIM375,Building scalable applications with text and multimodal understanding,Breakout session
+AIM383,Build more effective agents through model customization,Breakout session
+AIM372,"Build useful, reliable agents with Amazon Nova",Breakout session
+AIM374,Create hyper-personalized voice interactions with Amazon Nova Sonic,Breakout session
+AIM377,Create voice-first applications with Amazon Nova Sonic,Chalk talk
+AIM385,Customize Amazon Nova in Amazon SageMaker AI for your business needs,Chalk talk
+PEX313,Customize Amazon Nova models for Agentic AI with SageMaker & Bedrock ,Workshop
+AIM380,Customize Amazon Nova models for enhanced tool calling,Code talk
+AIM384,Delighting Slack users safely and quickly with Amazon Nova and Bedrock,Breakout session
+SPS302,Democratize Data: Bundesliga Real-time Insights Without Writing any SQL,Chalk talk
+PEX401,Deploying Intelligent Agent Systems with MCP,Builders' session
+IND353, Documents to decisions: AI-powered underwriting with Amazon Bedrock,Builders' session
+AIM423,Engineering for 90% accuracy in real-world agentic AI applications,Chalk talk
+PEX402,Engineering Intelligence: Multi-Agent AI Systems for Industrials,Chalk talk
+DEV334,From Hours to Minutes: Crafting Bite-Sized Video Stories with AWS,Chalk talk
+AIM373,From prompt to production: On-brand marketing images with Amazon Nova,Breakout session
+INV501,Frontier Model Safety in Practice: Amazon Nova Risk Evaluation,Chalk talk
+AIM241-S,Healthcare Transformed: Reimagining the Future with Generative AI (sponsored by PwC),Breakout session
+SEC202,How Cathay Transformed DevSecOps with AI: A 75% Faster Security Story,Breakout session
+AIM379,Integrating virtual try-on into your ecommerce platforms,Chalk talk
+IND355,Level Up Your Asset Pipeline: AI-Powered 3D Model Generation at Scale,Builders' session
+AIM378,Leverage your own IP to enhance creative control,Chalk talk
+AIM258-S,Live hallucination detection in prod with LaunchDarkly’s AI Configs (sponsored by LaunchDarkly),Breakout session
+SPS401,Manchester Airports Group: Scaling operations with Agentic AI & MCP,Breakout session
+INV517,Neurosymbolic AI integration in LLMs to enhance reasoning,Chalk talk
+NTA307,NLP to SQL: Data Access with Amazon Nova,Builders' session
+ARC308,Rapid prototyping: Leveraging Kiro and Amazon Q Developer CLI,Workshop
+IND212,Real-time Patient and Revenue Cycle Insights with Gen AI,Lightning talk
+ISV309,Scaling Agentic AI in Multi-Tenant SaaS Environments,Chalk talk
+AIM389,Seamless and scalable creative and product visual generation,Chalk talk
+NTA202,Siteimprove: Revolutionizing Brand Consistency with AI and Amazon Nova,Breakout session
+INV513,The Mirage of Benchmarks: Foundations of LLM Evaluation Reliability,Chalk talk
+IND380,The Trade Desk optimizes media buying and ad experiences with AI on AWS,Breakout session
+SPS313,Volkswagen Group's custom GenAI models for global brand consistency,Breakout session
+DAT318,Web3 + AI: Agents that mean business,Breakout session

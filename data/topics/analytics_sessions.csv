@@ -1,0 +1,142 @@
+code,title,type
+ANT309,Accelerate analytics and AI with an open and secure lakehouse architecture ,Breakout session
+STG357,Accelerate data discovery with object metadata in Amazon S3,Breakout session
+ANT302,Accelerate GenAI-powered data discovery and sharing with SageMaker Catalog,Chalk talk
+COP334,Accelerating incident response through AIOps,Breakout session
+IND202,Accelerating Real-World Evidence Generation in Life Sciences,Breakout session
+ANT301,Accelerating the shift from batch to real-time streaming,Chalk talk
+ANT325,A deep dive into AI/ML development in SageMaker Unified Studio,Chalk talk
+COP401,Advanced analytics with AWS Cost and Usage Reports,Code talk
+ANT421,Advanced Stream Processing with Apache Flink,Chalk talk
+ARC208-S,Advancing Behavioral Health Analytics with Integrated Cloud Services (sponsored by Deloitte),Breakout session
+ANT315,Agentic AI for Intelligent Observability with OpenSearch Service,Breakout session
+ANT420,AI-driven scaling in Amazon Redshift Serverless,Chalk talk
+GBL205,AI in Action: How Companies Unlock Global Value & Fuel Growth,Breakout session
+ANT423,Amazon Kinesis Data Streams under the hood,Breakout session
+STG334,"Amazon S3 Tables architecture, use cases, and best practices",Breakout session
+AMZ308,Amazon's finops: Cloud cost lessons from a global e-commerce giant,Lightning talk
+COP301,Applying AI for FinOps and FinOps for AI,Chalk talk
+DAT315,A practitioner’s guide to data for agentic AI,Breakout session
+ANT204,Architecting the future: Amazon SageMaker as a data and AI platform,Breakout session
+IND301,Architect petabyte-scale observability with OpenSearch and Amazon Q,Chalk talk
+ANT346,Architectural blueprints for your lakehouse in Amazon SageMaker,Chalk talk
+ANT322,Architectural patterns for real-time data analytics on AWS,Chalk talk
+IND338,Automate analysis and extract intelligence from financial datasets,Workshop
+ANT424,Autonomous agents powered by streaming data and Retrieval Augmented Generation,Breakout session
+DAT457,Autonomous Web3 agents on AWS,Code talk
+IND378,AWS for healthcare analytics: accelerating time to insights,Chalk talk
+ANT335,Best practices for agentic data engineering with AWS Analytics MCP Servers,Breakout session
+ANT343,Best practices for building Apache Iceberg based lakehouse architectures on AWS,Breakout session
+ANT337,Breaking data silos with the lakehouse architecture,Chalk talk
+ANT338,Bring unified analytics to your data warehouse with the lakehouse architecture,Chalk talk
+ANT329,Build Advanced AI-powered Search with OpenSearch MCP and Vectors,Chalk talk
+ANT314,"Build Advanced Enterprise Search with Vector, Hybrid, and AI Techniques ",Breakout session
+ANT327-S,Build a GenAI Race Tracker With Confluent & AWS Bedrock in <60 Min  (sponsored by Confluent),Breakout session
+BIZ322,Build AI-powered Embedded Analytics with Amazon QuickSight,Workshop
+ANT401,Build an AI-powered enterprise search with Amazon OpenSearch service,Workshop
+ANT304,Build an AI-ready data foundation,Breakout session
+ANT402,Build an end-to-end fraud detection system with Amazon SageMaker Unified Studio,Workshop
+ANT347,Build a secure and regulated data foundation for AI,Chalk talk
+DAT405,Build a web-scale application with purpose-built databases & analytics,Workshop
+ANT311,Build data pipelines in minutes with the SageMaker Visual experience,Chalk talk
+ANT344,"Build, govern, and share Amazon QuickSight dashboards with Amazon SageMaker",Breakout session
+ANT405,Build high performance Apache Iceberg data lakes with Amazon S3 Tables,Builders' session
+STG413,Building an operational data lake using S3 Tables and SageMaker,Chalk talk
+STG415,Building cost-effective data lakes with Apache Iceberg and Amazon S3,Chalk talk
+IND391,Building Data Products and AI for Electric Vehicles,Chalk talk
+ANT407,Building event-driven applications with AWS Streaming and Messaging,Builders' session
+ANT332,Building high-quality data products for AI Agents,Chalk talk
+ANT324,"Building Pipelines for Analytics, ML and AI in Amazon Sagemaker Unified Studio",Chalk talk
+ANT403,Building Production-Ready Data Systems for AI Applications,Workshop
+ANT422,Building Resilient Multi-Tenant Messaging with Amazon SQS,Chalk talk
+ANT345,Building secure and scalable lakehouses for the future,Chalk talk
+NTA312,Building The Enterprise Data Success Framework,Chalk talk
+ANT404,Build modern data applications with the lakehouse architecture on AWS,Workshop
+IND312,Build Streaming Analytics Dashboards in Minutes with Amazon Q Developer,Builders' session
+ANT341,Build trust in AI with end-to-end data lineage in Amazon SageMaker Catalog,Chalk talk
+ANT406,Build trust in your data with Amazon SageMaker Catalog,Builders' session
+COP330,Byte to insight: Maximize value from your logs with Amazon CloudWatch,Chalk talk
+ANT334,CMT: High-performance NLP & geospatial analysis with Redshift,Lightning talk
+ANT408,Data analytics for financial organizations with Amazon SageMaker ,Builders' session
+ANT328,Data Processing architectures for building AI solutions,Breakout session
+DAT445,Deep dive into databases zero-ETL integrations,Breakout session
+ANT340,Deep dive into data processing in SageMaker Unified Studio,Chalk talk
+SPS302,Democratize Data: Bundesliga Real-time Insights Without Writing any SQL,Chalk talk
+ANT330,Design and Implement Agentic AI Observability with OpenSearch,Chalk talk
+ANT207,Develop with natural language and agentic AI in Amazon SageMaker Unified Studio,Chalk talk
+ANT203,Enabling AI innovation with Amazon SageMaker Unified Studio,Breakout session
+ANT336,Enterprise-scale ETL optimization for Apache Spark,Breakout session
+ANT101-S,"EverCommerce’s Secret to AI-Ready, Multi-Brand Data (sponsored by Fivetran)",Lightning talk
+TNC312,Explore Advanced features of Amazon Aurora PostgreSQL,Interactive training
+ANT308,Explore what’s new in data and AI governance with SageMaker Catalog,Breakout session
+ANT333,Fast-track to insights: AWS-SAP data strategy,Lightning talk
+IND3323,Fidelity Investments: Text-to-SQL for data analytics at enterprise scale,Lightning talk
+AIM268-S,FinOps 3.0: Cost Intelligence for the AI Era (sponsored by DoiT),Breakout session
+ANT208-S,From Agentic AI Demos to ROI: Path to Production With Confluent + AWS (sponsored by Confluent),Breakout session
+IND3306,From fragmented to unified platform: Rocket Companies data and AI journey ,Breakout session
+ANT202-S,From Kitchen to Cloud: How Brinker Dishes Out Data-Driven Success (sponsored by Teradata),Lightning talk
+STG308,Gaining insights from your data lake with Amazon S3 Metadata,Builders' session
+ANT409,Getting hands on with zero-ETL and data federation,Builders' session
+SMB304,Growing Pains to Growing Gains: AI for Every Data Stage,Chalk talk
+INV201,Harnessing analytics for humans and AI,Innovation talk
+AIM246-S,Hesitate and You’re History: Why You Need Agentic AI Right Now (sponsored by Qlik),Breakout session
+NTA318,Iceland.co.uk: Boosting sales with hyper-personalized recommendations ,Breakout session
+ANT303, Implement data pipelines for analytics using SageMaker Unified Studio,Chalk talk
+ANT206,Innovations in SQL Analytics: What's new in Amazon Redshift and Amazon Athena,Breakout session
+ANT410,Integrate and orchestrate data workflows with AWS Glue & managed Apache Airflow,Builders' session
+PEX306,Integration to impact: Accelerate AWS Partner revenue measurement,Breakout session
+ANT342,ITTI's Cross-Company Data Mesh Blueprint with Amazon SageMaker,Lightning talk
+ANT411,Low-cost logging and observability with Amazon OpenSearch Service,Workshop
+IND3305,LSEG: Transforming market intelligence at massive scale,Breakout session
+IND356,Mastering data chaos: Enterprise-scale catalogs for financial services,Chalk talk
+ANT326,Mastering data transformations with Amazon Athena,Chalk talk
+ANT323,"Mastering materialized views: tips for fast, low-latency queries in Redshift",Chalk talk
+STG404,Modern batch analytics: Building advanced pipelines with S3 Tables,Workshop
+ANT317,Modernize your data warehouse by moving to Amazon Redshift,Breakout session
+ANT102-S,Modernizing Wealth Management with Cloud + AI Use Cases (sponsored by Incedo Inc),Lightning talk
+SMB308,Multi-Agent Data Pipelines: Shaping the Future of Analytics,Builders' session
+AIM298-S,Next-Generation Data Management — Insights at Scale with Agentic AI in Pharma (sponsored by ZS),Lightning talk
+SPS314,Novartis's next-gen clinical platform enables AI drug development,Breakout session
+ANT307,Operating Apache Kafka and Apache Flink at scale,Breakout session
+CNS410,Optimize analytics workloads on Amazon EKS for performance and cost,Workshop
+ANT331,Optimize Cost and Performance in Amazon OpenSearch Service,Chalk talk
+API203,Optimize data processing with built-in AWS Step Functions features,Chalk talk
+ANT319,Optimizing Apache Spark workloads with AWS  Data Processing,Chalk talk
+ANT316,"Orchestrating with Apache Airflow, MWAA, and SageMaker Unified Studio",Chalk talk
+OPN407,Performance tuning for streaming Ingestion into Apache Iceberg,Builders' session
+DAT415,Perform vector search on your Amazon DynamoDB data using zero-ETL,Workshop
+ANT310,Powering your Agentic AI experience with AWS Streaming and Messaging,Breakout session
+ANT412,Power streaming analytics on AWS with AI-driven insights,Workshop
+IND360,Privacy-enhanced ML and GenAI for AdTechs with AWS Clean Rooms,Chalk talk
+IND212,Real-time Patient and Revenue Cycle Insights with Gen AI,Lightning talk
+GHJ311,re:Architecture Rodeo - Real-Time Data and Analytics Showdown,Gamified learning
+AIM299-S,Reinventing Pharma Document Workflows to Unlock Value at Scale with Agentic AI (sponsored by ZS),Lightning talk
+ANT414,Scale intelligent analytics with Amazon Redshift multi-cluster architectures,Workshop
+ANT318,Scaling Amazon Redshift with a multi-warehouse architecture,Breakout session
+IND362,Scaling enterprise data operations with Amazon SageMaker Unified Studio,Chalk talk
+ANT415,Securely monetize your data with Amazon Redshift,Builders' session
+CNS333,Serverless data processing with AWS Lambda and Apache Kafka,Builders' session
+CNS420,"Shuffle, Scale, Succeed: Optimizing Spark Performance on Amazon EKS",Chalk talk
+ANT417,Simplifying data interoperability with the lakehouse architecture on AWS,Workshop
+ANT416,Solve complex data and AI governance challenges with Amazon SageMaker Catalog,Workshop
+ANT320,Strengthening security for Apache Spark workloads,Chalk talk
+SAS303,Supercharge your SaaS with agentic insights,Builders' session
+ANT321,Top 10 tips to improve query performance in Amazon Redshift,Chalk talk
+OPN413,Transforming Apache Kafka into a Scalable Message Queue,Breakout session
+ANT339,Turn unstructured data in Amazon S3 into AI-ready assets with SageMaker Catalog,Breakout session
+IND365,Unifying data platforms for generative AI-ready financial systems,Chalk talk
+ANT306,Universal connectivity with zero-ETL and AWS Glue,Breakout session
+ANT418,Unleash Apache Kafka's elasticity and cost-efficiency with Amazon MSK,Workshop
+MAM213,Unlocking business value by integrating SAP and non-SAP data sources,Breakout session
+ANT313-S,"Unlocking GenAI potential with automated modernization to AWS  (sponsored by Impetus Technologies, Inc.)",Lightning talk
+ISV307,Unlock New Business by Removing Data Silos with Zero-Copy ,Chalk talk
+ANT413,Upgrade Amazon DataZone to Amazon SageMaker Catalog for analytics and AI,Chalk talk
+DAT432,Use serverless knowledge graphs for hybrid search with Amazon Neptune,Chalk talk
+ANT419,Vector search with Amazon OpenSearch Service,Builders' session
+STG346,Visualize data lake insights with S3 Tables and AWS analytics,Chalk talk
+ANT205-S,Warner Music Group: Apache Iceberg on AWS & Snowflake (sponsored by Snowflake),Breakout session
+DAT203-S,What Database Would Your AI Agents Choose -  Escape the Frankenstack (sponsored by SingleStore),Lightning talk
+ANT305,What's new in AWS Data Processing,Breakout session
+ANT201,"What’s new in search, observability, and vector databases with OpenSearch",Breakout session
+ANT312,What's new with Amazon SageMaker in the era of unified data and AI,Breakout session
+STG342,Working with S3 Metadata: From basic queries to custom metadata,Chalk talk

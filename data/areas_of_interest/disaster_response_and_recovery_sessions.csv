@@ -1,0 +1,43 @@
+code,title,type
+STG327,Accelerate enterprise workloads with enhanced Amazon EBS capabilities,Chalk talk
+MAM201,A complete guide to Amazon EVS: Unlock AWS scale for VMware workloads,Breakout session
+STG301,Advanced data resiliency: Recovery strategies for AWS storage,Workshop
+COP420,AI-powered resilience testing and disaster recovery,Breakout session
+DAT442,Amazon Aurora HA and DR design patterns for global resilience,Breakout session
+HMC206-S,"Anatomy of a Ransomware Attack: A Live Simulation, Sponsored by Rubrik (sponsored by Rubrik)",Breakout session
+ARC336,Architecting reliable deployments: Amazon.com's blue/green patterns,Chalk talk
+PEX305,Automotive Supply Chain Optimization using AI,Breakout session
+STG418,AWS Backup clean room recovery: Comprehensive resilience framework,Chalk talk
+STG410,AWS Backup unlocked: strategies for at-scale data protection,Chalk talk
+COP302,AWS disaster recovery strategies,Builders' session
+MAM310,AWS migration planning: From discovery to delivery,Chalk talk
+IND213,Beyond EHR: Leveraging AWS for Maximum Clinical and Operational Impact,Breakout session
+STG329,Build data resilient application architectures using AWS Storage,Chalk talk
+STG412,Building resilience against ransomware using AWS Backup,Breakout session
+STG324,Building resilient block storage through chaos engineering and observability,Chalk talk
+ARC404,Building resilient multi-Region applications with Capital One,Breakout session
+STG403,Build ransomware data recovery with AWS Backup logically air-gapped vaults,Workshop
+WPS202,Chaos & Continuity: Using Gen AI to improve humanitarian workload resilience,Lightning talk
+GBL204,"Cyber Resilience on AWS, designing security and recovery strategies",Breakout session
+STG338,Data protection and resilience with AWS Storage,Breakout session
+STG409,Data protection & application recovery strategies for ransomware,Chalk talk
+HMC314,Deploying for resilience: HA/DR strategies for AWS Outposts and AWS Local Zones,Chalk talk
+API311,Designing resilient Serverless Applications,Breakout session
+CNS418,Design multi-region resilience strategies on Amazon EKS,Chalk talk
+IND315,Do's and don'ts for mission-critical workloads in financial services,Chalk talk
+HMC103-S,Fast-Track Modernization and Transformation with Nutanix and AWS (sponsored by Nutanix),Lightning talk
+IND317,Financial services multi-Region design patterns and best practices,Chalk talk
+DAT321,HA and DR design patterns for Amazon RDS for SQL Server and Oracle,Chalk talk
+NTA320,How Zydus implemented regulated DR on AWS,Breakout session
+CNS428,Implementing Human-in-the-Loop Controls for Multi-Agent AI Systems,Lightning talk
+NTA408,Logistics Agility: AWS Success Story ,Breakout session
+DAT424,Making your Amazon Aurora cluster more resilient,Chalk talk
+STG319,Maximizing block storage performance for high-intensity workloads,Breakout session
+STG213,Motability Operations' unified backup strategy: From fragmented to fortified,Lightning talk
+IND359,Navigating multi-Region AWS database choices for financial services,Chalk talk
+STG326,Operating large-scale enterprise workloads with Amazon EBS and EBS Snapshots,Chalk talk
+OPN307,Production Trino: Robust Interactive Workloads at Scale,Chalk talk
+STG325,Protecting block storage at scale with native encryption and EBS Snapshots,Chalk talk
+STG207,"Protect your data with AWS Backup: overview, use cases and what's new",Breakout session
+COP414,Resilience testing and AWS Lambda actions under the hood,Code talk
+COP317,Stress test your services for resilience with AWS Game Day,Breakout session

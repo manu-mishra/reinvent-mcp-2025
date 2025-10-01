@@ -1,0 +1,8 @@
+code,title,type
+COP302,AWS disaster recovery strategies,Builders' session
+ARC304,Building and testing resilient multi-AZ applications,Workshop
+COP408,Building resilient architectures with observability,Workshop
+ARC404,Building resilient multi-Region applications with Capital One,Breakout session
+COP305,Defend against downtime using fault isolation boundaries,Chalk talk
+ARC307,From downtime to uptime: Mastering application recovery on AWS,Workshop
+COP358,Multi-Region disaster recovery & resilience testing (feat. Fidelity),Breakout session

@@ -1,0 +1,197 @@
+service,session_count,percentage
+Amazon Bedrock,362,19.64
+Amazon Elastic Compute Cloud (Amazon EC2),143,7.76
+Amazon SageMaker,109,5.91
+Amazon Elastic Kubernetes Service (Amazon EKS),99,5.37
+Amazon SageMaker AI,98,5.32
+Amazon Simple Storage Service (Amazon S3),95,5.15
+AWS Lambda,78,4.23
+Amazon CloudWatch,65,3.53
+Amazon Q Developer,58,3.15
+Amazon Q,51,2.77
+Amazon Nova,50,2.71
+Amazon Elastic Container Service (Amazon ECS),48,2.6
+Amazon DynamoDB,39,2.12
+Amazon Aurora,38,2.06
+AWS Transform,37,2.01
+Amazon Connect,37,2.01
+Amazon OpenSearch Service,28,1.52
+Amazon EC2 - Graviton,26,1.41
+Amazon API Gateway,26,1.41
+Kiro,25,1.36
+AWS Step Functions,24,1.3
+AWS CloudTrail,23,1.25
+AWS Identity and Access Management (IAM),23,1.25
+Amazon Relational Database Service (Amazon RDS),23,1.25
+AWS Glue,22,1.19
+Amazon RedShift,22,1.19
+AWS Security Hub,20,1.09
+AWS Config,20,1.09
+AWS Control Tower,18,0.98
+Amazon EventBridge,18,0.98
+AWS Backup,17,0.92
+AWS Systems Manager,17,0.92
+AWS Fargate,17,0.92
+Amazon Athena,17,0.92
+AWS Outposts,16,0.87
+Amazon Elastic Block Store (Amazon EBS),15,0.81
+Amazon EMR,15,0.81
+AWS Local Zones,15,0.81
+AWS Organizations,14,0.76
+AWS Key Management Service (AWS KMS),14,0.76
+AWS Trainium,13,0.71
+AWS Billing and Cost Management,13,0.71
+Amazon Virtual Private Cloud (Amazon VPC),12,0.65
+Amazon Aurora DSQL,12,0.65
+Amazon GuardDuty,12,0.65
+Amazon ElastiCache,12,0.65
+AWS Marketplace,11,0.6
+Amazon FSx for NetApp ONTAP,11,0.6
+Amazon Elastic Container Registry (Amazon ECR),11,0.6
+AWS Fault Injection Service,11,0.6
+Amazon Aurora for PostgreSQL,11,0.6
+AWS CloudFormation,10,0.54
+Amazon Managed Streaming for Apache Kafka (Amazon MSK),10,0.54
+Amazon Neptune,10,0.54
+Amazon Simple Queue Service (Amazon SQS),10,0.54
+Amazon Kinesis,10,0.54
+Amazon FSx for Lustre,10,0.54
+Amazon Braket,9,0.49
+AWS WAF,9,0.49
+Amazon CloudFront,9,0.49
+AWS CodePipeline,9,0.49
+Amazon Elastic VMware Service (EVS),9,0.49
+Amazon Elastic File System (Amazon EFS),9,0.49
+Amazon Cognito,9,0.49
+Amazon Q Business,9,0.49
+AWS Batch,8,0.43
+Amazon EC2 Spot,8,0.43
+Amazon FSx,8,0.43
+Amazon Inspector,8,0.43
+Amazon Application Recovery Controller,7,0.38
+Amazon QuickSight,7,0.38
+Amazon Redshift Serverless,7,0.38
+AWS Certificate Manager (ACM),7,0.38
+AWS IAM Identity Center,7,0.38
+AWS Lake Formation,7,0.38
+OpenSearch,7,0.38
+AWS DataSync,7,0.38
+Amazon VPC Lattice,7,0.38
+Amazon Verified Permissions,7,0.38
+AWS Network Firewall,6,0.33
+AWS ParallelCluster,6,0.33
+AWS Security Incident Response,6,0.33
+AWS Amplify,6,0.33
+AWS IoT Greengrass,6,0.33
+Amazon DataZone,6,0.33
+AWS Transfer Family,5,0.27
+AWS Well-Architected Tool,5,0.27
+AWS Resilience Hub,5,0.27
+Amazon Kinesis Data Streams,5,0.27
+Amazon Security Lake,5,0.27
+Amazon DocumentDB (with MongoDB compatibility),5,0.27
+AWS Compute Optimizer,4,0.22
+AWS CodeBuild,4,0.22
+Amazon EC2 Auto Scaling,4,0.22
+Amazon Route 53,4,0.22
+AWS Shield,4,0.22
+AWS AppSync,4,0.22
+Amazon FSx for OpenZFS,4,0.22
+AWS Inferentia,4,0.22
+AWS Direct Connect,4,0.22
+AWS Application Migration Service,4,0.22
+Amazon Managed Grafana,4,0.22
+Amazon Managed Service for Prometheus,4,0.22
+AWS SDK for SAP ABAP,3,0.16
+AWS Elastic Disaster Recovery,3,0.16
+Oracle Database@AWS,3,0.16
+Amazon Textract,3,0.16
+AWS Clean Rooms,3,0.16
+AWS Secrets Manager,3,0.16
+AWS Supply Chain,3,0.16
+AWS X-Ray,3,0.16
+AWS Audit Manager,3,0.16
+Amazon Quicksight Q,3,0.16
+Amazon Q Code Transformation,3,0.16
+AWS Parallel Computing Service,3,0.16
+EC2 Image Builder,3,0.16
+Amazon Simple Notification Service (Amazon SNS),3,0.16
+Amazon Simple Storage Service Glacier (Amazon S3 Glacier),3,0.16
+Amazon OpenSearch Serverless,3,0.16
+AWS Database Migration Service (AWS DMS),2,0.11
+AWS Payment Cryptography,2,0.11
+AWS Verified Access,2,0.11
+Amazon EC2 Linux,2,0.11
+AWS Global Accelerator,2,0.11
+AWS Cloud Development Kit (AWS CDK),2,0.11
+AWS License Manager,2,0.11
+Amazon Polly,2,0.11
+Amazon ElastiCache Serverless,2,0.11
+VPC Reachability Analyzer,2,0.11
+Amazon FSx for Windows File Server,2,0.11
+Amazon Managed Workflows for Apache Airflow (Amazon MWAA),2,0.11
+AWS Cloud WAN,2,0.11
+AWS AppConfig,2,0.11
+AWS Data Transfer Terminal,2,0.11
+Amazon CloudWatch Logs,2,0.11
+AWS IoT Core,2,0.11
+Amazon Lex,2,0.11
+AWS Service Catalog,2,0.11
+AWS Transit Gateway,2,0.11
+Amazon Data Lifecycle Manager,2,0.11
+Amazon RDS for PostgreSQL,2,0.11
+AWS Storage Gateway,2,0.11
+Amazon Relational Database Service (Amazon RDS) for Db2,2,0.11
+AWS Wickr,2,0.11
+AWS Firewall Manager,2,0.11
+Amazon EC2 - Inf1,2,0.11
+Amazon CloudWatch Application Insights,2,0.11
+Amazon MemoryDB,2,0.11
+AWS Health,1,0.05
+AWS GovCloud (US),1,0.05
+AWS HealthImaging,1,0.05
+AWS Health Dashboard,1,0.05
+Amazon Data Firehose,1,0.05
+AWS Schema Conversion Tool (AWS SCT),1,0.05
+AWS Application Cost Profiler,1,0.05
+AWS Resource Groups,1,0.05
+AWS HealthLake,1,0.05
+Amazon GameLift,1,0.05
+Amazon Timestream,1,0.05
+Amazon Lightsail,1,0.05
+AWS HealthScribe,1,0.05
+Amazon CodeCatalyst,1,0.05
+Amazon One Enterprise,1,0.05
+AWS CloudTrail Lake,1,0.05
+AWS Command Line Interface (AWS CLI),1,0.05
+Elastic Load Balancing (ELB),1,0.05
+AWS Security Token Service (AWS STS),1,0.05
+AWS Application Auto Scaling,1,0.05
+Amazon CloudWatch Internet Monitor,1,0.05
+AWS HealthOmics,1,0.05
+AWS Directory Service,1,0.05
+Amazon Personalize,1,0.05
+Just Walk Out,1,0.05
+Amazon Keyspaces (for Apache Cassandra),1,0.05
+Amazon Cloud Directory,1,0.05
+NICE DCV,1,0.05
+AWS Migration Hub,1,0.05
+AWS PrivateLink,1,0.05
+Amazon Corretto,1,0.05
+Amazon Q in AWS Supply Chain,1,0.05
+AWS SDK for Python (Boto3),1,0.05
+Amazon Comprehend,1,0.05
+AWS IoT Core for LoRaWAN,1,0.05
+AWS IoT Device Management,1,0.05
+AWS Elastic Beanstalk,1,0.05
+Babelfish,1,0.05
+AWS Auto Scaling,1,0.05
+AWS Device Farm,1,0.05
+Amazon Q Apps,1,0.05
+AWS Pricing Calculator,1,0.05
+AWS CodeDeploy,1,0.05
+Amazon Transcribe,1,0.05
+Amazon Neptune Analytics,1,0.05
+AWS Professional Services,1,0.05
+AWS IAM Access Analyzer,1,0.05
+AWS Savings Plans,1,0.05

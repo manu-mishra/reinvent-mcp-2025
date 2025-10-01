@@ -1,0 +1,10 @@
+code,title,type
+NET317,A day in the life of an AWS WAF administrator ,Breakout session
+SEC410,Advanced AI Security: Architecting Defense-in-Depth for AI Workloads,Breakout session
+SEC330,Architecting Firewalls on AWS: A Layered Defense Strategy,Chalk talk
+SEC304,Building an AI-Powered security guardian for your Cognito applications,Chalk talk
+NET318,From threat to threat intel: 360 degrees of DDOS,Breakout session
+SEC224,"Infrastructure protection at scale with AWS Security, ft. Block, Inc.",Breakout session
+NET324,Managing Bots vs Humans with CloudFront and AWS WAF,Code talk
+SEC406,Red teaming your generative AI and MCP applications at scale,Workshop
+NET211,"State of the Edge:  Delivery of the web with CloudFront, WAF, and Shield",Breakout session

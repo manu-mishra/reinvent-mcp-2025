@@ -1,0 +1,45 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "re-invent-2025-mcp"
+version = "1.0.3"
+description = "MCP server for re:Invent 2025 session catalog with 1,843 sessions and 13 search tools"
+readme = "README.md"
+authors = [{name = "Manu Mishra"}]
+license = {text = "MIT"}
+requires-python = ">=3.11"
+dependencies = [
+    "mcp>=1.15.0",
+    "msgpack>=1.1.0"
+]
+keywords = ["mcp", "reinvent", "sessions", "conference", "model-context-protocol", "2025"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+]
+
+[project.urls]
+Homepage = "https://github.com/manu-mishra/reinvent-mcp-2025"
+Repository = "https://github.com/manu-mishra/reinvent-mcp-2025"
+Issues = "https://github.com/manu-mishra/reinvent-mcp-2025/issues"
+LinkedIn = "https://www.linkedin.com/in/manu-mishra/"
+
+[project.optional-dependencies]
+test = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.23.0"
+]
+
+[project.scripts]
+re-invent-2025-mcp = "reinvent_2025_mcp.main:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/reinvent_2025_mcp"]

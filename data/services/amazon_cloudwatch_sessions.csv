@@ -1,0 +1,66 @@
+code,title,type
+COP320,Accelerating Incident Resolution: AI-Driven Root Cause Analysis,Builders' session
+COP334,Accelerating incident response through AIOps,Breakout session
+NET312,Agent based Network Ops : Amazon Bedrock Agents & Agent Core,Workshop
+ANT315,Agentic AI for Intelligent Observability with OpenSearch Service,Breakout session
+AIM232-S,Agentic AIOps: How LogicMonitor & WWT See Enterprises Readying for Autonomous IT (sponsored by LogicMonitor),Breakout session
+CNS351,Amazon ECS observability patterns and design decisions,Chalk talk
+COP329,Application performance monitoring: From design to implementation,Chalk talk
+ARC329,Architect for Zero Trust in AWS,Chalk talk
+AIM255,Architecting for sustainable IT at scale,Lightning talk
+COP403,Automate cloud operations with AI agents,Workshop
+COP415,Behind the scenes: How AWS drives operational excellence & reliability,Breakout session
+STG304,Best practices for deploying critical applications with Amazon EBS,Workshop
+CMP309,Beyond the Console: Building Powerful AWS Operational Dashboards,Chalk talk
+DAT312,Boost performance and reduce costs in Amazon Aurora and Amazon RDS,Breakout session
+COP323,Build effective logging strategies for operational insights,Chalk talk
+COP404,Build full-stack observability from applications to databases,Workshop
+COP405,Building agentic workflows for augmented observability,Code talk
+NTA405,"Building AI Agents with Serverless, Strands, and MCP",Code talk
+ARC304,Building and testing resilient multi-AZ applications,Workshop
+ISV402, Building Customizable AI Agents: A Fast-Track Guide for ISVs,Builders' session
+AIM394-S,Building multi-agent AI SRE: from root cause to vibe debugging (sponsored by Resolve AI),Breakout session
+PEX404,Building Production-Ready AI Applications with Amazon Bedrock,Chalk talk
+COP340,"Building reliable operations, feat. Fannie Mae",Breakout session
+COP408,Building resilient architectures with observability,Workshop
+STG324,Building resilient block storage through chaos engineering and observability,Chalk talk
+CNS347,Build secure and scalable agentic AI workflows on Amazon ECS,Chalk talk
+COP330,Byte to insight: Maximize value from your logs with Amazon CloudWatch,Chalk talk
+COP342,Centralize Multicloud Management using AWS,Breakout session
+COP304,Chaos engineering workshop,Workshop
+AIM259-S,Closing the gap between speed and safety: shipping faster at scale (sponsored by LaunchDarkly),Breakout session
+COP337,Correlating compliance signals across AWS,Chalk talk
+CMP314,"Data-Driven EC2 Optimization: Efficiency, Metrics, and Sustainability",Chalk talk
+COP416,Deep dive into advanced database performance monitoring,Chalk talk
+ANT330,Design and Implement Agentic AI Observability with OpenSearch,Chalk talk
+COP421,Design effective Amazon CloudWatch dashboards and alarms,Chalk talk
+COP327,Drive operational excellence for modern applications,Breakout session
+COP326,Elevate application and generative AI observability,Breakout session
+COP336,Elevating application reliability,Breakout session
+COP307,Enhancing security visibility: building scalable log analytics,Chalk talk
+NTA315,Extending governance across clouds,Chalk talk
+COP328,Implementing observability at scale: A blueprint for success,Breakout session
+COP360,Leverage observability to build responsible AI applications,Lightning talk
+CMP333,Maximizing EC2 Performance: A Hands-on Guide to Instance Optimization,Code talk
+COP325,Migrate from VMWare to AWS: Cloud Operations Best Practices,Chalk talk
+COP418,Monitor the quality and accuracy of your generative AI workloads,Code talk
+ARC205,Multicloud architectures: Solutions and design patterns,Chalk talk
+COP313,Multicloud & hybrid node operation at scale is easier than you think,Chalk talk
+COP335,Observability for AI Agents and Traditional Workloads,Breakout session
+NTA406,Observability for Reliable Agentic AI with Strands SDK & OpenTelemetry,Code talk
+ARC316,Operational excellence: Building resilient systems,Chalk talk
+COP413,Optimizing GenAI performance with Amazon CloudWatch,Builders' session
+SEC346-S,Reimagining SIEM architecture using AWS S3 Buckets (sponsored by Vega),Lightning talk
+COP417,Scale security monitoring using AWS CloudTrail with generative AI,Chalk talk
+ARC311,Scaling observability with generative AI: Building automated patterns,Builders' session
+CNS350,Scaling to 1000s of containers in minutes with Amazon ECS,Chalk talk
+TNC309,Securing Generative AI agents using AWS Well-Architected Framework,Interactive training
+COP315,Securing your network perimeter through observability,Workshop
+COP316,Simplifying security and operations through smart resource tracking,Builders' session
+COP343,Streamline operations with automated health monitoring and response,Chalk talk
+AIM333,Sustainable and cost-efficient generative AI with agentic workflows,Breakout session
+COP319,Transform cloud monitoring into natural conversations,Builders' session
+COP331,Troubleshooting database performance issues at scale,Lightning talk
+CNS413,Unveiling Amazon ECS workloads with AWS observability and agentic AI,Chalk talk
+COP345,Using AI to bridge the multicloud skills gap in IT operations,Lightning talk
+IND216,Vodafone Romania BSS Modernization on AWS,Chalk talk

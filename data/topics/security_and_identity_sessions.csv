@@ -1,0 +1,174 @@
+code,title,type
+SPS324,Accelerate code delivery: Amazon Q developer and dev containers,Code talk
+PEX303,Accelerating Development and DevSecOps with Amazon Bedrock & Amazon Q,Breakout session
+IND414,Accelerating Life Sciences Regulatory Intelligence with Amazon Bedrock Agents,Chalk talk
+COP347,Actionable controls for improving governance and compliance,Breakout session
+SEC401,Active defense strategies using AWS Al/ML services,Workshop
+HMC316,Address digital sovereignty with hybrid and cloud solutions,Chalk talk
+SEC402,A deep dive on IAM policy evaluation,Chalk talk
+SEC410,Advanced AI Security: Architecting Defense-in-Depth for AI Workloads,Breakout session
+CNS365,Advanced authorization patterns for secure serverless applications,Chalk talk
+SEC303,Advanced AWS Network Security : Building Scalable Production Defenses,Workshop
+STG414,Advanced security patterns on Amazon S3,Chalk talk
+SEC226-S,AI Agents – the new face of privileged machine identities  (sponsored by CyberArk),Lightning talk
+GBL205,AI in Action: How Companies Unlock Global Value & Fuel Growth,Breakout session
+IND397,AI-Powered Content Compliance: Media Rating Automation with Nova,Chalk talk
+SNR304,A leaders guide to achieving compliance through software excellence,Breakout session
+STG349,Amazon EFS data resiliency: From strategy to implementation,Chalk talk
+STG316,Amazon S3 security and access control best practices,Breakout session
+STG302,"Amazon S3 security: Implementing controls, policies & audit systems",Workshop
+HMC206-S,"Anatomy of a Ransomware Attack: A Live Simulation, Sponsored by Rubrik (sponsored by Rubrik)",Breakout session
+DEV326,Anti-Money Laundering Multi-agent Orchestration with AWS Strands,Breakout session
+NET204,Approaches to layered security on Amazon VPC,Workshop
+STG344,A practical guide to Amazon S3 data protection and recovery,Chalk talk
+SEC330,Architecting Firewalls on AWS: A Layered Defense Strategy,Chalk talk
+CNS302,Architecting for data protection and compliance with Amazon ECS,Builders' session
+SEC336,Architecting for data protection and compliance with AWS Backup,Chalk talk
+SEC301,Architecting for Digital Sovereignty: From Foundation to Practice,Chalk talk
+COP312,Architecting Security at Scale with AWS Cloud Governance,Chalk talk
+SEC302,Ask AWS: Your ransomware questions answered,Chalk talk
+NET203,Ask Me Anything About AWS Networking,Chalk talk
+STG333,Automate data protection at scale with AWS Backup and AWS Control Tower,Code talk
+SEC217-S,Automated cloud security remediation with agentic workflows (sponsored by Dynatrace),Lightning talk
+DEV322,Automated Security Remediation with AWS Step Functions,Builders' session
+SEC332,Automate vulnerability remediation for containers running in AWS,Chalk talk
+SEC322,Automating Certificate Management with Exportable Public Certificates,Code talk
+COP310,Automating compliance and auditing at scale,Workshop
+SEC341,Automating IAM policy validation and analysis using GitHub Actions,Code talk
+DEV206,Automating Suricata rules for AWS network firewall,Lightning talk
+NTA321,AWS Agent for SAP Invoice Automation,Workshop
+SEC323,AWS detection and response innovations that drive security outcomes,Breakout session
+SEC201,AWS European Sovereign Cloud: From concept to reality,Breakout session
+GBL101,AWS European Sovereign Cloud: Your 20-Minute Essential Guide,Lightning talk
+SEC403,AWS GameDay - Winning the DDos Game,Workshop
+GHJ302,AWS Jam: Security- Sponsored by PaloAlto Networks and Fortinet,Gamified learning
+SEC218,AWS KMS over the decade: How architecture evolved to earn customer trust,Breakout session
+SEC205-S,Beyond Backup: Advancing Cloud Resiliency with Shared Responsibility (sponsored by Cohesity),Breakout session
+IND213,Beyond EHR: Leveraging AWS for Maximum Clinical and Operational Impact,Breakout session
+SEC209-S,Beyond Posture Management: Stopping Data Breaches in AWS (sponsored by Varonis),Lightning talk
+SEC304,Building an AI-Powered security guardian for your Cognito applications,Chalk talk
+SEC407,Building a robust container security  pipeline,Builders' session
+SEC305,Building enhanced container threat protection for improved security posture,Builders' session
+IND345,Building privacy-aware generative AI applications in financial services,Chalk talk
+SEC404,Building Quantum-Safe Systems with Post-Quantum Cryptography on AWS,Workshop
+DEV324,Building Real-Time Container Security with AWS Native Tools,Chalk talk
+STG412,Building resilience against ransomware using AWS Backup,Breakout session
+SEC325,"Building Scalable, Secure Secrets Management on AWS",Builders' session
+SEC208-S,Building Secure-by-Design Environments with AWS Capabilities (sponsored by Native),Lightning talk
+DEV312,"Building, Securing, and Monitoring Kiu: A Global Community AI Agent",Breakout session
+COP409,Building Sovereign Cloud Environments,Code talk
+COP353,Building your data protection strategy with governance controls,Chalk talk
+STG306,Build protection and optimize costs using Amazon EBS Snapshots,Workshop
+ISV405,BYOK: The Key to Meeting Enterprise SaaS Security Demands,Code talk
+SEC319,Climbing the AI Mountain With Your Security Team,Breakout session
+NTA201,Cloud Foundations Accelerator,Chalk talk
+TNC316,Create an AWS DevOps AI Agent with the Strands Agents SDK,Interactive training
+IND348,Create a secure card management platform with AWS Payment Cryptography,Chalk talk
+SEC306,Data perimeter challenge,Builders' session
+STG338,Data protection and resilience with AWS Storage,Breakout session
+STG409,Data protection & application recovery strategies for ransomware,Chalk talk
+SEC307,"Design authentication, authorization, and logging logic in Agentic AI apps",Workshop
+SEC327-S,Detection Engineering at Scale: Building High-Fidelity Security Operations (sponsored by Datadog),Breakout session
+HMC310,Digital sovereignty and data residency with AWS,Breakout session
+AIM249-S,Discover and secure non-human identities (sponsored by Okta),Breakout session
+SEC338,Distributed vs. Centralized inspection: The ultimate debate,Chalk talk
+AIM350-S,"Empowering innovation with integrity—Responsible AI for a smarter, safer future (sponsored by Kyndryl)",Breakout session
+SMB303,Empowering SMBs: Streamlined Security & Resilience Automation on AWS,Chalk talk
+SEC313,Enabling secure AI Agent access with Amazon Bedrock AgentCore Identity,Breakout session
+CNS208,Enhancing container security with Amazon ECR,Lightning talk
+COP308,Establish a secure AWS foundation with AWS Control Tower,Workshop
+NTA315,Extending governance across clouds,Chalk talk
+SEC308,Fortifying the cloud: Meta's journey implementing AWS data perimeters,Breakout session
+SEC343,Fostering a Resilient Incident Response Culture,Chalk talk
+SEC220-S,From Cloud to AI  Securing the New Cloud Attack Surface (sponsored by Wiz),Breakout session
+SEC222,From Code to Cloud: Building Enterprise AppSec with AWS,Breakout session
+SEC324,From code to cloud: enhancing visibility across the SDLC with AWS,Workshop
+SEC206-S,From collecting tools to an autonomous SOC (sponsored by SentinelOne),Breakout session
+AIM346-S,From Data to Decisions: Agentic AI for Security and Observability (sponsored by Elastic),Breakout session
+SEC333,From Static to Dynamic: Modernizing AWS Access Management,Chalk talk
+SEC212-S,Full Speed Ahead: Securing Innovation with Trend (sponsored by Trend Micro),Breakout session
+SEC221,Gen AI in Security Assurance and Compliance: From Strategy to Daily Operations,Chalk talk
+ISV315,GenAI-Powered Contextual Security Analysis & Remediation,Code talk
+AIM218-S,Harnessing AI and Zero Trust to Drive Secure Digital Transformation (sponsored by Zscaler),Breakout session
+SEC409-S,How Arrivia Stopped a Data Theft Ring with Teramind (sponsored by Teramind),Breakout session
+SEC202,How Cathay Transformed DevSecOps with AI: A 75% Faster Security Story,Breakout session
+SEC331,How Security Maturity Enables Your Cryptographic Agility Playbook,Chalk talk
+NET329,Human Meets Microservice: Zero Trust with AWS Networking Services,Builders' session
+SEC340,IAM Access Analyzer Deep Dive: From Configuration to Remediation,Code talk
+INV505,IAM Access Analyzer from Research Paper to Reality,Chalk talk
+SEC405,Implementing Advanced Data Protection Controls,Workshop
+CNS360,Implementing security best practices for serverless applications,Breakout session
+SEC207-S,Improve DevEx for GenAI Deployments: Dynatrace + Amazon Bedrock (sponsored by Dynatrace),Lightning talk
+SEC224,"Infrastructure protection at scale with AWS Security, ft. Block, Inc.",Breakout session
+CMP407,Innovating with AWS Confidential Computing: An Integrated Approach,Breakout session
+SEC345,Innovation in Identity Security: how we protect the cloud and help you do it too,Breakout session
+COP351,Innovation Sandbox on AWS: Automating Temporary Cloud Environments,Lightning talk
+SEC310,Innovations  in Infrastructure Protection to strengthen your network,Breakout session
+SEC309,Inside the Attack Chain: Emerging Threat Actor Tactics and Techniques,Chalk talk
+COP411,Intelligent automation for managing cloud governance and compliance,Builders' session
+PEX315,Intelligent Security Operations with AWS: AI-Powered Incident Response,Workshop
+INV214,Intelligent security: Protection at scale from development to production,Innovation talk
+DEV336,Kiro in action: Red Team tactics at scale,Lightning talk
+SEC215,Last HSM Standing: Zettle by PayPal’s move to AWS Payment Cryptography,Lightning talk
+SEC219,Lead resilient security teams through psychological safety,Lightning talk
+SEC326-S,Make Attackers Cry: Outsmart Them With Deception (sponsored by Fastly),Lightning talk
+CNS356,Master identity-first security with Amazon EKS Auto Mode,Chalk talk
+SEC213,Modern Secrets: A Journey from Legacy Systems to AI-Ready Security,Breakout session
+SEC339,Modern workload identity management strategies,Chalk talk
+NTA407, Multi-Agent Collaboration with Amazon Bedrock Agentcore for Advanced SecOps,Code talk
+HMC318,Multicloud security best practices,Breakout session
+CNS417,Networking and observability strategies for Kubernetes,Breakout session
+SEC214,Patterns for multiple AWS organizations for mergers and divestitures,Chalk talk
+HMC307-S,Preemptive Recovery: A New Playbook for Cloud Resilience (sponsored by Rubrik),Breakout session
+STG353,Protecting FSx for NetApp ONTAP data from ransomware,Chalk talk
+SEC210-S,Protecting web apps & APIs with AI and an as-a-Service approach (sponsored by Check Point Software),Breakout session
+SEC311,Protecting  Your Infrastructure with Amazon Threat Intelligence,Breakout session
+STG207,"Protect your data with AWS Backup: overview, use cases and what's new",Breakout session
+SEC406,Red teaming your generative AI and MCP applications at scale,Workshop
+DEV317,Red Team vs Blue Team: Securing AI Agents,Breakout session
+IND211,Reimagining Healthcare Access with Amazon One's Biometric Innovation,Chalk talk
+SEC346-S,Reimagining SIEM architecture using AWS S3 Buckets (sponsored by Vega),Lightning talk
+OPN409,Reinforce large policy based authorization systems with Cedar Analysis,Chalk talk
+SEC204,Rethinking DevSecOps with Platform Engineering That Actually Works,Chalk talk
+SEC223-S,"Runtime + AI: Reinventing Cloud Security on AWS (sponsored by Upwind Security, Inc.)",Lightning talk
+ISV317,Scale and Optimize your Solutions Globally with AWS Expansion Programs,Breakout session
+SEC101-S,Scale Customer Engagement with WhatsApp Business on AWS (sponsored by Meta),Breakout session
+COP417,Scale security monitoring using AWS CloudTrail with generative AI,Chalk talk
+SEC329,Scale Security Operations with AWS Security Incident Response Service,Breakout session
+SEC216-S,"Seamless Network-based Fraud Protection for FinTech & Digital Business (sponsored by Vonage, Part of Ericsson)",Lightning talk
+DEV338,Secure Amazon ECS observability with CDK and Grafana,Lightning talk
+SEC312,Secure and build apps in minutes with Amazon Verified Permissions,Builders' session
+CDN201-S,"Secure, Easy and Performant VPC Resource Connectivity with Tailscale (sponsored by Tailscale)",Lightning talk
+CNS370,Secure user code execution with AWS Lambda for SaaS platforms,Chalk talk
+NET206,Secure your cloud networks with Amazon VPC Block Public Access,Builders' session
+SEC408,"Securing Agentic AI: OWASP, MAESTRO, and Real-World Defense Strategies",Chalk talk
+ISV311,Securing AI Agents: SailPoint's Journey with Amazon Bedrock AgentCore,Chalk talk
+SEC328-S,Securing AI Agents: The Future of Identity & Access Control (sponsored by WorkOS),Breakout session
+CNS331,Securing and observing Amazon EKS clusters,Builders' session
+CNS332,Securing and optimizing your software supply chain with Amazon ECR,Chalk talk
+SEC225-S,Securing data for your AI workloads with tokenization (sponsored by Capital One),Breakout session
+SEC314,Securing Data Lakes: From Ingestion to AI Analysis,Builders' session
+TNC309,Securing Generative AI agents using AWS Well-Architected Framework,Interactive training
+SEC337,Securing IoT Workloads with AWS IoT Lens and AWS Security Reference Architecture,Chalk talk
+AIM106-S,Securing the AI Era: From Hype to Real-World Defense (sponsored by Zscaler),Breakout session
+COP315,Securing your network perimeter through observability,Workshop
+SEC315,Security posture and exposure management using AWS security services,Workshop
+AIM288-S,See The Future of Cloud Defense: Agentic Cloud Security (sponsored by Sysdig),Lightning talk
+SEC317,Shared responsibility: leadership lessons from active defense of the cloud,Chalk talk
+SEC344,Simplified Data Lake Access with AWS Identity Center ,Lightning talk
+ISV301,Simplify Tenant Authorization with Cedar and Amazon Verified Permissions,Builders' session
+SMB306,"Smart Security for SMBs: Combining AWS Tools, MCP, and AI",Builders' session
+SEC203,State of the Art: AWS data protection in 2025 (ft. Vanguard),Breakout session
+SEC316,Staying  Ahead:Smart Strategies for Effective Vulnerability Management,Breakout session
+SEC318,Strengthen your network security with generative AI,Builders' session
+SEC347,Supercharge log analytics: OCSF meets generative AI,Breakout session
+INV511,Symbolic Execution for Better Cloud Governance,Chalk talk
+SEC411,Testing GuardDuty’s Runtime Detections:Hands-on with real world attack scenarios,Lightning talk
+SPS315,The AI revolution in customer support: Building predictive service systems,Breakout session
+SEC320,The AWS Security Incident Response Challenge: Defend the Cake!,Workshop
+SEC321,The magic behind Amazon GuardDuty Extended Threat Detection,Chalk talk
+SEC342,Threat-Modeling-as-Code: Automating From Threat Statements to Attack Steps,Code talk
+SEC335,Threat modeling for AWS identity: From federation to resource access,Chalk talk
+SEC227,Translating Security Metrics into Business Outcomes,Chalk talk
+DAT318,Web3 + AI: Agents that mean business,Breakout session
+SEC211-S,Zero Trust for Agentic Systems: Managing Non-Human Identities at Scale (sponsored by HashiCorp),Breakout session

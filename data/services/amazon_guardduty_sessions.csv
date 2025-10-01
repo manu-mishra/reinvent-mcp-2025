@@ -1,0 +1,13 @@
+code,title,type
+SEC303,Advanced AWS Network Security : Building Scalable Production Defenses,Workshop
+SEC302,Ask AWS: Your ransomware questions answered,Chalk talk
+SEC209-S,Beyond Posture Management: Stopping Data Breaches in AWS (sponsored by Varonis),Lightning talk
+SEC305,Building enhanced container threat protection for improved security posture,Builders' session
+DEV324,Building Real-Time Container Security with AWS Native Tools,Chalk talk
+SEC309,Inside the Attack Chain: Emerging Threat Actor Tactics and Techniques,Chalk talk
+SEC329,Scale Security Operations with AWS Security Incident Response Service,Breakout session
+SEC337,Securing IoT Workloads with AWS IoT Lens and AWS Security Reference Architecture,Chalk talk
+SEC411,Testing GuardDuty’s Runtime Detections:Hands-on with real world attack scenarios,Lightning talk
+SEC320,The AWS Security Incident Response Challenge: Defend the Cake!,Workshop
+SEC321,The magic behind Amazon GuardDuty Extended Threat Detection,Chalk talk
+SEC227,Translating Security Metrics into Business Outcomes,Chalk talk

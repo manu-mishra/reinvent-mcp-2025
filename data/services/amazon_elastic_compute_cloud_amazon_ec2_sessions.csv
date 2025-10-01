@@ -1,0 +1,144 @@
+code,title,type
+CMP349,5-Star Customer Service: Duolingo's Path to Compute Savings,Breakout session
+AIM362,Accelerate AI workloads with UltraServers on Amazon SageMaker HyperPod,Breakout session
+STG327,Accelerate enterprise workloads with enhanced Amazon EBS capabilities,Chalk talk
+CMP301,Accelerate Your Cloud Adoption with the AWS Management Console,Chalk talk
+AIM251,Accelerating AI innovation with NVIDIA GPUs on AWS,Breakout session
+MAM303,Accelerating .NET and SQL Server modernization using agentic AI,Workshop
+DAT205-S,Accelerating SAP Transformation with Amazon EC2 with the latest Intel Xeon CPUs (sponsored by Intel),Breakout session
+CMP401,"Accelerating semiconductor design, simulation, and verification on AWS",Chalk talk
+MAM304,Accelerating SQL Server modernization on AWS with agentic AI,Chalk talk
+CMP350,Accelerating Vehicle Innovation: ML & HPC Best Practices,Chalk talk
+MAM202,Agentic AI for VMware migrations with AWS Transform for VMware,Breakout session
+CMP303,Amazon Linux: latest features and AWS optimizations,Breakout session
+HMC206-S,"Anatomy of a Ransomware Attack: A Live Simulation, Sponsored by Rubrik (sponsored by Rubrik)",Breakout session
+CMP201,Architecting Solution Patterns for GPU-Accelerated HPC and AI/ML,Chalk talk
+CNS303,Architecture patterns for MLOps on Amazon EKS,Chalk talk
+DVT316-S,Are your APIs ready for AI agents? (sponsored by Postman),Breakout session
+AIM367,A strategic guide to AWS compute options for your AI/ML workload,Chalk talk
+SPS201,Autodesk's ML Inference Optimization: Leveraging AWS AI Chips,Breakout session
+CMP306,Automating and optimizing EC2 Mac instances for Apple development,Workshop
+MAM308,AWS fundamentals for the accidental SQL Server database administrator,Chalk talk
+MAM309,AWS migration journey: 2025 itinerary for Microsoft workloads,Breakout session
+SEC205-S,Beyond Backup: Advancing Cloud Resiliency with Shared Responsibility (sponsored by Cohesity),Breakout session
+AIM201,Break through AI performance and cost barriers with AWS Trainium,Breakout session
+IND403,Build Humanoid Intelligence: Advancing Physical AI with AWS and NVIDIA,Chalk talk
+AIM307,Building agentic systems with Hugging Face and AWS AI chips,Chalk talk
+AIM290-S,"Building Fast, Cost-Efficient, Sovereign Inference Platforms on AWS w/Intel CPUs (sponsored by Intel)",Breakout session
+AIM309,Building LLMs with Amazon SageMaker HyperPod and AWS Trainium,Workshop
+ISV306,Building Multi-tenant global ML SaaS platform,Lightning talk
+STG306,Build protection and optimize costs using Amazon EBS Snapshots,Workshop
+AIM419,Build your own high performance kernel on AWS Trainium with NKI,Chalk talk
+AIM312,Compact yet powerful: Exploring model distillation with AWS Trainium,Builders' session
+CMP312,Compute innovation with the AWS Nitro System,Chalk talk
+CMP313,Cost Optimize your .NET workloads on AWS,Chalk talk
+TNC316,Create an AWS DevOps AI Agent with the Strands Agents SDK,Interactive training
+CMP208-S,Customer Insights: Scaling Real-World AI with AMD on AWS (sponsored by AMD),Breakout session
+AIM3315,Customize GPT-OSS models on Amazon SageMaker AI for improved accuracy,Chalk talk
+AIM363,Customize & scale foundation models using Amazon SageMaker AI,Breakout session
+CMP314,"Data-Driven EC2 Optimization: Efficiency, Metrics, and Sustainability",Chalk talk
+AIM315,Debug LLM bottlenecks with NVIDIA Nsight,Workshop
+CMP316,Deep Dive into the AWS Nitro System,Breakout session
+CMP317,Demystify attestation: Cryptographically verify execution environment,Code talk
+API324-S,Deploy and Fine-Tune Nemotron Models on AWS SageMaker and Bedrock: Hands-On Lab (sponsored by NVIDIA),Workshop
+DAT454,Deploy and manage blockchain nodes on AWS,Chalk talk
+AIM355,Deploying LLMs at scale with vLLM on AWS AI chips,Chalk talk
+SEC327-S,Detection Engineering at Scale: Building High-Fidelity Security Operations (sponsored by Datadog),Breakout session
+AIM353,Distributed inference on AWS: Deep dive into inference optimizations,Chalk talk
+AIM261-S,Dive into Poolside: AI Models for Today’s Enterprise Software Teams (sponsored by poolside),Breakout session
+CMP404,EC2 Fleet: Your Swiss Army Knife for Large-Scale Compute Orchestration,Chalk talk
+CMP412,EC2 Flex instances: Get latest generation performance at lower costs,Chalk talk
+AIM351,End-to-end foundation model lifecycle on AWS Trainium,Breakout session
+MAM315,Enterprise software licensing and optimization on AWS,Breakout session
+CMP405,Everything you've wanted to know about performance on EC2 instances,Code talk
+CMP319,Exploring the Spectrum of Architecture Patterns for 3D Rendering,Chalk talk
+HMC103-S,Fast-Track Modernization and Transformation with Nutanix and AWS (sponsored by Nutanix),Lightning talk
+MAM316,Fast-track your VMware to AWS migration with AWS Transform,Workshop
+AIM318,Fine-tune Hugging Face LLMs on AWS Trainium with Amazon Sagemaker,Builders' session
+SEC212-S,Full Speed Ahead: Securing Innovation with Trend (sponsored by Trend Micro),Breakout session
+MAM319,Full-stack SQL Server modernization on AWS,Builders' session
+IND354,Game Dev on AWS: Your Studio Architecture Questions Answered,Chalk talk
+CMP321,GenAI Storyboarding: From Sketch to 3D Scene with GenAI on AWS,Chalk talk
+CNS344,Generative and Agentic AI on Amazon EKS,Breakout session
+AIM354,"GPU resource optimization on AWS: MIG, KAI, and Run:AI scheduling strategies",Chalk talk
+AIM246-S,Hesitate and You’re History: Why You Need Agentic AI Right Now (sponsored by Qlik),Breakout session
+AIM332,How Adobe & Salesforce Enable Sustainability initiatives with AWS CCFT,Breakout session
+CMP322,How Amazon EC2 improves the customer experience with Live Migration,Chalk talk
+AIM252,How customers build AI at scale with AWS AI infrastructure,Breakout session
+DAT201-S,How SAS and Freshworks Power Real-Time Personalization at Extreme Scale  (sponsored by ScyllaDB),Breakout session
+SEC207-S,Improve DevEx for GenAI Deployments: Dynatrace + Amazon Bedrock (sponsored by Dynatrace),Lightning talk
+CMP325,Improving Availability with EC2 Best Practices for Application Monitoring,Chalk talk
+AIM320,Inference on AWS Trainium and Amazon EKS using vLLM,Workshop
+CMP328,Infrastructure Automation with Amazon Q CLI and EC2 Image Builder,Builders' session
+CMP409,It's About Time! Improving Distributed Systems with Amazon Time Sync,Breakout session
+CMP326,Java Modernization and Performance Optimization GameDay,Workshop
+CMP330,Leverage Auto Scaling to proactively scale and optimize EC2 workloads,Workshop
+MAM321,Licensing management and optimization on AWS with generative AI,Chalk talk
+INV507,Light qubits in the AWS network,Chalk talk
+INV508,LLMs Reflecting on Reasoning: A Probabilistic VC-Theory Approach,Chalk talk
+CMP331,Managing Amazon EC2 capacity and availability,Breakout session
+MAM323,Map your VMware workloads migration and modernization journey to AWS,Chalk talk
+IND3319,Mastercard: How to protect sensitive data in real-time applications,Breakout session
+CMP332,Mastering EC2 Image Builder: From Basics to Advanced Techniques,Builders' session
+AIM3321,Mastering LLM inference on Amazon  SageMaker AI,Chalk talk
+AIM356,Master post-training workflows for foundation models on AWS Trainium,Chalk talk
+STG319,Maximizing block storage performance for high-intensity workloads,Breakout session
+CMP315,Maximizing EC2 Local NVMe Storage: Enhanced NVMe Metrics and K8s Integration,Chalk talk
+CMP333,Maximizing EC2 Performance: A Hands-on Guide to Instance Optimization,Code talk
+HMC402,Meet ultra-low latency and high throughput needs with AWS Outposts,Chalk talk
+DAT317,Microseconds matter: Architect ultra-low latency trading platforms,Chalk talk
+CMP334,Modernize Apple platform development with AWS and EC2 Mac,Breakout session
+CNS342,Navigate the cloud compute landscape with Amazon ECS,Breakout session
+MAM317,.NET cloud journey: Migration & modernization strategies,Chalk talk
+STG212,New York Times: Best practices for migration to Amazon FSx for ONTAP,Lightning talk
+AIM323,Next-gen AI: Scaling distributed GPU inference with NVIDIA on AWS,Builders' session
+MAM355,Next-gen SAP security analytics powered by AWS,Chalk talk
+STG326,Operating large-scale enterprise workloads with Amazon EBS and EBS Snapshots,Chalk talk
+AIM366,Optimize AI infrastructure performance with SageMaker HyperPod,Chalk talk
+CNS410,Optimize analytics workloads on Amazon EKS for performance and cost,Workshop
+CMP335,Optimize .NET Price-Performance with Graviton using AWS Transform,Workshop
+CMP336,Optimize Network and EBS intensive workloads on Amazon EC2 instances,Chalk talk
+CNS377,Optimizing Amazon EKS costs through workload analysis and observability,Chalk talk
+CMP337,Optimizing EC2: Hands-On Strategies for Cost-Effective Performance,Workshop
+STG320,Optimizing price performance with enhanced Amazon EBS gp3 volumes,Breakout session
+AIM414,Performance engineering on Neuron: How to optimize your LLM with NKI,Code talk
+HMC307-S,Preemptive Recovery: A New Playbook for Cloud Resilience (sponsored by Rubrik),Breakout session
+STG325,Protecting block storage at scale with native encryption and EBS Snapshots,Chalk talk
+CMP338,Protect privacy in GenAI applications using AWS Confidential computing,Workshop
+CMP205,Quantum Solutions Driving Enterprise Value: From Security to Finance,Chalk talk
+MAM212,Re-defining customer experiences with SAP and Pan-Amazon Services,Breakout session
+DAT204-S,Redefining database scale for agentic AI workloads with TiDB (sponsored by TiDB powered by PingCAP),Lightning talk
+IND372-S,Reinventing credit origination process through AI (sponsored by Cloudera),Lightning talk
+CMP339,Resilient and resourceful: Balance compute resiliency and costs,Chalk talk
+AMZ307,Revolutionize media production: Field-ready cloud solutions,Lightning talk
+CNS322,Running compute efficient workloads on Amazon EKS Auto Mode,Workshop
+CMP341,SAP workloads on memory optimized EC2 instances,Chalk talk
+MAM335,Scale VMware migrations with Cloud Migration Factory & AWS Transform,Workshop
+AIM209-S,Scaling AI with confidence: From proof of concept to production (sponsored by Dynatrace),Breakout session
+AIM227-S,Scaling GenAI on AWS Without Breaking the Bank through FinOps (sponsored by IBM Cloudability),Breakout session
+ISV302,Scaling SaaS applications with cell-based architectures,Chalk talk
+CDN201-S,"Secure, Easy and Performant VPC Resource Connectivity with Tailscale (sponsored by Tailscale)",Lightning talk
+CMP410,Secure Generative AI using trusted execution environments,Builders' session
+CMP342,Security Compliance & Hardening with EC2 Image Builder,Chalk talk
+CMP343,Select and launch the right instance for your workload and budget,Chalk talk
+CMP344,Speed up Apple application builds with CI/CD pipelines using EC2 Mac,Chalk talk
+AIM352,Streamlining vLLM deployment for production with AWS DLCs on EKS,Chalk talk
+COP317,Stress test your services for resilience with AWS Game Day,Breakout session
+CMP346,Supercharge ML and Inference on Apple Silicon with EC2 Mac,Code talk
+AIM417,Sustainable computing for climate solutions,Breakout session
+INV512,The hidden engineering behind foundation model building,Chalk talk
+AIM3317-S,The Next Frontier in Financial Systems: Transformer-based Foundation Models (sponsored by NVIDIA),Breakout session
+AIM365,Train high-performing AI models at scale on AWS,Breakout session
+AIM117-S,"Train, Simulate, Deploy: Building NVIDIA-Powered Physical AI on AWS (sponsored by NVIDIA)",Breakout session
+MAM214,Transforming SAP with AWS AI services to drive innovation,Breakout session
+STG323,Under the hood with Amazon EBS: Achieving sub-millisecond latency at scale,Chalk talk
+AIM368,Unifying AI/ML operations with SageMaker HyperPod and Amazon EKS,Chalk talk
+AIM210-S,"Unifying AWS observability, logs, and traces with Dynatrace (sponsored by Dynatrace)",Breakout session
+CMP210-S,Unleashing Performance: How Intel Xeon 6 on AWS EC2 Is Redefining Compute & TCO (sponsored by Intel),Breakout session
+CMP352,Unlock Cost Efficiency with AWS Graviton Savings Dashboard,Lightning talk
+MAM213,Unlocking business value by integrating SAP and non-SAP data sources,Breakout session
+MAM338,"VMware to AWS modernization blueprint: Migrate, containerize, scale",Workshop
+IND216,Vodafone Romania BSS Modernization on AWS,Chalk talk
+DAT318,Web3 + AI: Agents that mean business,Breakout session
+MAM209,Why customers choose AWS as their transformation partner for SAP,Breakout session
+MAM210-S,Why Your Processor Matters for AI Inference and General Compute (sponsored by AMD),Breakout session

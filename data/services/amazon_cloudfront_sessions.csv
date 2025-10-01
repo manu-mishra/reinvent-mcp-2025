@@ -1,0 +1,10 @@
+code,title,type
+NET317,A day in the life of an AWS WAF administrator ,Breakout session
+IND375,Best practices for optimizing financial services application latency ,Chalk talk
+NET318,From threat to threat intel: 360 degrees of DDOS,Breakout session
+NET324,Managing Bots vs Humans with CloudFront and AWS WAF,Code talk
+NET321,Measure what matters: Web & API optimization with Amazon CloudFront,Chalk talk
+NET320,Origin management for multi-region applications with Amazon CloudFront,Chalk talk
+SEC210-S,Protecting web apps & APIs with AI and an as-a-Service approach (sponsored by Check Point Software),Breakout session
+NET316,Scaling Multi-Tenant SaaS Delivery with Amazon CloudFront,Breakout session
+NET211,"State of the Edge:  Delivery of the web with CloudFront, WAF, and Shield",Breakout session

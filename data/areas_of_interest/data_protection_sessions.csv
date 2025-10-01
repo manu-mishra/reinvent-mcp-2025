@@ -1,0 +1,69 @@
+code,title,type
+STG301,Advanced data resiliency: Recovery strategies for AWS storage,Workshop
+STG349,Amazon EFS data resiliency: From strategy to implementation,Chalk talk
+STG350,Amazon FSx Intelligent-Tiering: Technical deep dive and best practices,Chalk talk
+STG302,"Amazon S3 security: Implementing controls, policies & audit systems",Workshop
+HMC206-S,"Anatomy of a Ransomware Attack: A Live Simulation, Sponsored by Rubrik (sponsored by Rubrik)",Breakout session
+STG344,A practical guide to Amazon S3 data protection and recovery,Chalk talk
+STG333,Automate data protection at scale with AWS Backup and AWS Control Tower,Code talk
+SEC322,Automating Certificate Management with Exportable Public Certificates,Code talk
+STG418,AWS Backup clean room recovery: Comprehensive resilience framework,Chalk talk
+STG410,AWS Backup unlocked: strategies for at-scale data protection,Chalk talk
+GBL101,AWS European Sovereign Cloud: Your 20-Minute Essential Guide,Lightning talk
+STG328,Best practices for cost optimization with AWS Backup,Chalk talk
+STG317-S,Best practices to simplify resilience at scale for Gen AI data & apps (sponsored by Commvault),Breakout session
+SEC205-S,Beyond Backup: Advancing Cloud Resiliency with Shared Responsibility (sponsored by Cohesity),Breakout session
+SEC209-S,Beyond Posture Management: Stopping Data Breaches in AWS (sponsored by Varonis),Lightning talk
+STG361,Beyond SFTP and NFS: Automate enterprise file transfers at scale,Breakout session
+STG417,Boost database performance & availability with Amazon FSx for OpenZFS,Chalk talk
+STG309,Build an S3 time machine: Implementing advanced point-in-time recovery,Workshop
+STG329,Build data resilient application architectures using AWS Storage,Chalk talk
+STG355,"Building cost-optimized, resilient apps with Amazon EKS and EFS",Chalk talk
+SEC404,Building Quantum-Safe Systems with Post-Quantum Cryptography on AWS,Workshop
+STG412,Building resilience against ransomware using AWS Backup,Breakout session
+STG324,Building resilient block storage through chaos engineering and observability,Chalk talk
+STG406,Building resilient data protection with Amazon EBS Snapshots,Builders' session
+SEC325,"Building Scalable, Secure Secrets Management on AWS",Builders' session
+NTA312,Building The Enterprise Data Success Framework,Chalk talk
+TNC317,Build production-ready Generative AI Applications on AWS,Interactive training
+STG306,Build protection and optimize costs using Amazon EBS Snapshots,Workshop
+STG403,Build ransomware data recovery with AWS Backup logically air-gapped vaults,Workshop
+ISV405,BYOK: The Key to Meeting Enterprise SaaS Security Demands,Code talk
+STG209,Choosing the right AWS storage service,Chalk talk
+SAS402,Creating multi-tenant data lakehouses for agentic SaaS environments,Workshop
+HMC325,Data architecture for multicloud environments,Chalk talk
+STG338,Data protection and resilience with AWS Storage,Breakout session
+STG409,Data protection & application recovery strategies for ransomware,Chalk talk
+AIM339,Data protection strategies for AI data foundation,Code talk
+SEC307,"Design authentication, authorization, and logging logic in Agentic AI apps",Workshop
+COP204-S,From Backup to Live Data: Protecting and Unleashing Your Cloud Data (sponsored by Eon),Breakout session
+SEC220-S,From Cloud to AI  Securing the New Cloud Attack Surface (sponsored by Wiz),Breakout session
+IND3306,From fragmented to unified platform: Rocket Companies data and AI journey ,Breakout session
+AIM218-S,Harnessing AI and Zero Trust to Drive Secure Digital Transformation (sponsored by Zscaler),Breakout session
+SEC405,Implementing Advanced Data Protection Controls,Workshop
+HMC312,Implement RAG while meeting data residency requirements,Chalk talk
+STG337,Improve self-managed database performance and agility with Amazon FSx,Breakout session
+PEX403,Metadata Intelligence: The Key to Trusted and Smart Agentic AI Systems,Chalk talk
+IND218-S,Modernizing Mercedes-Benz’s Global Ordering System with Gen AI (sponsored by Capgemini),Breakout session
+SEC213,Modern Secrets: A Journey from Legacy Systems to AI-Ready Security,Breakout session
+STG213,Motability Operations' unified backup strategy: From fragmented to fortified,Lightning talk
+STG313,Optimize AWS Backup using AI evaluation and Well-Architected best practices,Builders' session
+DAT208-S,Oracle Database@AWS: supercharge your workloads with Oracle Exadata (sponsored by Oracle),Breakout session
+OPN407,Performance tuning for streaming Ingestion into Apache Iceberg,Builders' session
+API210-S,Powering real-time apps and analytics with Redis 8 + RDI (sponsored by Redis),Breakout session
+HMC307-S,Preemptive Recovery: A New Playbook for Cloud Resilience (sponsored by Rubrik),Breakout session
+ARC328,Privacy-preserving AI primitives: Building blocks for regulated industries,Breakout session
+STG325,Protecting block storage at scale with native encryption and EBS Snapshots,Chalk talk
+STG353,Protecting FSx for NetApp ONTAP data from ransomware,Chalk talk
+STG207,"Protect your data with AWS Backup: overview, use cases and what's new",Breakout session
+HMC205-S,Reimagining life sciences supply chain with agentic-AI (sponsored by IBM),Lightning talk
+SEC223-S,"Runtime + AI: Reinventing Cloud Security on AWS (sponsored by Upwind Security, Inc.)",Lightning talk
+DAT307,"Safer, simpler, faster upgrades with managed blue/green deployments",Chalk talk
+STG354,Seamless file storage migration from on-premises to AWS,Chalk talk
+SEC225-S,Securing data for your AI workloads with tokenization (sponsored by Capital One),Breakout session
+SEC314,Securing Data Lakes: From Ingestion to AI Analysis,Builders' session
+COP315,Securing your network perimeter through observability,Workshop
+CNS209,Simplify backup for stateful Amazon EKS workloads,Lightning talk
+SEC203,State of the Art: AWS data protection in 2025 (ft. Vanguard),Breakout session
+HMC306-S,Unlocking Business Value with Cloud Security (sponsored by Tenable),Lightning talk
+AIM334,Unlock sustainability insights: How AI enables AWS carbon management,Chalk talk

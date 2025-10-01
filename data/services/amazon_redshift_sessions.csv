@@ -1,0 +1,23 @@
+code,title,type
+AIM236-S,A $3.7T Wake-Up Call: How data + AI is transforming CX (sponsored by Twilio),Breakout session
+DEV315,"AI Agents for Databases: Discover, Recommend, Optimize",Breakout session
+ANT420,AI-driven scaling in Amazon Redshift Serverless,Chalk talk
+ANT346,Architectural blueprints for your lakehouse in Amazon SageMaker,Chalk talk
+DAT207-S,AWS & Salesforce: A Zero Copy Customer Success Story (sponsored by Salesforce),Lightning talk
+ANT335,Best practices for agentic data engineering with AWS Analytics MCP Servers,Breakout session
+ANT338,Bring unified analytics to your data warehouse with the lakehouse architecture,Chalk talk
+NTA312,Building The Enterprise Data Success Framework,Chalk talk
+ANT404,Build modern data applications with the lakehouse architecture on AWS,Workshop
+ANT334,CMT: High-performance NLP & geospatial analysis with Redshift,Lightning talk
+ANT333,Fast-track to insights: AWS-SAP data strategy,Lightning talk
+IND3311,How Amazon Game Studios builds a data foundation for AI/ML on AWS,Chalk talk
+ANT206,Innovations in SQL Analytics: What's new in Amazon Redshift and Amazon Athena,Breakout session
+AIM208-S,Lamborghini’s AI Journey: Data-Driven Innovation with Deloitte & AWS (sponsored by Deloitte),Breakout session
+ANT323,"Mastering materialized views: tips for fast, low-latency queries in Redshift",Chalk talk
+ANT317,Modernize your data warehouse by moving to Amazon Redshift,Breakout session
+IND212,Real-time Patient and Revenue Cycle Insights with Gen AI,Lightning talk
+ANT414,Scale intelligent analytics with Amazon Redshift multi-cluster architectures,Workshop
+ANT318,Scaling Amazon Redshift with a multi-warehouse architecture,Breakout session
+ANT415,Securely monetize your data with Amazon Redshift,Builders' session
+ANT321,Top 10 tips to improve query performance in Amazon Redshift,Chalk talk
+ISV307,Unlock New Business by Removing Data Silos with Zero-Copy ,Chalk talk

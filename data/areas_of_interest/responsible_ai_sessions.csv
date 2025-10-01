@@ -1,0 +1,40 @@
+code,title,type
+AIM361,Accelerate trusted AI development with AWS responsible AI practices,Chalk talk
+AIM237,Accelerating sustainability compliance with AI-powered document review,Lightning talk
+AIM422,Agentic AI Meets responsible AI: Strategy and best practices,Breakout session
+IND373,Agentic KYC: Autonomous customer screening for financial institutions,Chalk talk
+DEV326,Anti-Money Laundering Multi-agent Orchestration with AWS Strands,Breakout session
+AIM255,Architecting for sustainable IT at scale,Lightning talk
+IND374,Architecting multi-agent systems: Patterns in financial services,Chalk talk
+IND377,Balancing AI Innovation and Security: Novo Nordisk Agentic AI Framework,Chalk talk
+IND341,Behind the curtain: Generative AI observability in financial services,Chalk talk
+AIM256,Building an AI-powered waste classification using Amazon Nova & IoT,Lightning talk
+OPN304,Building Trust in AI Agents: Automated Evaluation at Scale,Chalk talk
+INV516,Can your model keep a secret? How to measure the privacy of your model,Chalk talk
+AIM259-S,Closing the gap between speed and safety: shipping faster at scale (sponsored by LaunchDarkly),Breakout session
+AIM421,Design and deploy custom guardrails for AI applications,Chalk talk
+AIM408,Detect and mitigating hallucinations: A hands-on responsible AI workshop,Workshop
+DVT207,Developer Experience Economics: Moving Past Productivity Metrics,Breakout session
+AIM350-S,"Empowering innovation with integrity—Responsible AI for a smarter, safer future (sponsored by Kyndryl)",Breakout session
+SEC220-S,From Cloud to AI  Securing the New Cloud Attack Surface (sponsored by Wiz),Breakout session
+AIM3323,From principles to practice: Scaling AI responsibly with Indeed,Breakout session
+INV501,Frontier Model Safety in Practice: Amazon Nova Risk Evaluation,Chalk talk
+AIM107-S,High-Impact Results Through Co-Innovation with AWS & SAP Business AI (sponsored by SAP),Breakout session
+AIM240-S,"Human Agency in AI: Balancing Automation, Oversight, and Innovation (sponsored by Boomi)",Breakout session
+AIM275-S,Intelligent Outage Management Using Automated Reasoning and AI (sponsored by PwC),Lightning talk
+INV506,Known Unknowns: Bayesian Multi-Path Framework for Uncertainty in LLMs,Chalk talk
+COP360,Leverage observability to build responsible AI applications,Lightning talk
+AIM258-S,Live hallucination detection in prod with LaunchDarkly’s AI Configs (sponsored by LaunchDarkly),Breakout session
+INV508,LLMs Reflecting on Reasoning: A Probabilistic VC-Theory Approach,Chalk talk
+SPS401,Manchester Airports Group: Scaling operations with Agentic AI & MCP,Breakout session
+AIM254,Master your AWS carbon impact with the Customer Carbon Footprint Tool,Lightning talk
+DVT219,Measuring AI Impact with Amazon Q Developer and Jellyfish,Breakout session
+AIM322,Model governance at scale with SageMaker AI,Workshop
+INV517,Neurosymbolic AI integration in LLMs to enhance reasoning,Chalk talk
+INV509,Neurosymbolic AI: Logic-Enhanced Neural Networks at Amazon Scale,Chalk talk
+AIM253,Optimizing generative AI workloads for sustainability and cost,Lightning talk
+IND360,Privacy-enhanced ML and GenAI for AdTechs with AWS Clean Rooms,Chalk talk
+SEC210-S,Protecting web apps & APIs with AI and an as-a-Service approach (sponsored by Check Point Software),Breakout session
+AIM106-S,Securing the AI Era: From Hype to Real-World Defense (sponsored by Zscaler),Breakout session
+AIM228-S,The Future of Software Craft in the Age of AI (sponsored by Snyk),Breakout session
+DVT328,Unlock development value in the age of AI-driven strategies ,Chalk talk

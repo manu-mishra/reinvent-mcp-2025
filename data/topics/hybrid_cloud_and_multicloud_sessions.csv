@@ -1,0 +1,52 @@
+code,title,type
+HMC316,Address digital sovereignty with hybrid and cloud solutions,Chalk talk
+COP419,Advanced multicloud cost reporting with FOCUS,Code talk
+AIM232-S,Agentic AIOps: How LogicMonitor & WWT See Enterprises Readying for Autonomous IT (sponsored by LogicMonitor),Breakout session
+SNR204,A leaders guide to navigating multicloud strategies and decisions,Breakout session
+HMC206-S,"Anatomy of a Ransomware Attack: A Live Simulation, Sponsored by Rubrik (sponsored by Rubrik)",Breakout session
+HMC210,Architecting multicloud solutions from data mesh to generative AI,Breakout session
+HMC201,"Architecting resilient multicloud operations, feat. Monzo Bank",Breakout session
+HMC211-S,AWS and Oracle: Transforming Healthcare (sponsored by Oracle),Lightning talk
+DAT210-S,AWS and Oracle: Transforming Healthcare (sponsored by Oracle),Lightning talk
+HMC202,AWS wherever you need it: From the cloud to the edge,Breakout session
+ARC332-S,Beyond Multi-Cloud Chaos: The Unified Cloud Mesh Architecture (sponsored by HAProxy Technologies),Breakout session
+CNS305,Bring the power of Amazon EKS to your on-premises applications,Builders' session
+HMC301,Build and operate resilient and performant distributed applications,Workshop
+HMC308,Build generative and agentic AI applications on-premises and at the edge,Breakout session
+HMC209-S,"Building High-Performance, Secure Networks for Hybrid and Multicloud (sponsored by Equinix)",Lightning talk
+HMC208-S,Cloud Application Security in the AI Era: Lessons from Adobe and Fortinet (sponsored by Fortinet),Breakout session
+COP205-S,Connecting Context to Performance: Real-World Enterprise Observability  (sponsored by Splunk),Breakout session
+NTA314,Connecting Infor CloudSuite to AWS Services,Chalk talk
+COP337,Correlating compliance signals across AWS,Chalk talk
+HMC315,Deep dive on AWS hybrid and edge networking architectures,Chalk talk
+HMC314,Deploying for resilience: HA/DR strategies for AWS Outposts and AWS Local Zones,Chalk talk
+HMC311,Developing end-to-end SLM pipelines from the cloud to the edge,Chalk talk
+HMC310,Digital sovereignty and data residency with AWS,Breakout session
+HMC313,Extend Amazon EKS clusters for on-premises and edge use cases,Chalk talk
+HMC103-S,Fast-Track Modernization and Transformation with Nutanix and AWS (sponsored by Nutanix),Lightning talk
+HMC203-S,From Ground to Cloud: CAE Innovates with AWS & Red Hat (sponsored by Red Hat),Breakout session
+CNS210,From monolith to microservices: Migrate and modernize with Amazon EKS,Breakout session
+HMC207-S,From On-Prem to On-Point: Safelite's AWS Cloud Observability Journey (sponsored by SolarWinds),Lightning talk
+HMC105-S,Hybrid Foundations to Cloud Innovation Transforming IBM i/AIX Workloads with AWS (sponsored by Lightedge),Breakout session
+HMC317,Implement Agentic AI at the edge for industrial automation,Code talk
+HMC302,Implementing agentic AI solutions on-premises and at the edge,Workshop
+HMC304,Implementing generative and agentic AI in multicloud environments,Chalk talk
+HMC312,Implement RAG while meeting data residency requirements,Chalk talk
+AMZ302,Kuiper: Building a Low Earth Orbit Satellite Network on AWS,Breakout session
+IND209-S,Leverage Graph Insights to Turbocharge Amazon Q (sponsored by Securiti AI),Lightning talk
+NTA408,Logistics Agility: AWS Success Story ,Breakout session
+HMC305,Low-latency SLM deployment: Optimizing inference on AWS Hybrid and Edge services,Workshop
+HMC402,Meet ultra-low latency and high throughput needs with AWS Outposts,Chalk talk
+HMC303,Migrate and modernize VMware and Java workloads with on-premises dependencies,Workshop
+HMC309,Migrating your VMware workloads with on-premises dependencies,Breakout session
+COP313,Multicloud & hybrid node operation at scale is easier than you think,Chalk talk
+HMC318,Multicloud security best practices,Breakout session
+HMC101,Navigating the multicloud journey: essential foundations for success,Breakout session
+DAT208-S,Oracle Database@AWS: supercharge your workloads with Oracle Exadata (sponsored by Oracle),Breakout session
+HMC307-S,Preemptive Recovery: A New Playbook for Cloud Resilience (sponsored by Rubrik),Breakout session
+HMC104-S,Ready your enterprise for agents with AI-driven modernization (sponsored by IBM),Breakout session
+HMC205-S,Reimagining life sciences supply chain with agentic-AI (sponsored by IBM),Lightning talk
+HMC204-S,"Reinventing the Retail Edge with YUM! Brands, AWS & Spectro Cloud (sponsored by Spectro Cloud)",Lightning talk
+CNS355,Unlock distributed GenAI inference with Amazon EKS Hybrid Nodes,Chalk talk
+HMC306-S,Unlocking Business Value with Cloud Security (sponsored by Tenable),Lightning talk
+COP345,Using AI to bridge the multicloud skills gap in IT operations,Lightning talk

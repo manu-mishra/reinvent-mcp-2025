@@ -1,0 +1,16 @@
+code,title,type
+IND302,Agentic AI for Autonomous Networks: AgentCore Design Patterns in Action,Chalk talk
+ANT335,Best practices for agentic data engineering with AWS Analytics MCP Servers,Breakout session
+ANT343,Best practices for building Apache Iceberg based lakehouse architectures on AWS,Breakout session
+ANT402,Build an end-to-end fraud detection system with Amazon SageMaker Unified Studio,Workshop
+ANT324,"Building Pipelines for Analytics, ML and AI in Amazon Sagemaker Unified Studio",Chalk talk
+ANT328,Data Processing architectures for building AI solutions,Breakout session
+ANT340,Deep dive into data processing in SageMaker Unified Studio,Chalk talk
+ANT336,Enterprise-scale ETL optimization for Apache Spark,Breakout session
+AIM279-S,FINRA: Accelerate Massive Data Processing with NVIDIA on AWS EMR (sponsored by NVIDIA),Lightning talk
+ANT342,ITTI's Cross-Company Data Mesh Blueprint with Amazon SageMaker,Lightning talk
+AIM298-S,Next-Generation Data Management — Insights at Scale with Agentic AI in Pharma (sponsored by ZS),Lightning talk
+ANT319,Optimizing Apache Spark workloads with AWS  Data Processing,Chalk talk
+AIM299-S,Reinventing Pharma Document Workflows to Unlock Value at Scale with Agentic AI (sponsored by ZS),Lightning talk
+ANT320,Strengthening security for Apache Spark workloads,Chalk talk
+ANT305,What's new in AWS Data Processing,Breakout session

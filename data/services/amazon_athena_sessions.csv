@@ -1,0 +1,18 @@
+code,title,type
+STG357,Accelerate data discovery with object metadata in Amazon S3,Breakout session
+COP401,Advanced analytics with AWS Cost and Usage Reports,Code talk
+COP419,Advanced multicloud cost reporting with FOCUS,Code talk
+AIM247-S,"All Power, No Pain: Scale Agentic AI Apps in an Open Lakehouse (sponsored by Qlik)",Lightning talk
+ANT402,Build an end-to-end fraud detection system with Amazon SageMaker Unified Studio,Workshop
+STG413,Building an operational data lake using S3 Tables and SageMaker,Chalk talk
+SPS302,Democratize Data: Bundesliga Real-time Insights Without Writing any SQL,Chalk talk
+COP306,Developing Unit Cost Metrics with Cloud Intelligence Dashboards,Builders' session
+COP410,Exploring Multi-tenant Cost Allocation for Container Workloads,Workshop
+STG308,Gaining insights from your data lake with Amazon S3 Metadata,Builders' session
+NTA302,IAM Analytics: Automate & Visualize,Workshop
+ANT206,Innovations in SQL Analytics: What's new in Amazon Redshift and Amazon Athena,Breakout session
+IND3305,LSEG: Transforming market intelligence at massive scale,Breakout session
+ANT326,Mastering data transformations with Amazon Athena,Chalk talk
+STG346,Visualize data lake insights with S3 Tables and AWS analytics,Chalk talk
+ANT305,What's new in AWS Data Processing,Breakout session
+STG342,Working with S3 Metadata: From basic queries to custom metadata,Chalk talk

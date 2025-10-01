@@ -1,0 +1,19 @@
+code,title,type
+SPS324,Accelerate code delivery: Amazon Q developer and dev containers,Code talk
+TNC201,Autoscale EC2 Instances with Amazon EventBridge,Interactive training
+ARC319,Beyond microservices: Event-driven patterns for modern applications,Chalk talk
+CMP309,Beyond the Console: Building Powerful AWS Operational Dashboards,Chalk talk
+API316,Build Hybrid Serverless Architectures with AWS and On-premises Systems,Chalk talk
+API305,Building EDAs with Apache Kafka and Amazon EventBridge,Chalk talk
+CNS307,Building event-driven architectures using Amazon ECS with AWS Fargate,Breakout session
+API201,Decoupling your data-driven applications with Amazon EventBridge Pipes,Builders' session
+CNS423,From Trigger to Execution: The Journey of Events in AWS Lambda,Breakout session
+API312,From Zero to Millions: Building Real-Time Applications at Scale,Breakout session
+API315,Integration patterns for distributed systems,Breakout session
+SAS405,Integration patterns for multi-tenant systems,Breakout session
+MAM327,Modernizing enterprise systems with event-driven AI,Breakout session
+NTA304,Multi-Tenant ETL: Consolidate SaaS Data,Builders' session
+API319,Processing payments with real-time serverless architectures,Chalk talk
+ARC325,Refactoring post-migration: API-first and event-driven architectures,Chalk talk
+SPS323,Securing event-driven architectures: from sync to async security,Code talk
+API207,Using event-driven architectures to modernize legacy applications at scale,Breakout session

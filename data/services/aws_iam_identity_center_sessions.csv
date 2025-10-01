@@ -1,0 +1,8 @@
+code,title,type
+SEC341,Automating IAM policy validation and analysis using GitHub Actions,Code talk
+MAM404,Building agentic AI applications on Amazon Bedrock using C# and .NET,Builders' session
+SEC333,From Static to Dynamic: Modernizing AWS Access Management,Chalk talk
+SEC340,IAM Access Analyzer Deep Dive: From Configuration to Remediation,Code talk
+SEC214,Patterns for multiple AWS organizations for mergers and divestitures,Chalk talk
+SEC328-S,Securing AI Agents: The Future of Identity & Access Control (sponsored by WorkOS),Breakout session
+SEC320,The AWS Security Incident Response Challenge: Defend the Cake!,Workshop

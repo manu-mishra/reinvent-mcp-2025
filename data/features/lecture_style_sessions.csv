@@ -1,0 +1,795 @@
+code,title,type
+DVT222-S,100% Observability at 10% the Cost Using Grepr's Real-Time ML (sponsored by Grepr),Lightning talk
+MAM349,4x faster workload modernization with agentic AI,Lightning talk
+CMP349,5-Star Customer Service: Duolingo's Path to Compute Savings,Breakout session
+DEV345,800GB of AI data: Lessons from a failed project,Lightning talk
+AIM236-S,A $3.7T Wake-Up Call: How data + AI is transforming CX (sponsored by Twilio),Breakout session
+AIM362,Accelerate AI workloads with UltraServers on Amazon SageMaker HyperPod,Breakout session
+ANT309,Accelerate analytics and AI with an open and secure lakehouse architecture ,Breakout session
+STG340,Accelerate & automate secure data transfers at scale with AWS DataSync,Breakout session
+STG357,Accelerate data discovery with object metadata in Amazon S3,Breakout session
+AMZ401,Accelerate Developer Productivity with Amazon's Generative AI Approach,Breakout session
+STG201,Accelerate gen AI and ML workloads with AWS storage,Breakout session
+AIM219-S,Accelerate Innovation: AI-Driven Automation for Modern Operations (sponsored by PagerDuty),Breakout session
+MAM216-S,Accelerate Legacy Modernization with Slalom & AWS (sponsored by Slalom),Lightning talk
+WPS204,Accelerate mission outcomes with recent AWS government regions innovations,Lightning talk
+DVT211,Accelerate .NET application modernization with generative AI ,Breakout session
+PEX101,Accelerate new customer engagement and revenue growth,Breakout session
+IND371,Accelerate product development lifecycle with a product digital twin,Lightning talk
+CNS315,Accelerate software delivery with Amazon,Breakout session
+BIZ222,Accelerate supply chain transformation with agentic AI,Breakout session
+DVT216,Accelerate Terraform Provider development worklows with Amazon Q Developer CLI,Breakout session
+TNC208,Accelerate Your Cloud Journey with AWS Transform and AWS Skill Builder,Breakout session
+IND3320,Accelerating AI: How Sun Life reduces latency and enhances engagement,Breakout session
+AIM251,Accelerating AI innovation with NVIDIA GPUs on AWS,Breakout session
+BIZ324-S,Accelerating Business Value with Cloud and AI (sponsored by Infosys),Breakout session
+PEX303,Accelerating Development and DevSecOps with Amazon Bedrock & Amazon Q,Breakout session
+CMP302,Accelerating Engineering: Cross-Industry HPC Cloud Transformations,Breakout session
+COP334,Accelerating incident response through AIOps,Breakout session
+IND202,Accelerating Real-World Evidence Generation in Life Sciences,Breakout session
+WPS313,Accelerating Research at Scale: MIT’s Self-Service Portal,Breakout session
+DAT205-S,Accelerating SAP Transformation with Amazon EC2 with the latest Intel Xeon CPUs (sponsored by Intel),Breakout session
+AIM237,Accelerating sustainability compliance with AI-powered document review,Lightning talk
+PEX203,Accelerating workload modernization using next generation agentic AI,Breakout session
+MAM201,A complete guide to Amazon EVS: Unlock AWS scale for VMware workloads,Breakout session
+COP347,Actionable controls for improving governance and compliance,Breakout session
+NET317,A day in the life of an AWS WAF administrator ,Breakout session
+API314,A decade of API Gateway: Architecting the future of API Management,Breakout session
+AIM265-S,Adopting AI within Streaming Architectures (sponsored by Redpanda),Lightning talk
+SEC410,Advanced AI Security: Architecting Defense-in-Depth for AI Workloads,Breakout session
+DAT438,Advanced data modeling for Amazon ElastiCache,Breakout session
+DAT414,Advanced data modeling with Amazon DynamoDB,Breakout session
+NET201,Advanced VPC design and new capabilities,Breakout session
+ARC208-S,Advancing Behavioral Health Analytics with Integrated Cloud Services (sponsored by Deloitte),Breakout session
+BIZ221,Agentic AI advancements in customer experience with Amazon Connect,Breakout session
+ANT315,Agentic AI for Intelligent Observability with OpenSearch Service,Breakout session
+MAM202,Agentic AI for VMware migrations with AWS Transform for VMware,Breakout session
+AIM422,Agentic AI Meets responsible AI: Strategy and best practices,Breakout session
+AIM232-S,Agentic AIOps: How LogicMonitor & WWT See Enterprises Readying for Autonomous IT (sponsored by LogicMonitor),Breakout session
+PEX202,Agentic AI's new generation of Industry and Line of Business solutions,Breakout session
+PEX301,Agentic AI Solutions for Financial Services & Insurance with AWS,Breakout session
+AIM342-S,Agentic AI: The Next Frontier of Cloud Intelligence (sponsored by Atos),Lightning talk
+AIM295-S,Agentic Analytics in Action (sponsored by ZS),Lightning talk
+AIM257-S,Agentic Data Fabric: Powering Autonomous AI with Trusted Data (sponsored by Reltio),Lightning talk
+OPN410,Agentic Workflows: How Salesforce Manages 1000+ Clusters,Breakout session
+AIM217-S,Agents Assemble! The Power of AI Tools That Work Together (sponsored by New Relic),Breakout session
+AIM3312,Agents that remember: Implementing context with AgentCore Memory,Breakout session
+AIM3316-S,Agents & Tool Use at the Frontier: Building Autonomous Systems w/ Claude on AWS (sponsored by Anthropic),Breakout session
+DEV301,"AI agents at the edge: Build for offline, scale in cloud",Breakout session
+GBL202,AI Agents at Work: Real-World Platforms Driving Business Innovation,Breakout session
+DEV315,"AI Agents for Databases: Discover, Recommend, Optimize",Breakout session
+INV202,AI agents in action: Architecting the future of applications,Innovation talk
+IND207,AI Agents in Concert: Building Self-Healing Networks with AWS & Ericsson,Breakout session
+SEC226-S,AI Agents – the new face of privileged machine identities  (sponsored by CyberArk),Lightning talk
+AIM263-S,"AI Agents with Amazon Nova Sonic: Vonage for Financial Services (sponsored by Vonage, Part of Ericsson)",Lightning talk
+AIM115-S,"AI, Cloud & Public Sector Transformation: PwC & AWS Driving Change Now (sponsored by PwC)",Lightning talk
+MAM103-S,AI driven application modernization at scale (sponsored by Pega),Lightning talk
+GBL201,AI-Driven Operations: Scaling Observability and Cost Optimization,Breakout session
+AIM230-S,AI-Driven Testing: Scaling Automation with KaneAI and HyperExecute (sponsored by LambdaTest),Lightning talk
+AIM274-S,AI-First Contact Centers: Reinventing Scale with AWS and Partners (sponsored by PwC),Breakout session
+GBL205,AI in Action: How Companies Unlock Global Value & Fuel Growth,Breakout session
+AIM242-S,"AI in the Cloud: Surveillance, Sabotage, and Security (sponsored by Trend Micro)",Breakout session
+DEV323,AI Native Development: Strategies and Impact across Amazon and AWS,Breakout session
+AIM220-S,AI-Native Era of Observability: How You Can Get Started Today (sponsored by Coralogix),Breakout session
+SMB301,AI Pioneers: Shipping Transformative GenAI Architectures to Production,Breakout session
+PEX113,AI-powered co-sell: Unlock partner success with AWS Partner Central ,Lightning talk
+ARC337-S,AI-Powered Enterprise Architecture with ServiceNow & AWS (sponsored by ServiceNow),Breakout session
+AIM206-S,AI-Powered Observability & Observability for AI: The Two Sides of the Coin (sponsored by ManageEngine),Lightning talk
+COP420,AI-powered resilience testing and disaster recovery,Breakout session
+BIZ201,AI-powered retail transformation with Just Walk Out technology,Breakout session
+DVT103-S,AI transforms development: Lessons from CircleCI's journey with AWS (sponsored by CircleCI),Lightning talk
+SNR301,A leaders guide to accelerating large-scale migration,Breakout session
+SNR304,A leaders guide to achieving compliance through software excellence,Breakout session
+SNR303,A leaders guide to advanced mental models and mechanisms,Breakout session
+SNR307,A leaders guide to advanced team structures in an agentic world ,Breakout session
+SNR201,A leaders guide to agentic AI ,Breakout session
+SNR306,A leaders guide to AI powered FinOps,Breakout session
+SNR305,A leaders guide to AI strategy and implementation,Breakout session
+SNR302,A leaders guide to cloud-native application modernization,Breakout session
+SNR202,A leaders guide to data strategy in the era of agentic AI ,Breakout session
+SNR203,A leaders guide to emerging technologies: From insight to rapid action,Breakout session
+SNR204,A leaders guide to navigating multicloud strategies and decisions,Breakout session
+AIM247-S,"All Power, No Pain: Scale Agentic AI Apps in an Open Lakehouse (sponsored by Qlik)",Lightning talk
+DAT442,Amazon Aurora HA and DR design patterns for global resilience,Breakout session
+TNC322,Amazon Bedrock Agents: Features and Design Patterns,Breakout session
+ANT423,Amazon Kinesis Data Streams under the hood,Breakout session
+CMP303,Amazon Linux: latest features and AWS optimizations,Breakout session
+STG335,"Amazon S3 performance: Architecture, design, and optimization",Breakout session
+STG316,Amazon S3 security and access control best practices,Breakout session
+STG334,"Amazon S3 Tables architecture, use cases, and best practices",Breakout session
+AMZ308,Amazon's finops: Cloud cost lessons from a global e-commerce giant,Lightning talk
+NET309,A modern approach to application migration with Amazon VPC Lattice,Breakout session
+AIM203-S,An Alliance for Our Times: Building the Next Frontier of Cancer Research (sponsored by Deloitte),Breakout session
+HMC206-S,"Anatomy of a Ransomware Attack: A Live Simulation, Sponsored by Rubrik (sponsored by Rubrik)",Breakout session
+INV206,"A new dawn for operations: More intelligent, secure, and efficient",Innovation talk
+DAT436,An insider’s look into architecture choices for Amazon DynamoDB,Breakout session
+IND396,Another Axiom: Migrating the backend for hit game Gorilla Tag to AWS,Lightning talk
+BIZ212,Anthology boosts contact center efficiency with AI,Breakout session
+DEV326,Anti-Money Laundering Multi-agent Orchestration with AWS Strands,Breakout session
+OPN401,An unexpected journey building AWS MCP Servers,Breakout session
+IND368,Apollo Tyres Accelerates Engineering Workflows with HPC on AWS,Breakout session
+AIM296-S,A practical guide to modern web architecture  (sponsored by Contentful),Lightning talk
+DAT315,A practitioner’s guide to data for agentic AI,Breakout session
+ARC335,Architecting AI solutions for mission-critical systems with UK MetOffice,Breakout session
+ARC209,Architecting for hypergrowth: Scaling to 200 million users with Skyscanner,Breakout session
+AIM255,Architecting for sustainable IT at scale,Lightning talk
+WPS201,"Architecting large-scale migrations at the NSA, Fannie Mae, and DCSA",Breakout session
+HMC210,Architecting multicloud solutions from data mesh to generative AI,Breakout session
+ARC320,Architecting resilient global networks with Project Kuiper,Breakout session
+HMC201,"Architecting resilient multicloud operations, feat. Monzo Bank",Breakout session
+ANT204,Architecting the future: Amazon SageMaker as a data and AI platform,Breakout session
+MAM221-S,Architecting Trusted GenAI and Agentic Experiences in Financial Services (sponsored by Coveo),Lightning talk
+DEV341,Architecture lessons: Three failures and how to prevent them,Lightning talk
+DVT316-S,Are your APIs ready for AI agents? (sponsored by Postman),Breakout session
+AIM113-S,AstraZeneca's AI-powered Drug Discovery with Snowflake & AWS (sponsored by Snowflake),Breakout session
+DAT455,A tale of two transactions,Breakout session
+SPS201,Autodesk's ML Inference Optimization: Leveraging AWS AI Chips,Breakout session
+SEC217-S,Automated cloud security remediation with agentic workflows (sponsored by Dynatrace),Lightning talk
+IND384,Automate insights and drive innovation with cloud and AI solutions,Breakout session
+IND393,Automating Amazon Fulfillment Center Operations with Generative AI,Breakout session
+MAM342,Automating enterprise-scale code modernization with agentic AI,Breakout session
+SPS309,Automating LLM Fine-Tuning with Multi-Agentic Orchestration,Breakout session
+DEV206,Automating Suricata rules for AWS network firewall,Lightning talk
+PEX305,Automotive Supply Chain Optimization using AI,Breakout session
+ANT424,Autonomous agents powered by streaming data and Retrieval Augmented Generation,Breakout session
+BIZ101-S,Autonomous Enterprise: Redefining the Future of Business with AI (sponsored by Digitate),Lightning talk
+WPS207,Autonomy in Defense: Scaling Innovation for Mission Outcomes,Breakout session
+HMC211-S,AWS and Oracle: Transforming Healthcare (sponsored by Oracle),Lightning talk
+DAT210-S,AWS and Oracle: Transforming Healthcare (sponsored by Oracle),Lightning talk
+SEC323,AWS detection and response innovations that drive security outcomes,Breakout session
+SEC201,AWS European Sovereign Cloud: From concept to reality,Breakout session
+GBL101,AWS European Sovereign Cloud: Your 20-Minute Essential Guide,Lightning talk
+MAM203,"AWS for VMware migrations: Successes, roadmaps, & strategies",Breakout session
+SMB202,AWS & GenAI Power CDG's Telecom Software Modernization Journey,Lightning talk
+PEX108,AWS Generative AI Innovation Center driving enterprise success with AWS Partners,Lightning talk
+PEX105,AWS Global Startup Program - how to accelerate your GTM success,Lightning talk
+CMP307,AWS Graviton: The best price performance for your AWS workloads,Breakout session
+DVT203, AWS infrastructure as code: A year in review,Breakout session
+SEC218,AWS KMS over the decade: How architecture evolved to earn customer trust,Breakout session
+PEX209,AWS Marketplace growth through product-led growth and international expansion,Lightning talk
+MAM309,AWS migration journey: 2025 itinerary for Microsoft workloads,Breakout session
+NET208,"AWS Networking Fundamentals: Connect, secure and scale",Breakout session
+DAT207-S,AWS & Salesforce: A Zero Copy Customer Success Story (sponsored by Salesforce),Lightning talk
+TNC107,AWS Skill Builder: Product Launches and New Features,Breakout session
+INV215,AWS storage beyond data boundaries: Building the data foundation,Innovation talk
+HMC202,AWS wherever you need it: From the cloud to the edge,Breakout session
+AIM3304,"Balance cost, performance & reliability for AI at enterprise scale",Breakout session
+AIM235-S,Balance performance and cost on AWS with intelligent optimization (sponsored by IBM),Lightning talk
+COP349,Balancing Agility and Compliance feat. The Digital Agency of Japan,Breakout session
+HMC324,BCC: Hybrid architecture for generative AI to meet regulatory needs,Lightning talk
+COP415,Behind the scenes: How AWS drives operational excellence & reliability,Breakout session
+ANT335,Best practices for agentic data engineering with AWS Analytics MCP Servers,Breakout session
+ANT343,Best practices for building Apache Iceberg based lakehouse architectures on AWS,Breakout session
+COP209-S,"Best Practices for moving, innovating & extending SAP Cloud ERP (sponsored by SAP)",Breakout session
+CNS403,Best practices for serverless developers,Breakout session
+STG317-S,Best practices to simplify resilience at scale for Gen AI data & apps (sponsored by Commvault),Breakout session
+DAT458,"Better, faster, cheaper: How Valkey is revolutionizing caching",Breakout session
+AIM284-S,Beyond a Chatbot: How to Build Intelligent Agent Memory (sponsored by MongoDB),Breakout session
+SEC205-S,Beyond Backup: Advancing Cloud Resiliency with Shared Responsibility (sponsored by Cohesity),Breakout session
+IND213,Beyond EHR: Leveraging AWS for Maximum Clinical and Operational Impact,Breakout session
+GBL302,Beyond Fine-Tuning: Agentic AI for HFT Quantitative Analytics ,Lightning talk
+ARC332-S,Beyond Multi-Cloud Chaos: The Unified Cloud Mesh Architecture (sponsored by HAProxy Technologies),Breakout session
+SEC209-S,Beyond Posture Management: Stopping Data Breaches in AWS (sponsored by Varonis),Lightning talk
+STG361,Beyond SFTP and NFS: Automate enterprise file transfers at scale,Breakout session
+AIM231-S,Beyond the Hype: Delivering Measurable ROI with Generative AI on AWS (sponsored by CDW),Lightning talk
+EUC207,Beyond traditional computing: How WorkSpaces powers the future workplace,Breakout session
+DAT202-S,Beyond Vector Search: Ultra-Resilient GenAI Apps with AWS Bedrock (sponsored by YugabyteDB),Lightning talk
+DAT322,Binge-worthy: Netflix's journey to Amazon Aurora at scale,Lightning talk
+AIM103-S,Boomi Agentstudio- Govern Your AI Agents with Agent Control Tower (sponsored by Boomi),Breakout session
+BIZ223,Boost employee productivity with Amazon Q Business,Breakout session
+DAT312,Boost performance and reduce costs in Amazon Aurora and Amazon RDS,Breakout session
+DEV343,Breaking AWS networks on purpose to build resilience,Lightning talk
+MAM402,Breaking the legacy barrier: How AI is revolutionizing modernization,Breakout session
+AIM201,Break through AI performance and cost barriers with AWS Trainium,Breakout session
+AIM394,Bridging the POC to production gap: An introduction to AgentCore,Breakout session
+DVT224-S,Bronto: Logs at Scale Without Compromise (sponsored by Bronto),Lightning talk
+AIM224-S,Browser Power: Building MCP Tools That Do Real Work (sponsored by Cloudflare),Lightning talk
+DEV339,Build a chat app for smart home appliances,Lightning talk
+ANT314,"Build Advanced Enterprise Search with Vector, Hybrid, and AI Techniques ",Breakout session
+ANT327-S,Build a GenAI Race Tracker With Confluent & AWS Bedrock in <60 Min  (sponsored by Confluent),Breakout session
+AIM3311,Build agentic workflows on AWS with third-party agents and tools,Breakout session
+CNS358,"Build AI-powered developer experiences with MCP on ECS, EKS and Lambda",Breakout session
+AIM382,Build AI your way with Amazon Nova customization,Breakout session
+AIM104-S,Build an Agentic SaaS App in 5 Steps: From Idea to Revenue (sponsored by Pega),Lightning talk
+ANT304,Build an AI-ready data foundation,Breakout session
+AIM310,Build a well-architected foundation for scaling generative AI and agentic apps,Breakout session
+CNS359,"Build, deploy, and operate agentic architectures on AWS Serverless",Breakout session
+HMC308,Build generative and agentic AI applications on-premises and at the edge,Breakout session
+ANT344,"Build, govern, and share Amazon QuickSight dashboards with Amazon SageMaker",Breakout session
+AIM273-S,Building a Cloud-Native Risk Decisioning Platform for Resilience (sponsored by PwC),Breakout session
+API208,Building a culture of API Excellence,Lightning talk
+DEV327,Building Agentic AI: Amazon Nova Act and Strands Agents in Practice,Breakout session
+OPN303,Building agentic AI platform engineering solutions with open source,Breakout session
+AIM239-S,Building Agentic Enterprise Workflows with Informatica & AWS (sponsored by Informatica),Breakout session
+DAT319,Building agentic memory layers on AWS managed databases,Breakout session
+AIM256,Building an AI-powered waste classification using Amazon Nova & IoT,Lightning talk
+AMZ305,Building and managing conversational AI at scale: lessons from Alexa+,Breakout session
+COP350,Building and validating cloud controls with generative AI,Breakout session
+ARC312,Building at global scale: Engineering AWS expansion,Breakout session
+API209-S,Building better AI agents by applying context engineering (sponsored by Redis),Breakout session
+WPS316,Building Cornell's AI Future: AWS Innovation at Enterprise Scale,Breakout session
+PEX302,Building enterprise-grade Agentic AI factory,Breakout session
+AIM280-S,Building Enterprise-Ready Agentic Speech AI Pipelines on AWS (sponsored by NVIDIA),Breakout session
+CNS307,Building event-driven architectures using Amazon ECS with AWS Fargate,Breakout session
+AIM290-S,"Building Fast, Cost-Efficient, Sovereign Inference Platforms on AWS w/Intel CPUs (sponsored by Intel)",Breakout session
+CMP351,Building for Efficiency & Reliability with Performance Testing on AWS,Lightning talk
+HMC209-S,"Building High-Performance, Secure Networks for Hybrid and Multicloud (sponsored by Equinix)",Lightning talk
+AIM394-S,Building multi-agent AI SRE: from root cause to vibe debugging (sponsored by Resolve AI),Breakout session
+ISV306,Building Multi-tenant global ML SaaS platform,Lightning talk
+ARC207,Building on AWS resilience: Innovations for critical success,Breakout session
+MAM104-S,Building Predictable AI Agents with Pega and AWS Bedrock (sponsored by Pega),Lightning talk
+DEV311,Building production AI agents for cloud application resilience on AWS,Breakout session
+API313,Building Production-Grade Workflow Patterns with AWS Step Functions,Breakout session
+IND3302,Building Prudential’s microagent platform with MCP and A2A on AWS,Breakout session
+COP340,"Building reliable operations, feat. Fannie Mae",Breakout session
+STG412,Building resilience against ransomware using AWS Backup,Breakout session
+ARC404,Building resilient multi-Region applications with Capital One,Breakout session
+AIM282-S,Building Scalable Agentic AI Solutions with AWS (sponsored by Capital One),Breakout session
+AIM375,Building scalable applications with text and multimodal understanding,Breakout session
+DEV415,"Building Scalable, Self-Orchestrating AI Workflows with A2A and MCP",Breakout session
+SEC208-S,Building Secure-by-Design Environments with AWS Capabilities (sponsored by Native),Lightning talk
+DEV312,"Building, Securing, and Monitoring Kiu: A Global Community AI Agent",Breakout session
+AIM3307-S,Building the Future Trading Platform leveraging AI and AWS (sponsored by Cognizant),Breakout session
+AIM390,Building tomorrow's AI applications at scale with Amazon Bedrock,Breakout session
+AIM345-S,Building with Elastic MCP and Amazon Bedrock AgentCore (sponsored by Elastic),Breakout session
+AIM122-S,"Building workflows of your choosing: agents, copilots, and everything in between (sponsored by Tines)",Lightning talk
+API205-S,"Build, manage and govern AI agents from one place (sponsored by IBM)",Lightning talk
+DEV308,Build modern applications with Amazon Aurora DSQL,Breakout session
+AIM383,Build more effective agents through model customization,Breakout session
+AIM233-S,"Build observable AI agents with Strands, AgentCore, and Datadog (sponsored by Datadog)",Breakout session
+CNS353,Build safe and resilient deployment pipelines for Amazon ECS,Lightning talk
+DAT314,Build serverless chatbots using Amazon ElastiCache & Aurora PostgreSQL,Breakout session
+AIM372,"Build useful, reliable agents with Amazon Nova",Breakout session
+AIM111-S,Build your agentic operating system with Slack (sponsored by Slack from Salesforce),Lightning talk
+BIZ219,Caesars personalizes guest service at scale with AI-powered Amazon Connect,Breakout session
+ARC202,Capability-first architecture: Bridging business intent to technology,Breakout session
+IND3308,Capital One: Building resilient systems by engineering for five nines,Breakout session
+DAT102-S,CCC Intelligent Solutions Achieves Major Savings with Oracle to AWS PostgreSQL (sponsored by Cognizant),Breakout session
+COP342,Centralize Multicloud Management using AWS,Breakout session
+WPS202,Chaos & Continuity: Using Gen AI to improve humanitarian workload resilience,Lightning talk
+AIM277-S,Claude 4 on AWS: Architecting Enterprise AI at Scale (sponsored by Anthropic),Breakout session
+SEC319,Climbing the AI Mountain With Your Security Team,Breakout session
+AIM118-S,Clinical Trials: AbbVie's Enterprise AI-Powered Document Creation Platform GAIA (sponsored by Accenture),Breakout session
+AIM259-S,Closing the gap between speed and safety: shipping faster at scale (sponsored by LaunchDarkly),Breakout session
+HMC208-S,Cloud Application Security in the AI Era: Lessons from Adobe and Fortinet (sponsored by Fortinet),Breakout session
+ANT334,CMT: High-performance NLP & geospatial analysis with Redshift,Lightning talk
+BIZ215,Cochlear enhances contact center observability with Amazon Connect,Breakout session
+DVT405,Code completion to agents: The evolution of development,Breakout session
+SPS310,Commonwealth Bank of Australia reimagines modernization via agentic AI,Breakout session
+COP205-S,Connecting Context to Performance: Real-World Enterprise Observability  (sponsored by Splunk),Breakout session
+DVT202, Continuous integration and continuous delivery (CI/CD) for AWS,Breakout session
+DEV313,Control humanoid robots and drones with voice and Agentic AI,Breakout session
+AIM292-S,Cracking the SMB Code: AI Sales That Redefine Travel Growth (sponsored by ZS),Lightning talk
+MAM347,Create custom mainframe modernization with AWS and AWS partners,Breakout session
+AIM374,Create hyper-personalized voice interactions with Amazon Nova Sonic,Breakout session
+DVT221,Crowning the Kiro code champions,Lightning talk
+CMP208-S,Customer Insights: Scaling Real-World AI with AMD on AWS (sponsored by AMD),Breakout session
+AIM110-S,Customer Services Reinvention powered by AWS (sponsored by Accenture),Breakout session
+AIM267-S,Customer Story: AI Adoption with Salesforce & Amazon Bedrock (sponsored by Salesforce),Lightning talk
+AIM363,Customize & scale foundation models using Amazon SageMaker AI,Breakout session
+DVT336-S,Customizing Llama Models for Code (sponsored by Meta),Breakout session
+GBL204,"Cyber Resilience on AWS, designing security and recovery strategies",Breakout session
+INV208,Databases made effortless so agents and developers can change the world,Innovation talk
+DAT311,Data modeling core concepts for Amazon DynamoDB,Breakout session
+ANT328,Data Processing architectures for building AI solutions,Breakout session
+STG338,Data protection and resilience with AWS Storage,Breakout session
+CNS367,Debug Lambda functions deployed in cloud like never before,Breakout session
+NET401,Deep dive into advanced routing policy with AWS Cloud WAN,Breakout session
+DAT441,Deep dive into Amazon Aurora and its innovations,Breakout session
+DAT439,Deep dive into Amazon Aurora DSQL and its architecture,Breakout session
+DAT444,Deep dive into Amazon DocumentDB and its innovations,Breakout session
+CNS416,Deep dive into Amazon ECS resilience and availability,Breakout session
+DAT445,Deep dive into databases zero-ETL integrations,Breakout session
+DAT446,Deep Dive into Deloitte's Amazon Neptune GenAI Security Intelligence Center,Breakout session
+CMP316,Deep Dive into the AWS Nitro System,Breakout session
+STG407,Deep dive on Amazon S3,Breakout session
+AIM384,Delighting Slack users safely and quickly with Amazon Nova and Bedrock,Breakout session
+AIM3305,"Deliver a smarter, faster, and a more accurate agentic RAG system",Breakout session
+IND331,Democratizing Whirlpool's Virtual Product Development with AWS,Breakout session
+DEV209,Deploy Amazon EKS workloads with ArgoCD and GitOps,Lightning talk
+MAM205,Derisk your mainframe exit through mainframe refactoring with agentic AI,Breakout session
+DEV316,Designing local Generative AI inference with AWS IoT Greengrass,Breakout session
+CNS362,Designing mission critical applications with serverless services,Breakout session
+API311,Designing resilient Serverless Applications,Breakout session
+DVT102-S,Designing with Agents: A Playbook for Enterprise Engineering Leaders (sponsored by Windsurf),Breakout session
+DEV337,Detecting falls in aged care with a minimum lovable product,Lightning talk
+SEC327-S,Detection Engineering at Scale: Building High-Fidelity Security Operations (sponsored by Datadog),Breakout session
+AIM388,Develop AI Agents faster with Amazon SageMaker Studio and AgentCore,Breakout session
+AIM381,Develop AI Agents faster with Amazon SageMaker AI & Bedrock AgentCore,Breakout session
+DVT207,Developer Experience Economics: Moving Past Productivity Metrics,Breakout session
+CNS415-S,Developing Serverless Applications Locally with AWS and LocalStack (sponsored by LocalStack),Lightning talk
+HMC310,Digital sovereignty and data residency with AWS,Breakout session
+MAM204,Digital transformation excellence: From vision to victory,Breakout session
+OPN309,Disagree in Commits: The Performance Improvements That Cut Costs by a Third,Breakout session
+COP356,Disaster Recovery (DR) with AWS Elastic Disaster Recovery Service,Lightning talk
+AIM249-S,Discover and secure non-human identities (sponsored by Okta),Breakout session
+AIM260-S,Ditch your old SRE playbook: AI SRE for root cause in minutes (sponsored by Resolve AI),Breakout session
+DAT435,Dive deep into Amazon DynamoDB,Breakout session
+AIM261-S,Dive into Poolside: AI Models for Today’s Enterprise Software Teams (sponsored by poolside),Breakout session
+AIM285-S,DraftKings & MongoDB: Supercharging Engineering with AI (sponsored by MongoDB),Breakout session
+DAT320,DraftKings: Scaling to 1M operations/min on Aurora during Super Bowl,Lightning talk
+COP327,Drive operational excellence for modern applications,Breakout session
+IND3307,Drive Supply Chain Innovation Using AWS Cloud and AI Solutions,Breakout session
+AIM234-S,Drive trusted AI outcomes with governance and accurate data (sponsored by IBM),Lightning talk
+DAT103-S,Driving AI Innovation at the Enterprise Level with MDB Atlas (sponsored by MongoDB),Lightning talk
+BIZ210-S,Driving Intelligent Project Portfolio Visibility with AWS + Smartsheet (sponsored by Smartsheet),Lightning talk
+MAM219-S,Driving modernization using Mphasis’ Agentic AI framework (sponsored by Mphasis),Lightning talk
+ISV316,Driving Profitable Growth with Generative AI: From Prompt to Product,Breakout session
+COP101-S,Driving Resilience with Assurance and Visibility from Edge to Cloud (sponsored by Cisco),Lightning talk
+DAT453,DynamoDB zero-trust architecture: Advanced access controls,Breakout session
+AIM2202-S,"Edge AI in Real-World Solutions using AWS SageMaker, Greengrass and Bedrock (sponsored by Qualcomm)",Breakout session
+COP326,Elevate application and generative AI observability,Breakout session
+AMZ306,Elevate Streaming Quality with AI: Prime Video's Innovative Approach,Breakout session
+COP336,Elevating application reliability,Breakout session
+DEV344,Empowering communities - create fun events on AWS services,Lightning talk
+AIM350-S,"Empowering innovation with integrity—Responsible AI for a smarter, safer future (sponsored by Kyndryl)",Breakout session
+ANT203,Enabling AI innovation with Amazon SageMaker Unified Studio,Breakout session
+WPS312,Enabling government to streamline and ensure healthcare coverage with data,Breakout session
+SEC313,Enabling secure AI Agent access with Amazon Bedrock AgentCore Identity,Breakout session
+CMP354,End-to-End Automotive Simulation: From Design to Analysis on AWS,Lightning talk
+AIM351,End-to-end foundation model lifecycle on AWS Trainium,Breakout session
+BIZ227,Enhance your applications with Amazon QuickSight embedded analytics,Breakout session
+CNS208,Enhancing container security with Amazon ECR,Lightning talk
+DVT225-S,"Enterprise AI Without the Chaos: A New Path to Secure, Compliant Applications  (sponsored by Docker)",Lightning talk
+MAM106-S,Enterprise-scale App Modernization with Agentic AI through TSRI's JANUS Studio (sponsored by TSRI),Lightning talk
+ANT336,Enterprise-scale ETL optimization for Apache Spark,Breakout session
+MAM315,Enterprise software licensing and optimization on AWS,Breakout session
+DVT208, Epic journey: Navigating the AI-powered SDLC from backlog to production,Breakout session
+ARC321,Evaluating architectural trade-offs: Cloud patterns for flexibility,Breakout session
+ANT101-S,"EverCommerce’s Secret to AI-Ready, Multi-Brand Data (sponsored by Fivetran)",Lightning talk
+PEX201,"Expanding agentic AI: Accelerate, optimize and scale generative AI",Breakout session
+IND358,Experience T-Mobile's Digital Commerce in Action,Breakout session
+ANT308,Explore what’s new in data and AI governance with SageMaker Catalog,Breakout session
+AIM114-S,Exploring dual pathways to agentic commerce with AWS and Stripe (sponsored by Stripe),Lightning talk
+DVT213,Extend Kiro with MCP support for richer context,Breakout session
+IND217-S,Fast and compliant CI/CD pipelines in the financial industry (sponsored by Octopus Deploy),Lightning talk
+HMC103-S,Fast-Track Modernization and Transformation with Nutanix and AWS (sponsored by Nutanix),Lightning talk
+PEX107,Fast Track to Growth: Leveraging Partner Programs & AWS Marketplace for success,Breakout session
+ANT333,Fast-track to insights: AWS-SAP data strategy,Lightning talk
+IND3323,Fidelity Investments: Text-to-SQL for data analytics at enterprise scale,Lightning talk
+SPS318,Fidelity's AI-powered support analysis system,Breakout session
+IND392,Fine-tuning models for accuracy and latency at Robinhood Markets,Breakout session
+AIM268-S,FinOps 3.0: Cost Intelligence for the AI Era (sponsored by DoiT),Breakout session
+COP211-S,FinOps+: A New Era of Accelerating Value (sponsored by Kion),Lightning talk
+AIM279-S,FINRA: Accelerate Massive Data Processing with NVIDIA on AWS EMR (sponsored by NVIDIA),Lightning talk
+IND3318,FIS: High-performance instant payment processing at massive scale,Breakout session
+AIM2200-S,Fit for purpose AI-led transformation (sponsored by Tata Consultancy Services),Breakout session
+STG205,Flawless AI: Visual dubbing at scale with Amazon S3,Lightning talk
+NET313,"Fortifying encryption in transit: speed, security and AWS Nitro Power",Breakout session
+SEC308,Fortifying the cloud: Meta's journey implementing AWS data perimeters,Breakout session
+ANT208-S,From Agentic AI Demos to ROI: Path to Production With Confluent + AWS (sponsored by Confluent),Breakout session
+API204-S,From AI Promise to KPI Impact: Connected Agents & Orchestration (sponsored by Workato),Lightning talk
+AIM225-S,From Alert to Resolution: Supercharge AWS Ops with the Agentic AI SRE (sponsored by NeuBird AI),Lightning talk
+COP204-S,From Backup to Live Data: Protecting and Unleashing Your Cloud Data (sponsored by Eon),Breakout session
+AIM297-S,From Browser to Prompt: Building Infra for the Agentic Internet (sponsored by Kong),Breakout session
+AIM344-S,From Cloud Modernization to Autonomous Enterprise: The Next Frontier (sponsored by Genpact),Breakout session
+SEC220-S,From Cloud to AI  Securing the New Cloud Attack Surface (sponsored by Wiz),Breakout session
+CNS341,From code to cloud: Accelerate application development with Amazon ECS,Breakout session
+SEC222,From Code to Cloud: Building Enterprise AppSec with AWS,Breakout session
+SEC206-S,From collecting tools to an autonomous SOC (sponsored by SentinelOne),Breakout session
+AIM395,From concept to campaign: Building marketing agents with AgentCore,Breakout session
+AIM269-S,From Confidently Wrong to Enterprise-Ready AI (sponsored by PromptQL),Lightning talk
+BIZ209-S,From Data Chaos to AI Magic: Supercharging Customer Experience (sponsored by Treasure Data),Lightning talk
+AIM222-S,From Data to Action: Agentic-Powered Humanitarian Response (sponsored by Cloudera),Breakout session
+AIM346-S,From Data to Decisions: Agentic AI for Security and Observability (sponsored by Elastic),Breakout session
+SMB204,From Documents to Decisions: Unleashing AI-Powered Business Automation,Lightning talk
+MAM339,From EC2 to EKS: Tipalti’s transformation to Windows containers on AWS,Breakout session
+IND3306,From fragmented to unified platform: Rocket Companies data and AI journey ,Breakout session
+HMC203-S,From Ground to Cloud: CAE Innovates with AWS & Red Hat (sponsored by Red Hat),Breakout session
+ARC204,From ideas to impact: Architecting with cloud best practices,Breakout session
+AIM3318,From idea to impact: Harness AI agents and tools in AWS Marketplace,Lightning talk
+AIM119-S,From idea to instant production readiness: building AI agents on Cloudflare (sponsored by Cloudflare),Lightning talk
+ANT202-S,From Kitchen to Cloud: How Brinker Dishes Out Data-Driven Success (sponsored by Teradata),Lightning talk
+IND214,From Lab to Market - AstraZeneca's Enterprise-Wide AI Success Story,Breakout session
+MAM102-S,From Legacy to Lakehouse: Proven Best Practices for Data Warehouse Migration (sponsored by Databricks),Breakout session
+CNS210,From monolith to microservices: Migrate and modernize with Amazon EKS,Breakout session
+HMC207-S,From On-Prem to On-Point: Safelite's AWS Cloud Observability Journey (sponsored by SolarWinds),Lightning talk
+AIM3323,From principles to practice: Scaling AI responsibly with Indeed,Breakout session
+IND399,From Print to AI: The Economist's Digital Evolution with AWS Architecture,Lightning talk
+AIM373,From prompt to production: On-brand marketing images with Amazon Nova,Breakout session
+AIM294-S,From Punch Cards to Pair Programming and Beyond: The Future of Copilot (sponsored by GitHub),Breakout session
+DEV205,From punched cards to AI: The developer’s new mindset,Lightning talk
+AIM289-S,From SIEM to SOC: Building AI-Native Security in the Cloud with AWS (sponsored by CrowdStrike),Breakout session
+NET318,From threat to threat intel: 360 degrees of DDOS,Breakout session
+DEV202,From triggers to thinking: Building event-driven AI on AWS,Lightning talk
+CNS423,From Trigger to Execution: The Journey of Events in AWS Lambda,Breakout session
+IND386,From UX to AX: MCP Servers for AI Shopping Agents,Lightning talk
+API312,From Zero to Millions: Building Real-Time Applications at Scale,Breakout session
+SEC212-S,Full Speed Ahead: Securing Innovation with Trend (sponsored by Trend Micro),Breakout session
+DEV204,Function calling vs agents: Choose the right AI approach,Lightning talk
+DEV201,GenAI game coach: Real-time gameplay feedback,Lightning talk
+STG204-S,"GenAI, Hold the Waste: How H2O Fixed Its Storage Bottleneck (sponsored by Datafy)",Lightning talk
+AIM276-S,GenAI in Private Equity: Moving from Pilots to Performance (sponsored by PwC),Breakout session
+DVT217,"Generative AI, agents, MCP, and the future of AI-powered software development",Breakout session
+SMB307,Generative AI strategy: accelerating path to production,Breakout session
+CNS344,Generative and Agentic AI on Amazon EKS,Breakout session
+GBL206,Global GenAI trends and learnings at re:Invent,Breakout session
+AIM226-S,Global infrastructure for foundation model inference (sponsored by Baseten),Lightning talk
+NET311,Global Resilient Apps: Guide to Multi-AZ/Region Architecture with ELB,Breakout session
+BIZ217,Global tourism brand transforms customer service with Amazon Connect,Breakout session
+DVT215,Go from idea to deployment faster with Amazon Q Developer,Breakout session
+PEX204,Go-to-market in today's political climate: a policy and AWS Marketplace overview,Breakout session
+COP346,Governance that Enables Innovation at Scale feat. Eli Lilly,Breakout session
+MAM320,Grupo Tress Internacional's .NET modernization with AWS Transform,Breakout session
+AIM218-S,Harnessing AI and Zero Trust to Drive Secure Digital Transformation (sponsored by Zscaler),Breakout session
+INV201,Harnessing analytics for humans and AI,Innovation talk
+AIM241-S,Healthcare Transformed: Reimagining the Future with Generative AI (sponsored by PwC),Breakout session
+AIM246-S,Hesitate and You’re History: Why You Need Agentic AI Right Now (sponsored by Qlik),Breakout session
+AIM107-S,High-Impact Results Through Co-Innovation with AWS & SAP Business AI (sponsored by SAP),Breakout session
+WPS205,High Performance Computing for Mission-Ready Federal Workloads,Breakout session
+STG336,"High-performance storage for AI/ML, analytics, and HPC workloads",Breakout session
+AIM332,How Adobe & Salesforce Enable Sustainability initiatives with AWS CCFT,Breakout session
+COP207-S,How AI is rewriting the contact center play book (sponsored by Zendesk),Lightning talk
+IND3321,How Allianz designed AIOps at enterprise scale,Breakout session
+IND381,How Amazon Ads uses AWS to democratize ad creation,Lightning talk
+SEC409-S,How Arrivia Stopped a Data Theft Ring with Teramind (sponsored by Teramind),Breakout session
+AIM347-S,How Baker Hughes is Driving Energy Innovation with AWS AI (sponsored by Baker Hughes),Lightning talk
+SEC202,How Cathay Transformed DevSecOps with AI: A 75% Faster Security Story,Breakout session
+SMB203,How Cires21 revolutionized advanced video workflows using AI on AWS,Lightning talk
+AIM252,How customers build AI at scale with AWS AI infrastructure,Breakout session
+DVT104-S,"How Enterprises are Pioneering Innovation and DevOps (sponsored by Harness, Inc)",Breakout session
+COP206-S,How High-Performing Teams Connect Observability to Business Growth (sponsored by Coralogix),Breakout session
+IND388,How Netflix Connects Product Experiments to its AWS Bill,Breakout session
+IND387,How Netflix Shapes our Fleet for Efficiency and Reliability,Breakout session
+IND382,How Nissan Accelerated Software-Defined Vehicle Development with AWS,Lightning talk
+DVT319,How Priority Pass migrated their global-scale website,Lightning talk
+DAT323,How Samsung optimized 1.2 PB on Amazon DynamoDB with zero downtime,Lightning talk
+AIM238-S,How Samsung Uses AI Agents to Optimize Infrastructure at Scale  (sponsored by Cast AI),Lightning talk
+DAT201-S,How SAS and Freshworks Power Real-Time Personalization at Extreme Scale  (sponsored by ScyllaDB),Breakout session
+MAM105-S,How Sophos modernizes security data at scale with Cribl and AWS (sponsored by Cribl),Breakout session
+IND3300,How Stripe built a foundation model for fraud detection on AWS,Breakout session
+IND369,How TE Connectivity Transforms Product Engineering with Agentic AI,Breakout session
+AIM102-S,How to uplevel your DevSecOps practice with agentic AI (sponsored by GitLab),Breakout session
+IND320,How Toyota Built an AI Platform that Revolutionizes the Dealer Experience,Breakout session
+CMP356,How well do you know EC2?,Lightning talk
+SPS321,How Yahoo! Finance built research multi-agent systems with Gen AI,Breakout session
+NTA320,How Zydus implemented regulated DR on AWS,Breakout session
+CMP340,HPC at Scale: From Robot Learning to Scientific Insights on AWS,Breakout session
+AIM240-S,"Human Agency in AI: Balancing Automation, Oversight, and Innovation (sponsored by Boomi)",Breakout session
+AIM205-S,Human-Centric AI: Avoiding the High Cost of Getting It Wrong in IT (sponsored by NinjaOne),Lightning talk
+NET403,Hybrid connectivity at scale: A deep dive into AWS Direct Connect,Breakout session
+HMC105-S,Hybrid Foundations to Cloud Innovation Transforming IBM i/AIX Workloads with AWS (sponsored by Lightedge),Breakout session
+NTA318,Iceland.co.uk: Boosting sales with hyper-personalized recommendations ,Breakout session
+CMP353,Illumina DRAGEN pipelines on F2 instances with Nextflow & AWS Batch,Lightning talk
+CNS428,Implementing Human-in-the-Loop Controls for Multi-Agent AI Systems,Lightning talk
+COP328,Implementing observability at scale: A blueprint for success,Breakout session
+CNS360,Implementing security best practices for serverless applications,Breakout session
+SEC207-S,Improve DevEx for GenAI Deployments: Dynatrace + Amazon Bedrock (sponsored by Dynatrace),Lightning talk
+AIM211-S,Improve quality and speed across the SDLC with Atlassian Rovo Dev (sponsored by Atlassian),Lightning talk
+STG337,Improve self-managed database performance and agility with Amazon FSx,Breakout session
+STG210,Indeed's migration to Amazon S3 Tables,Lightning talk
+SEC224,"Infrastructure protection at scale with AWS Security, ft. Block, Inc.",Breakout session
+CMP407,Innovating with AWS Confidential Computing: An Integrated Approach,Breakout session
+SEC345,Innovation in Identity Security: how we protect the cloud and help you do it too,Breakout session
+COP351,Innovation Sandbox on AWS: Automating Temporary Cloud Environments,Lightning talk
+SEC310,Innovations  in Infrastructure Protection to strengthen your network,Breakout session
+ANT206,Innovations in SQL Analytics: What's new in Amazon Redshift and Amazon Athena,Breakout session
+AIM221-S,Inside Alight’s AI-driven Expansion to Cloudera on AWS (sponsored by Cloudera),Breakout session
+AIM262-S,Inside Poolside’s Model Factory: Building Better Models Faster (sponsored by poolside),Breakout session
+STG351,Inside S3: Lessons from exabyte-scale data lake modernization,Breakout session
+AIM396,Integrate any agent framework with Amazon Bedrock AgentCore,Breakout session
+AIM207-S,Integrated AI Agents: Moving Beyond Summarization to Automation (sponsored by DevRev),Lightning talk
+API315,Integration patterns for distributed systems,Breakout session
+SAS405,Integration patterns for multi-tenant systems,Breakout session
+PEX306,Integration to impact: Accelerate AWS Partner revenue measurement,Breakout session
+AIM275-S,Intelligent Outage Management Using Automated Reasoning and AI (sponsored by PwC),Lightning talk
+INV214,Intelligent security: Protection at scale from development to production,Innovation talk
+AIM358-S,Intelligent vs. Knowledgeable Models through the Lens of Data (sponsored by Bright Data),Lightning talk
+DVT214,Introducing AI driven development lifecycle (AI-DLC),Breakout session
+CMP355,Introducing Spending Limits for Amazon Braket,Lightning talk
+DEV404,I Put an Agent in a Biscuit,Breakout session
+CMP409,It's About Time! Improving Distributed Systems with Amazon Time Sync,Breakout session
+ANT342,ITTI's Cross-Company Data Mesh Blueprint with Amazon SageMaker,Lightning talk
+CMP327,JPMC and Amazon Advanced Solutions Lab drive quantum R&D on Braket,Breakout session
+MAM403,Kiro and Amazon Bedrock: Unlock AI Agents for Your Legacy Apps,Breakout session
+DEV336,Kiro in action: Red Team tactics at scale,Lightning talk
+DVT209,Kiro: Your agentic IDE for spec-driven development,Breakout session
+DAT209-S,Knowledge Graphs for AI and Intelligent Systems (sponsored by Neo4j),Lightning talk
+SPS316,Koch Industries' data migration success with AWS Countdown Premium,Breakout session
+OPN308,kro: Simplifying Kubernetes Resource Orchestration,Lightning talk
+AMZ302,Kuiper: Building a Low Earth Orbit Satellite Network on AWS,Breakout session
+AIM208-S,Lamborghini’s AI Journey: Data-Driven Innovation with Deloitte & AWS (sponsored by Deloitte),Breakout session
+STG352,Large-scale software deployments: Inside Amazon S3’s release pipeline,Breakout session
+SEC215,Last HSM Standing: Zettle by PayPal’s move to AWS Payment Cryptography,Lightning talk
+SEC219,Lead resilient security teams through psychological safety,Lightning talk
+GBL104,"Learn from ""Innovations with AWS"" pioneers",Lightning talk
+SMB205,Learn how Riskspan is transforming private credit market using GenAI,Lightning talk
+GBL102,Let's maximize your learnings at re:Invent!,Breakout session
+IND209-S,Leverage Graph Insights to Turbocharge Amazon Q (sponsored by Securiti AI),Lightning talk
+COP360,Leverage observability to build responsible AI applications,Lightning talk
+BIZ225,Leveraging Structured and Unstructured Data for Complete Insights,Breakout session
+AIM258-S,Live hallucination detection in prod with LaunchDarkly’s AI Configs (sponsored by LaunchDarkly),Breakout session
+NTA408,Logistics Agility: AWS Success Story ,Breakout session
+MAM206,London Stock Exchange Group's transformation journey,Breakout session
+IND3305,LSEG: Transforming market intelligence at massive scale,Breakout session
+SEC326-S,Make Attackers Cry: Outsmart Them With Deception (sponsored by Fastly),Lightning talk
+IND205,Making Level 4 Autonomous Networks a reality with British Telecom,Breakout session
+CMP331,Managing Amazon EC2 capacity and availability,Breakout session
+SPS401,Manchester Airports Group: Scaling operations with Agentic AI & MCP,Breakout session
+AIM272,Master AI model development with Amazon SageMaker AI,Breakout session
+IND3319,Mastercard: How to protect sensitive data in real-time applications,Breakout session
+AIM3310,Mastering AI agents in enterprises: Best practices with AgentCore,Breakout session
+AIM391,Mastering model choice: The 3-step Amazon Bedrock advantage,Breakout session
+ARC211,Mastering Root Cause Analysis: Rebuilding trust after outages,Breakout session
+AIM254,Master your AWS carbon impact with the Customer Carbon Footprint Tool,Lightning talk
+BIZ224,Maximize Amazon Q Business impact with Amazon Q Apps,Breakout session
+DVT223-S,Maximize Productivity with the Amazon Q Developer CLI Agent (sponsored by Pluralsight),Lightning talk
+SMB305,Maximize ROI: How Octus migrated CreditAI from Azure to Amazon Bedrock,Breakout session
+STG208,Maximize the value of cold data with Amazon S3 Glacier storage classes,Breakout session
+STG319,Maximizing block storage performance for high-intensity workloads,Breakout session
+PEX106,Maximizing customer outcomes: AWS Partner Led Customer Success,Lightning talk
+IND3304, Maximizing uptime: Itaú’s mission-critical mainframe migration to AWS,Breakout session
+DVT219,Measuring AI Impact with Amazon Q Developer and Jellyfish,Breakout session
+PEX304,Migrate and Modernize Legacy Workflows to Intelligent Agents,Breakout session
+MAM350,"Migrate faster, safer: AWS Data Transfer Terminal deep dive",Lightning talk
+MAM325,Migrate generative AI workloads to Amazon Bedrock,Breakout session
+INV212,"Migrate, modernize, and move your business into the AI era",Innovation talk
+MAM215-S,"Migrating 1,600+ Daily Image Builds to AWS (sponsored by Chainguard)",Lightning talk
+HMC309,Migrating your VMware workloads with on-premises dependencies,Breakout session
+PEX109,Migration & Modernization: How AWS Partners help customers transform,Lightning talk
+EUC205,Mission-critical security: How U.S. Army secures comms with AWS Wickr,Breakout session
+CMP334,Modernize Apple platform development with AWS and EC2 Mac,Breakout session
+STG339,Modernize managed file transfer workflows with event-driven SFTP,Breakout session
+DEV333,Modernize monoliths to microservices with generative AI,Breakout session
+ANT317,Modernize your data warehouse by moving to Amazon Redshift,Breakout session
+MAM410,Modernizing DMV Systems with AWS Transform: Idemia's .NET Success Story,Breakout session
+MAM327,Modernizing enterprise systems with event-driven AI,Breakout session
+SPS312,Modernizing Global Payment Processing: Moving from Mainframe to AWS,Breakout session
+DVT210,Modernizing Java applications with generative AI,Breakout session
+AIM124-S,Modernizing KYC process using Agentic AI (sponsored by Capgemini),Breakout session
+IND321,Modernizing Legacy Systems: Boeing's PLM Cloud Transformation,Breakout session
+IND218-S,Modernizing Mercedes-Benz’s Global Ordering System with Gen AI (sponsored by Capgemini),Breakout session
+IND370,Modernizing Operational Technology for AI-power Manufacturing,Lightning talk
+ANT102-S,Modernizing Wealth Management with Cloud + AI Use Cases (sponsored by Incedo Inc),Lightning talk
+SEC213,Modern Secrets: A Journey from Legacy Systems to AI-Ready Security,Breakout session
+PEX112,Monetizing agentic AI solutions: A Partner's guide for AI agents & tools,Lightning talk
+IND3303,Moody’s: Architecting a multi-agent system on AWS,Breakout session
+STG213,Motability Operations' unified backup strategy: From fragmented to fortified,Lightning talk
+DVT205-S,Move fast & don't break things: Maintaining software excellence as you adopt AI (sponsored by Cortex),Lightning talk
+HMC318,Multicloud security best practices,Breakout session
+COP358,Multi-Region disaster recovery & resilience testing (feat. Fidelity),Breakout session
+DAT440,Multi-Region strong consistency with Amazon DynamoDB global tables,Breakout session
+HMC322,"Multi-tenant multicloud SaaS using Kubernetes, feat. Adobe",Lightning talk
+CNS342,Navigate the cloud compute landscape with Amazon ECS,Breakout session
+ARC203,Navigating the future: Solutions architecture in the age of AI,Breakout session
+HMC101,Navigating the multicloud journey: essential foundations for success,Breakout session
+CNS417,Networking and observability strategies for Kubernetes,Breakout session
+AIM359-S,New Era of Platform Engineering – Agentic AI-Powered Self-Service  (sponsored by SoftServe),Lightning talk
+STG212,New York Times: Best practices for migration to Amazon FSx for ONTAP,Lightning talk
+AIM108-S,Next-Gen Analytics & AI with SAP Business Data Cloud on AWS (sponsored by SAP),Breakout session
+AIM105-S,Next level patient experiences with Amazon Connect powered by Kyndryl (sponsored by Kyndryl),Lightning talk
+SMB201,Nextworld Revolutionizes ERP: Supply Chain powered by Sagemaker AutoML,Lightning talk
+SPS314,Novartis's next-gen clinical platform enables AI drug development,Breakout session
+AIM281-S,NVIDIA Run:ai and Amazon SageMaker HyperPod Integration for Distributed Training (sponsored by NVIDIA),Breakout session
+COP335,Observability for AI Agents and Traditional Workloads,Breakout session
+ANT307,Operating Apache Kafka and Apache Flink at scale,Breakout session
+DAT451,Optimize agentic AI apps with semantic caching,Breakout session
+DEV318,Optimize AWS Costs: Developer Tools and Techniques,Breakout session
+COP212,Optimize software and AI Agent procurement with AWS Marketplace,Lightning talk
+DAT437,Optimizing for high performance with Amazon ElastiCache Serverless,Breakout session
+AIM253,Optimizing generative AI workloads for sustainability and cost,Lightning talk
+STG320,Optimizing price performance with enhanced Amazon EBS gp3 volumes,Breakout session
+MAM101-S,Optimizing storage costs for Amazon EVS with FSx for ONTAP (sponsored by NetApp),Breakout session
+DAT208-S,Oracle Database@AWS: supercharge your workloads with Oracle Exadata (sponsored by Oracle),Breakout session
+BIZ213,Petco unlocks agentic AI-powered customer service with Amazon Connect,Breakout session
+IND3317,Powering Enterprise AI: Architecting and Governing Agents at Iberdrola on AWS,Breakout session
+API210-S,Powering real-time apps and analytics with Redis 8 + RDI (sponsored by Redis),Breakout session
+COP215-S,Powering SRE Transformation for a Telco Major (sponsored by Tech Mahindra),Lightning talk
+IND204,Powering the Future of Battle Royale — EA’s Apex Legends & Amazon GameLift,Breakout session
+ANT310,Powering your Agentic AI experience with AWS Streaming and Messaging,Breakout session
+NET402,Powering your success through AWS Infrastructure innovations,Breakout session
+API102-S,Power multi-agent AI systems that truly transform enterprise workflows (sponsored by IBM),Breakout session
+HMC307-S,Preemptive Recovery: A New Playbook for Cloud Resilience (sponsored by Rubrik),Breakout session
+DAT101-S,Presidio Resonate: AI Agents Orchestrating Multimodal Data at Scale (sponsored by Presidio),Lightning talk
+ARC328,Privacy-preserving AI primitives: Building blocks for regulated industries,Breakout session
+INV210,Prompting the future: How the public sector turns barriers into breakthroughs,Innovation talk
+SEC210-S,Protecting web apps & APIs with AI and an as-a-Service approach (sponsored by Check Point Software),Breakout session
+SEC311,Protecting  Your Infrastructure with Amazon Threat Intelligence,Breakout session
+STG207,"Protect your data with AWS Backup: overview, use cases and what's new",Breakout session
+AIM427-S,Putting AI at the core of transformation (sponsored by Infosys),Breakout session
+STG218,Put your data to work for Agentic AI with AWS storage,Breakout session
+MAM218-S,PwC & BMO: AI in Risk & Finance - Elevating MD&A to Treasury Insights (sponsored by PwC),Lightning talk
+CMP411,Quantum Computing with Amazon Braket: From Exploration to Enterprise,Breakout session
+GBL103,Quick catch up to GenAI on AWS,Lightning talk
+AIM214-S,RAG is Dead: Long Live Intelligent Retrieval-Augmented Generation (sponsored by Pinecone),Lightning talk
+DEV342,RAG vs MCP: Making the right choice for enterprises,Lightning talk
+IND383,Rapidly accelerate product development and launches with AI,Breakout session
+HMC104-S,Ready your enterprise for agents with AI-driven modernization (sponsored by IBM),Breakout session
+CNS375,Real-time insights for smart manufacturing with AWS Serverless,Lightning talk
+IND212,Real-time Patient and Revenue Cycle Insights with Gen AI,Lightning talk
+IND208,Reclaiming Clinical Time: How Veradigm Uses AI to Transform Workflows,Breakout session
+MAM212,Re-defining customer experiences with SAP and Pan-Amazon Services,Breakout session
+DAT204-S,Redefining database scale for agentic AI workloads with TiDB (sponsored by TiDB powered by PingCAP),Lightning talk
+IND322,Redefining Operations: Caterpillar's Geospatial Intelligence Solution,Breakout session
+BIZ216,Redefining service excellence: Canada Life’s AI-powered contact center,Breakout session
+DEV317,Red Team vs Blue Team: Securing AI Agents,Breakout session
+BIZ202,Reimagine enterprise productivity with Amazon Q Business,Breakout session
+DEV207,Reimagining AWS operations with autonomous AI agents,Lightning talk
+AIM291-S,Reimagining Cloud Security with Agentic AI (sponsored by CrowdStrike),Breakout session
+DEV340,Reimagining incident response with MCP on AWS,Lightning talk
+HMC205-S,Reimagining life sciences supply chain with agentic-AI (sponsored by IBM),Lightning talk
+WPS203,Reimagining Public Sector with AWS Partner generative AI solutions,Lightning talk
+SEC346-S,Reimagining SIEM architecture using AWS S3 Buckets (sponsored by Vega),Lightning talk
+AIM293-S,Reimagining Software Development and DevOps with Agentic AI (sponsored by GitHub),Breakout session
+AIM204-S,Reimagining software with Bedrock agent powered middlewares (sponsored by Cybage Software),Lightning talk
+IND372-S,Reinventing credit origination process through AI (sponsored by Cloudera),Lightning talk
+AIM299-S,Reinventing Pharma Document Workflows to Unlock Value at Scale with Agentic AI (sponsored by ZS),Lightning talk
+INV205,Reinventing software development with AI agent,Innovation talk
+HMC204-S,"Reinventing the Retail Edge with YUM! Brands, AWS & Spectro Cloud (sponsored by Spectro Cloud)",Lightning talk
+IND101-S,Reliable AI at Scale: How Data + AI Observability Powers AI Products with AWS (sponsored by Monte Carlo),Lightning talk
+ARC310,Resilience of AWS Cloud: Design patterns for availability,Breakout session
+DAT456,Revealing the northern lights: Amazon Aurora security deep dive,Breakout session
+AMZ307,Revolutionize media production: Field-ready cloud solutions,Lightning talk
+IND367,Revolutionizing Audi's Welding Inspection System through AI,Breakout session
+IND3301,"Ripple: Building an intelligent, multi-agent system for 24/7 operations",Breakout session
+AIM286-S,Rivian & MongoDB: Powering the Future of Autonomous Driving (sponsored by MongoDB),Breakout session
+NET326,Robust network security with perimeter protection and zero trust,Breakout session
+IND398,Rovio’s GenAI Journey: Game Asset Creation with AWS AI Stack,Breakout session
+AIM243-S,Run and Scale Agentic AI Applications in Production (sponsored by HashiCorp),Breakout session
+IND379,Run real-time advertising workloads with unmatched cost-performance on AWS,Breakout session
+SEC223-S,"Runtime + AI: Reinventing Cloud Security on AWS (sponsored by Upwind Security, Inc.)",Lightning talk
+MAM356-S,SAP modernization at an Australian steel manufacturer (sponsored by Capgemini),Breakout session
+AIM387,Scale AI and agentic workflows with Amazon SageMaker AI,Breakout session
+ISV317,Scale and Optimize your Solutions Globally with AWS Expansion Programs,Breakout session
+DEV203,Scale applications with Amazon EKS and AI-driven insights,Lightning talk
+SEC101-S,Scale Customer Engagement with WhatsApp Business on AWS (sponsored by Meta),Breakout session
+MAM334,Scale modernization with agentic AI featuring Thomson Reuters,Breakout session
+SEC329,Scale Security Operations with AWS Security Incident Response Service,Breakout session
+AIM266-S,Scale Trusted AI Adoption with Salesforce and AWS (sponsored by Salesforce),Breakout session
+AIM3313,Scaling agent tools with AgentCore Gateway for enterprises,Breakout session
+AIM209-S,Scaling AI with confidence: From proof of concept to production (sponsored by Dynatrace),Breakout session
+ANT318,Scaling Amazon Redshift with a multi-warehouse architecture,Breakout session
+IND215-S,Scaling Data Transformation w/ dbt & Nasdaq: Unlocking Ent Power Global Mkts (sponsored by dbt Labs),Lightning talk
+AIM424,Scaling foundation model inference on Amazon SageMaker AI,Breakout session
+AIM227-S,Scaling GenAI on AWS Without Breaking the Bank through FinOps (sponsored by IBM Cloudability),Breakout session
+IND3324,Scaling Global Energy Transformation: Kraken's AI-Powered Journey on AWS,Lightning talk
+AIM2201-S,Scaling instantly to 1000 GPUs for Serverless AI inference (sponsored by Modal),Lightning talk
+DAT324,Scaling MONOPOLY GO! to 10M daily players with DynamoDB & ElastiCache,Lightning talk
+NET316,Scaling Multi-Tenant SaaS Delivery with Amazon CloudFront,Breakout session
+AIM121-S,Scaling Observability for the AI Era: From GPUs to LLMs (sponsored by Chronosphere),Lightning talk
+COP333,Scaling open source observability stack feat. Warner Bros Discovery,Breakout session
+STG211,Scaling Pinterest: Iceberg solutions for petabyte-scale challenges,Lightning talk
+CNS361,Scaling Serverless with platform engineering: A blueprint for success,Breakout session
+IND3312,"Scaling support, compliance, & productivity with conversational AI at Coinbase",Breakout session
+SEC216-S,"Seamless Network-based Fraud Protection for FinTech & Digital Business (sponsored by Vonage, Part of Ericsson)",Lightning talk
+AIM271-S,Secure AI Agent Access for Workflows on AWS Bedrock with 1Password (sponsored by 1PASSWORD),Lightning talk
+WPS317,Secure AI Agents Delivering Efficiency in Regulated Industries,Breakout session
+DEV338,Secure Amazon ECS observability with CDK and Grafana,Lightning talk
+CDN201-S,"Secure, Easy and Performant VPC Resource Connectivity with Tailscale (sponsored by Tailscale)",Lightning talk
+IND3313,Secure in milliseconds: Visa's AI-powered fraud defense on AWS,Breakout session
+SEC328-S,Securing AI Agents: The Future of Identity & Access Control (sponsored by WorkOS),Breakout session
+SEC225-S,Securing data for your AI workloads with tokenization (sponsored by Capital One),Breakout session
+AIM106-S,Securing the AI Era: From Hype to Real-World Defense (sponsored by Zscaler),Breakout session
+AIM288-S,See The Future of Cloud Defense: Agentic Cloud Security (sponsored by Sysdig),Lightning talk
+AIM283-S,ServiceNow and AWS: Powering AI-driven workflows on the cloud built to scale (sponsored by ServiceNow),Breakout session
+ARC313,Service-oriented builders guide to agentic AI: Insights from WEX,Breakout session
+IND3314,Shell's HPC Evolution: Accelerating Seismic Processing with AWS GPU Innovation,Breakout session
+SEC344,Simplified Data Lake Access with AWS Identity Center ,Lightning talk
+CNS209,Simplify backup for stateful Amazon EKS workloads,Lightning talk
+DVT220,Simplify development workflows with agentic capabilities,Breakout session
+MAM107,Simplify discovery and deployment of software with AWS Marketplace,Lightning talk
+HMC323,"Simplifying multicloud developer experience, feat. Macquarie",Lightning talk
+API323,Simplifying orchestrations with JSONata and AWS Step Functions,Lightning talk
+CNS354,Simplify your Kubernetes journey with Amazon EKS,Breakout session
+NTA202,Siteimprove: Revolutionizing Brand Consistency with AI and Amazon Nova,Breakout session
+AIM3309,Slack securely powers internal AI dev tools with Bedrock and Strands,Breakout session
+DAT325,Slash costs & get AI-ready with RDS for SQL Server & Oracle workloads,Breakout session
+SMB206,Slickdeals' AI-powered deal discovery with Amazon Sagemaker,Lightning talk
+BIZ211,So Energy streamlines customer service with AI-powered automation,Breakout session
+PEX110,Solution-based selling strategies in AWS Marketplace,Lightning talk
+COP213-S,Solving the Cloud Privilege Problem at Scale: A Fiserv Case Study (sponsored by Sonrai Security),Lightning talk
+DVT212,Spec-driven development: Shaping the next generation of AI software,Breakout session
+AIM116-S,Speed to Impact: AI Factory in the Cloud with NVIDIA on AWS (sponsored by NVIDIA),Breakout session
+NTA319,Spreetail's AI Value Journey ,Breakout session
+DVT101-S,State of DevEx 2025: Navigating the AI Revolution and Developer Experience (sponsored by Atlassian),Breakout session
+SEC203,State of the Art: AWS data protection in 2025 (ft. Vanguard),Breakout session
+NET211,"State of the Edge:  Delivery of the web with CloudFront, WAF, and Shield",Breakout session
+SEC316,Staying  Ahead:Smart Strategies for Effective Vulnerability Management,Breakout session
+GBL203,StradVision's Vision AI journey with AWS,Lightning talk
+AIM348-S,Strategy First: Empowering the Business to Lead in the AI Era (sponsored by Starburst),Lightning talk
+NET307,Streaming at Scale: Advanced Media Delivery with Amazon CloudFront,Breakout session
+AIM364,Streamline AI model development lifecycle with Amazon SageMaker AI,Breakout session
+IND206,Streamlining Telecom Cybersecurity Operations with AWS Generative AI,Lightning talk
+COP317,Stress test your services for resilience with AWS Game Day,Breakout session
+DAT313,Supercharge app intelligence using gen AI with Amazon DocumentDB,Breakout session
+DEV304,Supercharge DevOps with AI-driven observability,Breakout session
+CNS374,Supercharge Lambda with Hono: The lightweight web framework,Lightning talk
+SEC347,Supercharge log analytics: OCSF meets generative AI,Breakout session
+ARC101-S,Supercharge your data insights with the Cisco Data Fabric (sponsored by Splunk),Breakout session
+COP208-S,Supercharge your Karpenter: Tactics for smarter K8s optimization (sponsored by Zesty),Lightning talk
+AIM333,Sustainable and cost-efficient generative AI with agentic workflows,Breakout session
+AIM417,Sustainable computing for climate solutions,Breakout session
+DAT443,Symbolic AI in the age of LLMs,Breakout session
+AIM278-S,Tapping into the Power of Agentic AI: Driving Mission Success with NVIDIA & AWS (sponsored by NVIDIA),Lightning talk
+DVT341,Teaching your AI tools custom languages and libraries,Lightning talk
+SEC411,Testing GuardDuty’s Runtime Detections:Hands-on with real world attack scenarios,Lightning talk
+INV203,The agent-enabled workplace: How AI assistants are transforming the way we work,Innovation talk
+AIM418-S,The AI Discussion Control Plane: How Your Agentic Team Redefines Ops (sponsored by Edge Delta),Lightning talk
+AIM270-S,The AI-Powered EHR: Elation Health on AWS & Snowflake (sponsored by Snowflake),Lightning talk
+SPS315,The AI revolution in customer support: Building predictive service systems,Breakout session
+DEV208,The bill shock that taught me cost optimization,Lightning talk
+COP332-S,The Digital Supply Chain Is Broken. Can AI Fix It? (sponsored by Files.com),Lightning talk
+API101-S,The Federal Fast Lane: Deploying Mission Technology at Commercial Speed (sponsored by LMI),Lightning talk
+INV204,The future is now: Unlocking AI's transformative power,Innovation talk
+CNS211,The future of AWS Serverless in 2025 and beyond,Breakout session
+CNS205,The future of Kubernetes on AWS,Breakout session
+AIM228-S,The Future of Software Craft in the Age of AI (sponsored by Snyk),Breakout session
+AIM3322-S,The Great ReImagining: Thriving in the Age of AI Agents (sponsored by Kore.ai),Lightning talk
+MAM337,The New York Times: From Google Cloud Platform to AWS,Breakout session
+AIM3317-S,The Next Frontier in Financial Systems: Transformer-based Foundation Models (sponsored by NVIDIA),Breakout session
+INV213,The power of cloud network innovation,Innovation talk
+AIM126-S,The state of AI in software development: Insights across 400+ organizations (sponsored by Atlassian),Breakout session
+IND380,The Trade Desk optimizes media buying and ad experiences with AI on AWS,Breakout session
+AIM123-S,The Zero Migration Path from Data to Enterprise Agentic AI (sponsored by Trianz I Concierto),Lightning talk
+GBL301,Toss Securities’ AI Transformation with automated Super App Ops.,Lightning talk
+AIM212-S,Tracing the Untraceable: Full-Stack Observability for LLMs and Agents (sponsored by groundcover),Lightning talk
+IND3315,Trading innovation: Jefferies' AI assistant on Amazon Bedrock ,Lightning talk
+BIZ214,Traeger accelerates contact center agent productivity with agentic AI,Breakout session
+AIM365,Train high-performing AI models at scale on AWS,Breakout session
+AIM117-S,"Train, Simulate, Deploy: Building NVIDIA-Powered Physical AI on AWS (sponsored by NVIDIA)",Breakout session
+BIZ226,Transform Business Intelligence with AI-powered Analytics,Breakout session
+STG318,Transforming AI storage economics with Amazon S3 Vectors,Breakout session
+OPN413,Transforming Apache Kafka into a Scalable Message Queue,Breakout session
+AIM120-S,Transforming Banking: NatWest's Journey to Enhanced Customer Experience (sponsored by Accenture),Breakout session
+BIZ220,Transforming contact centers in financial services with Amazon Connect,Breakout session
+MAM346,Transforming Enterprise IT: CSL Behring's VMware and SAP Modernization,Breakout session
+SAS304,Transforming from SaaS to multi-tenant agentic SaaS,Breakout session
+IND210,Transforming Healthcare Payor Operations: AWS-TriZetto Success Story,Lightning talk
+IND352,Transforming Integrated Diagnostics: Philips' AI Journey with AWS,Breakout session
+AIM213-S,Transforming Lincoln Financials' Gen-AI powered CX with AWS & Deloitte (sponsored by Deloitte),Breakout session
+DVT206-S,Transforming Observability: Ripple’s Journey with Grafana on AWS (sponsored by Grafana Labs),Lightning talk
+MAM214,Transforming SAP with AWS AI services to drive innovation,Breakout session
+API206-S,Transforming Supply Chains with Amazon Bedrock AgentCore (sponsored by Fujitsu),Lightning talk
+COP331,Troubleshooting database performance issues at scale,Lightning talk
+MAM207,Turbocharge the mainframe to cloud journey with AWS Transform's agentic AI,Breakout session
+MAM211-S,Turning Complexity into Effortless CX with Amazon Connect (sponsored by NTT DATA),Breakout session
+ANT339,Turn unstructured data in Amazon S3 into AI-ready assets with SageMaker Catalog,Breakout session
+AIM349-S,UCLA’s AI Assistant: Reimagining Student Success with Kyndryl & AWS (sponsored by Kyndryl),Breakout session
+BIZ218,UC San Diego Health modernizes patient engagement with Amazon Connect,Breakout session
+CNS429,Under the hood: Architecting Amazon EKS for scale and performance,Breakout session
+DAT206-S,Unify Data for a Strong AI Foundation with AWS & Salesforce (sponsored by Salesforce),Breakout session
+AIM210-S,"Unifying AWS observability, logs, and traces with Dynatrace (sponsored by Dynatrace)",Breakout session
+AIM216-S,"United Airlines, Deloitte & AWS GenAI-Powered Mainframe Emulator (sponsored by Deloitte)",Breakout session
+ANT306,Universal connectivity with zero-ETL and AWS Glue,Breakout session
+AMZ303,Unleashing Generative AI for Amazon Ads at Scale,Breakout session
+CMP210-S,Unleashing Performance: How Intel Xeon 6 on AWS EC2 Is Redefining Compute & TCO (sponsored by Intel),Breakout session
+DEV307,Unleash Rust's potential on AWS,Breakout session
+AIM250-S,Unlock AI Innovation on AWS with Heroku (sponsored by Heroku from Salesforce),Lightning talk
+CMP352,Unlock Cost Efficiency with AWS Graviton Savings Dashboard,Lightning talk
+ARC314,Unlocking agentic AI access for microservices,Breakout session
+MAM213,Unlocking business value by integrating SAP and non-SAP data sources,Breakout session
+HMC306-S,Unlocking Business Value with Cloud Security (sponsored by Tenable),Lightning talk
+AIM101-S,Unlocking Enterprise Resilience: AI and Automation in Action (sponsored by PagerDuty),Breakout session
+ANT313-S,"Unlocking GenAI potential with automated modernization to AWS  (sponsored by Impetus Technologies, Inc.)",Lightning talk
+INV207,Unlocking possibilities with AWS Compute,Innovation talk
+NTA101,Unlock Innovation: A Guide to AWS Partner Products in AWS Marketplace,Breakout session
+BIZ203,Unlock the power of generative AI for better customer experiences,Breakout session
+DVT340,Unlock the power of Kiro steering: Your blueprint for scalable development,Breakout session
+AIM223-S,Unpredictable by Design: Finding Innovation with Generative AI (sponsored by Deloitte),Lightning talk
+COP345,Using AI to bridge the multicloud skills gap in IT operations,Lightning talk
+API207,Using event-driven architectures to modernize legacy applications at scale,Breakout session
+DAT447,Using graphs over your data lake to power generative AI applications,Breakout session
+AIM416-S,Utilizing AWS GenAI to deliver enterprise data modernization in CommBank (sponsored by HCLTech),Lightning talk
+OPN414,vLLM on AWS: testing to production and everything in between,Breakout session
+SPS313,Volkswagen Group's custom GenAI models for global brand consistency,Breakout session
+ANT205-S,Warner Music Group: Apache Iceberg on AWS & Snowflake (sponsored by Snowflake),Breakout session
+DAT318,Web3 + AI: Agents that mean business,Breakout session
+DAT203-S,What Database Would Your AI Agents Choose -  Escape the Frankenstack (sponsored by SingleStore),Lightning talk
+COP202,What's new in AWS cost Optimization,Breakout session
+ANT305,What's new in AWS Data Processing,Breakout session
+DVT204, What’s new in fullstack AWS app development,Breakout session
+ANT201,"What’s new in search, observability, and vector databases with OpenSearch",Breakout session
+STG202,What's new with Amazon EBS,Breakout session
+BIZ228,What's new with Amazon QuickSight,Breakout session
+STG206,What's new with Amazon S3,Breakout session
+ANT312,What's new with Amazon SageMaker in the era of unified data and AI,Breakout session
+COP203,What's New with AWS Cost Management,Breakout session
+STG203,What's new with AWS File Storage,Breakout session
+CNS376,What's new with AWS Lambda,Lightning talk
+MAM209,Why customers choose AWS as their transformation partner for SAP,Breakout session
+AIM109-S,Why Usage-Based Billing Must Be Treated as Infrastructure (sponsored by Metronome),Lightning talk
+MAM210-S,Why Your Processor Matters for AI Inference and General Compute (sponsored by AMD),Breakout session
+AIM112-S,Work AI that Works: Real Stories & Outcomes of Agentic AI  (sponsored by Glean),Breakout session
+AIM264-S,Your AI Agent Is Expensive and Wrong (Let's Fix Both) (sponsored by Databricks),Breakout session
+SEC211-S,Zero Trust for Agentic Systems: Managing Non-Human Identities at Scale (sponsored by HashiCorp),Breakout session
+AMZ304,Zoox: Building Machine Learning Infrastructure for Autonomous Vehicles,Breakout session

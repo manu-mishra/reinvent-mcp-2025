@@ -1,0 +1,79 @@
+code,title,type
+CNS373,Accelerate building Serverless apps with Amazon Q and MCP servers,Code talk
+IND3320,Accelerating AI: How Sun Life reduces latency and enhances engagement,Breakout session
+AIM237,Accelerating sustainability compliance with AI-powered document review,Lightning talk
+CNS365,Advanced authorization patterns for secure serverless applications,Chalk talk
+NTA404,AI Code to Production: Context Matters,Code talk
+AIM274-S,AI-First Contact Centers: Reinventing Scale with AWS and Partners (sponsored by PwC),Breakout session
+MAM306,Application modernization challenge,Workshop
+AIM335,Architecting circular systems with generative AI on AWS,Chalk talk
+DEV322,Automated Security Remediation with AWS Step Functions,Builders' session
+DAT457,Autonomous Web3 agents on AWS,Code talk
+TNC201,Autoscale EC2 Instances with Amazon EventBridge,Interactive training
+ARC319,Beyond microservices: Event-driven patterns for modern applications,Chalk talk
+DVT224-S,Bronto: Logs at Scale Without Compromise (sponsored by Bronto),Lightning talk
+IND411,Build AI Commerce Media Agents: Audience Discovery & Campaign Performance,Builders' session
+CNS358,"Build AI-powered developer experiences with MCP on ECS, EKS and Lambda",Breakout session
+IND342,Build a multi-agent financial research assistant with Amazon Bedrock,Workshop
+CNS352,Build an adaptive compute grid with Amazon ECS and AWS Lambda,Chalk talk
+AIM104-S,Build an Agentic SaaS App in 5 Steps: From Idea to Revenue (sponsored by Pega),Lightning talk
+NTA401,Build First Retail AI Agent: Customer Service Excellence with Amazon Bedrock,Builders' session
+CNS368,Build high-performance inference APIs with Lambda SnapStart,Chalk talk
+API316,Build Hybrid Serverless Architectures with AWS and On-premises Systems,Chalk talk
+MAM404,Building agentic AI applications on Amazon Bedrock using C# and .NET,Builders' session
+NTA405,"Building AI Agents with Serverless, Strands, and MCP",Code talk
+AMZ305,Building and managing conversational AI at scale: lessons from Alexa+,Breakout session
+CNS424,Building resilient Serverless applications with chaos engineering,Chalk talk
+DEV415,"Building Scalable, Self-Orchestrating AI Workflows with A2A and MCP",Breakout session
+CNS311,Building serverless AI Agents in Java with Spring AI,Builders' session
+DEV308,Build modern applications with Amazon Aurora DSQL,Breakout session
+IND343,Build your own AI-Driven Industrial Automation System with Agentic AI,Builders' session
+IND3308,Capital One: Building resilient systems by engineering for five nines,Breakout session
+AIM259-S,Closing the gap between speed and safety: shipping faster at scale (sponsored by LaunchDarkly),Breakout session
+NTA314,Connecting Infor CloudSuite to AWS Services,Chalk talk
+CNS367,Debug Lambda functions deployed in cloud like never before,Breakout session
+IND351,Design a multi-expert system for fraud investigation with AI agents,Chalk talk
+API311,Designing resilient Serverless Applications,Breakout session
+CNS366,Designing web architectures on AWS at scale,Chalk talk
+CNS415-S,Developing Serverless Applications Locally with AWS and LocalStack (sponsored by LocalStack),Lightning talk
+IND353, Documents to decisions: AI-powered underwriting with Amazon Bedrock,Builders' session
+IND358,Experience T-Mobile's Digital Commerce in Action,Breakout session
+CNS423,From Trigger to Execution: The Journey of Events in AWS Lambda,Breakout session
+API312,From Zero to Millions: Building Real-Time Applications at Scale,Breakout session
+CMP321,GenAI Storyboarding: From Sketch to 3D Scene with GenAI on AWS,Chalk talk
+CNS428,Implementing Human-in-the-Loop Controls for Multi-Agent AI Systems,Lightning talk
+CNS360,Implementing security best practices for serverless applications,Breakout session
+ISV304,Intelligent Document Processing at Scale Using Bedrock,Chalk talk
+OPN404,Level Up Your Serverless: The Powertools for AWS Lambda Workshop,Workshop
+NTA311,Modernizing Document Processing,Chalk talk
+MAM328,Monolith to microservices with AWS Modernization pathways,Workshop
+NTA306,Next-Gen Logistics with GenAI,Workshop
+CNS371,Operating AWS Lambda functions at scale,Chalk talk
+ARC401,Orchestration meets choreography: Building event-driven architectures,Builders' session
+CNS363,Patterns for session state management in Serverless applications,Chalk talk
+API319,Processing payments with real-time serverless architectures,Chalk talk
+OPN408,Production-ready Serverless: mastering Powertools for AWS Lambda,Chalk talk
+SEC210-S,Protecting web apps & APIs with AI and an as-a-Service approach (sponsored by Check Point Software),Breakout session
+CNS375,Real-time insights for smart manufacturing with AWS Serverless,Lightning talk
+AIM204-S,Reimagining software with Bedrock agent powered middlewares (sponsored by Cybage Software),Lightning talk
+COP414,Resilience testing and AWS Lambda actions under the hood,Code talk
+IND3301,"Ripple: Building an intelligent, multi-agent system for 24/7 operations",Breakout session
+SEC223-S,"Runtime + AI: Reinventing Cloud Security on AWS (sponsored by Upwind Security, Inc.)",Lightning talk
+ARC326,Scaling multi-agent architectures: Patterns for mission-critical AI,Chalk talk
+CNS361,Scaling Serverless with platform engineering: A blueprint for success,Breakout session
+CNS370,Secure user code execution with AWS Lambda for SaaS platforms,Chalk talk
+SPS323,Securing event-driven architectures: from sync to async security,Code talk
+CNS364,Serverless cost optimization: More from every invoke,Chalk talk
+CNS369,Serverless Observability: Best Practices for AWS Distributed Systems,Chalk talk
+API318,"Serverless Optimization: Balancing Cost, Throughput & Latency",Chalk talk
+IND363,Stream 3D applications globally with Amazon GameLift Streams,Workshop
+CNS374,Supercharge Lambda with Hono: The lightweight web framework,Lightning talk
+CNS427,Supercharge Serverless testing: Accelerate development with Amazon Q,Code talk
+CNS211,The future of AWS Serverless in 2025 and beyond,Breakout session
+CNS426,The Shapeshifting Application: Architecture That Transforms Across AWS,Code talk
+IND3315,Trading innovation: Jefferies' AI assistant on Amazon Bedrock ,Lightning talk
+IND210,Transforming Healthcare Payor Operations: AWS-TriZetto Success Story,Lightning talk
+API402,Understanding AWS Lambda event source mapping,Chalk talk
+DEV307,Unleash Rust's potential on AWS,Breakout session
+API207,Using event-driven architectures to modernize legacy applications at scale,Breakout session
+CNS376,What's new with AWS Lambda,Lightning talk

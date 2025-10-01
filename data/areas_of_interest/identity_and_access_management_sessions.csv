@@ -1,0 +1,35 @@
+code,title,type
+OPN301,Accelerate app authorization with the latest Cedar tools ,Builders' session
+COP347,Actionable controls for improving governance and compliance,Breakout session
+SEC402,A deep dive on IAM policy evaluation,Chalk talk
+ARC329,Architect for Zero Trust in AWS,Chalk talk
+ANT346,Architectural blueprints for your lakehouse in Amazon SageMaker,Chalk talk
+NTA321,AWS Agent for SAP Invoice Automation,Workshop
+ANT337,Breaking data silos with the lakehouse architecture,Chalk talk
+SEC304,Building an AI-Powered security guardian for your Cognito applications,Chalk talk
+ANT345,Building secure and scalable lakehouses for the future,Chalk talk
+SEC208-S,Building Secure-by-Design Environments with AWS Capabilities (sponsored by Native),Lightning talk
+NTA201,Cloud Foundations Accelerator,Chalk talk
+SEC306,Data perimeter challenge,Builders' session
+SEC307,"Design authentication, authorization, and logging logic in Agentic AI apps",Workshop
+SEC313,Enabling secure AI Agent access with Amazon Bedrock AgentCore Identity,Breakout session
+SEC308,Fortifying the cloud: Meta's journey implementing AWS data perimeters,Breakout session
+SEC343,Fostering a Resilient Incident Response Culture,Chalk talk
+SEC333,From Static to Dynamic: Modernizing AWS Access Management,Chalk talk
+NET329,Human Meets Microservice: Zero Trust with AWS Networking Services,Builders' session
+SEC340,IAM Access Analyzer Deep Dive: From Configuration to Remediation,Code talk
+INV505,IAM Access Analyzer from Research Paper to Reality,Chalk talk
+COP351,Innovation Sandbox on AWS: Automating Temporary Cloud Environments,Lightning talk
+CNS356,Master identity-first security with Amazon EKS Auto Mode,Chalk talk
+MAM324,Modernize AD integrations with AWS Managed Microsoft AD Hybrid Edition,Workshop
+SEC339,Modern workload identity management strategies,Chalk talk
+HMC318,Multicloud security best practices,Breakout session
+OPN409,Reinforce large policy based authorization systems with Cedar Analysis,Chalk talk
+SEC312,Secure and build apps in minutes with Amazon Verified Permissions,Builders' session
+SEC314,Securing Data Lakes: From Ingestion to AI Analysis,Builders' session
+COP315,Securing your network perimeter through observability,Workshop
+ISV301,Simplify Tenant Authorization with Cedar and Amazon Verified Permissions,Builders' session
+COP213-S,Solving the Cloud Privilege Problem at Scale: A Fiserv Case Study (sponsored by Sonrai Security),Lightning talk
+BIZ404,Streamline secure customer authentication with Amazon Connect,Builders' session
+INV511,Symbolic Execution for Better Cloud Governance,Chalk talk
+SEC335,Threat modeling for AWS identity: From federation to resource access,Chalk talk

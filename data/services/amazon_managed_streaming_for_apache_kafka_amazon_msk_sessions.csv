@@ -1,0 +1,11 @@
+code,title,type
+ANT301,Accelerating the shift from batch to real-time streaming,Chalk talk
+ANT322,Architectural patterns for real-time data analytics on AWS,Chalk talk
+ANT407,Building event-driven applications with AWS Streaming and Messaging,Builders' session
+ISV303,Building Multi-tenant Data Pipelines for Agentic SaaS experiences,Chalk talk
+IND3318,FIS: High-performance instant payment processing at massive scale,Breakout session
+COP412,Observability: The open source way,Workshop
+ANT307,Operating Apache Kafka and Apache Flink at scale,Breakout session
+ANT310,Powering your Agentic AI experience with AWS Streaming and Messaging,Breakout session
+ANT412,Power streaming analytics on AWS with AI-driven insights,Workshop
+ANT418,Unleash Apache Kafka's elasticity and cost-efficiency with Amazon MSK,Workshop

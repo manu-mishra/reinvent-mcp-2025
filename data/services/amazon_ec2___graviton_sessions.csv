@@ -1,0 +1,27 @@
+code,title,type
+CMP349,5-Star Customer Service: Duolingo's Path to Compute Savings,Breakout session
+AIM255,Architecting for sustainable IT at scale,Lightning talk
+CMP305,Assembling the Complete AI Stack: Optimizing Your AI Hardware on AWS,Chalk talk
+CMP307,AWS Graviton: The best price performance for your AWS workloads,Breakout session
+CMP310,"Boost Amazon EKS Efficiency: EKS Auto Mode, Graviton, and EC2 Spot",Chalk talk
+CMP311,"Build Once, Run Everywhere: Multi-Architecture in Your CI/CD Pipelines",Chalk talk
+CMP403,"Build, Scale, and Optimize Agentic AI on CPUs with AWS Graviton",Workshop
+CMP313,Cost Optimize your .NET workloads on AWS,Chalk talk
+CMP405,Everything you've wanted to know about performance on EC2 instances,Code talk
+AIM279-S,FINRA: Accelerate Massive Data Processing with NVIDIA on AWS EMR (sponsored by NVIDIA),Lightning talk
+COP206-S,How High-Performing Teams Connect Observability to Business Growth (sponsored by Coralogix),Breakout session
+CMP323,HPC Sustainability by Design: Optimizing for Planet and Performance,Workshop
+CMP326,Java Modernization and Performance Optimization GameDay,Workshop
+CMP329,Learnings from developers adopting AWS Graviton at scale,Chalk talk
+AIM254,Master your AWS carbon impact with the Customer Carbon Footprint Tool,Lightning talk
+CMP333,Maximizing EC2 Performance: A Hands-on Guide to Instance Optimization,Code talk
+CMP335,Optimize .NET Price-Performance with Graviton using AWS Transform,Workshop
+CMP337,Optimizing EC2: Hands-On Strategies for Cost-Effective Performance,Workshop
+IND379,Run real-time advertising workloads with unmatched cost-performance on AWS,Breakout session
+CMP347,The Frugal Architect in a Chaotic World,Chalk talk
+INV512,The hidden engineering behind foundation model building,Chalk talk
+IND210,Transforming Healthcare Payor Operations: AWS-TriZetto Success Story,Lightning talk
+AIM3320,Unlock carbon & cost insights: Optimize spend and drive sustainability,Workshop
+CMP352,Unlock Cost Efficiency with AWS Graviton Savings Dashboard,Lightning talk
+HMC306-S,Unlocking Business Value with Cloud Security (sponsored by Tenable),Lightning talk
+CMP348,Using Amazon Q to Cost Optimize Your Containerized Workloads,Workshop

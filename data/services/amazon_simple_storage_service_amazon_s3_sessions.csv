@@ -1,0 +1,96 @@
+code,title,type
+ANT309,Accelerate analytics and AI with an open and secure lakehouse architecture ,Breakout session
+STG347,Accelerate application performance with Amazon S3 Express One Zone,Chalk talk
+STG357,Accelerate data discovery with object metadata in Amazon S3,Breakout session
+STG201,Accelerate gen AI and ML workloads with AWS storage,Breakout session
+AIM237,Accelerating sustainability compliance with AI-powered document review,Lightning talk
+STG301,Advanced data resiliency: Recovery strategies for AWS storage,Workshop
+STG401,Advanced S3 performance engineering: From multipart to resilience,Workshop
+STG414,Advanced security patterns on Amazon S3,Chalk talk
+AIM337,Agentic AI for member-owned financials: Systems that serve,Code talk
+AIM247-S,"All Power, No Pain: Scale Agentic AI Apps in an Open Lakehouse (sponsored by Qlik)",Lightning talk
+STG335,"Amazon S3 performance: Architecture, design, and optimization",Breakout session
+STG316,Amazon S3 security and access control best practices,Breakout session
+STG302,"Amazon S3 security: Implementing controls, policies & audit systems",Workshop
+STG334,"Amazon S3 Tables architecture, use cases, and best practices",Breakout session
+HMC206-S,"Anatomy of a Ransomware Attack: A Live Simulation, Sponsored by Rubrik (sponsored by Rubrik)",Breakout session
+STG344,A practical guide to Amazon S3 data protection and recovery,Chalk talk
+AIM255,Architecting for sustainable IT at scale,Lightning talk
+STG303,Architecting vector-driven AI applications with Amazon S3 Vectors,Builders' session
+ANT346,Architectural blueprints for your lakehouse in Amazon SageMaker,Chalk talk
+DVT316-S,Are your APIs ready for AI agents? (sponsored by Postman),Breakout session
+ANT343,Best practices for building Apache Iceberg based lakehouse architectures on AWS,Breakout session
+STG317-S,Best practices to simplify resilience at scale for Gen AI data & apps (sponsored by Commvault),Breakout session
+SEC205-S,Beyond Backup: Advancing Cloud Resiliency with Shared Responsibility (sponsored by Cohesity),Breakout session
+ANT337,Breaking data silos with the lakehouse architecture,Chalk talk
+DVT224-S,Bronto: Logs at Scale Without Compromise (sponsored by Bronto),Lightning talk
+ANT329,Build Advanced AI-powered Search with OpenSearch MCP and Vectors,Chalk talk
+STG309,Build an S3 time machine: Implementing advanced point-in-time recovery,Workshop
+STG329,Build data resilient application architectures using AWS Storage,Chalk talk
+STG305,"Build fast, scalable infrastructure for AI/ML with AWS storage",Workshop
+ANT405,Build high performance Apache Iceberg data lakes with Amazon S3 Tables,Builders' session
+AIM273-S,Building a Cloud-Native Risk Decisioning Platform for Resilience (sponsored by PwC),Breakout session
+AIM256,Building an AI-powered waste classification using Amazon Nova & IoT,Lightning talk
+STG413,Building an operational data lake using S3 Tables and SageMaker,Chalk talk
+STG415,Building cost-effective data lakes with Apache Iceberg and Amazon S3,Chalk talk
+INV504,Building fast with automated reasoning at Amazon S3 scale,Chalk talk
+STG321,Building serverless vector applications with Amazon S3 Vectors,Chalk talk
+ANT404,Build modern data applications with the lakehouse architecture on AWS,Workshop
+DEV332,Build multi-modal AI agents with Strands Agents and Amazon S3 Vectors,Code talk
+IND3308,Capital One: Building resilient systems by engineering for five nines,Breakout session
+STG209,Choosing the right AWS storage service,Chalk talk
+SAS402,Creating multi-tenant data lakehouses for agentic SaaS environments,Workshop
+PEX313,Customize Amazon Nova models for Agentic AI with SageMaker & Bedrock ,Workshop
+STG338,Data protection and resilience with AWS Storage,Breakout session
+STG407,Deep dive on Amazon S3,Breakout session
+DAT423,Fast and easy bulk operations with Amazon DynamoDB,Chalk talk
+ANT333,Fast-track to insights: AWS-SAP data strategy,Lightning talk
+STG205,Flawless AI: Visual dubbing at scale with Amazon S3,Lightning talk
+COP204-S,From Backup to Live Data: Protecting and Unleashing Your Cloud Data (sponsored by Eon),Breakout session
+PEX310,From Motion to Meaning: AI-Powered Human Movement Analysis on AWS,Chalk talk
+STG308,Gaining insights from your data lake with Amazon S3 Metadata,Builders' session
+AIM246-S,Hesitate and You’re History: Why You Need Agentic AI Right Now (sponsored by Qlik),Breakout session
+AIM332,How Adobe & Salesforce Enable Sustainability initiatives with AWS CCFT,Breakout session
+AMZ403,How Amazon is migrating 1000’s of applications to new AWS regions,Chalk talk
+COP206-S,How High-Performing Teams Connect Observability to Business Growth (sponsored by Coralogix),Breakout session
+CMP406,HPC infrastructure for Financial Services using AWS Batch and AWS CDK,Builders' session
+NTA318,Iceland.co.uk: Boosting sales with hyper-personalized recommendations ,Breakout session
+STG210,Indeed's migration to Amazon S3 Tables,Lightning talk
+STG351,Inside S3: Lessons from exabyte-scale data lake modernization,Breakout session
+STG311,Integrate serverless applications with AWS storage services,Workshop
+AIM208-S,Lamborghini’s AI Journey: Data-Driven Innovation with Deloitte & AWS (sponsored by Deloitte),Breakout session
+NTA303,Landing Zone: Deploy Smarter with AI,Builders' session
+STG352,Large-scale software deployments: Inside Amazon S3’s release pipeline,Breakout session
+INV507,Light qubits in the AWS network,Chalk talk
+IND3305,LSEG: Transforming market intelligence at massive scale,Breakout session
+ANT326,Mastering data transformations with Amazon Athena,Chalk talk
+AIM254,Master your AWS carbon impact with the Customer Carbon Footprint Tool,Lightning talk
+STG208,Maximize the value of cold data with Amazon S3 Glacier storage classes,Breakout session
+STG322,MCP Server for Amazon S3 Tables: AI-powered data operations,Chalk talk
+MAM350,"Migrate faster, safer: AWS Data Transfer Terminal deep dive",Lightning talk
+STG404,Modern batch analytics: Building advanced pipelines with S3 Tables,Workshop
+STG331,Multicloud data movement best practices with AWS DataSync,Chalk talk
+SPS314,Novartis's next-gen clinical platform enables AI drug development,Breakout session
+STG405,Onboarding and optimizing AI/ML workloads with Amazon S3 & Amazon EKS,Workshop
+STG345,Optimize performance and cost for archival data in Amazon S3,Chalk talk
+AIM253,Optimizing generative AI workloads for sustainability and cost,Lightning talk
+STG343,Optimizing throughput performance using Mountpoint for Amazon S3,Chalk talk
+COP215-S,Powering SRE Transformation for a Telco Major (sponsored by Tech Mahindra),Lightning talk
+HMC307-S,Preemptive Recovery: A New Playbook for Cloud Resilience (sponsored by Rubrik),Breakout session
+DAT101-S,Presidio Resonate: AI Agents Orchestrating Multimodal Data at Scale (sponsored by Presidio),Lightning talk
+STG218,Put your data to work for Agentic AI with AWS storage,Breakout session
+CNS375,Real-time insights for smart manufacturing with AWS Serverless,Lightning talk
+DAT204-S,Redefining database scale for agentic AI workloads with TiDB (sponsored by TiDB powered by PingCAP),Lightning talk
+SEC346-S,Reimagining SIEM architecture using AWS S3 Buckets (sponsored by Vega),Lightning talk
+IND372-S,Reinventing credit origination process through AI (sponsored by Cloudera),Lightning talk
+SPS301,Robo-Reviewer: Building AI Video Evaluators with Bedrock,Workshop
+STG211,Scaling Pinterest: Iceberg solutions for petabyte-scale challenges,Lightning talk
+IND206,Streamlining Telecom Cybersecurity Operations with AWS Generative AI,Lightning talk
+STG318,Transforming AI storage economics with Amazon S3 Vectors,Breakout session
+DVT206-S,Transforming Observability: Ripple’s Journey with Grafana on AWS (sponsored by Grafana Labs),Lightning talk
+AIM210-S,"Unifying AWS observability, logs, and traces with Dynatrace (sponsored by Dynatrace)",Breakout session
+STG315,Use your FSx file data to build custom gen AI apps,Builders' session
+STG360,Using Amazon S3 Batch Operations to operate on up to billions of objects,Chalk talk
+STG346,Visualize data lake insights with S3 Tables and AWS analytics,Chalk talk
+STG206,What's new with Amazon S3,Breakout session
+STG342,Working with S3 Metadata: From basic queries to custom metadata,Chalk talk

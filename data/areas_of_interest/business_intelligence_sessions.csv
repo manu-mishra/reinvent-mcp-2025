@@ -1,0 +1,59 @@
+code,title,type
+STG357,Accelerate data discovery with object metadata in Amazon S3,Breakout session
+IND202,Accelerating Real-World Evidence Generation in Life Sciences,Breakout session
+ANT420,AI-driven scaling in Amazon Redshift Serverless,Chalk talk
+GBL205,AI in Action: How Companies Unlock Global Value & Fuel Growth,Breakout session
+ARC337-S,AI-Powered Enterprise Architecture with ServiceNow & AWS (sponsored by ServiceNow),Breakout session
+IND323,"Amazon Q Apps: Power RCM, Member Engagement, & Drug Safety Management ",Builders' session
+AMZ308,Amazon's finops: Cloud cost lessons from a global e-commerce giant,Lightning talk
+AIM296-S,A practical guide to modern web architecture  (sponsored by Contentful),Lightning talk
+PEX308,Architecting Agentic AI for Supply Chain: Data-to-Decision Patterns,Chalk talk
+IND307,Architecting Intelligent Supply Chains with Multi-Agent Orchestration,Chalk talk
+PEX305,Automotive Supply Chain Optimization using AI,Breakout session
+IND378,AWS for healthcare analytics: accelerating time to insights,Chalk talk
+AIM231-S,Beyond the Hype: Delivering Measurable ROI with Generative AI on AWS (sponsored by CDW),Lightning talk
+STG413,Building an operational data lake using S3 Tables and SageMaker,Chalk talk
+ISV312,Building Context-Rich Data Agents for SaaS with Amazon Bedrock,Chalk talk
+TNC317,Build production-ready Generative AI Applications on AWS,Interactive training
+WPS202,Chaos & Continuity: Using Gen AI to improve humanitarian workload resilience,Lightning talk
+TNC316,Create an AWS DevOps AI Agent with the Strands Agents SDK,Interactive training
+CMP314,"Data-Driven EC2 Optimization: Efficiency, Metrics, and Sustainability",Chalk talk
+IND349,Data Harmony: AWS AI Agents for Clinical Integration,Chalk talk
+TNC315,Develop AI Agents and Flow Apps on Amazon SageMaker Unified Studio,Interactive training
+IND306,From Bytes to Bench: Best practices for life science research agents,Workshop
+ANT202-S,From Kitchen to Cloud: How Brinker Dishes Out Data-Driven Success (sponsored by Teradata),Lightning talk
+IND214,From Lab to Market - AstraZeneca's Enterprise-Wide AI Success Story,Breakout session
+MAM102-S,From Legacy to Lakehouse: Proven Best Practices for Data Warehouse Migration (sponsored by Databricks),Breakout session
+STG308,Gaining insights from your data lake with Amazon S3 Metadata,Builders' session
+GHJ201, Generative AI Architecture Rodeo,Gamified learning
+AIM246-S,Hesitate and You’re History: Why You Need Agentic AI Right Now (sponsored by Qlik),Breakout session
+IND3311,How Amazon Game Studios builds a data foundation for AI/ML on AWS,Chalk talk
+SEC409-S,How Arrivia Stopped a Data Theft Ring with Teramind (sponsored by Teramind),Breakout session
+COP206-S,How High-Performing Teams Connect Observability to Business Growth (sponsored by Coralogix),Breakout session
+IND369,How TE Connectivity Transforms Product Engineering with Agentic AI,Breakout session
+NTA318,Iceland.co.uk: Boosting sales with hyper-personalized recommendations ,Breakout session
+ANT206,Innovations in SQL Analytics: What's new in Amazon Redshift and Amazon Athena,Breakout session
+AIM207-S,Integrated AI Agents: Moving Beyond Summarization to Automation (sponsored by DevRev),Lightning talk
+AIM208-S,Lamborghini’s AI Journey: Data-Driven Innovation with Deloitte & AWS (sponsored by Deloitte),Breakout session
+ANT323,"Mastering materialized views: tips for fast, low-latency queries in Redshift",Chalk talk
+ANT317,Modernize your data warehouse by moving to Amazon Redshift,Breakout session
+ANT102-S,Modernizing Wealth Management with Cloud + AI Use Cases (sponsored by Incedo Inc),Lightning talk
+OPN407,Performance tuning for streaming Ingestion into Apache Iceberg,Builders' session
+IND212,Real-time Patient and Revenue Cycle Insights with Gen AI,Lightning talk
+SPS301,Robo-Reviewer: Building AI Video Evaluators with Bedrock,Workshop
+ANT318,Scaling Amazon Redshift with a multi-warehouse architecture,Breakout session
+STG211,Scaling Pinterest: Iceberg solutions for petabyte-scale challenges,Lightning talk
+AIM283-S,ServiceNow and AWS: Powering AI-driven workflows on the cloud built to scale (sponsored by ServiceNow),Breakout session
+IND324,Simplify fraud investigation with Strands Agents and Amazon Nova Sonic,Chalk talk
+AIM348-S,Strategy First: Empowering the Business to Lead in the AI Era (sponsored by Starburst),Lightning talk
+TNC314,Structured Approach to AI coding with Spec-Driven Development on Kiro,Interactive training
+ANT321,Top 10 tips to improve query performance in Amazon Redshift,Chalk talk
+AIM120-S,Transforming Banking: NatWest's Journey to Enhanced Customer Experience (sponsored by Accenture),Breakout session
+IND352,Transforming Integrated Diagnostics: Philips' AI Journey with AWS,Breakout session
+AIM3320,Unlock carbon & cost insights: Optimize spend and drive sustainability,Workshop
+CMP352,Unlock Cost Efficiency with AWS Graviton Savings Dashboard,Lightning talk
+MAM213,Unlocking business value by integrating SAP and non-SAP data sources,Breakout session
+NTA101,Unlock Innovation: A Guide to AWS Partner Products in AWS Marketplace,Breakout session
+ISV307,Unlock New Business by Removing Data Silos with Zero-Copy ,Chalk talk
+STG346,Visualize data lake insights with S3 Tables and AWS analytics,Chalk talk
+STG342,Working with S3 Metadata: From basic queries to custom metadata,Chalk talk

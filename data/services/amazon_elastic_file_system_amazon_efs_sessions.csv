@@ -1,0 +1,10 @@
+code,title,type
+STG356,Accelerate data migrations to AWS,Chalk talk
+CMP345,Accelerate Drug Discovery R&D at Scale with AWS,Chalk talk
+STG301,Advanced data resiliency: Recovery strategies for AWS storage,Workshop
+STG349,Amazon EFS data resiliency: From strategy to implementation,Chalk talk
+STG355,"Building cost-optimized, resilient apps with Amazon EKS and EFS",Chalk talk
+INV504,Building fast with automated reasoning at Amazon S3 scale,Chalk talk
+STG311,Integrate serverless applications with AWS storage services,Workshop
+CNS419,Optimize GenAI inference and model performance on Amazon EKS,Chalk talk
+STG203,What's new with AWS File Storage,Breakout session

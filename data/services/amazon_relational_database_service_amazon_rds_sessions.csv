@@ -1,0 +1,24 @@
+code,title,type
+MAM304,Accelerating SQL Server modernization on AWS with agentic AI,Chalk talk
+DAT301,AI powered PostgreSQL: Incident detection & MCP integration,Workshop
+IND336,Amazon Bedrock AgentCore & MCP for Automated Telecom Service Assurance,Builders' session
+DAT302,Autonomous DBOps: Agentic AI for maintaining databases,Builders' session
+MAM308,AWS fundamentals for the accidental SQL Server database administrator,Chalk talk
+MAM309,AWS migration journey: 2025 itinerary for Microsoft workloads,Breakout session
+DAT312,Boost performance and reduce costs in Amazon Aurora and Amazon RDS,Breakout session
+DAT406,Build agentic AI–powered search with Amazon Aurora and Amazon RDS,Workshop
+DAT319,Building agentic memory layers on AWS managed databases,Breakout session
+COP416,Deep dive into advanced database performance monitoring,Chalk talk
+DAT445,Deep dive into databases zero-ETL integrations,Breakout session
+AIM260-S,Ditch your old SRE playbook: AI SRE for root cause in minutes (sponsored by Resolve AI),Breakout session
+MAM319,Full-stack SQL Server modernization on AWS,Builders' session
+DAT321,HA and DR design patterns for Amazon RDS for SQL Server and Oracle,Chalk talk
+PEX403,Metadata Intelligence: The Key to Trusted and Smart Agentic AI Systems,Chalk talk
+NTA307,NLP to SQL: Data Access with Amazon Nova,Builders' session
+DAT304,Optimize cost & performance in Amazon RDS for SQL Server,Chalk talk
+DAT310,Plan and execute PostgreSQL version upgrades for Aurora & Amazon RDS,Chalk talk
+DAT410,PostgreSQL performance: Real-world workload tuning,Code talk
+API102-S,Power multi-agent AI systems that truly transform enterprise workflows (sponsored by IBM),Breakout session
+DAT307,"Safer, simpler, faster upgrades with managed blue/green deployments",Chalk talk
+DAT325,Slash costs & get AI-ready with RDS for SQL Server & Oracle workloads,Breakout session
+DAT416,SQL Server migration & modernization powered by generative AI,Workshop

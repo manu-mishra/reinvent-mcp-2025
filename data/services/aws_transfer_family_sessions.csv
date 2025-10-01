@@ -1,0 +1,6 @@
+code,title,type
+STG361,Beyond SFTP and NFS: Automate enterprise file transfers at scale,Breakout session
+STG339,Modernize managed file transfer workflows with event-driven SFTP,Breakout session
+STG419,"Modern SFTP: Deploy AWS Transfer Family, Identity, and Automation",Code talk
+STG312,Moving data to Amazon S3 to enable Amazon Bedrock gen AI workflows,Workshop
+STG332,Simplify secure file sharing with Transfer Family no-code web apps,Chalk talk

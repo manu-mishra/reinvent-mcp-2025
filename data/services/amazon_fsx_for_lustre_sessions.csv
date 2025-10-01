@@ -1,0 +1,11 @@
+code,title,type
+STG201,Accelerate gen AI and ML workloads with AWS storage,Breakout session
+CMP350,Accelerating Vehicle Innovation: ML & HPC Best Practices,Chalk talk
+STG350,Amazon FSx Intelligent-Tiering: Technical deep dive and best practices,Chalk talk
+STG417,Boost database performance & availability with Amazon FSx for OpenZFS,Chalk talk
+STG305,"Build fast, scalable infrastructure for AI/ML with AWS storage",Workshop
+STG307,Build your own GenAI app on Amazon EKS with Amazon FSx and accelerated compute,Workshop
+STG416,File storage for high-performance workloads,Chalk talk
+STG336,"High-performance storage for AI/ML, analytics, and HPC workloads",Breakout session
+STG348,How to optimize AWS storage for generative AI and ML workloads,Chalk talk
+CMP323,HPC Sustainability by Design: Optimizing for Planet and Performance,Workshop

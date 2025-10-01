@@ -1,0 +1,45 @@
+code,title,type
+ARC330,Agentic architecting: From prototype to production-ready systems,Chalk talk
+PEX405,AI That Remembers: Building Memory Systems for AI Agents,Workshop
+DVT311, Apply Amazon’s DevOps culture to your team,Chalk talk
+SEC217-S,Automated cloud security remediation with agentic workflows (sponsored by Dynatrace),Lightning talk
+DEV322,Automated Security Remediation with AWS Step Functions,Builders' session
+SEC332,Automate vulnerability remediation for containers running in AWS,Chalk talk
+SEC322,Automating Certificate Management with Exportable Public Certificates,Code talk
+SEC341,Automating IAM policy validation and analysis using GitHub Actions,Code talk
+SEC323,AWS detection and response innovations that drive security outcomes,Breakout session
+GHJ308,AWS GameDay: Security ft. SentinelOne,Gamified learning
+ARC303,AWS Solutions Library: Accelerating innovation with proven patterns,Workshop
+SEC304,Building an AI-Powered security guardian for your Cognito applications,Chalk talk
+PEX404,Building Production-Ready AI Applications with Amazon Bedrock,Chalk talk
+DEV324,Building Real-Time Container Security with AWS Native Tools,Chalk talk
+SEC208-S,Building Secure-by-Design Environments with AWS Capabilities (sponsored by Native),Lightning talk
+IND350,Chaos detective: Deploy generative AI-powered troubleshooting agents,Chalk talk
+HMC208-S,Cloud Application Security in the AI Era: Lessons from Adobe and Fortinet (sponsored by Fortinet),Breakout session
+DVT202, Continuous integration and continuous delivery (CI/CD) for AWS,Breakout session
+IND217-S,Fast and compliant CI/CD pipelines in the financial industry (sponsored by Octopus Deploy),Lightning talk
+IND376,Financial services LLMOps: Scaling pilots to production ,Chalk talk
+SEC324,From code to cloud: enhancing visibility across the SDLC with AWS,Workshop
+SEC206-S,From collecting tools to an autonomous SOC (sponsored by SentinelOne),Breakout session
+HMC203-S,From Ground to Cloud: CAE Innovates with AWS & Red Hat (sponsored by Red Hat),Breakout session
+SEC202,How Cathay Transformed DevSecOps with AI: A 75% Faster Security Story,Breakout session
+SEC331,How Security Maturity Enables Your Cryptographic Agility Playbook,Chalk talk
+AIM102-S,How to uplevel your DevSecOps practice with agentic AI (sponsored by GitLab),Breakout session
+SEC340,IAM Access Analyzer Deep Dive: From Configuration to Remediation,Code talk
+COP341,Implement secure automated workflows with AWS Systems Manager,Chalk talk
+SEC207-S,Improve DevEx for GenAI Deployments: Dynatrace + Amazon Bedrock (sponsored by Dynatrace),Lightning talk
+DVT310," Mastering automated, zero-downtime software deployments",Chalk talk
+NTA407, Multi-Agent Collaboration with Amazon Bedrock Agentcore for Advanced SecOps,Code talk
+MAM332,Platform engineering: From developer success to business value,Chalk talk
+MAM331,Platform engineering: How to build a developer platform on Amazon EKS,Workshop
+OPN409,Reinforce large policy based authorization systems with Cedar Analysis,Chalk talk
+SEC204,Rethinking DevSecOps with Platform Engineering That Actually Works,Chalk talk
+COP333,Scaling open source observability stack feat. Warner Bros Discovery,Breakout session
+CNS361,Scaling Serverless with platform engineering: A blueprint for success,Breakout session
+MAM107,Simplify discovery and deployment of software with AWS Marketplace,Lightning talk
+SEC320,The AWS Security Incident Response Challenge: Defend the Cake!,Workshop
+API101-S,The Federal Fast Lane: Deploying Mission Technology at Commercial Speed (sponsored by LMI),Lightning talk
+SEC321,The magic behind Amazon GuardDuty Extended Threat Detection,Chalk talk
+DVT206-S,Transforming Observability: Ripple’s Journey with Grafana on AWS (sponsored by Grafana Labs),Lightning talk
+HMC306-S,Unlocking Business Value with Cloud Security (sponsored by Tenable),Lightning talk
+SEC211-S,Zero Trust for Agentic Systems: Managing Non-Human Identities at Scale (sponsored by HashiCorp),Breakout session

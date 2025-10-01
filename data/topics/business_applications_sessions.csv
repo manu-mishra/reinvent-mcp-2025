@@ -1,0 +1,139 @@
+code,title,type
+AIM236-S,A $3.7T Wake-Up Call: How data + AI is transforming CX (sponsored by Twilio),Breakout session
+BIZ321,Accelerate global contact center modernization with Amazon Connect,Chalk talk
+BIZ222,Accelerate supply chain transformation with agentic AI,Breakout session
+BIZ324-S,Accelerating Business Value with Cloud and AI (sponsored by Infosys),Breakout session
+AIM425,Advanced agentic RAG Systems: Deep dive with Amazon Bedrock,Code talk
+BIZ221,Agentic AI advancements in customer experience with Amazon Connect,Breakout session
+AIM342-S,Agentic AI: The Next Frontier of Cloud Intelligence (sponsored by Atos),Lightning talk
+AIM3312,Agents that remember: Implementing context with AgentCore Memory,Breakout session
+AIM220-S,AI-Native Era of Observability: How You Can Get Started Today (sponsored by Coralogix),Breakout session
+BIZ201,AI-powered retail transformation with Just Walk Out technology,Breakout session
+DAT316,Analyze blockchain data with Amazon Bedrock AgentCore,Builders' session
+BIZ212,Anthology boosts contact center efficiency with AI,Breakout session
+API303,API Gateway Unleashed: A Hands-on Journey to API Excellence,Workshop
+ANT322,Architectural patterns for real-time data analytics on AWS,Chalk talk
+BIZ317,Automate customer experiences with Amazon Connect,Chalk talk
+BIZ101-S,Autonomous Enterprise: Redefining the Future of Business with AI (sponsored by Digitate),Lightning talk
+PEX314,"AWS Marketplace seller workshop: Publish, update, and manage products",Workshop
+AIM3304,"Balance cost, performance & reliability for AI at enterprise scale",Breakout session
+AIM235-S,Balance performance and cost on AWS with intelligent optimization (sponsored by IBM),Lightning talk
+STG304,Best practices for deploying critical applications with Amazon EBS,Workshop
+AIM3303,Beyond short interactions: Building long running agents with AgentCore,Chalk talk
+EUC206,Break down AI barriers with AWS Wickr and Amazon Bedrock,Chalk talk
+AIM394,Bridging the POC to production gap: An introduction to AgentCore,Breakout session
+AIM3311,Build agentic workflows on AWS with third-party agents and tools,Breakout session
+AIM341,Build agents with Amazon Bedrock AgentCore & Strands Agents,Workshop
+AIM392,Build AI apps faster and at scale using Amazon Bedrock APIs,Chalk talk
+BIZ322,Build AI-powered Embedded Analytics with Amazon QuickSight,Workshop
+AIM104-S,Build an Agentic SaaS App in 5 Steps: From Idea to Revenue (sponsored by Pega),Lightning talk
+AIM215-S,Build and Deploy AI Agents with Cloudera Agent Studio (sponsored by Cloudera),Workshop
+AIM399,Building A2A-enabled applications with Strands Agents,Chalk talk
+AIM397,Building governed agents: Human-in-the-loop with AgentCore and Strands,Chalk talk
+AIM390,Building tomorrow's AI applications at scale with Amazon Bedrock,Breakout session
+AIM324,Build production-ready AI solutions with Claude in Amazon Bedrock,Workshop
+BIZ205,Build self-healing supply chains with agentic AI,Chalk talk
+AIM303, Build trustworthy AI applications with Amazon Bedrock Guardrails,Workshop
+AIM111-S,Build your agentic operating system with Slack (sponsored by Slack from Salesforce),Lightning talk
+BIZ219,Caesars personalizes guest service at scale with AI-powered Amazon Connect,Breakout session
+BIZ401,Call the Amazon Q Business ChatSync API from a custom web application,Builders' session
+AIM259-S,Closing the gap between speed and safety: shipping faster at scale (sponsored by LaunchDarkly),Breakout session
+CNS405,Cloud-native Java on Amazon EKS,Builders' session
+BIZ215,Cochlear enhances contact center observability with Amazon Connect,Breakout session
+AIM3300,Collaborate at scale: Architecting multi-agent systems with AgentCore,Chalk talk
+NTA314,Connecting Infor CloudSuite to AWS Services,Chalk talk
+BIZ302,Create advanced self-service experiences with Amazon Connect,Workshop
+BIZ303,Data-driven contact centers: Maximizing Amazon Connect analytics,Chalk talk
+AIM3314,"Debug, trace, improve: Observability for agentic applications",Chalk talk
+AIM3305,"Deliver a smarter, faster, and a more accurate agentic RAG system",Breakout session
+BIZ304,Design multi-modal customer journeys with Amazon Connect,Chalk talk
+TNC315,Develop AI Agents and Flow Apps on Amazon SageMaker Unified Studio,Interactive training
+AIM234-S,Drive trusted AI outcomes with governance and accurate data (sponsored by IBM),Lightning talk
+BIZ210-S,Driving Intelligent Project Portfolio Visibility with AWS + Smartsheet (sponsored by Smartsheet),Lightning talk
+BIZ305,Enhance customer service efficiency with AI-powered email workflows,Chalk talk
+AIM301,Expand Agent Capabilities with AgentCore Gateway and Tools,Workshop
+EUC201,Expand Amazon WorkSpaces monitoring capabilities with Amazon Bedrock,Workshop
+AIM393,Explore AI customization techniques with Amazon Bedrock,Chalk talk
+AIM3306,Explore zero-downtime deployment strategies for production LLMs,Chalk talk
+AIM2200-S,Fit for purpose AI-led transformation (sponsored by Tata Consultancy Services),Breakout session
+AIM395,From concept to campaign: Building marketing agents with AgentCore,Breakout session
+BIZ209-S,From Data Chaos to AI Magic: Supercharging Customer Experience (sponsored by Treasure Data),Lightning talk
+BIZ206,From KPIs to action: close the business objectives loop with AI agents,Chalk talk
+IND214,From Lab to Market - AstraZeneca's Enterprise-Wide AI Success Story,Breakout session
+GHJ201, Generative AI Architecture Rodeo,Gamified learning
+BIZ217,Global tourism brand transforms customer service with Amazon Connect,Breakout session
+BIZ306,Governance and administrative controls with Amazon Q Business,Workshop
+COP206-S,How High-Performing Teams Connect Observability to Business Growth (sponsored by Coralogix),Breakout session
+SPS321,How Yahoo! Finance built research multi-agent systems with Gen AI,Breakout session
+AIM396,Integrate any agent framework with Amazon Bedrock AgentCore,Breakout session
+AIM207-S,Integrated AI Agents: Moving Beyond Summarization to Automation (sponsored by DevRev),Lightning talk
+AIM208-S,Lamborghini’s AI Journey: Data-Driven Innovation with Deloitte & AWS (sponsored by Deloitte),Breakout session
+SPS401,Manchester Airports Group: Scaling operations with Agentic AI & MCP,Breakout session
+AIM3310,Mastering AI agents in enterprises: Best practices with AgentCore,Breakout session
+AIM391,Mastering model choice: The 3-step Amazon Bedrock advantage,Breakout session
+NTA402,Mastering VMware to EC2 Migration,Workshop
+BIZ307,Maximize AI-powered customer outreach with Amazon Connect,Chalk talk
+PEX304,Migrate and Modernize Legacy Workflows to Intelligent Agents,Breakout session
+EUC205,Mission-critical security: How U.S. Army secures comms with AWS Wickr,Breakout session
+BIZ308,Modernize your contact center agent workspace with Amazon Connect,Workshop
+NTA311,Modernizing Document Processing,Chalk talk
+EUC209,Modernizing Your Desktop Infrastructure: A Guide to WorkSpaces Migration,Chalk talk
+NTA305,Multilingual Contact Center with Amazon Connect,Workshop
+STG408,Multi-protocol data access in FSx for NetApp ONTAP scale-out file systems,Workshop
+STG326,Operating large-scale enterprise workloads with Amazon EBS and EBS Snapshots,Chalk talk
+BIZ309,Optimize back-office operations with gen AI-powered Amazon Connect,Chalk talk
+BIZ403,Optimize contact center deployment with change management strategies,Builders' session
+BIZ310,Optimize contact center staffing using AI-powered assistants,Workshop
+BIZ311,Optimize customer conversations in your IVR with Amazon Connect,Workshop
+AIM311,"Optimize open weight models for low-latency, cost-effective AI apps",Builders' session
+EUC302,Optimize user productivity with Amazon Bedrock and Amazon WorkSpaces ,Builders' session
+AIM3301,Performance meets pragmatism: Cost-optimized agents with AgentCore,Chalk talk
+BIZ312,Personalize customer interactions with AI agents in Amazon Connect,Chalk talk
+BIZ213,Petco unlocks agentic AI-powered customer service with Amazon Connect,Breakout session
+EUC301,Plan a flawless migration to Amazon WorkSpaces using Amazon Q,Builders' session
+API102-S,Power multi-agent AI systems that truly transform enterprise workflows (sponsored by IBM),Breakout session
+AIM316,Rapidly build and scale real-world AI agents with AgentCore & Strands,Workshop
+BIZ216,Redefining service excellence: Canada Life’s AI-powered contact center,Breakout session
+BIZ313,Refine customer journeys with predictive routing in Amazon Connect,Chalk talk
+BIZ202,Reimagine enterprise productivity with Amazon Q Business,Breakout session
+IND211,Reimagining Healthcare Access with Amazon One's Biometric Innovation,Chalk talk
+EUC202,Remove bottlenecks with an intelligent Amazon WorkSpaces dashboard,Workshop
+BIZ402,Revolutionizing multimodal data search with Amazon Q Business,Workshop
+AIM3308,Safeguard your generative AI applications with Amazon Bedrock Guardrails,Chalk talk
+BIZ314,Scale your contact center with Amazon Connect global telephony,Chalk talk
+AIM3313,Scaling agent tools with AgentCore Gateway for enterprises,Breakout session
+SPS306,Scaling AI Supply Chains: Search to Consumer-Driven Demand,Chalk talk
+SEC216-S,"Seamless Network-based Fraud Protection for FinTech & Digital Business (sponsored by Vonage, Part of Ericsson)",Lightning talk
+AIM398,Securing AI agent workflows: Identity patterns in AgentCore,Chalk talk
+BIZ315,Securing Amazon Q Business applications with APIs,Workshop
+EUC203,Simplify Amazon WorkSpaces management through automation,Builders' session
+AIM3309,Slack securely powers internal AI dev tools with Bedrock and Strands,Breakout session
+AIM314,"Smarter Agents, Better Insights: Contextual Memory in Action",Workshop
+BIZ211,So Energy streamlines customer service with AI-powered automation,Breakout session
+DVT101-S,State of DevEx 2025: Navigating the AI Revolution and Developer Experience (sponsored by Atlassian),Breakout session
+AIM348-S,Strategy First: Empowering the Business to Lead in the AI Era (sponsored by Starburst),Lightning talk
+BIZ316,Streamline Amazon Connect management with agentic AI-powered controls,Workshop
+BIZ404,Streamline secure customer authentication with Amazon Connect,Builders' session
+IND206,Streamlining Telecom Cybersecurity Operations with AWS Generative AI,Lightning talk
+TNC314,Structured Approach to AI coding with Spec-Driven Development on Kiro,Interactive training
+BIZ214,Traeger accelerates contact center agent productivity with agentic AI,Breakout session
+BIZ318,Transform data into insights with AI-powered Amazon Connect,Workshop
+BIZ220,Transforming contact centers in financial services with Amazon Connect,Breakout session
+AIM327,Transform multimodal data with Amazon Bedrock Data automation,Builders' session
+MAM211-S,Turning Complexity into Effortless CX with Amazon Connect (sponsored by NTT DATA),Breakout session
+BIZ218,UC San Diego Health modernizes patient engagement with Amazon Connect,Breakout session
+BIZ319,Understanding the deep security controls within Amazon Q Business,Chalk talk
+BIZ301,Unlock contact center insights with Amazon Connect,Chalk talk
+ANT313-S,"Unlocking GenAI potential with automated modernization to AWS  (sponsored by Impetus Technologies, Inc.)",Lightning talk
+NTA101,Unlock Innovation: A Guide to AWS Partner Products in AWS Marketplace,Breakout session
+BIZ320,Unlock intelligent generative AI-powered email with Amazon Connect,Workshop
+BIZ203,Unlock the power of generative AI for better customer experiences,Breakout session
+AIM426,"Using Strands to build fully autonomous, self-improving AI agents",Code talk
+EUC204,Visualize and optimize spend using Amazon WorkSpaces dashboards,Builders' session
+IND216,Vodafone Romania BSS Modernization on AWS,Chalk talk
+IND330,Voice AI restaurant ordering platform powered by Amazon Nova Sonic,Chalk talk
+SPS313,Volkswagen Group's custom GenAI models for global brand consistency,Breakout session
+MAM209,Why customers choose AWS as their transformation partner for SAP,Breakout session
+AIM109-S,Why Usage-Based Billing Must Be Treated as Infrastructure (sponsored by Metronome),Lightning talk
+AIM3302,Your data is your moat: Integrating AWS-native tools into agents,Chalk talk
+AIM325,Zero to launch: Deploy AI agents with AgentCore Runtime and Identity,Workshop

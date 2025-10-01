@@ -1,0 +1,176 @@
+code,title,type
+SPS308,Accelerate Cloud Modernization & Migration with AWS Countdown Premium,Workshop
+AIM219-S,Accelerate Innovation: AI-Driven Automation for Modern Operations (sponsored by PagerDuty),Breakout session
+TNC208,Accelerate Your Cloud Journey with AWS Transform and AWS Skill Builder,Breakout session
+COP320,Accelerating Incident Resolution: AI-Driven Root Cause Analysis,Builders' session
+COP334,Accelerating incident response through AIOps,Breakout session
+HMC319,Achieve multicloud FinOps visibility,Chalk talk
+COP347,Actionable controls for improving governance and compliance,Breakout session
+COP401,Advanced analytics with AWS Cost and Usage Reports,Code talk
+COP419,Advanced multicloud cost reporting with FOCUS,Code talk
+COP321,Agent down! Building unbreakable AI workflows,Chalk talk
+SAS414,Agents meet SaaS operations: A natural fit,Builders' session
+COP354,Agile governance: Deploy AWS Control Tower in your current environment,Chalk talk
+AIM206-S,AI-Powered Observability & Observability for AI: The Two Sides of the Coin (sponsored by ManageEngine),Lightning talk
+COP420,AI-powered resilience testing and disaster recovery,Breakout session
+ISV313,AI-powered SaaS Observability using OpenSearch,Code talk
+SNR304,A leaders guide to achieving compliance through software excellence,Breakout session
+SNR306,A leaders guide to AI powered FinOps,Breakout session
+SNR203,A leaders guide to emerging technologies: From insight to rapid action,Breakout session
+STG350,Amazon FSx Intelligent-Tiering: Technical deep dive and best practices,Chalk talk
+AMZ308,Amazon's finops: Cloud cost lessons from a global e-commerce giant,Lightning talk
+INV206,"A new dawn for operations: More intelligent, secure, and efficient",Innovation talk
+COP329,Application performance monitoring: From design to implementation,Chalk talk
+COP301,Applying AI for FinOps and FinOps for AI,Chalk talk
+COP210,A practical guide for meeting regulatory resilience requirements,Chalk talk
+COP355,A practical guide to implement cost-effective governance controls,Chalk talk
+COP312,Architecting Security at Scale with AWS Cloud Governance,Chalk talk
+COP402,Architect open source observability for distributed environments,Chalk talk
+COP403,Automate cloud operations with AI agents,Workshop
+COP303,Automate disaster recovery playbooks using generative AI,Builders' session
+DEV322,Automated Security Remediation with AWS Step Functions,Builders' session
+COP310,Automating compliance and auditing at scale,Workshop
+NTA321,AWS Agent for SAP Invoice Automation,Workshop
+COP302,AWS disaster recovery strategies,Builders' session
+TNC103,AWS Escape Room: Exam Prep for Cloud Practitioner [Exam Prep],Exam prep
+GBL101,AWS European Sovereign Cloud: Your 20-Minute Essential Guide,Lightning talk
+COP349,Balancing Agility and Compliance feat. The Digital Agency of Japan,Breakout session
+COP415,Behind the scenes: How AWS drives operational excellence & reliability,Breakout session
+COP209-S,"Best Practices for moving, innovating & extending SAP Cloud ERP (sponsored by SAP)",Breakout session
+DVT224-S,Bronto: Logs at Scale Without Compromise (sponsored by Bronto),Lightning talk
+AIM304,Build agentic observability workflows with models from AWS Marketplace,Builders' session
+COP406,Build and automate policy as code,Builders' session
+COP323,Build effective logging strategies for operational insights,Chalk talk
+COP404,Build full-stack observability from applications to databases,Workshop
+COP405,Building agentic workflows for augmented observability,Code talk
+COP322,Building AI-Powered operational insights and automated remediation,Builders' session
+COP350,Building and validating cloud controls with generative AI,Breakout session
+COP407,Building custom agents for intelligent AWS patch automation,Code talk
+SPS311,Building operational resilience in workloads using generative AI,Workshop
+DEV311,Building production AI agents for cloud application resilience on AWS,Breakout session
+COP340,"Building reliable operations, feat. Fannie Mae",Breakout session
+COP408,Building resilient architectures with observability,Workshop
+COP409,Building Sovereign Cloud Environments,Code talk
+COP353,Building your data protection strategy with governance controls,Chalk talk
+DEV406,Build resilient distributed systems through comprehensive testing,Chalk talk
+ISV404,Build Resilient SaaS: Multi-Account Resilience Testing Patterns,Code talk
+COP330,Byte to insight: Maximize value from your logs with Amazon CloudWatch,Chalk talk
+COP342,Centralize Multicloud Management using AWS,Breakout session
+IND350,Chaos detective: Deploy generative AI-powered troubleshooting agents,Chalk talk
+COP304,Chaos engineering workshop,Workshop
+STG209,Choosing the right AWS storage service,Chalk talk
+COP205-S,Connecting Context to Performance: Real-World Enterprise Observability  (sponsored by Splunk),Breakout session
+COP337,Correlating compliance signals across AWS,Chalk talk
+GBL204,"Cyber Resilience on AWS, designing security and recovery strategies",Breakout session
+CMP314,"Data-Driven EC2 Optimization: Efficiency, Metrics, and Sustainability",Chalk talk
+COP416,Deep dive into advanced database performance monitoring,Chalk talk
+COP305,Defend against downtime using fault isolation boundaries,Chalk talk
+COP421,Design effective Amazon CloudWatch dashboards and alarms,Chalk talk
+HMC320,Design patterns for multicloud observability,Chalk talk
+COP339,Developing a cost allocation strategy with AWS tooling,Chalk talk
+COP306,Developing Unit Cost Metrics with Cloud Intelligence Dashboards,Builders' session
+COP356,Disaster Recovery (DR) with AWS Elastic Disaster Recovery Service,Lightning talk
+COP357,Downtime prevention with the Resilience Lifecycle Framework,Chalk talk
+COP327,Drive operational excellence for modern applications,Breakout session
+COP101-S,Driving Resilience with Assurance and Visibility from Edge to Cloud (sponsored by Cisco),Lightning talk
+COP326,Elevate application and generative AI observability,Breakout session
+ISV401,Elevate Multi-Tenant SaaS Operations: DevOps Strategy with Kubernetes,Builders' session
+COP336,Elevating application reliability,Breakout session
+PEX402,Engineering Intelligence: Multi-Agent AI Systems for Industrials,Chalk talk
+COP307,Enhancing security visibility: building scalable log analytics,Chalk talk
+DEV346,Enterprise CI/CD: Advanced patterns for resilient deployments,Code talk
+COP308,Establish a secure AWS foundation with AWS Control Tower,Workshop
+COP309,Establishing effective cost governance,Chalk talk
+COP201,Estimating workload costs using AWS Pricing Calculator,Chalk talk
+OPN403,Expedite model loading times in Kubernetes using kro & ACK,Chalk talk
+COP410,Exploring Multi-tenant Cost Allocation for Container Workloads,Workshop
+SPS318,Fidelity's AI-powered support analysis system,Breakout session
+COP211-S,FinOps+: A New Era of Accelerating Value (sponsored by Kion),Lightning talk
+COP204-S,From Backup to Live Data: Protecting and Unleashing Your Cloud Data (sponsored by Eon),Breakout session
+DEV328,From Laptop to Scale: A UnicornVibe AI Agent Journey,Chalk talk
+COP352,From Reactive to Proactive: Infrastructure governance by design,Code talk
+CNS201,Fundamentals to scale Kubernetes across your organization,Workshop
+ISV310,Global Growth: A Framework for Expanding into New Regions,Chalk talk
+COP346,Governance that Enables Innovation at Scale feat. Eli Lilly,Breakout session
+AIM332,How Adobe & Salesforce Enable Sustainability initiatives with AWS CCFT,Breakout session
+COP207-S,How AI is rewriting the contact center play book (sponsored by Zendesk),Lightning talk
+CMP322,How Amazon EC2 improves the customer experience with Live Migration,Chalk talk
+COP206-S,How High-Performing Teams Connect Observability to Business Growth (sponsored by Coralogix),Breakout session
+IND388,How Netflix Connects Product Experiments to its AWS Bill,Breakout session
+AIM238-S,How Samsung Uses AI Agents to Optimize Infrastructure at Scale  (sponsored by Cast AI),Lightning talk
+NTA320,How Zydus implemented regulated DR on AWS,Breakout session
+NTA302,IAM Analytics: Automate & Visualize,Workshop
+COP344,Implementing Automated Security Controls for Zero-Day Defense,Chalk talk
+COP328,Implementing observability at scale: A blueprint for success,Breakout session
+COP341,Implement secure automated workflows with AWS Systems Manager,Chalk talk
+COP351,Innovation Sandbox on AWS: Automating Temporary Cloud Environments,Lightning talk
+COP411,Intelligent automation for managing cloud governance and compliance,Builders' session
+SPS304,Intelligently automating cloud operations,Workshop
+SPS303,Intelligent Operations: AI driven Modernization and Incident Response,Workshop
+SPS316,Koch Industries' data migration success with AWS Countdown Premium,Breakout session
+CNS204,Kubernetes simplified: Get hands-on with Amazon EKS Auto Mode,Workshop
+NTA303,Landing Zone: Deploy Smarter with AI,Builders' session
+STG352,Large-scale software deployments: Inside Amazon S3’s release pipeline,Breakout session
+COP311,Leaving no operational issues behind,Chalk talk
+COP360,Leverage observability to build responsible AI applications,Lightning talk
+MAM409,"Leveraging MCP Servers for SAP Observability, Security & Integration",Chalk talk
+NTA408,Logistics Agility: AWS Success Story ,Breakout session
+DEV320,Mastering feature flags: Faster releases and rapid recovery,Code talk
+AIM254,Master your AWS carbon impact with the Customer Carbon Footprint Tool,Lightning talk
+DAT317,Microseconds matter: Architect ultra-low latency trading platforms,Chalk talk
+MAM215-S,"Migrating 1,600+ Daily Image Builds to AWS (sponsored by Chainguard)",Lightning talk
+SPS312,Modernizing Global Payment Processing: Moving from Mainframe to AWS,Breakout session
+COP418,Monitor the quality and accuracy of your generative AI workloads,Code talk
+COP324,Moving AWS Accounts seamlessly at scale,Chalk talk
+COP313,Multicloud & hybrid node operation at scale is easier than you think,Chalk talk
+COP358,Multi-Region disaster recovery & resilience testing (feat. Fidelity),Breakout session
+ISV305,Multi-Tenant AI Cost Control,Workshop
+NTA306,Next-Gen Logistics with GenAI,Workshop
+COP335,Observability for AI Agents and Traditional Workloads,Breakout session
+NTA406,Observability for Reliable Agentic AI with Strands SDK & OpenTelemetry,Code talk
+COP412,Observability: The open source way,Workshop
+CNS371,Operating AWS Lambda functions at scale,Chalk talk
+DEV318,Optimize AWS Costs: Developer Tools and Techniques,Breakout session
+SPS305,Optimize mission critical workloads with CloudWatch MCP & Amazon Q CLI,Workshop
+COP212,Optimize software and AI Agent procurement with AWS Marketplace,Lightning talk
+COP413,Optimizing GenAI performance with Amazon CloudWatch,Builders' session
+COP338,Optimizing resources at scale with AWS Compute Optimizer,Chalk talk
+COP215-S,Powering SRE Transformation for a Telco Major (sponsored by Tech Mahindra),Lightning talk
+OPN307,Production Trino: Robust Interactive Workloads at Scale,Chalk talk
+GHJ310,re:Architecture Rodeo - Resilience Challenge,Gamified learning
+COP414,Resilience testing and AWS Lambda actions under the hood,Code talk
+NTA309,Sandbox Magic: No Spells Required,Workshop
+MAM356-S,SAP modernization at an Australian steel manufacturer (sponsored by Capgemini),Breakout session
+AIM387,Scale AI and agentic workflows with Amazon SageMaker AI,Breakout session
+COP314,Scale & automate patching with AI-powered visualization,Workshop
+COP417,Scale security monitoring using AWS CloudTrail with generative AI,Chalk talk
+COP348,Scaling Compliance Controls and Risk Assessment,Chalk talk
+NTA308,Seamlessly Connect On-Premises to AWS,Builders' session
+COP315,Securing your network perimeter through observability,Workshop
+CNS364,Serverless cost optimization: More from every invoke,Chalk talk
+CNS369,Serverless Observability: Best Practices for AWS Distributed Systems,Chalk talk
+CNS209,Simplify backup for stateful Amazon EKS workloads,Lightning talk
+COP316,Simplifying security and operations through smart resource tracking,Builders' session
+COP213-S,Solving the Cloud Privilege Problem at Scale: A Fiserv Case Study (sponsored by Sonrai Security),Lightning talk
+COP343,Streamline operations with automated health monitoring and response,Chalk talk
+COP317,Stress test your services for resilience with AWS Game Day,Breakout session
+DEV304,Supercharge DevOps with AI-driven observability,Breakout session
+COP208-S,Supercharge your Karpenter: Tactics for smarter K8s optimization (sponsored by Zesty),Lightning talk
+SPS320,Supercharge your well-architected reviews with AWS Generative AI,Chalk talk
+COP318,Tag like a pro: Optimize multi-account resource tracking,Chalk talk
+DVT318, Test your web and mobile applications with AWS Device Farm,Workshop
+SPS315,The AI revolution in customer support: Building predictive service systems,Breakout session
+COP332-S,The Digital Supply Chain Is Broken. Can AI Fix It? (sponsored by Files.com),Lightning talk
+COP319,Transform cloud monitoring into natural conversations,Builders' session
+COP331,Troubleshooting database performance issues at scale,Lightning talk
+SPS307,Troubleshooting in the cloud with Amazon Q,Workshop
+DVT325,Unleashing AWS agility with Terraform ,Chalk talk
+AIM3320,Unlock carbon & cost insights: Optimize spend and drive sustainability,Workshop
+HMC306-S,Unlocking Business Value with Cloud Security (sponsored by Tenable),Lightning talk
+AIM101-S,Unlocking Enterprise Resilience: AI and Automation in Action (sponsored by PagerDuty),Breakout session
+NTA101,Unlock Innovation: A Guide to AWS Partner Products in AWS Marketplace,Breakout session
+AIM334,Unlock sustainability insights: How AI enables AWS carbon management,Chalk talk
+STG360,Using Amazon S3 Batch Operations to operate on up to billions of objects,Chalk talk
+COP202,What's new in AWS cost Optimization,Breakout session
+COP203,What's New with AWS Cost Management,Breakout session
+SPS319,When security becomes fashionable: Gymshark's cloud security evolution,Chalk talk

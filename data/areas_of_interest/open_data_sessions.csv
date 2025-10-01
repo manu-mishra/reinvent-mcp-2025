@@ -1,0 +1,32 @@
+code,title,type
+DAT438,Advanced data modeling for Amazon ElastiCache,Breakout session
+DAT301,AI powered PostgreSQL: Incident detection & MCP integration,Workshop
+STG334,"Amazon S3 Tables architecture, use cases, and best practices",Breakout session
+ANT346,Architectural blueprints for your lakehouse in Amazon SageMaker,Chalk talk
+IND338,Automate analysis and extract intelligence from financial datasets,Workshop
+ANT343,Best practices for building Apache Iceberg based lakehouse architectures on AWS,Breakout session
+DAT458,"Better, faster, cheaper: How Valkey is revolutionizing caching",Breakout session
+ANT337,Breaking data silos with the lakehouse architecture,Chalk talk
+ANT338,Bring unified analytics to your data warehouse with the lakehouse architecture,Chalk talk
+DAT428,Build a cost-effective RAG-based gen AI application with Amazon Aurora,Chalk talk
+DAT406,Build agentic AI–powered search with Amazon Aurora and Amazon RDS,Workshop
+DAT309,Build agentic workflows with Aurora and MCP,Chalk talk
+STG415,Building cost-effective data lakes with Apache Iceberg and Amazon S3,Chalk talk
+DAT314,Build serverless chatbots using Amazon ElastiCache & Aurora PostgreSQL,Breakout session
+DAT429,Coding an MCP server for Amazon Aurora,Code talk
+DAT431,Essentials for migrating from Oracle to Amazon Aurora PostgreSQL,Chalk talk
+DAT408,Geo-fencing & real-time geospatial alerts with ElastiCache Valkey,Builders' session
+DAT409,Implement hybrid search with Aurora PostgreSQL for MCP retrieval,Builders' session
+CNS410,Optimize analytics workloads on Amazon EKS for performance and cost,Workshop
+STG343,Optimizing throughput performance using Mountpoint for Amazon S3,Chalk talk
+DAT310,Plan and execute PostgreSQL version upgrades for Aurora & Amazon RDS,Chalk talk
+DAT410,PostgreSQL performance: Real-world workload tuning,Code talk
+STG211,Scaling Pinterest: Iceberg solutions for petabyte-scale challenges,Lightning talk
+CNS420,"Shuffle, Scale, Succeed: Optimizing Spark Performance on Amazon EKS",Chalk talk
+DAT416,SQL Server migration & modernization powered by generative AI,Workshop
+AIM210-S,"Unifying AWS observability, logs, and traces with Dynatrace (sponsored by Dynatrace)",Breakout session
+IND365,Unifying data platforms for generative AI-ready financial systems,Chalk talk
+DAT417,Unlock intelligent AI with MCP powered agentic Neptune graph reasoning,Workshop
+DAT419,Use GraphRAG with Amazon Neptune to improve generative AI applications,Builders' session
+DAT447,Using graphs over your data lake to power generative AI applications,Breakout session
+STG346,Visualize data lake insights with S3 Tables and AWS analytics,Chalk talk

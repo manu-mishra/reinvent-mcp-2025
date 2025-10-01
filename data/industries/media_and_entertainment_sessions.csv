@@ -1,0 +1,48 @@
+code,title,type
+IND304,Agentic video summarization for autonomous content creation at scale,Chalk talk
+IND397,AI-Powered Content Compliance: Media Rating Automation with Nova,Chalk talk
+AMZ308,Amazon's finops: Cloud cost lessons from a global e-commerce giant,Lightning talk
+NTA301,Automate Review Analysis with Nova Act and Generative AI,Builders' session
+SPS309,Automating LLM Fine-Tuning with Multi-Agentic Orchestration,Breakout session
+AIM231-S,Beyond the Hype: Delivering Measurable ROI with Generative AI on AWS (sponsored by CDW),Lightning talk
+DAT322,Binge-worthy: Netflix's journey to Amazon Aurora at scale,Lightning talk
+IND309,Breaking Down Silos: Multi-Agent Architecture for Media Operations,Chalk talk
+ANT327-S,Build a GenAI Race Tracker With Confluent & AWS Bedrock in <60 Min  (sponsored by Confluent),Breakout session
+IND411,Build AI Commerce Media Agents: Audience Discovery & Campaign Performance,Builders' session
+IND319,Build Intelligent Media Workflows with Agentic AI,Workshop
+IND311,Build Media Workflows with Natural Language Using Strands Agents SDK,Builders' session
+IND312,Build Streaming Analytics Dashboards in Minutes with Amazon Q Developer,Builders' session
+IND366,Build ultra-low latency ad workloads with unmatched cost-performance,Workshop
+SPS302,Democratize Data: Bundesliga Real-time Insights Without Writing any SQL,Chalk talk
+IND314,DevOps Meets Broadcast: Build Your Own Multi-Camera Broadcast Solution,Workshop
+AIM329,Evaluating the right model for video intelligence,Workshop
+STG205,Flawless AI: Visual dubbing at scale with Amazon S3,Lightning talk
+ANT208-S,From Agentic AI Demos to ROI: Path to Production With Confluent + AWS (sponsored by Confluent),Breakout session
+BIZ209-S,From Data Chaos to AI Magic: Supercharging Customer Experience (sponsored by Treasure Data),Lightning talk
+PEX310,From Motion to Meaning: AI-Powered Human Movement Analysis on AWS,Chalk talk
+IND399,From Print to AI: The Economist's Digital Evolution with AWS Architecture,Lightning talk
+AIM373,From prompt to production: On-brand marketing images with Amazon Nova,Breakout session
+CMP321,GenAI Storyboarding: From Sketch to 3D Scene with GenAI on AWS,Chalk talk
+IND381,How Amazon Ads uses AWS to democratize ad creation,Lightning talk
+SMB203,How Cires21 revolutionized advanced video workflows using AI on AWS,Lightning talk
+COP206-S,How High-Performing Teams Connect Observability to Business Growth (sponsored by Coralogix),Breakout session
+IND388,How Netflix Connects Product Experiments to its AWS Bill,Breakout session
+IND387,How Netflix Shapes our Fleet for Efficiency and Reliability,Breakout session
+IND318,How Prime Video balanced innovation and reliability for live sports,Chalk talk
+DAT201-S,How SAS and Freshworks Power Real-Time Personalization at Extreme Scale  (sponsored by ScyllaDB),Breakout session
+AIM313,Improving multimedia analytics with customized Amazon Nova models,Builders' session
+IND355,Level Up Your Asset Pipeline: AI-Powered 3D Model Generation at Scale,Builders' session
+AIM378,Leverage your own IP to enhance creative control,Chalk talk
+IND357,Multi-agent collaboration for optimized advertising performance,Chalk talk
+PEX311,Multimodal Video Understanding AI at Scale with Amazon Bedrock,Workshop
+DAT101-S,Presidio Resonate: AI Agents Orchestrating Multimodal Data at Scale (sponsored by Presidio),Lightning talk
+IND360,Privacy-enhanced ML and GenAI for AdTechs with AWS Clean Rooms,Chalk talk
+AMZ307,Revolutionize media production: Field-ready cloud solutions,Lightning talk
+IND379,Run real-time advertising workloads with unmatched cost-performance on AWS,Breakout session
+NET316,Scaling Multi-Tenant SaaS Delivery with Amazon CloudFront,Breakout session
+AIM389,Seamless and scalable creative and product visual generation,Chalk talk
+NET211,"State of the Edge:  Delivery of the web with CloudFront, WAF, and Shield",Breakout session
+AIM418-S,The AI Discussion Control Plane: How Your Agentic Team Redefines Ops (sponsored by Edge Delta),Lightning talk
+IND380,The Trade Desk optimizes media buying and ad experiences with AI on AWS,Breakout session
+CMP210-S,Unleashing Performance: How Intel Xeon 6 on AWS EC2 Is Redefining Compute & TCO (sponsored by Intel),Breakout session
+DAT203-S,What Database Would Your AI Agents Choose -  Escape the Frankenstack (sponsored by SingleStore),Lightning talk

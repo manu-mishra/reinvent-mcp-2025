@@ -1,0 +1,60 @@
+code,title,type
+BIZ321,Accelerate global contact center modernization with Amazon Connect,Chalk talk
+ISV308,Accelerating SaaS Implementations with Amazon Bedrock and Amazon Nova,Chalk talk
+BIZ221,Agentic AI advancements in customer experience with Amazon Connect,Breakout session
+IND207,AI Agents in Concert: Building Self-Healing Networks with AWS & Ericsson,Breakout session
+ISV313,AI-powered SaaS Observability using OpenSearch,Code talk
+BIZ212,Anthology boosts contact center efficiency with AI,Breakout session
+BIZ317,Automate customer experiences with Amazon Connect,Chalk talk
+DVT224-S,Bronto: Logs at Scale Without Compromise (sponsored by Bronto),Lightning talk
+AIM104-S,Build an Agentic SaaS App in 5 Steps: From Idea to Revenue (sponsored by Pega),Lightning talk
+DAT405,Build a web-scale application with purpose-built databases & analytics,Workshop
+ISV312,Building Context-Rich Data Agents for SaaS with Amazon Bedrock,Chalk talk
+ISV402, Building Customizable AI Agents: A Fast-Track Guide for ISVs,Builders' session
+IND344,Building multi-Region financial transaction systems with Aurora DSQL,Builders' session
+ISV303,Building Multi-tenant Data Pipelines for Agentic SaaS experiences,Chalk talk
+ISV306,Building Multi-tenant global ML SaaS platform,Lightning talk
+CNS309,Building multi-tenant SaaS applications with Amazon ECS,Workshop
+AIM111-S,Build your agentic operating system with Slack (sponsored by Slack from Salesforce),Lightning talk
+ISV405,BYOK: The Key to Meeting Enterprise SaaS Security Demands,Code talk
+BIZ215,Cochlear enhances contact center observability with Amazon Connect,Breakout session
+SAS402,Creating multi-tenant data lakehouses for agentic SaaS environments,Workshop
+BIZ304,Design multi-modal customer journeys with Amazon Connect,Chalk talk
+ISV316,Driving Profitable Growth with Generative AI: From Prompt to Product,Breakout session
+ISV401,Elevate Multi-Tenant SaaS Operations: DevOps Strategy with Kubernetes,Builders' session
+BIZ305,Enhance customer service efficiency with AI-powered email workflows,Chalk talk
+ANT101-S,"EverCommerce’s Secret to AI-Ready, Multi-Brand Data (sponsored by Fivetran)",Lightning talk
+IND3318,FIS: High-performance instant payment processing at massive scale,Breakout session
+ISV314,From Code to Market: Build and Launch AI Agents on AWS Marketplace,Code talk
+BIZ209-S,From Data Chaos to AI Magic: Supercharging Customer Experience (sponsored by Treasure Data),Lightning talk
+ISV315,GenAI-Powered Contextual Security Analysis & Remediation,Code talk
+COP207-S,How AI is rewriting the contact center play book (sponsored by Zendesk),Lightning talk
+DAT201-S,How SAS and Freshworks Power Real-Time Personalization at Extreme Scale  (sponsored by ScyllaDB),Breakout session
+ISV304,Intelligent Document Processing at Scale Using Bedrock,Chalk talk
+BIZ307,Maximize AI-powered customer outreach with Amazon Connect,Chalk talk
+BIZ308,Modernize your contact center agent workspace with Amazon Connect,Workshop
+ISV305,Multi-Tenant AI Cost Control,Workshop
+HMC322,"Multi-tenant multicloud SaaS using Kubernetes, feat. Adobe",Lightning talk
+BIZ309,Optimize back-office operations with gen AI-powered Amazon Connect,Chalk talk
+BIZ403,Optimize contact center deployment with change management strategies,Builders' session
+BIZ310,Optimize contact center staffing using AI-powered assistants,Workshop
+BIZ311,Optimize customer conversations in your IVR with Amazon Connect,Workshop
+BIZ312,Personalize customer interactions with AI agents in Amazon Connect,Chalk talk
+BIZ213,Petco unlocks agentic AI-powered customer service with Amazon Connect,Breakout session
+DAT204-S,Redefining database scale for agentic AI workloads with TiDB (sponsored by TiDB powered by PingCAP),Lightning talk
+BIZ216,Redefining service excellence: Canada Life’s AI-powered contact center,Breakout session
+BIZ313,Refine customer journeys with predictive routing in Amazon Connect,Chalk talk
+BIZ314,Scale your contact center with Amazon Connect global telephony,Chalk talk
+ISV309,Scaling Agentic AI in Multi-Tenant SaaS Environments,Chalk talk
+ISV302,Scaling SaaS applications with cell-based architectures,Chalk talk
+CNS370,Secure user code execution with AWS Lambda for SaaS platforms,Chalk talk
+ISV311,Securing AI Agents: SailPoint's Journey with Amazon Bedrock AgentCore,Chalk talk
+ISV301,Simplify Tenant Authorization with Cedar and Amazon Verified Permissions,Builders' session
+BIZ316,Streamline Amazon Connect management with agentic AI-powered controls,Workshop
+BIZ404,Streamline secure customer authentication with Amazon Connect,Builders' session
+BIZ318,Transform data into insights with AI-powered Amazon Connect,Workshop
+BIZ301,Unlock contact center insights with Amazon Connect,Chalk talk
+BIZ320,Unlock intelligent generative AI-powered email with Amazon Connect,Workshop
+ISV307,Unlock New Business by Removing Data Silos with Zero-Copy ,Chalk talk
+IND216,Vodafone Romania BSS Modernization on AWS,Chalk talk
+AIM109-S,Why Usage-Based Billing Must Be Treated as Infrastructure (sponsored by Metronome),Lightning talk

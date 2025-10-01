@@ -1,0 +1,13 @@
+code,title,type
+DAT438,Advanced data modeling for Amazon ElastiCache,Breakout session
+DAT458,"Better, faster, cheaper: How Valkey is revolutionizing caching",Breakout session
+DAT319,Building agentic memory layers on AWS managed databases,Breakout session
+DAT426,Building for high availability using Amazon ElastiCache,Chalk talk
+DAT314,Build serverless chatbots using Amazon ElastiCache & Aurora PostgreSQL,Breakout session
+IND358,Experience T-Mobile's Digital Commerce in Action,Breakout session
+DAT408,Geo-fencing & real-time geospatial alerts with ElastiCache Valkey,Builders' session
+DAT451,Optimize agentic AI apps with semantic caching,Breakout session
+DAT437,Optimizing for high performance with Amazon ElastiCache Serverless,Breakout session
+DAT411,Revolutionize customer care with data-driven generative AI,Builders' session
+DAT324,Scaling MONOPOLY GO! to 10M daily players with DynamoDB & ElastiCache,Lightning talk
+DAT433,Video sampling & search using in-memory DBs & multimodal embeddings,Code talk

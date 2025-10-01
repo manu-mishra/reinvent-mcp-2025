@@ -1,0 +1,19 @@
+code,title,type
+MAM201,A complete guide to Amazon EVS: Unlock AWS scale for VMware workloads,Breakout session
+MAM202,Agentic AI for VMware migrations with AWS Transform for VMware,Breakout session
+MAM401,Amazon EVS deep dive: Advanced networking and storage architecture,Chalk talk
+MAM305,Amazon EVS deep dive: Strategic migration planning,Chalk talk
+MAM203,"AWS for VMware migrations: Successes, roadmaps, & strategies",Breakout session
+HMC202,AWS wherever you need it: From the cloud to the edge,Breakout session
+CMP313,Cost Optimize your .NET workloads on AWS,Chalk talk
+MAM316,Fast-track your VMware to AWS migration with AWS Transform,Workshop
+MAM323,Map your VMware workloads migration and modernization journey to AWS,Chalk talk
+HMC303,Migrate and modernize VMware and Java workloads with on-premises dependencies,Workshop
+HMC309,Migrating your VMware workloads with on-premises dependencies,Breakout session
+CMP335,Optimize .NET Price-Performance with Graviton using AWS Transform,Workshop
+MAM101-S,Optimizing storage costs for Amazon EVS with FSx for ONTAP (sponsored by NetApp),Breakout session
+MAM335,Scale VMware migrations with Cloud Migration Factory & AWS Transform,Workshop
+MAM346,Transforming Enterprise IT: CSL Behring's VMware and SAP Modernization,Breakout session
+NTA316,Transitioning VMware workloads: VMC-A to AWS EVS,Chalk talk
+MAM338,"VMware to AWS modernization blueprint: Migrate, containerize, scale",Workshop
+MAM357,VMware to AWS Readiness: Foundational decisions before your migration,Chalk talk

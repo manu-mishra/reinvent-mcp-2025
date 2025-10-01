@@ -1,0 +1,8 @@
+code,title,type
+STG340,Accelerate & automate secure data transfers at scale with AWS DataSync,Breakout session
+STG361,Beyond SFTP and NFS: Automate enterprise file transfers at scale,Breakout session
+HMC209-S,"Building High-Performance, Secure Networks for Hybrid and Multicloud (sponsored by Equinix)",Lightning talk
+MAM350,"Migrate faster, safer: AWS Data Transfer Terminal deep dive",Lightning talk
+STG312,Moving data to Amazon S3 to enable Amazon Bedrock gen AI workflows,Workshop
+STG331,Multicloud data movement best practices with AWS DataSync,Chalk talk
+STG330,Strategies to accelerate petabyte-scale migrations with AWS DataSync,Chalk talk

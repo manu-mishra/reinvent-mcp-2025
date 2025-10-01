@@ -1,0 +1,13 @@
+code,title,type
+DAT401,Amazon Aurora DSQL: A developer's perspective,Code talk
+DAT455,A tale of two transactions,Breakout session
+DAT404,"Build a multi-Region, active-active rewards app with Aurora DSQL",Workshop
+IND344,Building multi-Region financial transaction systems with Aurora DSQL,Builders' session
+ARC404,Building resilient multi-Region applications with Capital One,Breakout session
+DEV308,Build modern applications with Amazon Aurora DSQL,Breakout session
+DAT407,Create an intelligent banking agent using Aurora DSQL & MCP,Builders' session
+DAT441,Deep dive into Amazon Aurora and its innovations,Breakout session
+DAT439,Deep dive into Amazon Aurora DSQL and its architecture,Breakout session
+DAT452,Demystifying Aurora DSQL transactions and concurrency control,Chalk talk
+CMP409,It's About Time! Improving Distributed Systems with Amazon Time Sync,Breakout session
+IND359,Navigating multi-Region AWS database choices for financial services,Chalk talk

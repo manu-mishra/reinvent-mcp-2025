@@ -1,0 +1,18 @@
+code,title,type
+STG301,Advanced data resiliency: Recovery strategies for AWS storage,Workshop
+SEC336,Architecting for data protection and compliance with AWS Backup,Chalk talk
+COP312,Architecting Security at Scale with AWS Cloud Governance,Chalk talk
+STG333,Automate data protection at scale with AWS Backup and AWS Control Tower,Code talk
+STG418,AWS Backup clean room recovery: Comprehensive resilience framework,Chalk talk
+STG410,AWS Backup unlocked: strategies for at-scale data protection,Chalk talk
+STG328,Best practices for cost optimization with AWS Backup,Chalk talk
+SEC205-S,Beyond Backup: Advancing Cloud Resiliency with Shared Responsibility (sponsored by Cohesity),Breakout session
+STG329,Build data resilient application architectures using AWS Storage,Chalk talk
+STG412,Building resilience against ransomware using AWS Backup,Breakout session
+STG403,Build ransomware data recovery with AWS Backup logically air-gapped vaults,Workshop
+GBL204,"Cyber Resilience on AWS, designing security and recovery strategies",Breakout session
+STG338,Data protection and resilience with AWS Storage,Breakout session
+STG409,Data protection & application recovery strategies for ransomware,Chalk talk
+STG213,Motability Operations' unified backup strategy: From fragmented to fortified,Lightning talk
+STG313,Optimize AWS Backup using AI evaluation and Well-Architected best practices,Builders' session
+STG207,"Protect your data with AWS Backup: overview, use cases and what's new",Breakout session

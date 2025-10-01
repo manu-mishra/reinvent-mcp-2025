@@ -1,0 +1,82 @@
+code,title,type
+API301,Accelerate API Creation with Amazon Q Developer CLI,Builders' session
+OPN301,Accelerate app authorization with the latest Cedar tools ,Builders' session
+STG347,Accelerate application performance with Amazon S3 Express One Zone,Chalk talk
+API314,A decade of API Gateway: Architecting the future of API Management,Breakout session
+AIM263-S,"AI Agents with Amazon Nova Sonic: Vonage for Financial Services (sponsored by Vonage, Part of Ericsson)",Lightning talk
+PEX405,AI That Remembers: Building Memory Systems for AI Agents,Workshop
+NET309,A modern approach to application migration with Amazon VPC Lattice,Breakout session
+OPN401,An unexpected journey building AWS MCP Servers,Breakout session
+API302,API Gateway Authorization Strategies,Builders' session
+API303,API Gateway Unleashed: A Hands-on Journey to API Excellence,Workshop
+DEV303,Architecting Distributed Micro-frontends with Serverless,Chalk talk
+BIZ101-S,Autonomous Enterprise: Redefining the Future of Business with AI (sponsored by Digitate),Lightning talk
+PEX314,"AWS Marketplace seller workshop: Publish, update, and manage products",Workshop
+API401,Beyond Batch: Modernize with Event-Driven Architecture & Serverless,Builders' session
+PEX316,Build agents & tools for Bedrock AgentCore and sell in AWS Marketplace,Builders' session
+CNS352,Build an adaptive compute grid with Amazon ECS and AWS Lambda,Chalk talk
+DEV325,Build and Deploy Highly Available Event Processing with Containers,Chalk talk
+DAT448,Build a stablecoin payment processor using AWS serverless services,Workshop
+API304,Build GenAI-Powered Workflows with Step Functions and AWS AI Services,Builders' session
+API316,Build Hybrid Serverless Architectures with AWS and On-premises Systems,Chalk talk
+API208,Building a culture of API Excellence,Lightning talk
+AIM357-S,Building Agentic AI Systems with AWS and Agent Mesh (sponsored by Solace),Workshop
+AIM256,Building an AI-powered waste classification using Amazon Nova & IoT,Lightning talk
+API209-S,Building better AI agents by applying context engineering (sponsored by Redis),Breakout session
+ISV402, Building Customizable AI Agents: A Fast-Track Guide for ISVs,Builders' session
+API305,Building EDAs with Apache Kafka and Amazon EventBridge,Chalk talk
+API306,Building event-driven architectures,Workshop
+API322,Building Fault-Tolerant Systems with AWS Messaging Services ,Code talk
+CNS202,Building interactive web based applications on Serverless,Builders' session
+API313,Building Production-Grade Workflow Patterns with AWS Step Functions,Breakout session
+PEX404,Building Production-Ready AI Applications with Amazon Bedrock,Chalk talk
+API307,Building rate-limited solutions on AWS,Chalk talk
+CNS404,Building Serverless distributed data processing workloads,Workshop
+OPN304,Building Trust in AI Agents: Automated Evaluation at Scale,Chalk talk
+AIM345-S,Building with Elastic MCP and Amazon Bedrock AgentCore (sponsored by Elastic),Breakout session
+CNS203,Building your first event driven application,Builders' session
+API205-S,"Build, manage and govern AI agents from one place (sponsored by IBM)",Lightning talk
+IND408,Build Virtual Engineering Workbenches for SDV with AWS Marketplace,Workshop
+HMC208-S,Cloud Application Security in the AI Era: Lessons from Adobe and Fortinet (sponsored by Fortinet),Breakout session
+API201,Decoupling your data-driven applications with Amazon EventBridge Pipes,Builders' session
+API324-S,Deploy and Fine-Tune Nemotron Models on AWS SageMaker and Bedrock: Hands-On Lab (sponsored by NVIDIA),Workshop
+API311,Designing resilient Serverless Applications,Breakout session
+CNS316,Effective strategies for testing serverless event-driven applications,Chalk talk
+NTA315,Extending governance across clouds,Chalk talk
+API204-S,From AI Promise to KPI Impact: Connected Agents & Orchestration (sponsored by Workato),Lightning talk
+API312,From Zero to Millions: Building Real-Time Applications at Scale,Breakout session
+API202,How Event Driven Architectures Go Wrong  and How to Fix them,Chalk talk
+API315,Integration patterns for distributed systems,Breakout session
+SAS405,Integration patterns for multi-tenant systems,Breakout session
+CNS325,Master distributed transactions: Orchestration with AWS Step Functions,Builders' session
+API317,Migrating to Amazon API Gateway,Chalk talk
+DEV333,Modernize monoliths to microservices with generative AI,Breakout session
+CNS408,Modernizing monoliths: The path to architectural freedom,Builders' session
+API320,Modernizing Serverless Applications with Event-Driven Architectures,Chalk talk
+AIM105-S,Next level patient experiences with Amazon Connect powered by Kyndryl (sponsored by Kyndryl),Lightning talk
+API203,Optimize data processing with built-in AWS Step Functions features,Chalk talk
+CNS411,Optimizing Kafka workloads with AWS Lambda,Chalk talk
+OPN407,Performance tuning for streaming Ingestion into Apache Iceberg,Builders' session
+API210-S,Powering real-time apps and analytics with Redis 8 + RDI (sponsored by Redis),Breakout session
+API102-S,Power multi-agent AI systems that truly transform enterprise workflows (sponsored by IBM),Breakout session
+API319,Processing payments with real-time serverless architectures,Chalk talk
+API308,Real-time for the real world with AWS AppSync Events,Builders' session
+GHJ311,re:Architecture Rodeo - Real-Time Data and Analytics Showdown,Gamified learning
+MAM212,Re-defining customer experiences with SAP and Pan-Amazon Services,Breakout session
+SEC101-S,Scale Customer Engagement with WhatsApp Business on AWS (sponsored by Meta),Breakout session
+ISV309,Scaling Agentic AI in Multi-Tenant SaaS Environments,Chalk talk
+API318,"Serverless Optimization: Balancing Cost, Throughput & Latency",Chalk talk
+API309,Serverlesspresso: Build an event-driven application from the ground up,Workshop
+API323,Simplifying orchestrations with JSONata and AWS Step Functions,Lightning talk
+API321,Solving the Observability Mystery with AWS Step Functions,Code talk
+CNS336,Telemetry forensics: Debugging event systems with metrics & traces,Builders' session
+API101-S,The Federal Fast Lane: Deploying Mission Technology at Commercial Speed (sponsored by LMI),Lightning talk
+API310,The Step Functions Workshop,Workshop
+CNS337,Thinking Serverless,Chalk talk
+OPN413,Transforming Apache Kafka into a Scalable Message Queue,Breakout session
+API206-S,Transforming Supply Chains with Amazon Bedrock AgentCore (sponsored by Fujitsu),Lightning talk
+API402,Understanding AWS Lambda event source mapping,Chalk talk
+NTA101,Unlock Innovation: A Guide to AWS Partner Products in AWS Marketplace,Breakout session
+API207,Using event-driven architectures to modernize legacy applications at scale,Breakout session
+DAT318,Web3 + AI: Agents that mean business,Breakout session
+CNS340,Write less code: Building applications with a serverless mindset,Builders' session

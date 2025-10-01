@@ -1,0 +1,74 @@
+code,title,type
+IND371,Accelerate product development lifecycle with a product digital twin,Lightning talk
+IND303,Accelerating Smart Product SDLC with Amazon Q Developer,Chalk talk
+AIM237,Accelerating sustainability compliance with AI-powered document review,Lightning talk
+CMP350,Accelerating Vehicle Innovation: ML & HPC Best Practices,Chalk talk
+AIM232-S,Agentic AIOps: How LogicMonitor & WWT See Enterprises Readying for Autonomous IT (sponsored by LogicMonitor),Breakout session
+IND305,AI Agents in Manufacturing: Building Intelligent Data Workflows,Chalk talk
+NTA404,AI Code to Production: Context Matters,Code talk
+AIM274-S,AI-First Contact Centers: Reinventing Scale with AWS and Partners (sponsored by PwC),Breakout session
+IND368,Apollo Tyres Accelerates Engineering Workflows with HPC on AWS,Breakout session
+AIM335,Architecting circular systems with generative AI on AWS,Chalk talk
+IND339,Automate Inventory Rebalancing on AWS with Agentic AI,Builders' session
+NTA301,Automate Review Analysis with Nova Act and Generative AI,Builders' session
+IND393,Automating Amazon Fulfillment Center Operations with Generative AI,Breakout session
+PEX305,Automotive Supply Chain Optimization using AI,Breakout session
+NTA321,AWS Agent for SAP Invoice Automation,Workshop
+COP209-S,"Best Practices for moving, innovating & extending SAP Cloud ERP (sponsored by SAP)",Breakout session
+PEX309,Breakdown to Breakthrough: Crafting AI-Powered Smart Machine Support,Chalk talk
+IND310,Build Agentic AI Solutions for Industrial Predictive Maintenance,Workshop
+NTA401,Build First Retail AI Agent: Customer Service Excellence with Amazon Bedrock,Builders' session
+IND403,Build Humanoid Intelligence: Advancing Physical AI with AWS and NVIDIA,Chalk talk
+IND402,Building an Agentic AI-powered Knowledge Assistant for Engineering R&D,Chalk talk
+AIM256,Building an AI-powered waste classification using Amazon Nova & IoT,Lightning talk
+NTA312,Building The Enterprise Data Success Framework,Chalk talk
+IND343,Build your own AI-Driven Industrial Automation System with Agentic AI,Builders' session
+NTA201,Cloud Foundations Accelerator,Chalk talk
+NTA314,Connecting Infor CloudSuite to AWS Services,Chalk talk
+NTA313,Cut Costs with Aurora PostgreSQL & Babelfish,Chalk talk
+IND331,Democratizing Whirlpool's Virtual Product Development with AWS,Breakout session
+HMC311,Developing end-to-end SLM pipelines from the cloud to the edge,Chalk talk
+IND316,Driving Autonomous Operations with Data Sharing and Agentic AI,Chalk talk
+AIM2202-S,"Edge AI in Real-World Solutions using AWS SageMaker, Greengrass and Bedrock (sponsored by Qualcomm)",Breakout session
+PEX402,Engineering Intelligence: Multi-Agent AI Systems for Industrials,Chalk talk
+NTA315,Extending governance across clouds,Chalk talk
+AIM119-S,From idea to instant production readiness: building AI agents on Cloudflare (sponsored by Cloudflare),Lightning talk
+AIM246-S,Hesitate and You’re History: Why You Need Agentic AI Right Now (sponsored by Qlik),Breakout session
+AIM238-S,How Samsung Uses AI Agents to Optimize Infrastructure at Scale  (sponsored by Cast AI),Lightning talk
+IND369,How TE Connectivity Transforms Product Engineering with Agentic AI,Breakout session
+NTA302,IAM Analytics: Automate & Visualize,Workshop
+HMC317,Implement Agentic AI at the edge for industrial automation,Code talk
+IND404,Improve Manufacturing Production Planning with Amazon SageMaker,Workshop
+NTA303,Landing Zone: Deploy Smarter with AI,Builders' session
+IND209-S,Leverage Graph Insights to Turbocharge Amazon Q (sponsored by Securiti AI),Lightning talk
+NTA402,Mastering VMware to EC2 Migration,Workshop
+NTA311,Modernizing Document Processing,Chalk talk
+IND321,Modernizing Legacy Systems: Boeing's PLM Cloud Transformation,Breakout session
+IND370,Modernizing Operational Technology for AI-power Manufacturing,Lightning talk
+NTA407, Multi-Agent Collaboration with Amazon Bedrock Agentcore for Advanced SecOps,Code talk
+NTA310,Multi-Cloud Container Migrations: Amazon CodeCatalyst for Balanced Workloads.,Chalk talk
+NTA305,Multilingual Contact Center with Amazon Connect,Workshop
+PEX311,Multimodal Video Understanding AI at Scale with Amazon Bedrock,Workshop
+NTA304,Multi-Tenant ETL: Consolidate SaaS Data,Builders' session
+NTA306,Next-Gen Logistics with GenAI,Workshop
+NTA307,NLP to SQL: Data Access with Amazon Nova,Builders' session
+IND322,Redefining Operations: Caterpillar's Geospatial Intelligence Solution,Breakout session
+IND367,Revolutionizing Audi's Welding Inspection System through AI,Breakout session
+AIM286-S,Rivian & MongoDB: Powering the Future of Autonomous Driving (sponsored by MongoDB),Breakout session
+MAM356-S,SAP modernization at an Australian steel manufacturer (sponsored by Capgemini),Breakout session
+SPS306,Scaling AI Supply Chains: Search to Consumer-Driven Demand,Chalk talk
+NTA308,Seamlessly Connect On-Premises to AWS,Builders' session
+WPS309,"Smart Alerts, Smarter Workflows: The Amazon Connect Edge",Builders' session
+IND326,Smart Machines: Maximizing Business Value with Generative AI,Chalk talk
+IND328,Transforming Additive Manufacturing with Agentic AI,Chalk talk
+IND405,Transforming Manufacturing Operations with Agentic Edge Gateways,Chalk talk
+DVT206-S,Transforming Observability: Ripple’s Journey with Grafana on AWS (sponsored by Grafana Labs),Lightning talk
+IND364,Transforming Service Operations with IoT and Gen AI,Builders' session
+API206-S,Transforming Supply Chains with Amazon Bedrock AgentCore (sponsored by Fujitsu),Lightning talk
+IND329,Unified Namespace: Simplifying Manufacturing Data Integration,Chalk talk
+AIM3320,Unlock carbon & cost insights: Optimize spend and drive sustainability,Workshop
+ANT313-S,"Unlocking GenAI potential with automated modernization to AWS  (sponsored by Impetus Technologies, Inc.)",Lightning talk
+NTA101,Unlock Innovation: A Guide to AWS Partner Products in AWS Marketplace,Breakout session
+AIM334,Unlock sustainability insights: How AI enables AWS carbon management,Chalk talk
+SPS313,Volkswagen Group's custom GenAI models for global brand consistency,Breakout session
+IND332,Zero-Training Visual Defect Detection Using Amazon Nova,Workshop

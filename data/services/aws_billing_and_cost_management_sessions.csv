@@ -1,0 +1,14 @@
+code,title,type
+COP401,Advanced analytics with AWS Cost and Usage Reports,Code talk
+COP419,Advanced multicloud cost reporting with FOCUS,Code talk
+COP301,Applying AI for FinOps and FinOps for AI,Chalk talk
+PEX404,Building Production-Ready AI Applications with Amazon Bedrock,Chalk talk
+NTA201,Cloud Foundations Accelerator,Chalk talk
+COP339,Developing a cost allocation strategy with AWS tooling,Chalk talk
+COP306,Developing Unit Cost Metrics with Cloud Intelligence Dashboards,Builders' session
+COP309,Establishing effective cost governance,Chalk talk
+COP201,Estimating workload costs using AWS Pricing Calculator,Chalk talk
+COP410,Exploring Multi-tenant Cost Allocation for Container Workloads,Workshop
+COP338,Optimizing resources at scale with AWS Compute Optimizer,Chalk talk
+COP202,What's new in AWS cost Optimization,Breakout session
+COP203,What's New with AWS Cost Management,Breakout session

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "re-invent-2025-mcp"
-version = "1.0.3"
+version = "1.0.4"
 description = "MCP server for re:Invent 2025 session catalog with 1,843 sessions and 13 search tools"
 readme = "README.md"
 authors = [{name = "Manu Mishra"}]

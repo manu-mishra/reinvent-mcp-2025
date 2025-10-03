@@ -1,6 +1,6 @@
 {
   "name": "reinvent2025mcp",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Model Context Protocol (MCP) server providing comprehensive access to re:Invent 2025 conference session catalog. Features 13 specialized tools for session discovery, speaker search, and content filtering across 1,843 technical sessions. Includes advanced search capabilities, pagination support, and detailed metadata access for conference planning and learning path discovery.",
   "type": "module",
   "main": "src/index.js",

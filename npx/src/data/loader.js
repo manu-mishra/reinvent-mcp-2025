@@ -12,7 +12,7 @@ export async function loadSessions() {
     const buffer = readFileSync(dataPath);
     const data = decode(buffer);
     
-    console.log(`Loaded ${data.length} sessions from MessagePack`);
+    // Debug output removed for MCP compatibility
     return data;
   } catch (error) {
     console.error('Failed to load sessions:', error);

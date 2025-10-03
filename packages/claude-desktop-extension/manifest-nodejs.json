@@ -1,0 +1,17 @@
+{
+  "manifest_version": "0.2",
+  "name": "re:Invent 2025 Session Catalog (Node.js)",
+  "version": "1.0.0",
+  "description": "Intelligent access to AWS re:Invent 2025 session catalog with 1,843 sessions, advanced search capabilities, and speaker discovery. (Node.js version)",
+  "author": {
+    "name": "Manu Mishra"
+  },
+  "server": {
+    "type": "node",
+    "entry_point": "npx",
+    "mcp_config": {
+      "command": "npx",
+      "args": ["reinvent2025mcp"]
+    }
+  }
+}

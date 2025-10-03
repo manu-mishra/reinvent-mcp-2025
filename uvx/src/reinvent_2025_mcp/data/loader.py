@@ -9,8 +9,8 @@ async def load_sessions():
         with open(data_path, 'rb') as f:
             data = msgpack.unpack(f, raw=False, strict_map_key=False)
         
-        print(f"Loaded {len(data)} sessions from MessagePack", file=sys.stderr)
+        # Debug output removed for MCP compatibility
         return data
     except Exception as error:
-        print(f"Failed to load sessions: {error}", file=sys.stderr)
+        # Debug output removed for MCP compatibility
         raise

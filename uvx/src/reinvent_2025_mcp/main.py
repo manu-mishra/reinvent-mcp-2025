@@ -24,7 +24,7 @@ with open(data_path, 'rb') as f:
 server = Server("reinvent-2025-mcp")
 tools = create_session_tools(sessions)
 
-print(f"Initialized {len(tools)} tools with {len(sessions)} sessions", file=sys.stderr)
+# Debug output removed for MCP compatibility
 
 @server.list_tools()
 async def list_tools() -> list[Tool]:

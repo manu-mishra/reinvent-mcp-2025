@@ -24,7 +24,7 @@ let tools = {};
 async function initialize() {
   const sessions = await loadSessions();
   tools = createSessionTools(sessions);
-  console.log(`Initialized ${Object.keys(tools).length} tools with ${sessions.length} sessions`);
+  // Debug output removed for MCP compatibility
 }
 
 server.setRequestHandler(ListToolsRequestSchema, async () => ({

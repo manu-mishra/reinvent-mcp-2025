@@ -1,12 +1,24 @@
 # re:Invent 2025 MCP Server
 
-[![NPM Version](https://img.shields.io/npm/v/reinvent2025mcp)](https://www.npmjs.com/package/reinvent2025mcp)
-[![PyPI Version](https://img.shields.io/pypi/v/re-invent-2025-mcp)](https://pypi.org/project/re-invent-2025-mcp/)
+[![npm package](https://img.shields.io/npm/v/reinvent2025mcp?label=npm%20package)](https://www.npmjs.com/package/reinvent2025mcp)
+[![pypi package](https://img.shields.io/pypi/v/re-invent-2025-mcp?label=pypi%20package)](https://pypi.org/project/re-invent-2025-mcp/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Node.js 18+](https://img.shields.io/badge/node.js-18+-green.svg)](https://nodejs.org/)
 
 > **Comprehensive Model Context Protocol (MCP) server providing intelligent access to AWS re:Invent 2025 session catalog with 1,843 sessions, advanced search capabilities, and speaker discovery.**
+
+---
+
+## 🚀 **Quick Start for Claude Desktop Users**
+
+**Get instant access to all 1,843 re:Invent 2025 sessions in Claude Desktop:**
+
+### [📦 **Download Claude Extension**](https://github.com/manu-mishra/reinvent-mcp-2025/raw/main/claude/reinvent-2025-session-catalog-nodejs.mcpb)
+
+**Installation**: Just drag & drop the `.mcpb` file into Claude Desktop Extensions → Click "Install" → Start exploring!
+
+**Try asking Claude**: *"Find all AI sessions at re:Invent 2025"* or *"Show me sessions for developers about serverless"*
+
+---
 
 ## 🌟 Overview
 
@@ -34,14 +46,16 @@ AWS re:Invent isn't just a conference—it's the epicenter of cloud innovation, 
 
 ## 🚀 Quick Start
 
-### Installation
+### One-Click Installation (Claude Desktop)
 
-Choose your preferred runtime and install instantly:
+**Download Claude Desktop Extension (.mcpb file)**:
+- [📦 Download Extension](https://github.com/manu-mishra/reinvent-mcp-2025/raw/main/claude/reinvent-2025-session-catalog-nodejs.mcpb)
 
-**Python (Recommended)**
-```bash
-uvx re-invent-2025-mcp
-```
+**Installation**: Drag and drop the `.mcpb` file into Claude Desktop Extensions → Click "Install"
+
+### Command Line Installation
+
+Install instantly with Node.js:
 
 **Node.js**
 ```bash
@@ -53,10 +67,6 @@ npx reinvent2025mcp
 Test the server with the official MCP Inspector:
 
 ```bash
-# Python
-npx @modelcontextprotocol/inspector uvx re-invent-2025-mcp
-
-# Node.js  
 npx @modelcontextprotocol/inspector npx reinvent2025mcp
 ```
 
@@ -65,21 +75,13 @@ npx @modelcontextprotocol/inspector npx reinvent2025mcp
 Configure with popular MCP-compatible clients:
 
 #### Claude Desktop
+
+**Option 1: One-Click Installation (Recommended)**
+Download and drag the `.mcpb` file from the Quick Start section above.
+
+**Option 2: Manual Configuration**
 Settings → Developer → Edit Config:
 
-**Python:**
-```json
-{
-  "mcpServers": {
-    "reinvent-2025": {
-      "command": "uvx",
-      "args": ["re-invent-2025-mcp"]
-    }
-  }
-}
-```
-
-**Node.js:**
 ```json
 {
   "mcpServers": {
@@ -93,14 +95,6 @@ Settings → Developer → Edit Config:
 
 #### Amazon Q Developer (CLI)
 
-**Python:**
-```bash
-q mcp add --name reinvent-2025 \
-  --command uvx \
-  --args re-invent-2025-mcp
-```
-
-**Node.js:**
 ```bash
 q mcp add --name reinvent-2025 \
   --command npx \
@@ -110,22 +104,12 @@ q mcp add --name reinvent-2025 \
 #### Amazon Q Developer (IDE)
 Chat panel → Tools icon → Add MCP Server:
 - **Name**: `reinvent-2025`
-- **Command**: `uvx` (Python) or `npx` (Node.js)
-- **Args**: `re-invent-2025-mcp` (Python) or `reinvent2025mcp` (Node.js)
+- **Command**: `npx`
+- **Args**: `reinvent2025mcp`
 
 #### Cline (VS Code)
 MCP Servers icon → Add Server:
 
-**Python:**
-```json
-{
-  "name": "reinvent-2025",
-  "command": "uvx",
-  "args": ["re-invent-2025-mcp"]
-}
-```
-
-**Node.js:**
 ```json
 {
   "name": "reinvent-2025",
@@ -137,18 +121,6 @@ MCP Servers icon → Add Server:
 #### Continue.dev
 `~/.continue/config.json`:
 
-**Python:**
-```json
-{
-  "mcpServers": [{
-    "name": "reinvent-2025",
-    "command": "uvx",
-    "args": ["re-invent-2025-mcp"]
-  }]
-}
-```
-
-**Node.js:**
 ```json
 {
   "mcpServers": [{
@@ -162,19 +134,6 @@ MCP Servers icon → Add Server:
 #### Cursor IDE
 Settings → MCP → Add Server or `.cursor/mcp.json`:
 
-**Python:**
-```json
-{
-  "servers": {
-    "reinvent-2025": {
-      "command": "uvx",
-      "args": ["re-invent-2025-mcp"]
-    }
-  }
-}
-```
-
-**Node.js:**
 ```json
 {
   "servers": {
@@ -189,18 +148,6 @@ Settings → MCP → Add Server or `.cursor/mcp.json`:
 #### VS Code (GitHub Copilot)
 Extensions → @mcp → Install MCP extension, then configure in settings:
 
-**Python:**
-```json
-{
-  "mcp.servers": [{
-    "name": "reinvent-2025",
-    "command": "uvx",
-    "args": ["re-invent-2025-mcp"]
-  }]
-}
-```
-
-**Node.js:**
 ```json
 {
   "mcp.servers": [{
@@ -215,10 +162,6 @@ Extensions → @mcp → Install MCP extension, then configure in settings:
 
 **Test with MCP Inspector:**
 ```bash
-# Python
-npx @modelcontextprotocol/inspector uvx re-invent-2025-mcp
-
-# Node.js  
 npx @modelcontextprotocol/inspector npx reinvent2025mcp
 ```
 
@@ -296,15 +239,15 @@ npx @modelcontextprotocol/inspector npx reinvent2025mcp
 ## 🏗️ Architecture
 
 ### Dual Implementation
-Both Python and Node.js implementations provide identical functionality:
+The Node.js implementation provides comprehensive functionality:
 
-| Feature | Python | Node.js | Status |
-|---------|--------|---------|--------|
-| **MCP Tools** | 13 tools | 13 tools | ✅ Identical |
-| **Data Format** | MessagePack | MessagePack | ✅ Optimized |
-| **Performance** | <1s startup | <1s startup | ✅ Fast |
-| **Tests** | 50 tests | 50 tests | ✅ Comprehensive |
-| **Memory** | ~30MB | ~30MB | ✅ Efficient |
+| Feature | Node.js | Status |
+|---------|---------|--------|
+| **MCP Tools** | 13 tools | ✅ Complete |
+| **Data Format** | MessagePack | ✅ Optimized |
+| **Performance** | <1s startup | ✅ Fast |
+| **Tests** | 50 tests | ✅ Comprehensive |
+| **Memory** | ~30MB | ✅ Efficient |
 
 ### Technical Stack
 - **Protocol**: Model Context Protocol (MCP) v1.0
@@ -386,12 +329,6 @@ Both Python and Node.js implementations provide identical functionality:
 
 ## 📦 Package Information
 
-### Python Package
-- **Name**: `re-invent-2025-mcp`
-- **Registry**: [PyPI](https://pypi.org/project/re-invent-2025-mcp/)
-- **Runtime**: Python 3.11+
-- **Dependencies**: `mcp>=1.15.0`, `msgpack>=1.1.0`
-
 ### Node.js Package  
 - **Name**: `reinvent2025mcp`
 - **Registry**: [NPM](https://www.npmjs.com/package/reinvent2025mcp)
@@ -402,30 +339,18 @@ Both Python and Node.js implementations provide identical functionality:
 
 ### Local Development
 
-**Python**
-```bash
-git clone https://github.com/manu-mishra/reinvent-mcp-2025
-cd reinvent-mcp-2025/uvx
-pip install -e .
-python src/reinvent_2025_mcp/main.py
-```
-
 **Node.js**
 ```bash
-git clone https://github.com/manu-mishra/reinvent-mcp-2025  
+git clone https://github.com/manu-mishra/reinvent-mcp-2025
 cd reinvent-mcp-2025/npx
 npm install
 node src/index.js
 ```
 
 ### Testing
-Both implementations include comprehensive test suites:
+The implementation includes comprehensive test suites:
 
 ```bash
-# Python
-cd uvx && pytest
-
-# Node.js  
 cd npx && npm test
 ```
 
